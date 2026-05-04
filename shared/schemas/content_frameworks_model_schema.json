@@ -1,0 +1,21 @@
+{
+  "schema_name": "content_frameworks_model_schema",
+  "description": "Metadata schema for content-framework systems.",
+  "fields": [
+    {"name": "pillar_id", "type": "integer"},
+    {"name": "pillar_name", "type": "string"},
+    {"name": "article_id", "type": "integer"},
+    {"name": "article_title", "type": "string"},
+    {"name": "article_slug", "type": "string"},
+    {"name": "article_type", "type": "string"},
+    {"name": "status", "type": "draft|planned|published|review"},
+    {"name": "cluster_name", "type": "string"},
+    {"name": "framework_name", "type": "string"},
+    {"name": "framework_type", "type": "string"},
+    {"name": "relationship_type", "type": "string"},
+    {"name": "repository_url", "type": "string|null"},
+    {"name": "has_excerpt", "type": "boolean"},
+    {"name": "has_image_metadata", "type": "boolean"},
+    {"name": "has_repository_link", "type": "boolean"}
+  ]
+}

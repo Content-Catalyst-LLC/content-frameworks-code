@@ -1,0 +1,12 @@
+source,target,relationship
+content_frameworks,knowledge_architecture,related_topic
+content_frameworks,strategic_ideation,parent_context
+content_frameworks,storytelling,related_topic
+content_frameworks,aida,series_article
+content_frameworks,jtbd,series_article
+content_frameworks,message_house,series_article
+content_frameworks,pillar_clusters,series_article
+content_frameworks,digital_knowledge_systems,series_article
+strategic_ideation,message_house,supports
+knowledge_architecture,pillar_clusters,supports
+storytelling,aida,supports
