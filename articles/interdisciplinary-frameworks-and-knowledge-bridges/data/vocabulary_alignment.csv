@@ -1,0 +1,13 @@
+term_id,bridge_id,term,shared_term,source_definition_present,target_definition_present,translation_note_present
+T001,B001,evidence,yes,yes,yes,yes
+T002,B001,uncertainty,yes,yes,yes,yes
+T003,B001,implication,yes,yes,yes,yes
+T004,B002,pathway,yes,yes,yes,yes
+T005,B002,objective,yes,yes,yes,yes
+T006,B003,resilience,yes,yes,yes,yes
+T007,B003,feedback,yes,yes,yes,yes
+T008,B004,risk,yes,yes,yes,yes
+T009,B004,value,yes,yes,yes,yes
+T010,B005,authority,yes,yes,yes,no
+T011,B006,participation,yes,no,yes,no
+T012,B006,legitimacy,yes,no,yes,no

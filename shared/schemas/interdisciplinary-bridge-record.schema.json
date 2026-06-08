@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Interdisciplinary Bridge Record",
+  "type": "object",
+  "required": [
+    "bridge_id",
+    "bridge_title",
+    "bridge_type",
+    "source_domain",
+    "target_domain",
+    "assumptions_visible"
+  ]
+}

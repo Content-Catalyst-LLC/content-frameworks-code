@@ -1,0 +1,9 @@
+category,description
+source_domain,Field or knowledge community where a concept method or evidence standard originates
+target_domain,Field or audience context where the concept method or evidence standard is used
+shared_term,Term used across domains that may carry different meanings
+translation_note,Explanation of how meaning changes across domains
+evidence_compatibility,Fit between evidence type method and cross-domain claim
+method_transparency,Visibility of methods assumptions and limits
+audience_support,Reader supports that make cross-domain explanation usable
+governance,Review system for maintaining bridge accuracy over time

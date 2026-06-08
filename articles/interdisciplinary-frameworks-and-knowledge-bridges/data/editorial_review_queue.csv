@@ -1,0 +1,5 @@
+review_id,record_id,issue_type,severity,review_note
+R001,B005,governance_readiness,medium,Legal reasoning bridge needs review owner date and limitation notes
+R002,B006,evidence_compatibility,high,Community knowledge to institutional governance bridge needs method fit and source definition review
+R003,T011,vocabulary_alignment,medium,Participation term needs source-domain definition and translation note
+R004,interdisciplinary-frameworks-and-knowledge-bridges,publication,low,Confirm final image attachment ID and repository URL after publication

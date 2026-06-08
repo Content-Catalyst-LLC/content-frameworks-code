@@ -1,0 +1,34 @@
+source_domain,target_domain,bridge_count
+law,public_reasoning,1
+public_reasoning,policy,1
+research,education,1
+research,public_reasoning,1
+systems,sustainability,1
+technology,ethics,1
+bridge_type,bridge_count
+policy_bridge,2
+concept_transfer,1
+education_bridge,1
+public_reasoning_bridge,1
+systems_bridge,1
+bridge_id,bridge_title,shared_terms,aligned_terms
+B005,"Legal reasoning to public explanation",1,0
+B006,"Community knowledge to institutional governance",2,0
+B002,"Evidence architecture to curriculum pathways",2,2
+B003,"Systems thinking to sustainability communication",2,2
+B004,"Technology communication to ethics",2,2
+B001,"Research communication to public reasoning",3,3
+bridge_id,bridge_title,evidence_links,compatible_evidence_links
+B005,"Legal reasoning to public explanation",2,0
+B006,"Community knowledge to institutional governance",2,0
+B001,"Research communication to public reasoning",2,2
+B002,"Evidence architecture to curriculum pathways",2,2
+B003,"Systems thinking to sustainability communication",2,2
+B004,"Technology communication to ethics",2,2
+bridge_id,bridge_title,bridge_support_features_present
+B006,"Community knowledge to institutional governance",5
+B005,"Legal reasoning to public explanation",7
+B001,"Research communication to public reasoning",10
+B002,"Evidence architecture to curriculum pathways",10
+B003,"Systems thinking to sustainability communication",10
+B004,"Technology communication to ethics",10

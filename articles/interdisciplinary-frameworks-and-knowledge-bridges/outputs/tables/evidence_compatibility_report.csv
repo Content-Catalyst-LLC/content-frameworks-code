@@ -1,0 +1,7 @@
+bridge_id,bridge_title,evidence_links,compatible_evidence_links,evidence_compatibility_score
+B001,Research communication to public reasoning,2,2,1.0
+B002,Evidence architecture to curriculum pathways,2,2,1.0
+B003,Systems thinking to sustainability communication,2,2,1.0
+B004,Technology communication to ethics,2,2,1.0
+B005,Legal reasoning to public explanation,2,0,0.0
+B006,Community knowledge to institutional governance,2,0,0.0

@@ -1,0 +1,7 @@
+bridge_id,bridge_title,bridge_type,source_domain,target_domain,translation_alignment_score,evidence_compatibility_score,method_transparency_score,audience_support_score,governance_readiness_score,interdisciplinary_bridge_readiness,bridge_status
+B001,Research communication to public reasoning,public_reasoning_bridge,research,public_reasoning,1.0,1.0,1.0,1.0,1.0,1.0,ready
+B002,Evidence architecture to curriculum pathways,education_bridge,research,education,1.0,1.0,1.0,1.0,1.0,1.0,ready
+B003,Systems thinking to sustainability communication,systems_bridge,systems,sustainability,1.0,1.0,1.0,1.0,1.0,1.0,ready
+B004,Technology communication to ethics,concept_transfer,technology,ethics,1.0,1.0,1.0,1.0,1.0,1.0,ready
+B005,Legal reasoning to public explanation,policy_bridge,law,public_reasoning,0.0,0.0,1.0,1.0,0.0,0.36,governance review
+B006,Community knowledge to institutional governance,policy_bridge,public_reasoning,policy,0.0,0.0,0.6667,0.75,0.0,0.255,governance review

@@ -1,0 +1,7 @@
+series,bridge_id,bridge_title,source_domain,target_domain,interdisciplinary_bridge_readiness,bridge_status,article_slug,github_path
+Content Frameworks,B001,Research communication to public reasoning,research,public_reasoning,1.0,ready,interdisciplinary-frameworks-and-knowledge-bridges,articles/interdisciplinary-frameworks-and-knowledge-bridges/
+Content Frameworks,B002,Evidence architecture to curriculum pathways,research,education,1.0,ready,interdisciplinary-frameworks-and-knowledge-bridges,articles/interdisciplinary-frameworks-and-knowledge-bridges/
+Content Frameworks,B003,Systems thinking to sustainability communication,systems,sustainability,1.0,ready,interdisciplinary-frameworks-and-knowledge-bridges,articles/interdisciplinary-frameworks-and-knowledge-bridges/
+Content Frameworks,B004,Technology communication to ethics,technology,ethics,1.0,ready,interdisciplinary-frameworks-and-knowledge-bridges,articles/interdisciplinary-frameworks-and-knowledge-bridges/
+Content Frameworks,B005,Legal reasoning to public explanation,law,public_reasoning,0.36,governance review,interdisciplinary-frameworks-and-knowledge-bridges,articles/interdisciplinary-frameworks-and-knowledge-bridges/
+Content Frameworks,B006,Community knowledge to institutional governance,public_reasoning,policy,0.255,governance review,interdisciplinary-frameworks-and-knowledge-bridges,articles/interdisciplinary-frameworks-and-knowledge-bridges/

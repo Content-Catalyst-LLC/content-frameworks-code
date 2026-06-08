@@ -1,0 +1,11 @@
+source,severity,category,identifier,message,recommended_action
+manual_review_queue,medium,governance_readiness,B005,Legal reasoning bridge needs review owner date and limitation notes,Resolve through interdisciplinary bridge governance.
+manual_review_queue,high,evidence_compatibility,B006,Community knowledge to institutional governance bridge needs method fit and source definition review,Resolve through interdisciplinary bridge governance.
+manual_review_queue,medium,vocabulary_alignment,T011,Participation term needs source-domain definition and translation note,Resolve through interdisciplinary bridge governance.
+manual_review_queue,low,publication,interdisciplinary-frameworks-and-knowledge-bridges,Confirm final image attachment ID and repository URL after publication,Resolve through interdisciplinary bridge governance.
+,medium,translation_alignment,B005,Translation alignment is 0%.,"Add source definitions, target definitions, and translation notes."
+,medium,translation_alignment,B006,Translation alignment is 0%.,"Add source definitions, target definitions, and translation notes."
+,high,evidence_compatibility,B005,Evidence compatibility is 0%.,"Classify evidence type, explain method fit, and add limitation notes."
+,high,evidence_compatibility,B006,Evidence compatibility is 0%.,"Classify evidence type, explain method fit, and add limitation notes."
+,medium,bridge_readiness,B005,Interdisciplinary bridge readiness is 0.36.,"Review translation, evidence compatibility, method transparency, audience support, and governance."
+,medium,bridge_readiness,B006,Interdisciplinary bridge readiness is 0.26.,"Review translation, evidence compatibility, method transparency, audience support, and governance."

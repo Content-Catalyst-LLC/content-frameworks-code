@@ -1,0 +1,7 @@
+bridge_id,bridge_title,source_domain,target_domain,shared_terms,aligned_terms,translation_alignment_score
+B001,Research communication to public reasoning,research,public_reasoning,3,3,1.0
+B002,Evidence architecture to curriculum pathways,research,education,2,2,1.0
+B003,Systems thinking to sustainability communication,systems,sustainability,2,2,1.0
+B004,Technology communication to ethics,technology,ethics,2,2,1.0
+B005,Legal reasoning to public explanation,law,public_reasoning,1,0,0.0
+B006,Community knowledge to institutional governance,public_reasoning,policy,2,0,0.0

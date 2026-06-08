@@ -1,0 +1,173 @@
+{
+  "article": "Interdisciplinary Frameworks and Knowledge Bridges",
+  "generated_at": "2026-06-08T21:17:05.215525+00:00",
+  "counts": {
+    "bridges": 6,
+    "vocabulary_records": 12,
+    "evidence_links": 12,
+    "findings": 6,
+    "governance_queue": 10
+  },
+  "readiness": [
+    {
+      "bridge_id": "B001",
+      "bridge_title": "Research communication to public reasoning",
+      "bridge_type": "public_reasoning_bridge",
+      "source_domain": "research",
+      "target_domain": "public_reasoning",
+      "translation_alignment_score": 1.0,
+      "evidence_compatibility_score": 1.0,
+      "method_transparency_score": 1.0,
+      "audience_support_score": 1.0,
+      "governance_readiness_score": 1.0,
+      "interdisciplinary_bridge_readiness": 1.0,
+      "bridge_status": "ready"
+    },
+    {
+      "bridge_id": "B002",
+      "bridge_title": "Evidence architecture to curriculum pathways",
+      "bridge_type": "education_bridge",
+      "source_domain": "research",
+      "target_domain": "education",
+      "translation_alignment_score": 1.0,
+      "evidence_compatibility_score": 1.0,
+      "method_transparency_score": 1.0,
+      "audience_support_score": 1.0,
+      "governance_readiness_score": 1.0,
+      "interdisciplinary_bridge_readiness": 1.0,
+      "bridge_status": "ready"
+    },
+    {
+      "bridge_id": "B003",
+      "bridge_title": "Systems thinking to sustainability communication",
+      "bridge_type": "systems_bridge",
+      "source_domain": "systems",
+      "target_domain": "sustainability",
+      "translation_alignment_score": 1.0,
+      "evidence_compatibility_score": 1.0,
+      "method_transparency_score": 1.0,
+      "audience_support_score": 1.0,
+      "governance_readiness_score": 1.0,
+      "interdisciplinary_bridge_readiness": 1.0,
+      "bridge_status": "ready"
+    },
+    {
+      "bridge_id": "B004",
+      "bridge_title": "Technology communication to ethics",
+      "bridge_type": "concept_transfer",
+      "source_domain": "technology",
+      "target_domain": "ethics",
+      "translation_alignment_score": 1.0,
+      "evidence_compatibility_score": 1.0,
+      "method_transparency_score": 1.0,
+      "audience_support_score": 1.0,
+      "governance_readiness_score": 1.0,
+      "interdisciplinary_bridge_readiness": 1.0,
+      "bridge_status": "ready"
+    },
+    {
+      "bridge_id": "B005",
+      "bridge_title": "Legal reasoning to public explanation",
+      "bridge_type": "policy_bridge",
+      "source_domain": "law",
+      "target_domain": "public_reasoning",
+      "translation_alignment_score": 0.0,
+      "evidence_compatibility_score": 0.0,
+      "method_transparency_score": 1.0,
+      "audience_support_score": 1.0,
+      "governance_readiness_score": 0.0,
+      "interdisciplinary_bridge_readiness": 0.36,
+      "bridge_status": "governance review"
+    },
+    {
+      "bridge_id": "B006",
+      "bridge_title": "Community knowledge to institutional governance",
+      "bridge_type": "policy_bridge",
+      "source_domain": "public_reasoning",
+      "target_domain": "policy",
+      "translation_alignment_score": 0.0,
+      "evidence_compatibility_score": 0.0,
+      "method_transparency_score": 0.6667,
+      "audience_support_score": 0.75,
+      "governance_readiness_score": 0.0,
+      "interdisciplinary_bridge_readiness": 0.255,
+      "bridge_status": "governance review"
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "governance_readiness",
+      "identifier": "B005",
+      "message": "Legal reasoning bridge needs review owner date and limitation notes",
+      "recommended_action": "Resolve through interdisciplinary bridge governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "high",
+      "category": "evidence_compatibility",
+      "identifier": "B006",
+      "message": "Community knowledge to institutional governance bridge needs method fit and source definition review",
+      "recommended_action": "Resolve through interdisciplinary bridge governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "vocabulary_alignment",
+      "identifier": "T011",
+      "message": "Participation term needs source-domain definition and translation note",
+      "recommended_action": "Resolve through interdisciplinary bridge governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "low",
+      "category": "publication",
+      "identifier": "interdisciplinary-frameworks-and-knowledge-bridges",
+      "message": "Confirm final image attachment ID and repository URL after publication",
+      "recommended_action": "Resolve through interdisciplinary bridge governance."
+    },
+    {
+      "severity": "medium",
+      "category": "translation_alignment",
+      "identifier": "B005",
+      "message": "Translation alignment is 0%.",
+      "recommended_action": "Add source definitions, target definitions, and translation notes."
+    },
+    {
+      "severity": "medium",
+      "category": "translation_alignment",
+      "identifier": "B006",
+      "message": "Translation alignment is 0%.",
+      "recommended_action": "Add source definitions, target definitions, and translation notes."
+    },
+    {
+      "severity": "high",
+      "category": "evidence_compatibility",
+      "identifier": "B005",
+      "message": "Evidence compatibility is 0%.",
+      "recommended_action": "Classify evidence type, explain method fit, and add limitation notes."
+    },
+    {
+      "severity": "high",
+      "category": "evidence_compatibility",
+      "identifier": "B006",
+      "message": "Evidence compatibility is 0%.",
+      "recommended_action": "Classify evidence type, explain method fit, and add limitation notes."
+    },
+    {
+      "severity": "medium",
+      "category": "bridge_readiness",
+      "identifier": "B005",
+      "message": "Interdisciplinary bridge readiness is 0.36.",
+      "recommended_action": "Review translation, evidence compatibility, method transparency, audience support, and governance."
+    },
+    {
+      "severity": "medium",
+      "category": "bridge_readiness",
+      "identifier": "B006",
+      "message": "Interdisciplinary bridge readiness is 0.26.",
+      "recommended_action": "Review translation, evidence compatibility, method transparency, audience support, and governance."
+    }
+  ]
+}

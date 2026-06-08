@@ -1,0 +1,33 @@
+{
+  "article": "Interdisciplinary Frameworks and Knowledge Bridges",
+  "series": "Content Frameworks",
+  "readiness_threshold": 0.78,
+  "weights": {
+    "translation_alignment": 0.22,
+    "evidence_compatibility": 0.24,
+    "method_transparency": 0.18,
+    "audience_support": 0.18,
+    "governance_readiness": 0.18
+  },
+  "controlled_bridge_types": [
+    "concept_transfer",
+    "method_translation",
+    "evidence_bridge",
+    "systems_bridge",
+    "policy_bridge",
+    "education_bridge",
+    "public_reasoning_bridge"
+  ],
+  "controlled_domains": [
+    "communication",
+    "education",
+    "research",
+    "policy",
+    "systems",
+    "technology",
+    "sustainability",
+    "law",
+    "ethics",
+    "public_reasoning"
+  ]
+}

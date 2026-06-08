@@ -1,0 +1,7 @@
+"bridge_id","bridge_title","source_domain","target_domain","interdisciplinary_bridge_readiness","bridge_status","series","article_slug","github_path"
+"B001","Research communication to public reasoning","research","public_reasoning",1,"ready","Content Frameworks","interdisciplinary-frameworks-and-knowledge-bridges","articles/interdisciplinary-frameworks-and-knowledge-bridges/"
+"B002","Evidence architecture to curriculum pathways","research","education",1,"ready","Content Frameworks","interdisciplinary-frameworks-and-knowledge-bridges","articles/interdisciplinary-frameworks-and-knowledge-bridges/"
+"B003","Systems thinking to sustainability communication","systems","sustainability",1,"ready","Content Frameworks","interdisciplinary-frameworks-and-knowledge-bridges","articles/interdisciplinary-frameworks-and-knowledge-bridges/"
+"B004","Technology communication to ethics","technology","ethics",1,"ready","Content Frameworks","interdisciplinary-frameworks-and-knowledge-bridges","articles/interdisciplinary-frameworks-and-knowledge-bridges/"
+"B005","Legal reasoning to public explanation","law","public_reasoning",0.36,"governance review","Content Frameworks","interdisciplinary-frameworks-and-knowledge-bridges","articles/interdisciplinary-frameworks-and-knowledge-bridges/"
+"B006","Community knowledge to institutional governance","public_reasoning","policy",0.255,"governance review","Content Frameworks","interdisciplinary-frameworks-and-knowledge-bridges","articles/interdisciplinary-frameworks-and-knowledge-bridges/"

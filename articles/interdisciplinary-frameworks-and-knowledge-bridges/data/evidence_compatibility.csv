@@ -1,0 +1,13 @@
+link_id,bridge_id,evidence_type,evidence_type_classified,method_fit_explained,limitation_visible
+E001,B001,official_report,yes,yes,yes
+E002,B001,peer_reviewed,yes,yes,yes
+E003,B002,learning_science,yes,yes,yes
+E004,B002,editorial_audit,yes,yes,yes
+E005,B003,systems_model,yes,yes,yes
+E006,B003,sustainability_report,yes,yes,yes
+E007,B004,technical_documentation,yes,yes,yes
+E008,B004,ethical_framework,yes,yes,yes
+E009,B005,legal_analysis,yes,yes,no
+E010,B005,public_guidance,yes,no,no
+E011,B006,community_knowledge,yes,no,yes
+E012,B006,institutional_report,no,no,no

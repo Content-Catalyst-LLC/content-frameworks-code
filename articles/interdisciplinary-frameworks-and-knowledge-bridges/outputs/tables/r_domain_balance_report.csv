@@ -1,0 +1,10 @@
+"domain","source_bridge_count","target_bridge_count","total_bridge_count"
+"education",0,1,1
+"ethics",0,1,1
+"law",1,0,1
+"policy",0,1,1
+"public_reasoning",1,2,3
+"research",2,0,2
+"sustainability",0,1,1
+"systems",1,0,1
+"technology",1,0,1

@@ -1,0 +1,44 @@
+[
+  {
+    "severity": "medium",
+    "category": "translation_alignment",
+    "identifier": "B005",
+    "message": "Translation alignment is 0%.",
+    "recommended_action": "Add source definitions, target definitions, and translation notes."
+  },
+  {
+    "severity": "medium",
+    "category": "translation_alignment",
+    "identifier": "B006",
+    "message": "Translation alignment is 0%.",
+    "recommended_action": "Add source definitions, target definitions, and translation notes."
+  },
+  {
+    "severity": "high",
+    "category": "evidence_compatibility",
+    "identifier": "B005",
+    "message": "Evidence compatibility is 0%.",
+    "recommended_action": "Classify evidence type, explain method fit, and add limitation notes."
+  },
+  {
+    "severity": "high",
+    "category": "evidence_compatibility",
+    "identifier": "B006",
+    "message": "Evidence compatibility is 0%.",
+    "recommended_action": "Classify evidence type, explain method fit, and add limitation notes."
+  },
+  {
+    "severity": "medium",
+    "category": "bridge_readiness",
+    "identifier": "B005",
+    "message": "Interdisciplinary bridge readiness is 0.36.",
+    "recommended_action": "Review translation, evidence compatibility, method transparency, audience support, and governance."
+  },
+  {
+    "severity": "medium",
+    "category": "bridge_readiness",
+    "identifier": "B006",
+    "message": "Interdisciplinary bridge readiness is 0.26.",
+    "recommended_action": "Review translation, evidence compatibility, method transparency, audience support, and governance."
+  }
+]
