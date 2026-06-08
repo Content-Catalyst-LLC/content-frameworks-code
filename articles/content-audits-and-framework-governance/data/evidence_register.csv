@@ -1,0 +1,8 @@
+slug,claim_type,source_type,authority_level,recency_risk,limitation_visible,review_status
+content-audits-and-framework-governance,content_strategy,book,high,low,yes,ready
+content-audits-and-framework-governance,information_architecture,professional_reference,high,low,yes,ready
+content-audits-and-framework-governance,metadata_standards,official_standard,high,medium,yes,ready
+content-audits-and-framework-governance,accessibility,official_standard,high,medium,yes,ready
+content-audits-and-framework-governance,seo_guidance,official_documentation,high,medium,yes,ready
+what-makes-a-powerful-content-framework,framework_quality,conceptual_reasoning,medium,low,yes,review
+message-house-and-the-architecture-of-strategic-messaging,message_architecture,professional_reference,medium,low,yes,review

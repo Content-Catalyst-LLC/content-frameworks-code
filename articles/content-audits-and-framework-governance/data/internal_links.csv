@@ -1,0 +1,13 @@
+source_slug,target_slug,relationship_type,priority,status,last_reviewed
+content-audits-and-framework-governance,internal-linking-as-framework-infrastructure,previous_article,high,active,2026-06-08
+content-audits-and-framework-governance,editorial-metadata-and-content-systems,next_article,high,planned,2026-06-08
+content-audits-and-framework-governance,content-frameworks,article_map,high,active,2026-06-08
+content-audits-and-framework-governance,pillar-pages-and-topic-clusters,knowledge_architecture,high,active,2026-06-08
+content-audits-and-framework-governance,frameworks-for-digital-knowledge-systems,digital_systems,medium,active,2026-06-08
+content-audits-and-framework-governance,taxonomy-design-for-content-frameworks,taxonomy,medium,planned,2026-06-08
+content-audits-and-framework-governance,framework-governance-and-editorial-maintenance,governance,high,planned,2026-06-08
+content-audits-and-framework-governance,framework-drift-and-conceptual-decay,governance,high,planned,2026-06-08
+internal-linking-as-framework-infrastructure,content-audits-and-framework-governance,next_article,high,active,2026-06-08
+pillar-pages-and-topic-clusters,content-audits-and-framework-governance,governance,medium,active,2026-06-08
+frameworks-for-digital-knowledge-systems,content-audits-and-framework-governance,governance,medium,active,2026-06-08
+what-are-content-frameworks,content-audits-and-framework-governance,governance,medium,active,2026-06-08

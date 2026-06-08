@@ -1,0 +1,345 @@
+[
+  {
+    "severity": "medium",
+    "category": "metadata",
+    "identifier": "what-makes-a-powerful-content-framework",
+    "message": "Published article metadata completion is 30%, below threshold 85%.",
+    "recommended_action": "Complete required metadata fields before the next governance review."
+  },
+  {
+    "severity": "medium",
+    "category": "metadata",
+    "identifier": "narrative-pathways-and-knowledge-architecture",
+    "message": "Published article metadata completion is 80%, below threshold 85%.",
+    "recommended_action": "Complete required metadata fields before the next governance review."
+  },
+  {
+    "severity": "medium",
+    "category": "metadata",
+    "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+    "message": "Published article metadata completion is 80%, below threshold 85%.",
+    "recommended_action": "Complete required metadata fields before the next governance review."
+  },
+  {
+    "severity": "high",
+    "category": "internal_links",
+    "identifier": "what-are-content-frameworks",
+    "message": "Published article has 0 incoming links.",
+    "recommended_action": "Add links from the article map, cluster hub, or related articles."
+  },
+  {
+    "severity": "medium",
+    "category": "internal_links",
+    "identifier": "what-are-content-frameworks",
+    "message": "Published article has total link degree 1, below threshold 3.",
+    "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+  },
+  {
+    "severity": "high",
+    "category": "internal_links",
+    "identifier": "why-frameworks-matter-in-research-education-and-strategic-communication",
+    "message": "Published article has 0 incoming links.",
+    "recommended_action": "Add links from the article map, cluster hub, or related articles."
+  },
+  {
+    "severity": "medium",
+    "category": "internal_links",
+    "identifier": "why-frameworks-matter-in-research-education-and-strategic-communication",
+    "message": "Published article has total link degree 0, below threshold 3.",
+    "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+  },
+  {
+    "severity": "high",
+    "category": "internal_links",
+    "identifier": "what-makes-a-powerful-content-framework",
+    "message": "Published article has 0 incoming links.",
+    "recommended_action": "Add links from the article map, cluster hub, or related articles."
+  },
+  {
+    "severity": "medium",
+    "category": "internal_links",
+    "identifier": "what-makes-a-powerful-content-framework",
+    "message": "Published article has total link degree 0, below threshold 3.",
+    "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+  },
+  {
+    "severity": "medium",
+    "category": "internal_links",
+    "identifier": "pillar-pages-and-topic-clusters",
+    "message": "Published article has total link degree 2, below threshold 3.",
+    "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+  },
+  {
+    "severity": "high",
+    "category": "internal_links",
+    "identifier": "narrative-pathways-and-knowledge-architecture",
+    "message": "Published article has 0 incoming links.",
+    "recommended_action": "Add links from the article map, cluster hub, or related articles."
+  },
+  {
+    "severity": "medium",
+    "category": "internal_links",
+    "identifier": "narrative-pathways-and-knowledge-architecture",
+    "message": "Published article has total link degree 0, below threshold 3.",
+    "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+  },
+  {
+    "severity": "medium",
+    "category": "internal_links",
+    "identifier": "frameworks-for-digital-knowledge-systems",
+    "message": "Published article has total link degree 2, below threshold 3.",
+    "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+  },
+  {
+    "severity": "medium",
+    "category": "internal_links",
+    "identifier": "internal-linking-as-framework-infrastructure",
+    "message": "Published article has total link degree 2, below threshold 3.",
+    "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+  },
+  {
+    "severity": "high",
+    "category": "internal_links",
+    "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+    "message": "Published article has 0 incoming links.",
+    "recommended_action": "Add links from the article map, cluster hub, or related articles."
+  },
+  {
+    "severity": "medium",
+    "category": "internal_links",
+    "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+    "message": "Published article has total link degree 0, below threshold 3.",
+    "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+  },
+  {
+    "severity": "high",
+    "category": "internal_links",
+    "identifier": "frameworks-for-research-communication",
+    "message": "Published article has 0 incoming links.",
+    "recommended_action": "Add links from the article map, cluster hub, or related articles."
+  },
+  {
+    "severity": "medium",
+    "category": "internal_links",
+    "identifier": "frameworks-for-research-communication",
+    "message": "Published article has total link degree 0, below threshold 3.",
+    "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+  },
+  {
+    "severity": "high",
+    "category": "internal_links",
+    "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+    "message": "Published article has 0 incoming links.",
+    "recommended_action": "Add links from the article map, cluster hub, or related articles."
+  },
+  {
+    "severity": "medium",
+    "category": "internal_links",
+    "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+    "message": "Published article has total link degree 0, below threshold 3.",
+    "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+  },
+  {
+    "severity": "medium",
+    "category": "evidence",
+    "identifier": "what-are-content-frameworks",
+    "message": "Evidence readiness score is 0.40, below threshold 0.67.",
+    "recommended_action": "Review references, evidence notes, source authority, and limitations."
+  },
+  {
+    "severity": "medium",
+    "category": "evidence",
+    "identifier": "why-frameworks-matter-in-research-education-and-strategic-communication",
+    "message": "Evidence readiness score is 0.40, below threshold 0.67.",
+    "recommended_action": "Review references, evidence notes, source authority, and limitations."
+  },
+  {
+    "severity": "medium",
+    "category": "evidence",
+    "identifier": "what-makes-a-powerful-content-framework",
+    "message": "Evidence readiness score is 0.48, below threshold 0.67.",
+    "recommended_action": "Review references, evidence notes, source authority, and limitations."
+  },
+  {
+    "severity": "medium",
+    "category": "evidence",
+    "identifier": "pillar-pages-and-topic-clusters",
+    "message": "Evidence readiness score is 0.40, below threshold 0.67.",
+    "recommended_action": "Review references, evidence notes, source authority, and limitations."
+  },
+  {
+    "severity": "medium",
+    "category": "evidence",
+    "identifier": "narrative-pathways-and-knowledge-architecture",
+    "message": "Evidence readiness score is 0.40, below threshold 0.67.",
+    "recommended_action": "Review references, evidence notes, source authority, and limitations."
+  },
+  {
+    "severity": "medium",
+    "category": "evidence",
+    "identifier": "frameworks-for-digital-knowledge-systems",
+    "message": "Evidence readiness score is 0.40, below threshold 0.67.",
+    "recommended_action": "Review references, evidence notes, source authority, and limitations."
+  },
+  {
+    "severity": "medium",
+    "category": "evidence",
+    "identifier": "internal-linking-as-framework-infrastructure",
+    "message": "Evidence readiness score is 0.40, below threshold 0.67.",
+    "recommended_action": "Review references, evidence notes, source authority, and limitations."
+  },
+  {
+    "severity": "medium",
+    "category": "evidence",
+    "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+    "message": "Evidence readiness score is 0.40, below threshold 0.67.",
+    "recommended_action": "Review references, evidence notes, source authority, and limitations."
+  },
+  {
+    "severity": "medium",
+    "category": "evidence",
+    "identifier": "frameworks-for-research-communication",
+    "message": "Evidence readiness score is 0.40, below threshold 0.67.",
+    "recommended_action": "Review references, evidence notes, source authority, and limitations."
+  },
+  {
+    "severity": "medium",
+    "category": "evidence",
+    "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+    "message": "Evidence readiness score is 0.48, below threshold 0.67.",
+    "recommended_action": "Review references, evidence notes, source authority, and limitations."
+  },
+  {
+    "severity": "medium",
+    "category": "freshness",
+    "identifier": "frameworks-for-digital-knowledge-systems",
+    "message": "Freshness status is review overdue.",
+    "recommended_action": "Schedule article review and update last-reviewed metadata."
+  },
+  {
+    "severity": "medium",
+    "category": "accessibility",
+    "identifier": "what-makes-a-powerful-content-framework",
+    "message": "Accessibility readiness score is 0.25, below threshold 0.75.",
+    "recommended_action": "Review image alt text, link clarity, headings, navigation, and accessibility notes."
+  },
+  {
+    "severity": "medium",
+    "category": "duplication",
+    "identifier": "what-makes-a-powerful-content-framework",
+    "message": "Duplicate or overlap risk is marked medium.",
+    "recommended_action": "Review conceptual boundaries, merge candidates, redirects, and article differentiation."
+  },
+  {
+    "severity": "medium",
+    "category": "duplication",
+    "identifier": "taxonomy-design-for-content-frameworks",
+    "message": "Duplicate or overlap risk is marked medium.",
+    "recommended_action": "Review conceptual boundaries, merge candidates, redirects, and article differentiation."
+  },
+  {
+    "severity": "medium",
+    "category": "duplication",
+    "identifier": "editorial-metadata-and-content-systems",
+    "message": "Duplicate or overlap risk is marked medium.",
+    "recommended_action": "Review conceptual boundaries, merge candidates, redirects, and article differentiation."
+  },
+  {
+    "severity": "medium",
+    "category": "duplication",
+    "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+    "message": "Duplicate or overlap risk is marked medium.",
+    "recommended_action": "Review conceptual boundaries, merge candidates, redirects, and article differentiation."
+  },
+  {
+    "severity": "low",
+    "category": "taxonomy",
+    "identifier": "Classic Communication and Persuasive Sequence Frameworks",
+    "message": "Taxonomy category has no articles in the current inventory sample.",
+    "recommended_action": "Confirm whether this category should be represented in the current audit."
+  },
+  {
+    "severity": "low",
+    "category": "taxonomy",
+    "identifier": "Strategic and Environmental Analysis Frameworks",
+    "message": "Taxonomy category has no articles in the current inventory sample.",
+    "recommended_action": "Confirm whether this category should be represented in the current audit."
+  },
+  {
+    "severity": "low",
+    "category": "taxonomy",
+    "identifier": "Policy Governance Systems Explanation and Public Reasoning",
+    "message": "Taxonomy category has no articles in the current inventory sample.",
+    "recommended_action": "Confirm whether this category should be represented in the current audit."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_health",
+    "identifier": "what-are-content-frameworks",
+    "message": "Framework health score is 0.73, below threshold 0.78.",
+    "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_health",
+    "identifier": "why-frameworks-matter-in-research-education-and-strategic-communication",
+    "message": "Framework health score is 0.70, below threshold 0.78.",
+    "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_health",
+    "identifier": "what-makes-a-powerful-content-framework",
+    "message": "Framework health score is 0.38, below threshold 0.78.",
+    "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_health",
+    "identifier": "pillar-pages-and-topic-clusters",
+    "message": "Framework health score is 0.76, below threshold 0.78.",
+    "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_health",
+    "identifier": "narrative-pathways-and-knowledge-architecture",
+    "message": "Framework health score is 0.52, below threshold 0.78.",
+    "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_health",
+    "identifier": "frameworks-for-digital-knowledge-systems",
+    "message": "Framework health score is 0.57, below threshold 0.78.",
+    "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_health",
+    "identifier": "internal-linking-as-framework-infrastructure",
+    "message": "Framework health score is 0.76, below threshold 0.78.",
+    "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_health",
+    "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+    "message": "Framework health score is 0.57, below threshold 0.78.",
+    "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_health",
+    "identifier": "frameworks-for-research-communication",
+    "message": "Framework health score is 0.54, below threshold 0.78.",
+    "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_health",
+    "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+    "message": "Framework health score is 0.52, below threshold 0.78.",
+    "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+  }
+]

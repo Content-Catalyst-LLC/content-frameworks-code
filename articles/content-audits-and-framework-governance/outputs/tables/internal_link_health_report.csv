@@ -1,0 +1,17 @@
+slug,title,status,incoming_links,outgoing_links,total_link_degree,network_role,link_health_score,meets_total_link_threshold,meets_incoming_threshold
+what-are-content-frameworks,What Are Content Frameworks?,published,0,1,1,thinly linked,0.1667,False,False
+why-frameworks-matter-in-research-education-and-strategic-communication,Why Frameworks Matter in Research Education and Strategic Communication,published,0,0,0,orphaned,0.0,False,False
+what-makes-a-powerful-content-framework,What Makes a Powerful Content Framework?,published,0,0,0,orphaned,0.0,False,False
+framework-literacy-and-the-structure-of-usable-knowledge,Framework Literacy and the Structure of Usable Knowledge,planned,0,0,0,orphaned,0.0,False,False
+pillar-pages-and-topic-clusters,Pillar Pages and Topic Clusters,published,1,1,2,thinly linked,0.3333,False,True
+narrative-pathways-and-knowledge-architecture,Narrative Pathways and Knowledge Architecture,published,0,0,0,orphaned,0.0,False,False
+frameworks-for-digital-knowledge-systems,Frameworks for Digital Knowledge Systems,published,1,1,2,thinly linked,0.3333,False,True
+taxonomy-design-for-content-frameworks,Taxonomy Design for Content Frameworks,planned,1,0,1,thinly linked,0.1667,False,True
+internal-linking-as-framework-infrastructure,Internal Linking as Framework Infrastructure,published,1,1,2,thinly linked,0.3333,False,True
+content-audits-and-framework-governance,Content Audits and Framework Governance,published,4,8,12,hub,1.0,True,True
+editorial-metadata-and-content-systems,Editorial Metadata and Content Systems,planned,1,0,1,thinly linked,0.1667,False,True
+educational-scaffolding-and-the-design-of-learning-systems,Educational Scaffolding and the Design of Learning Systems,published,0,0,0,orphaned,0.0,False,False
+frameworks-for-research-communication,Frameworks for Research Communication,published,0,0,0,orphaned,0.0,False,False
+message-house-and-the-architecture-of-strategic-messaging,Message House and the Architecture of Strategic Messaging,published,0,0,0,orphaned,0.0,False,False
+framework-governance-and-editorial-maintenance,Framework Governance and Editorial Maintenance,planned,1,0,1,thinly linked,0.1667,False,True
+framework-drift-and-conceptual-decay,Framework Drift and Conceptual Decay,planned,1,0,1,thinly linked,0.1667,False,True

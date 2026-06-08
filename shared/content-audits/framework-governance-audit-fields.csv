@@ -1,0 +1,13 @@
+field,purpose
+slug,Connects article to URL repository folder and internal links
+status,Tracks publication and maintenance state
+cluster,Supports article-map coverage and taxonomy analysis
+article_type,Determines review cycle and governance expectations
+metadata_completion,Checks required publication fields
+link_health,Evaluates internal-link infrastructure
+evidence_readiness,Checks references evidence notes and limitations
+freshness,Tracks review age and update need
+accessibility_readiness,Checks alt text navigation and accessibility notes
+duplicate_risk,Flags overlap and conceptual drift
+framework_health,Combines audit dimensions into review signal
+governance_queue,Converts findings into editorial actions

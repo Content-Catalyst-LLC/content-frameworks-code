@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Content Audit Record",
+  "type": "object",
+  "required": [
+    "slug",
+    "title",
+    "status",
+    "cluster",
+    "article_type",
+    "excerpt",
+    "tags",
+    "github_url",
+    "image_alt",
+    "references",
+    "last_reviewed",
+    "series_context",
+    "footer_navigation"
+  ],
+  "properties": {
+    "slug": { "type": "string" },
+    "title": { "type": "string" },
+    "status": {
+      "type": "string",
+      "enum": ["planned", "draft", "review", "published", "needs update", "archive candidate"]
+    },
+    "cluster": { "type": "string" },
+    "article_type": { "type": "string" },
+    "excerpt": { "type": "string" },
+    "tags": { "type": "string" },
+    "github_url": { "type": "string" },
+    "image_alt": { "type": "string" },
+    "references": { "type": "string" },
+    "last_reviewed": { "type": "string" },
+    "series_context": { "type": "string" },
+    "footer_navigation": { "type": "string" },
+    "duplicate_risk": { "type": "string" }
+  }
+}

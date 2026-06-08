@@ -1,0 +1,951 @@
+{
+  "article": "Content Audits and Framework Governance",
+  "generated_at": "2026-06-08T14:28:59.182300+00:00",
+  "config": {
+    "product_context": "Catalyst Canvas",
+    "article": "Content Audits and Framework Governance",
+    "series": "Content Frameworks",
+    "version": "1.0.0",
+    "required_metadata_fields": [
+      "excerpt",
+      "tags",
+      "github_url",
+      "image_alt",
+      "references",
+      "last_reviewed",
+      "series_context",
+      "footer_navigation",
+      "repository_manifest",
+      "accessibility_notes"
+    ],
+    "framework_health_weights": {
+      "metadata": 0.2,
+      "links": 0.18,
+      "evidence": 0.2,
+      "freshness": 0.17,
+      "governance": 0.15,
+      "accessibility": 0.1
+    },
+    "thresholds": {
+      "metadata_completion_minimum": 0.85,
+      "framework_health_minimum": 0.78,
+      "minimum_total_links_for_published": 3,
+      "minimum_incoming_links_for_published": 1,
+      "evidence_readiness_minimum": 0.67,
+      "accessibility_readiness_minimum": 0.75
+    },
+    "review_cycles_by_article_type": {
+      "foundational": 730,
+      "method": 365,
+      "technical": 180,
+      "governance": 180,
+      "strategic": 365,
+      "policy": 180,
+      "capstone": 365
+    },
+    "status_values": [
+      "planned",
+      "draft",
+      "review",
+      "published",
+      "needs update",
+      "archive candidate"
+    ],
+    "governance_review_triggers": {
+      "published_missing_required_metadata": true,
+      "published_orphaned_article": true,
+      "evidence_score_below_threshold": true,
+      "freshness_overdue": true,
+      "framework_health_below_threshold": true,
+      "accessibility_score_below_threshold": true,
+      "duplicate_risk_medium_or_above": true
+    }
+  },
+  "counts": {
+    "content_records": 16,
+    "internal_links": 12,
+    "evidence_records": 7,
+    "taxonomy_categories": 8,
+    "findings": 49,
+    "governance_queue": 54
+  },
+  "coverage": [
+    {
+      "cluster": "Audience Need Value Positioning and Message Architecture",
+      "published": 1,
+      "planned": 0,
+      "draft": 0,
+      "review": 0,
+      "needs_update": 0,
+      "archive_candidate": 0,
+      "total": 1,
+      "published_coverage_rate": 1.0,
+      "active_gap_count": 0,
+      "coverage_status": "healthy"
+    },
+    {
+      "cluster": "Educational Research and Conceptual Frameworks",
+      "published": 2,
+      "planned": 0,
+      "draft": 0,
+      "review": 0,
+      "needs_update": 0,
+      "archive_candidate": 0,
+      "total": 2,
+      "published_coverage_rate": 1.0,
+      "active_gap_count": 0,
+      "coverage_status": "healthy"
+    },
+    {
+      "cluster": "Foundations",
+      "published": 3,
+      "planned": 1,
+      "draft": 0,
+      "review": 0,
+      "needs_update": 0,
+      "archive_candidate": 0,
+      "total": 4,
+      "published_coverage_rate": 0.75,
+      "active_gap_count": 1,
+      "coverage_status": "healthy"
+    },
+    {
+      "cluster": "Framework Composition Scaling and Editorial Governance",
+      "published": 0,
+      "planned": 2,
+      "draft": 0,
+      "review": 0,
+      "needs_update": 0,
+      "archive_candidate": 0,
+      "total": 2,
+      "published_coverage_rate": 0.0,
+      "active_gap_count": 2,
+      "coverage_status": "needs development"
+    },
+    {
+      "cluster": "Knowledge Architecture",
+      "published": 5,
+      "planned": 2,
+      "draft": 0,
+      "review": 0,
+      "needs_update": 0,
+      "archive_candidate": 0,
+      "total": 7,
+      "published_coverage_rate": 0.7143,
+      "active_gap_count": 2,
+      "coverage_status": "healthy"
+    }
+  ],
+  "framework_health": [
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "status": "published",
+      "cluster": "Foundations",
+      "article_type": "foundational",
+      "metadata_score": 1.0,
+      "link_score": 0.1667,
+      "evidence_score": 0.4,
+      "freshness_score": 1.0,
+      "governance_score": 1.0,
+      "accessibility_score": 1.0,
+      "framework_health_score": 0.73,
+      "health_status": "governance review"
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "status": "published",
+      "cluster": "Foundations",
+      "article_type": "foundational",
+      "metadata_score": 1.0,
+      "link_score": 0.0,
+      "evidence_score": 0.4,
+      "freshness_score": 1.0,
+      "governance_score": 1.0,
+      "accessibility_score": 1.0,
+      "framework_health_score": 0.7,
+      "health_status": "governance review"
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "status": "published",
+      "cluster": "Foundations",
+      "article_type": "foundational",
+      "metadata_score": 0.3,
+      "link_score": 0.0,
+      "evidence_score": 0.4833,
+      "freshness_score": 0.7192,
+      "governance_score": 0.5,
+      "accessibility_score": 0.25,
+      "framework_health_score": 0.3789,
+      "health_status": "governance review"
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "status": "planned",
+      "cluster": "Foundations",
+      "article_type": "foundational",
+      "metadata_score": 0.0,
+      "link_score": 0.0,
+      "evidence_score": 0.0,
+      "freshness_score": 0.0,
+      "governance_score": 0.25,
+      "accessibility_score": 0.0,
+      "framework_health_score": 0.0375,
+      "health_status": "governance review"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "status": "published",
+      "cluster": "Knowledge Architecture",
+      "article_type": "method",
+      "metadata_score": 1.0,
+      "link_score": 0.3333,
+      "evidence_score": 0.4,
+      "freshness_score": 1.0,
+      "governance_score": 1.0,
+      "accessibility_score": 1.0,
+      "framework_health_score": 0.76,
+      "health_status": "governance review"
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "title": "Narrative Pathways and Knowledge Architecture",
+      "status": "published",
+      "cluster": "Knowledge Architecture",
+      "article_type": "method",
+      "metadata_score": 0.8,
+      "link_score": 0.0,
+      "evidence_score": 0.4,
+      "freshness_score": 0.1479,
+      "governance_score": 1.0,
+      "accessibility_score": 1.0,
+      "framework_health_score": 0.5151,
+      "health_status": "governance review"
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "title": "Frameworks for Digital Knowledge Systems",
+      "status": "published",
+      "cluster": "Knowledge Architecture",
+      "article_type": "technical",
+      "metadata_score": 0.9,
+      "link_score": 0.3333,
+      "evidence_score": 0.4,
+      "freshness_score": 0.0,
+      "governance_score": 1.0,
+      "accessibility_score": 1.0,
+      "framework_health_score": 0.57,
+      "health_status": "governance review"
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "title": "Taxonomy Design for Content Frameworks",
+      "status": "planned",
+      "cluster": "Knowledge Architecture",
+      "article_type": "method",
+      "metadata_score": 0.0,
+      "link_score": 0.1667,
+      "evidence_score": 0.0,
+      "freshness_score": 0.0,
+      "governance_score": 0.25,
+      "accessibility_score": 0.0,
+      "framework_health_score": 0.0675,
+      "health_status": "governance review"
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "title": "Internal Linking as Framework Infrastructure",
+      "status": "published",
+      "cluster": "Knowledge Architecture",
+      "article_type": "method",
+      "metadata_score": 1.0,
+      "link_score": 0.3333,
+      "evidence_score": 0.4,
+      "freshness_score": 1.0,
+      "governance_score": 1.0,
+      "accessibility_score": 1.0,
+      "framework_health_score": 0.76,
+      "health_status": "governance review"
+    },
+    {
+      "slug": "content-audits-and-framework-governance",
+      "title": "Content Audits and Framework Governance",
+      "status": "published",
+      "cluster": "Knowledge Architecture",
+      "article_type": "governance",
+      "metadata_score": 1.0,
+      "link_score": 1.0,
+      "evidence_score": 1.0,
+      "freshness_score": 1.0,
+      "governance_score": 1.0,
+      "accessibility_score": 1.0,
+      "framework_health_score": 1.0,
+      "health_status": "ready"
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "title": "Editorial Metadata and Content Systems",
+      "status": "planned",
+      "cluster": "Knowledge Architecture",
+      "article_type": "technical",
+      "metadata_score": 0.0,
+      "link_score": 0.1667,
+      "evidence_score": 0.0,
+      "freshness_score": 0.0,
+      "governance_score": 0.25,
+      "accessibility_score": 0.0,
+      "framework_health_score": 0.0675,
+      "health_status": "governance review"
+    },
+    {
+      "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "title": "Educational Scaffolding and the Design of Learning Systems",
+      "status": "published",
+      "cluster": "Educational Research and Conceptual Frameworks",
+      "article_type": "method",
+      "metadata_score": 1.0,
+      "link_score": 0.0,
+      "evidence_score": 0.4,
+      "freshness_score": 0.2575,
+      "governance_score": 1.0,
+      "accessibility_score": 1.0,
+      "framework_health_score": 0.5738,
+      "health_status": "governance review"
+    },
+    {
+      "slug": "frameworks-for-research-communication",
+      "title": "Frameworks for Research Communication",
+      "status": "published",
+      "cluster": "Educational Research and Conceptual Frameworks",
+      "article_type": "method",
+      "metadata_score": 0.9,
+      "link_score": 0.0,
+      "evidence_score": 0.4,
+      "freshness_score": 0.1726,
+      "governance_score": 1.0,
+      "accessibility_score": 1.0,
+      "framework_health_score": 0.5393,
+      "health_status": "governance review"
+    },
+    {
+      "slug": "message-house-and-the-architecture-of-strategic-messaging",
+      "title": "Message House and the Architecture of Strategic Messaging",
+      "status": "published",
+      "cluster": "Audience Need Value Positioning and Message Architecture",
+      "article_type": "strategic",
+      "metadata_score": 0.8,
+      "link_score": 0.0,
+      "evidence_score": 0.4833,
+      "freshness_score": 0.074,
+      "governance_score": 1.0,
+      "accessibility_score": 1.0,
+      "framework_health_score": 0.5192,
+      "health_status": "governance review"
+    },
+    {
+      "slug": "framework-governance-and-editorial-maintenance",
+      "title": "Framework Governance and Editorial Maintenance",
+      "status": "planned",
+      "cluster": "Framework Composition Scaling and Editorial Governance",
+      "article_type": "governance",
+      "metadata_score": 0.0,
+      "link_score": 0.1667,
+      "evidence_score": 0.0,
+      "freshness_score": 0.0,
+      "governance_score": 0.25,
+      "accessibility_score": 0.0,
+      "framework_health_score": 0.0675,
+      "health_status": "governance review"
+    },
+    {
+      "slug": "framework-drift-and-conceptual-decay",
+      "title": "Framework Drift and Conceptual Decay",
+      "status": "planned",
+      "cluster": "Framework Composition Scaling and Editorial Governance",
+      "article_type": "governance",
+      "metadata_score": 0.0,
+      "link_score": 0.1667,
+      "evidence_score": 0.0,
+      "freshness_score": 0.0,
+      "governance_score": 0.25,
+      "accessibility_score": 0.0,
+      "framework_health_score": 0.0675,
+      "health_status": "governance review"
+    }
+  ],
+  "taxonomy_coverage": [
+    {
+      "category": "Foundations",
+      "expected_role": "conceptual grounding",
+      "total_articles": 4,
+      "published_articles": 3,
+      "planned_articles": 1,
+      "coverage_rate": 0.75,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Knowledge Architecture",
+      "expected_role": "structural publishing logic",
+      "total_articles": 7,
+      "published_articles": 5,
+      "planned_articles": 2,
+      "coverage_rate": 0.7143,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Educational Research and Conceptual Frameworks",
+      "expected_role": "learning and evidence design",
+      "total_articles": 2,
+      "published_articles": 2,
+      "planned_articles": 0,
+      "coverage_rate": 1.0,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Classic Communication and Persuasive Sequence Frameworks",
+      "expected_role": "communication sequence",
+      "total_articles": 0,
+      "published_articles": 0,
+      "planned_articles": 0,
+      "coverage_rate": 0.0,
+      "taxonomy_status": "missing from inventory sample"
+    },
+    {
+      "category": "Audience Need Value Positioning and Message Architecture",
+      "expected_role": "audience relevance",
+      "total_articles": 1,
+      "published_articles": 1,
+      "planned_articles": 0,
+      "coverage_rate": 1.0,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Strategic and Environmental Analysis Frameworks",
+      "expected_role": "strategic analysis",
+      "total_articles": 0,
+      "published_articles": 0,
+      "planned_articles": 0,
+      "coverage_rate": 0.0,
+      "taxonomy_status": "missing from inventory sample"
+    },
+    {
+      "category": "Policy Governance Systems Explanation and Public Reasoning",
+      "expected_role": "public understanding",
+      "total_articles": 0,
+      "published_articles": 0,
+      "planned_articles": 0,
+      "coverage_rate": 0.0,
+      "taxonomy_status": "missing from inventory sample"
+    },
+    {
+      "category": "Framework Composition Scaling and Editorial Governance",
+      "expected_role": "maintenance and critique",
+      "total_articles": 2,
+      "published_articles": 0,
+      "planned_articles": 2,
+      "coverage_rate": 0.0,
+      "taxonomy_status": "active"
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "internal_links",
+      "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+      "message": "Published article has 0 incoming links.",
+      "recommended_action": "Add links from the article map, cluster hub, or related articles."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "internal_links",
+      "identifier": "frameworks-for-research-communication",
+      "message": "Published article has 0 incoming links.",
+      "recommended_action": "Add links from the article map, cluster hub, or related articles."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "internal_links",
+      "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+      "message": "Published article has 0 incoming links.",
+      "recommended_action": "Add links from the article map, cluster hub, or related articles."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "internal_links",
+      "identifier": "narrative-pathways-and-knowledge-architecture",
+      "message": "Published article has 0 incoming links.",
+      "recommended_action": "Add links from the article map, cluster hub, or related articles."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "internal_links",
+      "identifier": "what-are-content-frameworks",
+      "message": "Published article has 0 incoming links.",
+      "recommended_action": "Add links from the article map, cluster hub, or related articles."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "internal_links",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Published article has 0 incoming links.",
+      "recommended_action": "Add links from the article map, cluster hub, or related articles."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "internal_links",
+      "identifier": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "message": "Published article has 0 incoming links.",
+      "recommended_action": "Add links from the article map, cluster hub, or related articles."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "accessibility",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Accessibility readiness score is 0.25, below threshold 0.75.",
+      "recommended_action": "Review image alt text, link clarity, headings, navigation, and accessibility notes."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "coverage",
+      "identifier": "taxonomy-design-for-content-frameworks",
+      "message": "Planned taxonomy article should be completed to strengthen knowledge architecture cluster",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "duplication",
+      "identifier": "editorial-metadata-and-content-systems",
+      "message": "Duplicate or overlap risk is marked medium.",
+      "recommended_action": "Review conceptual boundaries, merge candidates, redirects, and article differentiation."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "duplication",
+      "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+      "message": "Duplicate or overlap risk is marked medium.",
+      "recommended_action": "Review conceptual boundaries, merge candidates, redirects, and article differentiation."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "duplication",
+      "identifier": "taxonomy-design-for-content-frameworks",
+      "message": "Duplicate or overlap risk is marked medium.",
+      "recommended_action": "Review conceptual boundaries, merge candidates, redirects, and article differentiation."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "duplication",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Duplicate or overlap risk is marked medium.",
+      "recommended_action": "Review conceptual boundaries, merge candidates, redirects, and article differentiation."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "evidence",
+      "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+      "message": "Evidence readiness score is 0.40, below threshold 0.67.",
+      "recommended_action": "Review references, evidence notes, source authority, and limitations."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "evidence",
+      "identifier": "frameworks-for-digital-knowledge-systems",
+      "message": "Evidence readiness score is 0.40, below threshold 0.67.",
+      "recommended_action": "Review references, evidence notes, source authority, and limitations."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "evidence",
+      "identifier": "frameworks-for-research-communication",
+      "message": "Evidence readiness score is 0.40, below threshold 0.67.",
+      "recommended_action": "Review references, evidence notes, source authority, and limitations."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "evidence",
+      "identifier": "internal-linking-as-framework-infrastructure",
+      "message": "Evidence readiness score is 0.40, below threshold 0.67.",
+      "recommended_action": "Review references, evidence notes, source authority, and limitations."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "evidence",
+      "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+      "message": "Evidence readiness score is 0.48, below threshold 0.67.",
+      "recommended_action": "Review references, evidence notes, source authority, and limitations."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "evidence",
+      "identifier": "narrative-pathways-and-knowledge-architecture",
+      "message": "Evidence readiness score is 0.40, below threshold 0.67.",
+      "recommended_action": "Review references, evidence notes, source authority, and limitations."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "evidence",
+      "identifier": "pillar-pages-and-topic-clusters",
+      "message": "Evidence readiness score is 0.40, below threshold 0.67.",
+      "recommended_action": "Review references, evidence notes, source authority, and limitations."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "evidence",
+      "identifier": "what-are-content-frameworks",
+      "message": "Evidence readiness score is 0.40, below threshold 0.67.",
+      "recommended_action": "Review references, evidence notes, source authority, and limitations."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "evidence",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Evidence readiness score is 0.48, below threshold 0.67.",
+      "recommended_action": "Review references, evidence notes, source authority, and limitations."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "evidence",
+      "identifier": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "message": "Evidence readiness score is 0.40, below threshold 0.67.",
+      "recommended_action": "Review references, evidence notes, source authority, and limitations."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_health",
+      "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+      "message": "Framework health score is 0.57, below threshold 0.78.",
+      "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_health",
+      "identifier": "frameworks-for-digital-knowledge-systems",
+      "message": "Framework health score is 0.57, below threshold 0.78.",
+      "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_health",
+      "identifier": "frameworks-for-research-communication",
+      "message": "Framework health score is 0.54, below threshold 0.78.",
+      "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_health",
+      "identifier": "internal-linking-as-framework-infrastructure",
+      "message": "Framework health score is 0.76, below threshold 0.78.",
+      "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_health",
+      "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+      "message": "Framework health score is 0.52, below threshold 0.78.",
+      "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_health",
+      "identifier": "narrative-pathways-and-knowledge-architecture",
+      "message": "Framework health score is 0.52, below threshold 0.78.",
+      "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_health",
+      "identifier": "pillar-pages-and-topic-clusters",
+      "message": "Framework health score is 0.76, below threshold 0.78.",
+      "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_health",
+      "identifier": "what-are-content-frameworks",
+      "message": "Framework health score is 0.73, below threshold 0.78.",
+      "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_health",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Framework health score is 0.38, below threshold 0.78.",
+      "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_health",
+      "identifier": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "message": "Framework health score is 0.70, below threshold 0.78.",
+      "recommended_action": "Review metadata, links, evidence, freshness, governance, and accessibility."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "freshness",
+      "identifier": "frameworks-for-digital-knowledge-systems",
+      "message": "Technical article exceeds preferred review cycle and needs update check",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "freshness",
+      "identifier": "frameworks-for-digital-knowledge-systems",
+      "message": "Freshness status is review overdue.",
+      "recommended_action": "Schedule article review and update last-reviewed metadata."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "internal_links",
+      "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+      "message": "Published article has total link degree 0, below threshold 3.",
+      "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "internal_links",
+      "identifier": "frameworks-for-digital-knowledge-systems",
+      "message": "Published article has total link degree 2, below threshold 3.",
+      "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "internal_links",
+      "identifier": "frameworks-for-research-communication",
+      "message": "Published article has total link degree 0, below threshold 3.",
+      "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "internal_links",
+      "identifier": "internal-linking-as-framework-infrastructure",
+      "message": "Published article has total link degree 2, below threshold 3.",
+      "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "internal_links",
+      "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+      "message": "Published article has total link degree 0, below threshold 3.",
+      "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "internal_links",
+      "identifier": "narrative-pathways-and-knowledge-architecture",
+      "message": "Published article has total link degree 0, below threshold 3.",
+      "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "internal_links",
+      "identifier": "pillar-pages-and-topic-clusters",
+      "message": "Published article has total link degree 2, below threshold 3.",
+      "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "internal_links",
+      "identifier": "what-are-content-frameworks",
+      "message": "Published article has total link degree 1, below threshold 3.",
+      "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "internal_links",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Published article has total link degree 0, below threshold 3.",
+      "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "internal_links",
+      "identifier": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "message": "Published article has total link degree 0, below threshold 3.",
+      "recommended_action": "Add relevant prerequisite, cluster, method, or governance links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "metadata",
+      "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+      "message": "Published article metadata completion is 80%, below threshold 85%.",
+      "recommended_action": "Complete required metadata fields before the next governance review."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "metadata",
+      "identifier": "narrative-pathways-and-knowledge-architecture",
+      "message": "Published article metadata completion is 80%, below threshold 85%.",
+      "recommended_action": "Complete required metadata fields before the next governance review."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "metadata",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Repository link image metadata tags and footer navigation need completion",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "metadata",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Published article metadata completion is 30%, below threshold 85%.",
+      "recommended_action": "Complete required metadata fields before the next governance review."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "status",
+      "identifier": "editorial-metadata-and-content-systems",
+      "message": "Planned next article is linked from published content and should be prioritized",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "low",
+      "category": "governance",
+      "identifier": "content-audits-and-framework-governance",
+      "message": "Confirm final image attachment ID and repository URL after publication",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "taxonomy",
+      "identifier": "Classic Communication and Persuasive Sequence Frameworks",
+      "message": "Taxonomy category has no articles in the current inventory sample.",
+      "recommended_action": "Confirm whether this category should be represented in the current audit."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "taxonomy",
+      "identifier": "Policy Governance Systems Explanation and Public Reasoning",
+      "message": "Taxonomy category has no articles in the current inventory sample.",
+      "recommended_action": "Confirm whether this category should be represented in the current audit."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "taxonomy",
+      "identifier": "Strategic and Environmental Analysis Frameworks",
+      "message": "Taxonomy category has no articles in the current inventory sample.",
+      "recommended_action": "Confirm whether this category should be represented in the current audit."
+    }
+  ],
+  "catalog_export_preview": [
+    {
+      "catalog_product": "Catalyst Canvas",
+      "series": "Content Frameworks",
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "status": "published",
+      "cluster": "Foundations",
+      "article_type": "foundational",
+      "framework_health_score": 0.73,
+      "health_status": "governance review",
+      "github_path": "articles/what-are-content-frameworks/"
+    },
+    {
+      "catalog_product": "Catalyst Canvas",
+      "series": "Content Frameworks",
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "status": "published",
+      "cluster": "Foundations",
+      "article_type": "foundational",
+      "framework_health_score": 0.7,
+      "health_status": "governance review",
+      "github_path": "articles/why-frameworks-matter-in-research-education-and-strategic-communication/"
+    },
+    {
+      "catalog_product": "Catalyst Canvas",
+      "series": "Content Frameworks",
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "status": "published",
+      "cluster": "Foundations",
+      "article_type": "foundational",
+      "framework_health_score": 0.3789,
+      "health_status": "governance review",
+      "github_path": "articles/what-makes-a-powerful-content-framework/"
+    },
+    {
+      "catalog_product": "Catalyst Canvas",
+      "series": "Content Frameworks",
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "status": "planned",
+      "cluster": "Foundations",
+      "article_type": "foundational",
+      "framework_health_score": 0.0375,
+      "health_status": "governance review",
+      "github_path": "articles/framework-literacy-and-the-structure-of-usable-knowledge/"
+    },
+    {
+      "catalog_product": "Catalyst Canvas",
+      "series": "Content Frameworks",
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "status": "published",
+      "cluster": "Knowledge Architecture",
+      "article_type": "method",
+      "framework_health_score": 0.76,
+      "health_status": "governance review",
+      "github_path": "articles/pillar-pages-and-topic-clusters/"
+    }
+  ]
+}

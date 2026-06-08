@@ -1,0 +1,60 @@
+{
+  "product_context": "Catalyst Canvas",
+  "article": "Content Audits and Framework Governance",
+  "series": "Content Frameworks",
+  "version": "1.0.0",
+  "required_metadata_fields": [
+    "excerpt",
+    "tags",
+    "github_url",
+    "image_alt",
+    "references",
+    "last_reviewed",
+    "series_context",
+    "footer_navigation",
+    "repository_manifest",
+    "accessibility_notes"
+  ],
+  "framework_health_weights": {
+    "metadata": 0.20,
+    "links": 0.18,
+    "evidence": 0.20,
+    "freshness": 0.17,
+    "governance": 0.15,
+    "accessibility": 0.10
+  },
+  "thresholds": {
+    "metadata_completion_minimum": 0.85,
+    "framework_health_minimum": 0.78,
+    "minimum_total_links_for_published": 3,
+    "minimum_incoming_links_for_published": 1,
+    "evidence_readiness_minimum": 0.67,
+    "accessibility_readiness_minimum": 0.75
+  },
+  "review_cycles_by_article_type": {
+    "foundational": 730,
+    "method": 365,
+    "technical": 180,
+    "governance": 180,
+    "strategic": 365,
+    "policy": 180,
+    "capstone": 365
+  },
+  "status_values": [
+    "planned",
+    "draft",
+    "review",
+    "published",
+    "needs update",
+    "archive candidate"
+  ],
+  "governance_review_triggers": {
+    "published_missing_required_metadata": true,
+    "published_orphaned_article": true,
+    "evidence_score_below_threshold": true,
+    "freshness_overdue": true,
+    "framework_health_below_threshold": true,
+    "accessibility_score_below_threshold": true,
+    "duplicate_risk_medium_or_above": true
+  }
+}

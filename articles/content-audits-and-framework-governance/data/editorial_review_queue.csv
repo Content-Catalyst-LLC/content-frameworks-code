@@ -1,0 +1,6 @@
+review_id,slug,issue_type,severity,review_note
+R001,what-makes-a-powerful-content-framework,metadata,medium,Repository link image metadata tags and footer navigation need completion
+R002,frameworks-for-digital-knowledge-systems,freshness,medium,Technical article exceeds preferred review cycle and needs update check
+R003,editorial-metadata-and-content-systems,status,medium,Planned next article is linked from published content and should be prioritized
+R004,taxonomy-design-for-content-frameworks,coverage,medium,Planned taxonomy article should be completed to strengthen knowledge architecture cluster
+R005,content-audits-and-framework-governance,governance,low,Confirm final image attachment ID and repository URL after publication

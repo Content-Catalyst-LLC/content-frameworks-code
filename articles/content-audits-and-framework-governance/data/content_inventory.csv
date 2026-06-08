@@ -1,0 +1,17 @@
+slug,title,status,cluster,article_type,excerpt,tags,github_url,image_alt,references,last_reviewed,series_context,footer_navigation,repository_manifest,accessibility_notes,evidence_notes,limitations,governance_notes,last_reviewed_date,review_cycle_days,duplicate_risk
+what-are-content-frameworks,What Are Content Frameworks?,published,Foundations,foundational,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,2026-06-08,730,low
+why-frameworks-matter-in-research-education-and-strategic-communication,Why Frameworks Matter in Research Education and Strategic Communication,published,Foundations,foundational,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,2026-06-08,730,low
+what-makes-a-powerful-content-framework,What Makes a Powerful Content Framework?,published,Foundations,foundational,yes,no,no,no,yes,no,yes,no,no,no,yes,yes,no,2025-11-15,730,medium
+framework-literacy-and-the-structure-of-usable-knowledge,Framework Literacy and the Structure of Usable Knowledge,planned,Foundations,foundational,no,no,no,no,no,no,no,no,no,no,no,no,no,,730,low
+pillar-pages-and-topic-clusters,Pillar Pages and Topic Clusters,published,Knowledge Architecture,method,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,2026-06-08,365,low
+narrative-pathways-and-knowledge-architecture,Narrative Pathways and Knowledge Architecture,published,Knowledge Architecture,method,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes,yes,yes,2025-08-01,365,low
+frameworks-for-digital-knowledge-systems,Frameworks for Digital Knowledge Systems,published,Knowledge Architecture,technical,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,2025-07-20,180,low
+taxonomy-design-for-content-frameworks,Taxonomy Design for Content Frameworks,planned,Knowledge Architecture,method,no,no,no,no,no,no,no,no,no,no,no,no,no,,365,medium
+internal-linking-as-framework-infrastructure,Internal Linking as Framework Infrastructure,published,Knowledge Architecture,method,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,2026-06-08,365,low
+content-audits-and-framework-governance,Content Audits and Framework Governance,published,Knowledge Architecture,governance,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,2026-06-08,180,low
+editorial-metadata-and-content-systems,Editorial Metadata and Content Systems,planned,Knowledge Architecture,technical,no,no,no,no,no,no,no,no,no,no,no,no,no,,180,medium
+educational-scaffolding-and-the-design-of-learning-systems,Educational Scaffolding and the Design of Learning Systems,published,Educational Research and Conceptual Frameworks,method,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,2025-09-10,365,low
+frameworks-for-research-communication,Frameworks for Research Communication,published,Educational Research and Conceptual Frameworks,method,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,2025-08-10,365,low
+message-house-and-the-architecture-of-strategic-messaging,Message House and the Architecture of Strategic Messaging,published,Audience Need Value Positioning and Message Architecture,strategic,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes,yes,yes,2025-07-05,365,medium
+framework-governance-and-editorial-maintenance,Framework Governance and Editorial Maintenance,planned,Framework Composition Scaling and Editorial Governance,governance,no,no,no,no,no,no,no,no,no,no,no,no,no,,180,low
+framework-drift-and-conceptual-decay,Framework Drift and Conceptual Decay,planned,Framework Composition Scaling and Editorial Governance,governance,no,no,no,no,no,no,no,no,no,no,no,no,no,,180,low

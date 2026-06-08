@@ -1,0 +1,21 @@
+cluster_name,status,article_count
+Foundations,published,2
+"Knowledge Architecture",planned,1
+"Knowledge Architecture",published,2
+slug,title,status,metadata_completion_rate
+editorial-metadata-and-content-systems,"Editorial Metadata and Content Systems",planned,0.0
+what-makes-a-powerful-content-framework,"What Makes a Powerful Content Framework?",published,0.3
+content-audits-and-framework-governance,"Content Audits and Framework Governance",published,1.0
+internal-linking-as-framework-infrastructure,"Internal Linking as Framework Infrastructure",published,1.0
+what-are-content-frameworks,"What Are Content Frameworks?",published,1.0
+slug,title,status,incoming_links,outgoing_links,total_link_degree
+what-are-content-frameworks,"What Are Content Frameworks?",published,0,0,0
+what-makes-a-powerful-content-framework,"What Makes a Powerful Content Framework?",published,0,0,0
+editorial-metadata-and-content-systems,"Editorial Metadata and Content Systems",planned,1,0,1
+internal-linking-as-framework-infrastructure,"Internal Linking as Framework Infrastructure",published,1,1,2
+content-audits-and-framework-governance,"Content Audits and Framework Governance",published,1,3,4
+slug,evidence_records,high_authority_sources,ready_evidence_records
+content-audits-and-framework-governance,3,3,3
+severity,issue_type,queue_count
+medium,metadata,1
+medium,status,1
