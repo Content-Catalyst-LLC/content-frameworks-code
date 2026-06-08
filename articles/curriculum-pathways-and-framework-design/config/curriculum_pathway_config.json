@@ -1,0 +1,21 @@
+{
+  "article": "Curriculum Pathways and Framework Design",
+  "series": "Content Frameworks",
+  "readiness_threshold": 0.78,
+  "weights": {
+    "sequence_support": 0.22,
+    "objective_alignment": 0.22,
+    "accessibility": 0.16,
+    "feedback": 0.18,
+    "transfer": 0.22
+  },
+  "valid_learning_stages": [
+    "orientation",
+    "foundation",
+    "method",
+    "practice",
+    "application",
+    "critique",
+    "transfer"
+  ]
+}

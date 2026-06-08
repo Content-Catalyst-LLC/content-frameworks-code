@@ -1,0 +1,4 @@
+source,severity,category,identifier,message,recommended_action
+manual_review_queue,high,objective_coverage,evidence-architecture-in-explanatory-content,Planned evidence architecture article needs objective support and assessment records,Resolve through curriculum pathway governance.
+manual_review_queue,medium,prerequisite_gap,interdisciplinary-frameworks-and-knowledge-bridges,Interdisciplinary bridges article depends on evidence architecture publication,Resolve through curriculum pathway governance.
+manual_review_queue,low,publication,curriculum-pathways-and-framework-design,Confirm final image attachment ID and repository URL after publication,Resolve through curriculum pathway governance.

@@ -1,0 +1,10 @@
+node_slug,title,learning_stage,required_prerequisites,published_prerequisites,prerequisite_readiness,supports_downstream_nodes
+what-are-content-frameworks,What Are Content Frameworks,orientation,0,0,1.0,3
+why-frameworks-matter-in-research-education-and-strategic-communication,Why Frameworks Matter in Research Education and Strategic Communication,foundation,1,1,1.0,0
+what-makes-a-powerful-content-framework,What Makes a Powerful Content Framework,foundation,1,1,1.0,0
+educational-scaffolding-and-the-design-of-learning-systems,Educational Scaffolding and the Design of Learning Systems,method,1,1,1.0,2
+conceptual-models-in-communication,Conceptual Models in Communication,foundation,1,1,1.0,1
+frameworks-for-research-communication,Frameworks for Research Communication,application,1,1,1.0,2
+curriculum-pathways-and-framework-design,Curriculum Pathways and Framework Design,transfer,2,2,1.0,1
+evidence-architecture-in-explanatory-content,Evidence Architecture in Explanatory Content,critique,1,1,1.0,1
+interdisciplinary-frameworks-and-knowledge-bridges,Interdisciplinary Frameworks and Knowledge Bridges,transfer,2,1,0.5,0

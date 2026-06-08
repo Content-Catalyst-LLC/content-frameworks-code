@@ -1,0 +1,11 @@
+node_slug,prerequisite_slug,relationship_type,importance
+why-frameworks-matter-in-research-education-and-strategic-communication,what-are-content-frameworks,foundation,high
+what-makes-a-powerful-content-framework,what-are-content-frameworks,foundation,high
+educational-scaffolding-and-the-design-of-learning-systems,what-are-content-frameworks,foundation,high
+conceptual-models-in-communication,educational-scaffolding-and-the-design-of-learning-systems,prerequisite,medium
+frameworks-for-research-communication,conceptual-models-in-communication,prerequisite,high
+curriculum-pathways-and-framework-design,educational-scaffolding-and-the-design-of-learning-systems,prerequisite,high
+curriculum-pathways-and-framework-design,frameworks-for-research-communication,prerequisite,medium
+evidence-architecture-in-explanatory-content,frameworks-for-research-communication,prerequisite,high
+interdisciplinary-frameworks-and-knowledge-bridges,curriculum-pathways-and-framework-design,prerequisite,medium
+interdisciplinary-frameworks-and-knowledge-bridges,evidence-architecture-in-explanatory-content,prerequisite,medium

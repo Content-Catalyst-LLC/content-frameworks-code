@@ -1,0 +1,4 @@
+review_id,record_id,issue_type,severity,review_note
+R001,evidence-architecture-in-explanatory-content,objective_coverage,high,Planned evidence architecture article needs objective support and assessment records
+R002,interdisciplinary-frameworks-and-knowledge-bridges,prerequisite_gap,medium,Interdisciplinary bridges article depends on evidence architecture publication
+R003,curriculum-pathways-and-framework-design,publication,low,Confirm final image attachment ID and repository URL after publication

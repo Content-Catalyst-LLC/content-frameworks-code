@@ -1,0 +1,9 @@
+objective_id,node_slug,objective_type,objective_text,required,support_material_present,assessment_present
+O001,curriculum-pathways-and-framework-design,conceptual,Define curriculum pathways as structured routes through knowledge,yes,yes,yes
+O002,curriculum-pathways-and-framework-design,analytic,Distinguish curriculum pathways from article maps courses and syllabi,yes,yes,yes
+O003,curriculum-pathways-and-framework-design,design,Map prerequisites and learning stages for a knowledge series,yes,yes,yes
+O004,curriculum-pathways-and-framework-design,governance,Audit pathway readiness using objectives accessibility feedback and transfer,yes,yes,yes
+O005,evidence-architecture-in-explanatory-content,analytic,Identify evidence architecture in explanatory content,yes,no,no
+O006,evidence-architecture-in-explanatory-content,governance,Audit claim evidence uncertainty and limitation structures,yes,no,no
+O007,interdisciplinary-frameworks-and-knowledge-bridges,transfer,Design bridges across knowledge domains,yes,no,no
+O008,frameworks-for-research-communication,analytic,Separate claim evidence method uncertainty and implication,yes,yes,yes

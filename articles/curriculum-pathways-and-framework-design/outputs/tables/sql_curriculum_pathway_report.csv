@@ -1,0 +1,41 @@
+pathway_cluster,status,node_count
+"Educational Research and Conceptual Frameworks",planned,2
+"Educational Research and Conceptual Frameworks",published,4
+Foundations,published,3
+learning_stage,node_count
+foundation,3
+transfer,2
+application,1
+critique,1
+method,1
+orientation,1
+node_slug,title,required_prerequisites,published_prerequisites
+what-are-content-frameworks,"What Are Content Frameworks",0,0
+conceptual-models-in-communication,"Conceptual Models in Communication",1,1
+educational-scaffolding-and-the-design-of-learning-systems,"Educational Scaffolding and the Design of Learning Systems",1,1
+evidence-architecture-in-explanatory-content,"Evidence Architecture in Explanatory Content",1,1
+frameworks-for-research-communication,"Frameworks for Research Communication",1,1
+interdisciplinary-frameworks-and-knowledge-bridges,"Interdisciplinary Frameworks and Knowledge Bridges",2,1
+what-makes-a-powerful-content-framework,"What Makes a Powerful Content Framework",1,1
+why-frameworks-matter-in-research-education-and-strategic-communication,"Why Frameworks Matter in Research Education and Strategic Communication",1,1
+curriculum-pathways-and-framework-design,"Curriculum Pathways and Framework Design",2,2
+node_slug,title,objective_count,supported_objectives,assessed_objectives
+conceptual-models-in-communication,"Conceptual Models in Communication",0,0,0
+educational-scaffolding-and-the-design-of-learning-systems,"Educational Scaffolding and the Design of Learning Systems",0,0,0
+evidence-architecture-in-explanatory-content,"Evidence Architecture in Explanatory Content",2,0,0
+interdisciplinary-frameworks-and-knowledge-bridges,"Interdisciplinary Frameworks and Knowledge Bridges",1,0,0
+what-are-content-frameworks,"What Are Content Frameworks",0,0,0
+what-makes-a-powerful-content-framework,"What Makes a Powerful Content Framework",0,0,0
+why-frameworks-matter-in-research-education-and-strategic-communication,"Why Frameworks Matter in Research Education and Strategic Communication",0,0,0
+frameworks-for-research-communication,"Frameworks for Research Communication",1,1,1
+curriculum-pathways-and-framework-design,"Curriculum Pathways and Framework Design",4,4,4
+node_slug,title,pathway_support_features_present
+evidence-architecture-in-explanatory-content,"Evidence Architecture in Explanatory Content",4
+interdisciplinary-frameworks-and-knowledge-bridges,"Interdisciplinary Frameworks and Knowledge Bridges",4
+conceptual-models-in-communication,"Conceptual Models in Communication",10
+curriculum-pathways-and-framework-design,"Curriculum Pathways and Framework Design",10
+educational-scaffolding-and-the-design-of-learning-systems,"Educational Scaffolding and the Design of Learning Systems",10
+frameworks-for-research-communication,"Frameworks for Research Communication",10
+what-are-content-frameworks,"What Are Content Frameworks",10
+what-makes-a-powerful-content-framework,"What Makes a Powerful Content Framework",10
+why-frameworks-matter-in-research-education-and-strategic-communication,"Why Frameworks Matter in Research Education and Strategic Communication",10

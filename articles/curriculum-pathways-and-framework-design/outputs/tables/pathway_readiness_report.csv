@@ -1,0 +1,10 @@
+node_slug,title,status,pathway_cluster,learning_stage,sequence_support_score,objective_alignment_score,accessibility_score,feedback_score,transfer_score,pathway_readiness_score,pathway_status
+what-are-content-frameworks,What Are Content Frameworks,published,Foundations,orientation,1.0,1.0,1.0,1.0,1.0,1.0,ready
+why-frameworks-matter-in-research-education-and-strategic-communication,Why Frameworks Matter in Research Education and Strategic Communication,published,Foundations,foundation,1.0,1.0,1.0,1.0,1.0,1.0,ready
+what-makes-a-powerful-content-framework,What Makes a Powerful Content Framework,published,Foundations,foundation,1.0,1.0,1.0,1.0,1.0,1.0,ready
+educational-scaffolding-and-the-design-of-learning-systems,Educational Scaffolding and the Design of Learning Systems,published,Educational Research and Conceptual Frameworks,method,1.0,1.0,1.0,1.0,1.0,1.0,ready
+conceptual-models-in-communication,Conceptual Models in Communication,published,Educational Research and Conceptual Frameworks,foundation,1.0,1.0,1.0,1.0,1.0,1.0,ready
+frameworks-for-research-communication,Frameworks for Research Communication,published,Educational Research and Conceptual Frameworks,application,1.0,1.0,1.0,1.0,1.0,1.0,ready
+curriculum-pathways-and-framework-design,Curriculum Pathways and Framework Design,published,Educational Research and Conceptual Frameworks,transfer,1.0,1.0,1.0,1.0,1.0,1.0,ready
+evidence-architecture-in-explanatory-content,Evidence Architecture in Explanatory Content,planned,Educational Research and Conceptual Frameworks,critique,1.0,0.0,0.5,0.3333,0.3333,0.4333,governance review
+interdisciplinary-frameworks-and-knowledge-bridges,Interdisciplinary Frameworks and Knowledge Bridges,planned,Educational Research and Conceptual Frameworks,transfer,0.5,0.0,0.5,0.3333,0.3333,0.3233,governance review
