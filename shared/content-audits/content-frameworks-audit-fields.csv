@@ -1,0 +1,10 @@
+field,purpose
+title,Identifies the article or framework entry
+slug,Maps the article to URL and repository folder
+cluster,Groups article in the series architecture
+status,Tracks editorial state
+coverage_role,Identifies whether the article is foundational methodological applied critical or capstone
+evidence_depth,Assesses support for claims and examples
+internal_links,Tracks links to related articles
+metadata_complete,Checks whether excerpt tags repository link and image metadata are complete
+last_reviewed,Supports governance and maintenance

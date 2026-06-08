@@ -1,0 +1,111 @@
+{
+  "article": "What Are Content Frameworks?",
+  "coverage_summary": [
+    {
+      "cluster": "Foundations",
+      "published": 3,
+      "planned": 3,
+      "total": 6,
+      "coverage_rate": 0.5
+    },
+    {
+      "cluster": "Knowledge Architecture",
+      "published": 3,
+      "planned": 4,
+      "total": 7,
+      "coverage_rate": 0.4286
+    }
+  ],
+  "metadata_summary": [
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "status": "published",
+      "complete_fields": 6,
+      "required_fields": 6,
+      "completion_rate": 1.0
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "status": "published",
+      "complete_fields": 4,
+      "required_fields": 6,
+      "completion_rate": 0.6667
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "status": "published",
+      "complete_fields": 2,
+      "required_fields": 6,
+      "completion_rate": 0.3333
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "status": "planned",
+      "complete_fields": 0,
+      "required_fields": 6,
+      "completion_rate": 0.0
+    },
+    {
+      "slug": "frameworks-templates-and-models",
+      "title": "Frameworks Templates and Models",
+      "status": "planned",
+      "complete_fields": 0,
+      "required_fields": 6,
+      "completion_rate": 0.0
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "title": "Taxonomy Design for Content Frameworks",
+      "status": "planned",
+      "complete_fields": 0,
+      "required_fields": 6,
+      "completion_rate": 0.0
+    }
+  ],
+  "framework_domain_summary": [
+    {
+      "domain": "Audience Research",
+      "framework_count": 1
+    },
+    {
+      "domain": "Digital Publishing",
+      "framework_count": 1
+    },
+    {
+      "domain": "Editorial Governance",
+      "framework_count": 1
+    },
+    {
+      "domain": "Education",
+      "framework_count": 1
+    },
+    {
+      "domain": "Explanation",
+      "framework_count": 1
+    },
+    {
+      "domain": "Knowledge Architecture",
+      "framework_count": 1
+    },
+    {
+      "domain": "Policy and Evaluation",
+      "framework_count": 1
+    },
+    {
+      "domain": "Public Reasoning",
+      "framework_count": 1
+    },
+    {
+      "domain": "Strategic Communication",
+      "framework_count": 1
+    },
+    {
+      "domain": "Strategy",
+      "framework_count": 1
+    }
+  ]
+}

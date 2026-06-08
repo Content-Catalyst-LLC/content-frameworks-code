@@ -1,0 +1,11 @@
+framework_id,framework_name,domain,primary_function,framework_type,risk_if_misused
+CF001,Pillar Page and Topic Cluster,Digital Publishing,Organize related articles around a central explanatory hub,knowledge_architecture,Over-optimization for search instead of reader understanding
+CF002,Message House,Strategic Communication,Structure central claims supporting pillars and proof points,message_architecture,Repetition of talking points without evidence or audience nuance
+CF003,Educational Scaffolding,Education,Sequence knowledge from foundational to advanced understanding,learning_design,Overly rigid learning pathways that ignore learner diversity
+CF004,5W1H,Explanation,Ensure basic explanatory completeness,explanatory_sequence,Checklist-style writing without depth or interpretation
+CF005,Jobs to Be Done,Audience Research,Understand audience need and desired progress,audience_need,Reduction of people to narrow functional needs
+CF006,SWOT Analysis,Strategy,Compare internal and external strategic factors,strategic_analysis,Generic managerial language without evidence or prioritization
+CF007,Theory of Change,Policy and Evaluation,Connect actions assumptions outputs and outcomes,causal_pathway,False causal confidence if assumptions are weak
+CF008,Systems Explanation Framework,Public Reasoning,Explain feedback loops tradeoffs and interdependence,systems_explanation,Abstraction that hides lived experience or urgency
+CF009,Content Audit Framework,Editorial Governance,Evaluate content quality coverage duplication and freshness,editorial_governance,Audit metrics can replace interpretive judgment
+CF010,Taxonomy Design Framework,Knowledge Architecture,Define categories boundaries and semantic relationships,taxonomy_design,Categories can harden into misleading boundaries

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Content Framework Article",
+  "type": "object",
+  "required": ["title", "slug", "series", "status", "excerpt", "tags", "github_url"],
+  "properties": {
+    "title": { "type": "string" },
+    "slug": { "type": "string" },
+    "series": { "type": "string" },
+    "status": { "type": "string" },
+    "excerpt": { "type": "string" },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "github_url": { "type": "string" },
+    "image_alt": { "type": "string" },
+    "last_reviewed": { "type": "string" }
+  }
+}
