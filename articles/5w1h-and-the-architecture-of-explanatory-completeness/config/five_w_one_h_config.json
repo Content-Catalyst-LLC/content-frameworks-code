@@ -1,0 +1,22 @@
+{
+  "article": "5W1H and the Architecture of Explanatory Completeness",
+  "series": "Content Frameworks",
+  "readiness_threshold": 0.78,
+  "questions": ["who", "what", "when", "where", "why", "how"],
+  "weights": {
+    "coverage": 0.24,
+    "evidence_support": 0.26,
+    "balance": 0.16,
+    "audience_fit": 0.16,
+    "governance": 0.18
+  },
+  "review_dimensions": [
+    "coverage",
+    "evidence_support",
+    "scope",
+    "freshness",
+    "audience_fit",
+    "accessibility",
+    "governance"
+  ]
+}

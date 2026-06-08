@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "5W1H Explanatory Completeness Record",
+  "type": "object",
+  "required": [
+    "asset_id",
+    "asset_name",
+    "asset_type",
+    "audience",
+    "who_answered",
+    "what_answered",
+    "when_answered",
+    "where_answered",
+    "why_answered",
+    "how_answered"
+  ]
+}

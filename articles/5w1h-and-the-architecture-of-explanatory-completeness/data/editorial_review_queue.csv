@@ -1,0 +1,5 @@
+review_id,record_id,issue_type,severity,review_note
+R001,A005,coverage,high,Incomplete campaign draft is missing who when where and how coverage
+R002,A003,evidence_support,medium,Policy explanation example needs stronger support for why question
+R003,A004,scope,medium,Research communication example needs where or scope-boundary clarification
+R004,5w1h-and-the-architecture-of-explanatory-completeness,publication,low,Confirm final image attachment ID and repository URL after publication

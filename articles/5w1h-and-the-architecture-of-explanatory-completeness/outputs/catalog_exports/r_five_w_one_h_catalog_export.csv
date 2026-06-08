@@ -1,0 +1,7 @@
+"asset_id","asset_name","asset_type","audience","explanatory_readiness_score","explanatory_status","series","article_slug","github_path"
+"A001","Article introduction","article_section","general_reader",1,"ready","Content Frameworks","5w1h-and-the-architecture-of-explanatory-completeness","articles/5w1h-and-the-architecture-of-explanatory-completeness/"
+"A002","GitHub repository block","repository_cta","technical_reader",0.8816,"ready","Content Frameworks","5w1h-and-the-architecture-of-explanatory-completeness","articles/5w1h-and-the-architecture-of-explanatory-completeness/"
+"A003","Policy explanation example","article_section","public_reader",0.9567,"ready","Content Frameworks","5w1h-and-the-architecture-of-explanatory-completeness","articles/5w1h-and-the-architecture-of-explanatory-completeness/"
+"A004","Research communication example","article_section","research_reader",0.8816,"ready","Content Frameworks","5w1h-and-the-architecture-of-explanatory-completeness","articles/5w1h-and-the-architecture-of-explanatory-completeness/"
+"A005","Incomplete campaign draft","draft_asset","general_reader",0.08,"governance review","Content Frameworks","5w1h-and-the-architecture-of-explanatory-completeness","articles/5w1h-and-the-architecture-of-explanatory-completeness/"
+"A006","Editorial governance checklist","governance_asset","editorial_team",1,"ready","Content Frameworks","5w1h-and-the-architecture-of-explanatory-completeness","articles/5w1h-and-the-architecture-of-explanatory-completeness/"

@@ -1,0 +1,51 @@
+[
+  {
+    "severity": "medium",
+    "category": "coverage",
+    "identifier": "A002",
+    "message": "Missing 5W1H questions: when.",
+    "recommended_action": "Add answers or explicit scope notes for missing questions."
+  },
+  {
+    "severity": "high",
+    "category": "evidence_support",
+    "identifier": "A003",
+    "message": "Answered questions lack support: why.",
+    "recommended_action": "Add evidence, examples, source records, or method notes."
+  },
+  {
+    "severity": "medium",
+    "category": "coverage",
+    "identifier": "A004",
+    "message": "Missing 5W1H questions: where.",
+    "recommended_action": "Add answers or explicit scope notes for missing questions."
+  },
+  {
+    "severity": "medium",
+    "category": "coverage",
+    "identifier": "A005",
+    "message": "Missing 5W1H questions: who, when, where, how.",
+    "recommended_action": "Add answers or explicit scope notes for missing questions."
+  },
+  {
+    "severity": "high",
+    "category": "evidence_support",
+    "identifier": "A005",
+    "message": "Answered questions lack support: what, why.",
+    "recommended_action": "Add evidence, examples, source records, or method notes."
+  },
+  {
+    "severity": "medium",
+    "category": "audience_fit",
+    "identifier": "A005",
+    "message": "Audience support is weak.",
+    "recommended_action": "Add audience context, scope note, or plain-language summary."
+  },
+  {
+    "severity": "medium",
+    "category": "governance",
+    "identifier": "A005",
+    "message": "Governance readiness is incomplete.",
+    "recommended_action": "Add review owner, review date, freshness check, and revision queue status."
+  }
+]

@@ -1,0 +1,25 @@
+asset_type,asset_count
+article_section,3
+draft_asset,1
+governance_asset,1
+repository_cta,1
+audience,asset_count
+editorial_team,1
+general_reader,2
+public_reader,1
+research_reader,1
+technical_reader,1
+asset_id,asset_name,answered_question_count,supported_question_count
+A005,"Incomplete campaign draft",2,0
+A002,"GitHub repository block",5,5
+A004,"Research communication example",5,5
+A003,"Policy explanation example",6,5
+A001,"Article introduction",6,6
+A006,"Editorial governance checklist",6,6
+asset_id,asset_name,governance_and_audience_features
+A005,"Incomplete campaign draft",0
+A001,"Article introduction",7
+A002,"GitHub repository block",7
+A003,"Policy explanation example",7
+A004,"Research communication example",7
+A006,"Editorial governance checklist",7

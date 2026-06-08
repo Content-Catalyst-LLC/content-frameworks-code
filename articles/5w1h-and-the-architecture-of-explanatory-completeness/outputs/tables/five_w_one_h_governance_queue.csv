@@ -1,0 +1,12 @@
+source,severity,category,identifier,message,recommended_action
+manual_review_queue,high,coverage,A005,Incomplete campaign draft is missing who when where and how coverage,Resolve through 5W1H explanatory-completeness governance.
+manual_review_queue,medium,evidence_support,A003,Policy explanation example needs stronger support for why question,Resolve through 5W1H explanatory-completeness governance.
+manual_review_queue,medium,scope,A004,Research communication example needs where or scope-boundary clarification,Resolve through 5W1H explanatory-completeness governance.
+manual_review_queue,low,publication,5w1h-and-the-architecture-of-explanatory-completeness,Confirm final image attachment ID and repository URL after publication,Resolve through 5W1H explanatory-completeness governance.
+,medium,coverage,A002,Missing 5W1H questions: when.,Add answers or explicit scope notes for missing questions.
+,high,evidence_support,A003,Answered questions lack support: why.,"Add evidence, examples, source records, or method notes."
+,medium,coverage,A004,Missing 5W1H questions: where.,Add answers or explicit scope notes for missing questions.
+,medium,coverage,A005,"Missing 5W1H questions: who, when, where, how.",Add answers or explicit scope notes for missing questions.
+,high,evidence_support,A005,"Answered questions lack support: what, why.","Add evidence, examples, source records, or method notes."
+,medium,audience_fit,A005,Audience support is weak.,"Add audience context, scope note, or plain-language summary."
+,medium,governance,A005,Governance readiness is incomplete.,"Add review owner, review date, freshness check, and revision queue status."

@@ -1,0 +1,228 @@
+{
+  "article": "5W1H and the Architecture of Explanatory Completeness",
+  "generated_at": "2026-06-08T21:56:17.469215+00:00",
+  "counts": {
+    "assets": 6,
+    "findings": 7,
+    "governance_queue": 11
+  },
+  "question_coverage": [
+    {
+      "question": "who",
+      "assets_answered": 5,
+      "assets_supported": 5,
+      "answer_rate": 0.8333,
+      "support_rate": 1.0
+    },
+    {
+      "question": "what",
+      "assets_answered": 6,
+      "assets_supported": 5,
+      "answer_rate": 1.0,
+      "support_rate": 0.8333
+    },
+    {
+      "question": "when",
+      "assets_answered": 4,
+      "assets_supported": 4,
+      "answer_rate": 0.6667,
+      "support_rate": 1.0
+    },
+    {
+      "question": "where",
+      "assets_answered": 4,
+      "assets_supported": 4,
+      "answer_rate": 0.6667,
+      "support_rate": 1.0
+    },
+    {
+      "question": "why",
+      "assets_answered": 6,
+      "assets_supported": 4,
+      "answer_rate": 1.0,
+      "support_rate": 0.6667
+    },
+    {
+      "question": "how",
+      "assets_answered": 5,
+      "assets_supported": 5,
+      "answer_rate": 0.8333,
+      "support_rate": 1.0
+    }
+  ],
+  "readiness": [
+    {
+      "asset_id": "A001",
+      "asset_name": "Article introduction",
+      "asset_type": "article_section",
+      "audience": "general_reader",
+      "coverage_score": 1.0,
+      "evidence_support_score": 1.0,
+      "balance_score": 1.0,
+      "audience_fit_score": 1.0,
+      "governance_score": 1.0,
+      "explanatory_readiness_score": 1.0,
+      "missing_questions": "",
+      "unsupported_questions": "",
+      "explanatory_status": "ready"
+    },
+    {
+      "asset_id": "A002",
+      "asset_name": "GitHub repository block",
+      "asset_type": "repository_cta",
+      "audience": "technical_reader",
+      "coverage_score": 0.8333,
+      "evidence_support_score": 1.0,
+      "balance_score": 0.5528,
+      "audience_fit_score": 1.0,
+      "governance_score": 1.0,
+      "explanatory_readiness_score": 0.8884,
+      "missing_questions": "when",
+      "unsupported_questions": "",
+      "explanatory_status": "ready"
+    },
+    {
+      "asset_id": "A003",
+      "asset_name": "Policy explanation example",
+      "asset_type": "article_section",
+      "audience": "public_reader",
+      "coverage_score": 1.0,
+      "evidence_support_score": 0.8333,
+      "balance_score": 1.0,
+      "audience_fit_score": 1.0,
+      "governance_score": 1.0,
+      "explanatory_readiness_score": 0.9567,
+      "missing_questions": "",
+      "unsupported_questions": "why",
+      "explanatory_status": "ready"
+    },
+    {
+      "asset_id": "A004",
+      "asset_name": "Research communication example",
+      "asset_type": "article_section",
+      "audience": "research_reader",
+      "coverage_score": 0.8333,
+      "evidence_support_score": 1.0,
+      "balance_score": 0.5528,
+      "audience_fit_score": 1.0,
+      "governance_score": 1.0,
+      "explanatory_readiness_score": 0.8884,
+      "missing_questions": "where",
+      "unsupported_questions": "",
+      "explanatory_status": "ready"
+    },
+    {
+      "asset_id": "A005",
+      "asset_name": "Incomplete campaign draft",
+      "asset_type": "draft_asset",
+      "audience": "general_reader",
+      "coverage_score": 0.3333,
+      "evidence_support_score": 0.0,
+      "balance_score": 0.0,
+      "audience_fit_score": 0.0,
+      "governance_score": 0.0,
+      "explanatory_readiness_score": 0.08,
+      "missing_questions": "who;when;where;how",
+      "unsupported_questions": "what;why",
+      "explanatory_status": "governance review"
+    },
+    {
+      "asset_id": "A006",
+      "asset_name": "Editorial governance checklist",
+      "asset_type": "governance_asset",
+      "audience": "editorial_team",
+      "coverage_score": 1.0,
+      "evidence_support_score": 1.0,
+      "balance_score": 1.0,
+      "audience_fit_score": 1.0,
+      "governance_score": 1.0,
+      "explanatory_readiness_score": 1.0,
+      "missing_questions": "",
+      "unsupported_questions": "",
+      "explanatory_status": "ready"
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "manual_review_queue",
+      "severity": "high",
+      "category": "coverage",
+      "identifier": "A005",
+      "message": "Incomplete campaign draft is missing who when where and how coverage",
+      "recommended_action": "Resolve through 5W1H explanatory-completeness governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "evidence_support",
+      "identifier": "A003",
+      "message": "Policy explanation example needs stronger support for why question",
+      "recommended_action": "Resolve through 5W1H explanatory-completeness governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "scope",
+      "identifier": "A004",
+      "message": "Research communication example needs where or scope-boundary clarification",
+      "recommended_action": "Resolve through 5W1H explanatory-completeness governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "low",
+      "category": "publication",
+      "identifier": "5w1h-and-the-architecture-of-explanatory-completeness",
+      "message": "Confirm final image attachment ID and repository URL after publication",
+      "recommended_action": "Resolve through 5W1H explanatory-completeness governance."
+    },
+    {
+      "severity": "medium",
+      "category": "coverage",
+      "identifier": "A002",
+      "message": "Missing 5W1H questions: when.",
+      "recommended_action": "Add answers or explicit scope notes for missing questions."
+    },
+    {
+      "severity": "high",
+      "category": "evidence_support",
+      "identifier": "A003",
+      "message": "Answered questions lack support: why.",
+      "recommended_action": "Add evidence, examples, source records, or method notes."
+    },
+    {
+      "severity": "medium",
+      "category": "coverage",
+      "identifier": "A004",
+      "message": "Missing 5W1H questions: where.",
+      "recommended_action": "Add answers or explicit scope notes for missing questions."
+    },
+    {
+      "severity": "medium",
+      "category": "coverage",
+      "identifier": "A005",
+      "message": "Missing 5W1H questions: who, when, where, how.",
+      "recommended_action": "Add answers or explicit scope notes for missing questions."
+    },
+    {
+      "severity": "high",
+      "category": "evidence_support",
+      "identifier": "A005",
+      "message": "Answered questions lack support: what, why.",
+      "recommended_action": "Add evidence, examples, source records, or method notes."
+    },
+    {
+      "severity": "medium",
+      "category": "audience_fit",
+      "identifier": "A005",
+      "message": "Audience support is weak.",
+      "recommended_action": "Add audience context, scope note, or plain-language summary."
+    },
+    {
+      "severity": "medium",
+      "category": "governance",
+      "identifier": "A005",
+      "message": "Governance readiness is incomplete.",
+      "recommended_action": "Add review owner, review date, freshness check, and revision queue status."
+    }
+  ]
+}

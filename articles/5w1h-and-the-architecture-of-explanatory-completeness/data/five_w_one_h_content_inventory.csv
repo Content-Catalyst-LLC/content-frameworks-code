@@ -1,0 +1,7 @@
+asset_id,asset_name,asset_type,audience,who_answered,who_supported,what_answered,what_supported,when_answered,when_supported,where_answered,where_supported,why_answered,why_supported,how_answered,how_supported,audience_context_present,scope_note_present,plain_language_summary_present,review_owner_present,last_review_date_present,freshness_checked,revision_queue_checked
+A001,Article introduction,article_section,general_reader,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+A002,GitHub repository block,repository_cta,technical_reader,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+A003,Policy explanation example,article_section,public_reader,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes
+A004,Research communication example,article_section,research_reader,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+A005,Incomplete campaign draft,draft_asset,general_reader,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no
+A006,Editorial governance checklist,governance_asset,editorial_team,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
