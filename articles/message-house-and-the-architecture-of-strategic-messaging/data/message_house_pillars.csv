@@ -1,0 +1,7 @@
+pillar,description,core_alignment,audience_relevance,evidence_strength,differentiation,governance_readiness,ethical_risk,owner,status,review_date
+Audience relevance,Connects the central message to audience need and interpretation,0.88,0.92,0.76,0.74,0.70,0.22,editorial,active,2026-06-08
+Evidence supported claims,Links message pillars to proof points and references,0.86,0.82,0.88,0.70,0.78,0.18,governance,active,2026-06-08
+Reusable message architecture,Supports consistent adaptation across articles campaigns and repositories,0.90,0.80,0.72,0.84,0.82,0.20,strategy,active,2026-06-08
+Ethical accountability,Clarifies limitations stakeholder effects and responsible claims,0.78,0.76,0.68,0.66,0.86,0.42,governance,review,2026-06-08
+Governed proof library,Maintains evidence freshness examples and review dates,0.82,0.74,0.80,0.68,0.88,0.26,governance,active,2026-06-08
+Generic innovation claim,A weak pillar included to test proof gaps and governance flags,0.48,0.52,0.38,0.40,0.44,0.56,editorial,revise,2026-06-08

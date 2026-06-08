@@ -1,0 +1,170 @@
+[
+  {
+    "card_id": "message-house-pillar-evidence-supported-claims",
+    "type": "message_house_pillar_card",
+    "article_slug": "message-house-and-the-architecture-of-strategic-messaging",
+    "title": "Evidence supported claims",
+    "subtitle": "Message pillar readiness",
+    "description": "Links message pillars to proof points and references",
+    "badges": [
+      "priority: standard",
+      "readiness: 0.818",
+      "active"
+    ],
+    "metrics": {
+      "readiness_score": 0.808,
+      "weighted_readiness": 0.818,
+      "proof_gap": 0.0,
+      "message_drift_risk": 0.108,
+      "ethical_risk": 0.18
+    },
+    "governance": {
+      "owner": "governance",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue"
+    },
+    "recommended_action": "Keep active and review during the next governance cycle."
+  },
+  {
+    "card_id": "message-house-pillar-audience-relevance",
+    "type": "message_house_pillar_card",
+    "article_slug": "message-house-and-the-architecture-of-strategic-messaging",
+    "title": "Audience relevance",
+    "subtitle": "Message pillar readiness",
+    "description": "Connects the central message to audience need and interpretation",
+    "badges": [
+      "priority: standard",
+      "readiness: 0.813",
+      "active"
+    ],
+    "metrics": {
+      "readiness_score": 0.8,
+      "weighted_readiness": 0.813,
+      "proof_gap": 0.087,
+      "message_drift_risk": 0.18,
+      "ethical_risk": 0.22
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue"
+    },
+    "recommended_action": "Keep active and review during the next governance cycle."
+  },
+  {
+    "card_id": "message-house-pillar-reusable-message-architecture",
+    "type": "message_house_pillar_card",
+    "article_slug": "message-house-and-the-architecture-of-strategic-messaging",
+    "title": "Reusable message architecture",
+    "subtitle": "Message pillar readiness",
+    "description": "Supports consistent adaptation across articles campaigns and repositories",
+    "badges": [
+      "priority: medium",
+      "readiness: 0.812",
+      "active"
+    ],
+    "metrics": {
+      "readiness_score": 0.816,
+      "weighted_readiness": 0.812,
+      "proof_gap": 0.127,
+      "message_drift_risk": 0.127,
+      "ethical_risk": 0.2
+    },
+    "governance": {
+      "owner": "strategy",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "moderate proof gap"
+    },
+    "recommended_action": "Review evidence strength governance readiness audience relevance or drift risk."
+  },
+  {
+    "card_id": "message-house-pillar-governed-proof-library",
+    "type": "message_house_pillar_card",
+    "article_slug": "message-house-and-the-architecture-of-strategic-messaging",
+    "title": "Governed proof library",
+    "subtitle": "Message pillar readiness",
+    "description": "Maintains evidence freshness examples and review dates",
+    "badges": [
+      "priority: standard",
+      "readiness: 0.782",
+      "active"
+    ],
+    "metrics": {
+      "readiness_score": 0.784,
+      "weighted_readiness": 0.782,
+      "proof_gap": 0.0,
+      "message_drift_risk": 0.156,
+      "ethical_risk": 0.26
+    },
+    "governance": {
+      "owner": "governance",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue"
+    },
+    "recommended_action": "Keep active and review during the next governance cycle."
+  },
+  {
+    "card_id": "message-house-pillar-ethical-accountability",
+    "type": "message_house_pillar_card",
+    "article_slug": "message-house-and-the-architecture-of-strategic-messaging",
+    "title": "Ethical accountability",
+    "subtitle": "Message pillar readiness",
+    "description": "Clarifies limitations stakeholder effects and responsible claims",
+    "badges": [
+      "priority: medium",
+      "readiness: 0.743",
+      "review"
+    ],
+    "metrics": {
+      "readiness_score": 0.748,
+      "weighted_readiness": 0.743,
+      "proof_gap": 0.053,
+      "message_drift_risk": 0.252,
+      "ethical_risk": 0.42
+    },
+    "governance": {
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "message drift risk; status marked review"
+    },
+    "recommended_action": "Review evidence strength governance readiness audience relevance or drift risk."
+  },
+  {
+    "card_id": "message-house-pillar-generic-innovation-claim",
+    "type": "message_house_pillar_card",
+    "article_slug": "message-house-and-the-architecture-of-strategic-messaging",
+    "title": "Generic innovation claim",
+    "subtitle": "Message pillar readiness",
+    "description": "A weak pillar included to test proof gaps and governance flags",
+    "badges": [
+      "priority: high",
+      "readiness: 0.447",
+      "revise"
+    ],
+    "metrics": {
+      "readiness_score": 0.444,
+      "weighted_readiness": 0.447,
+      "proof_gap": 0.087,
+      "message_drift_risk": 0.336,
+      "ethical_risk": 0.56
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "reasons": "weak evidence strength; weak governance readiness; weak core message alignment; weak audience relevance; weak differentiation; message drift risk; ethical risk review; status marked revise"
+    },
+    "recommended_action": "Revise the message pillar before reuse and strengthen proof or ethical framing."
+  }
+]

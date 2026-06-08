@@ -1,0 +1,46 @@
+{
+  "module": "message_house_canvas",
+  "version": "1.0.0",
+  "article_slug": "message-house-and-the-architecture-of-strategic-messaging",
+  "article_title": "Message House and the Architecture of Strategic Messaging",
+  "series": "Content Frameworks",
+  "repository_path": "articles/message-house-and-the-architecture-of-strategic-messaging/",
+  "entrypoint": "python -m message_house_canvas.cli",
+  "default_input": "data/message_house_pillars.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/message_house_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/message_house_canvas_export.json"
+  },
+  "metrics": [
+    "readiness_score",
+    "weighted_readiness",
+    "proof_gap",
+    "message_drift_risk",
+    "ethical_risk",
+    "review_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "message_pillar_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "card_grid"
+    },
+    {
+      "type": "message_governance_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": ["proof_gap", "weak_evidence", "message_drift", "ethical_risk", "governance_readiness"]
+  }
+}

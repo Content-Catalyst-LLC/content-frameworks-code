@@ -1,0 +1,44 @@
+[
+  {
+    "queue_id": "message-house-review-generic-innovation-claim",
+    "article_slug": "message-house-and-the-architecture-of-strategic-messaging",
+    "pillar": "Generic innovation claim",
+    "owner": "editorial",
+    "status": "revise",
+    "review_date": "2026-06-08",
+    "review_priority": "high",
+    "proof_gap": 0.087,
+    "message_drift_risk": 0.336,
+    "ethical_risk": 0.56,
+    "governance_reasons": "weak evidence strength; weak governance readiness; weak core message alignment; weak audience relevance; weak differentiation; message drift risk; ethical risk review; status marked revise",
+    "recommended_action": "Revise the message pillar before reuse and strengthen proof or ethical framing."
+  },
+  {
+    "queue_id": "message-house-review-reusable-message-architecture",
+    "article_slug": "message-house-and-the-architecture-of-strategic-messaging",
+    "pillar": "Reusable message architecture",
+    "owner": "strategy",
+    "status": "active",
+    "review_date": "2026-06-08",
+    "review_priority": "medium",
+    "proof_gap": 0.127,
+    "message_drift_risk": 0.127,
+    "ethical_risk": 0.2,
+    "governance_reasons": "moderate proof gap",
+    "recommended_action": "Review evidence strength governance readiness audience relevance or drift risk."
+  },
+  {
+    "queue_id": "message-house-review-ethical-accountability",
+    "article_slug": "message-house-and-the-architecture-of-strategic-messaging",
+    "pillar": "Ethical accountability",
+    "owner": "governance",
+    "status": "review",
+    "review_date": "2026-06-08",
+    "review_priority": "medium",
+    "proof_gap": 0.053,
+    "message_drift_risk": 0.252,
+    "ethical_risk": 0.42,
+    "governance_reasons": "message drift risk; status marked review",
+    "recommended_action": "Review evidence strength governance readiness audience relevance or drift risk."
+  }
+]

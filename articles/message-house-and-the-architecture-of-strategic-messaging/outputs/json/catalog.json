@@ -1,0 +1,21 @@
+{
+  "module": "message_house_canvas",
+  "version": "1.0.0",
+  "article_slug": "message-house-and-the-architecture-of-strategic-messaging",
+  "article_title": "Message House and the Architecture of Strategic Messaging",
+  "generated_at": "2026-06-08T23:49:11+00:00",
+  "record_count": 6,
+  "metrics": [
+    "readiness_score",
+    "weighted_readiness",
+    "proof_gap",
+    "message_drift_risk",
+    "ethical_risk"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/message_house_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/message_house_canvas_export.json"
+  }
+}

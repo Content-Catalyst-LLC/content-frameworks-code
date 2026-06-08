@@ -1,0 +1,4 @@
+"pillar","description","core_alignment","audience_relevance","evidence_strength","differentiation","governance_readiness","ethical_risk","owner","status","review_date","readiness_score","weighted_readiness","proof_gap","message_drift_risk","review_priority"
+"Reusable message architecture","Supports consistent adaptation across articles campaigns and repositories",0.9,0.8,0.72,0.84,0.82,0.2,"strategy","active","2026-06-08",0.816,0.812,0.126666666666667,0.126666666666667,"medium"
+"Ethical accountability","Clarifies limitations stakeholder effects and responsible claims",0.78,0.76,0.68,0.66,0.86,0.42,"governance","review","2026-06-08",0.748,0.7432,0.0533333333333333,0.252,"medium"
+"Generic innovation claim","A weak pillar included to test proof gaps and governance flags",0.48,0.52,0.38,0.4,0.44,0.56,"editorial","revise","2026-06-08",0.444,0.4472,0.0866666666666666,0.336,"high"
