@@ -1,0 +1,30 @@
+category_id,category_name,category_type,status,primary_item_count,secondary_item_count,facet_item_count,total_assignment_count
+CAT002,"Knowledge Architecture",topic,active,5,0,0,5
+CAT008,"Framework Composition Scaling and Editorial Governance",topic,active,1,0,0,1
+CAT010,"Method Article",article_role,active,0,0,2,2
+CAT011,"Technical Article",article_role,active,0,0,2,2
+CAT012,"Governance Article",article_role,active,0,0,1,1
+CAT001,Foundations,topic,active,0,0,0,0
+CAT013,"Deprecated Internal Pathways Label",topic,deprecated,0,0,0,0
+slug,title,status,article_role,primary_category_count,secondary_category_count,facet_assignment_count
+content-audits-and-framework-governance,"Content Audits and Framework Governance",planned,governance,1,0,1
+frameworks-for-digital-knowledge-systems,"Frameworks for Digital Knowledge Systems",published,technical,1,0,1
+internal-linking-as-framework-infrastructure,"Internal Linking as Framework Infrastructure",planned,technical,1,0,1
+narrative-pathways-and-knowledge-architecture,"Narrative Pathways and Knowledge Architecture",published,method,1,0,1
+pillar-pages-and-topic-clusters,"Pillar Pages and Topic Clusters",published,pillar,1,0,0
+taxonomy-design-for-content-frameworks,"Taxonomy Design for Content Frameworks",published,method,1,0,1
+slug,title,status,taxonomy_metadata_completion
+internal-linking-as-framework-infrastructure,"Internal Linking as Framework Infrastructure",planned,0.875
+pillar-pages-and-topic-clusters,"Pillar Pages and Topic Clusters",published,1.0
+narrative-pathways-and-knowledge-architecture,"Narrative Pathways and Knowledge Architecture",published,1.0
+frameworks-for-digital-knowledge-systems,"Frameworks for Digital Knowledge Systems",published,1.0
+taxonomy-design-for-content-frameworks,"Taxonomy Design for Content Frameworks",published,1.0
+assignment_type,assignment_count
+primary,6
+facet,5
+category_type,category_count
+topic,4
+article_role,3
+relationship_type,category_count
+related,4
+broader,3

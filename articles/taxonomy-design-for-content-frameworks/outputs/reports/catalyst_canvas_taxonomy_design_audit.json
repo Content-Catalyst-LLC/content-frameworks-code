@@ -1,0 +1,717 @@
+{
+  "article": "Taxonomy Design for Content Frameworks",
+  "generated_at": "2026-06-08T13:45:28.716367+00:00",
+  "config": {
+    "product_context": "Catalyst Canvas",
+    "article": "Taxonomy Design for Content Frameworks",
+    "series": "Content Frameworks",
+    "version": "1.0.0",
+    "minimum_taxonomy_metadata_completion": 0.85,
+    "minimum_items_per_active_category": 2,
+    "maximum_tags_per_article": 8,
+    "maximum_primary_categories_per_article": 1,
+    "minimum_category_balance_score": 0.25,
+    "required_taxonomy_metadata_fields": [
+      "primary_category",
+      "secondary_categories",
+      "article_role",
+      "reader_stage",
+      "governance_owner",
+      "last_reviewed",
+      "category_definition",
+      "boundary_notes"
+    ],
+    "category_types": [
+      "topic",
+      "article_role",
+      "reader_stage",
+      "evidence_type",
+      "governance_status",
+      "repository_layer"
+    ],
+    "assignment_types": [
+      "primary",
+      "secondary",
+      "facet",
+      "related"
+    ],
+    "relationship_types": [
+      "broader",
+      "narrower",
+      "related",
+      "prerequisite",
+      "application",
+      "comparison",
+      "governance",
+      "evidence"
+    ],
+    "governance_review_triggers": {
+      "missing_primary_category": true,
+      "multiple_primary_categories": true,
+      "taxonomy_metadata_completion_below": 0.85,
+      "tag_count_above": 8,
+      "active_category_primary_items_below": 2,
+      "deprecated_category_has_active_assignments": true
+    }
+  },
+  "counts": {
+    "articles": 14,
+    "categories": 13,
+    "assignments": 23,
+    "governance_queue": 10
+  },
+  "taxonomy_balance_score": -1.0102,
+  "article_assignment_audit": [
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks",
+      "status": "published",
+      "article_role": "definition",
+      "reader_stage": "foundation",
+      "primary_category_count": 1,
+      "secondary_category_count": 0,
+      "facet_assignment_count": 1,
+      "tag_count": 4,
+      "tags": "content frameworks; definition; knowledge structure; editorial systems",
+      "taxonomy_metadata_completion": 1.0,
+      "missing_taxonomy_metadata": "none",
+      "assignment_status": "ready",
+      "review_owner": "Series editor"
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "status": "published",
+      "article_role": "foundation",
+      "reader_stage": "foundation",
+      "primary_category_count": 1,
+      "secondary_category_count": 0,
+      "facet_assignment_count": 0,
+      "tag_count": 4,
+      "tags": "research communication; education; strategic communication; frameworks",
+      "taxonomy_metadata_completion": 1.0,
+      "missing_taxonomy_metadata": "none",
+      "assignment_status": "ready",
+      "review_owner": "Series editor"
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework",
+      "status": "published",
+      "article_role": "method",
+      "reader_stage": "intermediate",
+      "primary_category_count": 1,
+      "secondary_category_count": 0,
+      "facet_assignment_count": 1,
+      "tag_count": 4,
+      "tags": "framework quality; clarity; evidence alignment; governance",
+      "taxonomy_metadata_completion": 1.0,
+      "missing_taxonomy_metadata": "none",
+      "assignment_status": "ready",
+      "review_owner": "Series editor"
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "status": "published",
+      "article_role": "critique",
+      "reader_stage": "intermediate",
+      "primary_category_count": 1,
+      "secondary_category_count": 0,
+      "facet_assignment_count": 0,
+      "tag_count": 4,
+      "tags": "framework literacy; usable knowledge; critical judgment; limits",
+      "taxonomy_metadata_completion": 1.0,
+      "missing_taxonomy_metadata": "none",
+      "assignment_status": "ready",
+      "review_owner": "Series editor"
+    },
+    {
+      "slug": "frameworks-templates-and-models",
+      "title": "Frameworks Templates and Models",
+      "status": "published",
+      "article_role": "comparison",
+      "reader_stage": "intermediate",
+      "primary_category_count": 1,
+      "secondary_category_count": 0,
+      "facet_assignment_count": 0,
+      "tag_count": 5,
+      "tags": "frameworks; templates; models; methods; distinctions",
+      "taxonomy_metadata_completion": 1.0,
+      "missing_taxonomy_metadata": "none",
+      "assignment_status": "ready",
+      "review_owner": "Series editor"
+    },
+    {
+      "slug": "the-history-of-framework-thinking-in-communication-and-strategy",
+      "title": "The History of Framework Thinking in Communication and Strategy",
+      "status": "published",
+      "article_role": "history",
+      "reader_stage": "context",
+      "primary_category_count": 1,
+      "secondary_category_count": 0,
+      "facet_assignment_count": 0,
+      "tag_count": 5,
+      "tags": "history; communication; strategy; management; education",
+      "taxonomy_metadata_completion": 1.0,
+      "missing_taxonomy_metadata": "none",
+      "assignment_status": "ready",
+      "review_owner": "Series editor"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "status": "published",
+      "article_role": "pillar",
+      "reader_stage": "foundation",
+      "primary_category_count": 1,
+      "secondary_category_count": 0,
+      "facet_assignment_count": 0,
+      "tag_count": 4,
+      "tags": "pillar pages; topic clusters; knowledge architecture; internal linking",
+      "taxonomy_metadata_completion": 1.0,
+      "missing_taxonomy_metadata": "none",
+      "assignment_status": "ready",
+      "review_owner": "Knowledge architect"
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "title": "Narrative Pathways and Knowledge Architecture",
+      "status": "published",
+      "article_role": "method",
+      "reader_stage": "intermediate",
+      "primary_category_count": 1,
+      "secondary_category_count": 0,
+      "facet_assignment_count": 1,
+      "tag_count": 4,
+      "tags": "narrative pathways; knowledge architecture; reader pathways; internal links",
+      "taxonomy_metadata_completion": 1.0,
+      "missing_taxonomy_metadata": "none",
+      "assignment_status": "ready",
+      "review_owner": "Knowledge architect"
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "title": "Frameworks for Digital Knowledge Systems",
+      "status": "published",
+      "article_role": "technical",
+      "reader_stage": "intermediate",
+      "primary_category_count": 1,
+      "secondary_category_count": 0,
+      "facet_assignment_count": 1,
+      "tag_count": 5,
+      "tags": "digital knowledge systems; metadata; taxonomy; repositories; governance",
+      "taxonomy_metadata_completion": 1.0,
+      "missing_taxonomy_metadata": "none",
+      "assignment_status": "ready",
+      "review_owner": "Knowledge architect"
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "title": "Taxonomy Design for Content Frameworks",
+      "status": "published",
+      "article_role": "method",
+      "reader_stage": "intermediate",
+      "primary_category_count": 1,
+      "secondary_category_count": 0,
+      "facet_assignment_count": 1,
+      "tag_count": 6,
+      "tags": "taxonomy design; categories; metadata; tags; governance; knowledge architecture",
+      "taxonomy_metadata_completion": 1.0,
+      "missing_taxonomy_metadata": "none",
+      "assignment_status": "ready",
+      "review_owner": "Knowledge architect"
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "title": "Internal Linking as Framework Infrastructure",
+      "status": "planned",
+      "article_role": "technical",
+      "reader_stage": "intermediate",
+      "primary_category_count": 1,
+      "secondary_category_count": 0,
+      "facet_assignment_count": 1,
+      "tag_count": 4,
+      "tags": "internal linking; semantic links; reader pathways; knowledge architecture",
+      "taxonomy_metadata_completion": 0.875,
+      "missing_taxonomy_metadata": "last_reviewed",
+      "assignment_status": "ready",
+      "review_owner": "Knowledge architect"
+    },
+    {
+      "slug": "content-audits-and-framework-governance",
+      "title": "Content Audits and Framework Governance",
+      "status": "planned",
+      "article_role": "governance",
+      "reader_stage": "advanced",
+      "primary_category_count": 1,
+      "secondary_category_count": 0,
+      "facet_assignment_count": 1,
+      "tag_count": 4,
+      "tags": "content audits; governance; metadata; maintenance",
+      "taxonomy_metadata_completion": 0.875,
+      "missing_taxonomy_metadata": "last_reviewed",
+      "assignment_status": "ready",
+      "review_owner": "Editorial governance lead"
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "title": "Editorial Metadata and Content Systems",
+      "status": "planned",
+      "article_role": "technical",
+      "reader_stage": "advanced",
+      "primary_category_count": 1,
+      "secondary_category_count": 0,
+      "facet_assignment_count": 1,
+      "tag_count": 4,
+      "tags": "metadata; content systems; schemas; editorial workflows",
+      "taxonomy_metadata_completion": 0.875,
+      "missing_taxonomy_metadata": "last_reviewed",
+      "assignment_status": "ready",
+      "review_owner": "Editorial systems lead"
+    },
+    {
+      "slug": "framework-governance-and-editorial-maintenance",
+      "title": "Framework Governance and Editorial Maintenance",
+      "status": "planned",
+      "article_role": "governance",
+      "reader_stage": "advanced",
+      "primary_category_count": 1,
+      "secondary_category_count": 0,
+      "facet_assignment_count": 1,
+      "tag_count": 4,
+      "tags": "framework governance; maintenance; drift; editorial review",
+      "taxonomy_metadata_completion": 0.875,
+      "missing_taxonomy_metadata": "last_reviewed",
+      "assignment_status": "ready",
+      "review_owner": "Editorial governance lead"
+    }
+  ],
+  "category_coverage": [
+    {
+      "category_id": "CAT001",
+      "category_name": "Foundations",
+      "parent_category_id": "none",
+      "category_type": "topic",
+      "relationship_type": "broader",
+      "status": "active",
+      "primary_item_count": 6,
+      "secondary_item_count": 0,
+      "facet_item_count": 0,
+      "total_assignment_count": 6,
+      "category_status": "active",
+      "category_definition": "Definitions principles literacy distinctions and history",
+      "boundary_notes": "Includes foundational definitions history and conceptual distinctions but excludes implementation-specific architecture",
+      "governance_owner": "Series editor"
+    },
+    {
+      "category_id": "CAT002",
+      "category_name": "Knowledge Architecture",
+      "parent_category_id": "none",
+      "category_type": "topic",
+      "relationship_type": "broader",
+      "status": "active",
+      "primary_item_count": 6,
+      "secondary_item_count": 0,
+      "facet_item_count": 0,
+      "total_assignment_count": 6,
+      "category_status": "active",
+      "category_definition": "Pillar pages topic clusters narrative pathways digital systems taxonomies metadata and links",
+      "boundary_notes": "Includes content-system architecture and structural publishing logic",
+      "governance_owner": "Knowledge architect"
+    },
+    {
+      "category_id": "CAT003",
+      "category_name": "Educational Research and Conceptual Frameworks",
+      "parent_category_id": "none",
+      "category_type": "topic",
+      "relationship_type": "broader",
+      "status": "active",
+      "primary_item_count": 0,
+      "secondary_item_count": 0,
+      "facet_item_count": 0,
+      "total_assignment_count": 0,
+      "category_status": "thin category review",
+      "category_definition": "Learning scaffolds conceptual models evidence architecture and research communication",
+      "boundary_notes": "Includes education and research communication frameworks",
+      "governance_owner": "Research editor"
+    },
+    {
+      "category_id": "CAT004",
+      "category_name": "Classic Communication and Persuasive Sequence Frameworks",
+      "parent_category_id": "none",
+      "category_type": "topic",
+      "relationship_type": "broader",
+      "status": "active",
+      "primary_item_count": 0,
+      "secondary_item_count": 0,
+      "facet_item_count": 0,
+      "total_assignment_count": 0,
+      "category_status": "thin category review",
+      "category_definition": "AIDA PAS BAB 5W1H response models storytelling and persuasion ethics",
+      "boundary_notes": "Includes persuasive and explanatory sequence models",
+      "governance_owner": "Communication editor"
+    },
+    {
+      "category_id": "CAT005",
+      "category_name": "Audience Need Value Positioning and Message Architecture",
+      "parent_category_id": "none",
+      "category_type": "topic",
+      "relationship_type": "broader",
+      "status": "active",
+      "primary_item_count": 0,
+      "secondary_item_count": 0,
+      "facet_item_count": 0,
+      "total_assignment_count": 0,
+      "category_status": "thin category review",
+      "category_definition": "Audience need positioning personas message houses and journey structures",
+      "boundary_notes": "Includes audience and message architecture frameworks",
+      "governance_owner": "Strategy editor"
+    },
+    {
+      "category_id": "CAT006",
+      "category_name": "Strategic and Environmental Analysis Frameworks",
+      "parent_category_id": "none",
+      "category_type": "topic",
+      "relationship_type": "broader",
+      "status": "active",
+      "primary_item_count": 0,
+      "secondary_item_count": 0,
+      "facet_item_count": 0,
+      "total_assignment_count": 0,
+      "category_status": "thin category review",
+      "category_definition": "SWOT PESTLE competitive framing measurement and theory of change",
+      "boundary_notes": "Includes strategic analysis frameworks",
+      "governance_owner": "Strategy editor"
+    },
+    {
+      "category_id": "CAT007",
+      "category_name": "Policy Governance Systems Explanation and Public Reasoning",
+      "parent_category_id": "none",
+      "category_type": "topic",
+      "relationship_type": "broader",
+      "status": "active",
+      "primary_item_count": 0,
+      "secondary_item_count": 0,
+      "facet_item_count": 0,
+      "total_assignment_count": 0,
+      "category_status": "thin category review",
+      "category_definition": "Governance communication sustainability systems explanation and democratic understanding",
+      "boundary_notes": "Includes public reasoning and policy explanation frameworks",
+      "governance_owner": "Governance editor"
+    },
+    {
+      "category_id": "CAT008",
+      "category_name": "Framework Composition Scaling and Editorial Governance",
+      "parent_category_id": "none",
+      "category_type": "topic",
+      "relationship_type": "broader",
+      "status": "active",
+      "primary_item_count": 2,
+      "secondary_item_count": 0,
+      "facet_item_count": 0,
+      "total_assignment_count": 2,
+      "category_status": "active",
+      "category_definition": "Composition scaling limits maintenance drift and AI-assisted design",
+      "boundary_notes": "Includes governance scaling drift maintenance and AI-assisted design",
+      "governance_owner": "Editorial governance lead"
+    },
+    {
+      "category_id": "CAT009",
+      "category_name": "Definition Article",
+      "parent_category_id": "none",
+      "category_type": "article_role",
+      "relationship_type": "related",
+      "status": "active",
+      "primary_item_count": 0,
+      "secondary_item_count": 0,
+      "facet_item_count": 1,
+      "total_assignment_count": 1,
+      "category_status": "thin category review",
+      "category_definition": "Article that defines a core concept",
+      "boundary_notes": "Used for articles introducing foundational terms",
+      "governance_owner": "Series editor"
+    },
+    {
+      "category_id": "CAT010",
+      "category_name": "Method Article",
+      "parent_category_id": "none",
+      "category_type": "article_role",
+      "relationship_type": "related",
+      "status": "active",
+      "primary_item_count": 0,
+      "secondary_item_count": 0,
+      "facet_item_count": 3,
+      "total_assignment_count": 3,
+      "category_status": "thin category review",
+      "category_definition": "Article that explains a practical or analytical method",
+      "boundary_notes": "Used for method and process articles",
+      "governance_owner": "Knowledge architect"
+    },
+    {
+      "category_id": "CAT011",
+      "category_name": "Technical Article",
+      "parent_category_id": "none",
+      "category_type": "article_role",
+      "relationship_type": "related",
+      "status": "active",
+      "primary_item_count": 0,
+      "secondary_item_count": 0,
+      "facet_item_count": 3,
+      "total_assignment_count": 3,
+      "category_status": "thin category review",
+      "category_definition": "Article with implementation systems or computational focus",
+      "boundary_notes": "Used for code metadata schemas or system design",
+      "governance_owner": "Editorial systems lead"
+    },
+    {
+      "category_id": "CAT012",
+      "category_name": "Governance Article",
+      "parent_category_id": "none",
+      "category_type": "article_role",
+      "relationship_type": "related",
+      "status": "active",
+      "primary_item_count": 0,
+      "secondary_item_count": 0,
+      "facet_item_count": 2,
+      "total_assignment_count": 2,
+      "category_status": "thin category review",
+      "category_definition": "Article focused on maintenance accountability and review",
+      "boundary_notes": "Used for governance audit and editorial maintenance articles",
+      "governance_owner": "Editorial governance lead"
+    },
+    {
+      "category_id": "CAT013",
+      "category_name": "Deprecated Internal Pathways Label",
+      "parent_category_id": "none",
+      "category_type": "topic",
+      "relationship_type": "related",
+      "status": "deprecated",
+      "primary_item_count": 0,
+      "secondary_item_count": 0,
+      "facet_item_count": 0,
+      "total_assignment_count": 0,
+      "category_status": "deprecated",
+      "category_definition": "Deprecated early label that should not be used",
+      "boundary_notes": "Legacy term retained only for audit demonstration",
+      "governance_owner": "Editorial governance lead"
+    }
+  ],
+  "relationship_summary": [
+    {
+      "summary_type": "assignment_type",
+      "name": "facet",
+      "count": 9
+    },
+    {
+      "summary_type": "assignment_type",
+      "name": "primary",
+      "count": 14
+    },
+    {
+      "summary_type": "category_type",
+      "name": "article_role",
+      "count": 4
+    },
+    {
+      "summary_type": "category_type",
+      "name": "topic",
+      "count": 9
+    },
+    {
+      "summary_type": "relationship_type",
+      "name": "broader",
+      "count": 8
+    },
+    {
+      "summary_type": "relationship_type",
+      "name": "related",
+      "count": 5
+    },
+    {
+      "summary_type": "category_status",
+      "name": "active",
+      "count": 12
+    },
+    {
+      "summary_type": "category_status",
+      "name": "deprecated",
+      "count": 1
+    },
+    {
+      "summary_type": "category_assignment_count",
+      "name": "Foundations",
+      "count": 6
+    },
+    {
+      "summary_type": "category_assignment_count",
+      "name": "Knowledge Architecture",
+      "count": 6
+    },
+    {
+      "summary_type": "category_assignment_count",
+      "name": "Framework Composition Scaling and Editorial Governance",
+      "count": 2
+    },
+    {
+      "summary_type": "category_assignment_count",
+      "name": "Definition Article",
+      "count": 1
+    },
+    {
+      "summary_type": "category_assignment_count",
+      "name": "Method Article",
+      "count": 3
+    },
+    {
+      "summary_type": "category_assignment_count",
+      "name": "Technical Article",
+      "count": 3
+    },
+    {
+      "summary_type": "category_assignment_count",
+      "name": "Governance Article",
+      "count": 2
+    }
+  ],
+  "quality_rules": [
+    {
+      "rule_id": "TDR001",
+      "rule_name": "One primary category",
+      "description": "Each article should have exactly one primary category",
+      "severity": "medium",
+      "active": true
+    },
+    {
+      "rule_id": "TDR002",
+      "rule_name": "Secondary categories optional",
+      "description": "Secondary categories and facets should support cross-cutting relationships without replacing primary structure",
+      "severity": "low",
+      "active": true
+    },
+    {
+      "rule_id": "TDR003",
+      "rule_name": "Active categories populated",
+      "description": "Active categories should have enough primary items or a clear planned role",
+      "severity": "low",
+      "active": true
+    },
+    {
+      "rule_id": "TDR004",
+      "rule_name": "Tag count controlled",
+      "description": "Article tag counts should remain below the configured maximum",
+      "severity": "low",
+      "active": true
+    },
+    {
+      "rule_id": "TDR005",
+      "rule_name": "Taxonomy metadata complete",
+      "description": "Published articles should meet taxonomy metadata completion requirements",
+      "severity": "medium",
+      "active": true
+    },
+    {
+      "rule_id": "TDR006",
+      "rule_name": "Boundary notes present",
+      "description": "Categories should include boundary notes for governance",
+      "severity": "medium",
+      "active": true
+    },
+    {
+      "rule_id": "TDR007",
+      "rule_name": "Deprecated categories avoided",
+      "description": "Deprecated categories should not receive active assignments",
+      "severity": "medium",
+      "active": true
+    },
+    {
+      "rule_id": "TDR008",
+      "rule_name": "Governance owner assigned",
+      "description": "Categories and assignments should have ownership for review",
+      "severity": "medium",
+      "active": true
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "taxonomy_design_audit",
+      "severity": "low",
+      "category": "category_balance",
+      "identifier": "taxonomy",
+      "message": "Taxonomy balance score is -1.0102.",
+      "recommended_action": "Review overloaded and thin categories, but interpret balance in context."
+    },
+    {
+      "source": "taxonomy_design_audit",
+      "severity": "low",
+      "category": "thin_category",
+      "identifier": "CAT003",
+      "message": "Active category has only 0 primary item(s).",
+      "recommended_action": "Review whether the category should remain active, be merged, or be reserved for planned content."
+    },
+    {
+      "source": "taxonomy_design_audit",
+      "severity": "low",
+      "category": "thin_category",
+      "identifier": "CAT004",
+      "message": "Active category has only 0 primary item(s).",
+      "recommended_action": "Review whether the category should remain active, be merged, or be reserved for planned content."
+    },
+    {
+      "source": "taxonomy_design_audit",
+      "severity": "low",
+      "category": "thin_category",
+      "identifier": "CAT005",
+      "message": "Active category has only 0 primary item(s).",
+      "recommended_action": "Review whether the category should remain active, be merged, or be reserved for planned content."
+    },
+    {
+      "source": "taxonomy_design_audit",
+      "severity": "low",
+      "category": "thin_category",
+      "identifier": "CAT006",
+      "message": "Active category has only 0 primary item(s).",
+      "recommended_action": "Review whether the category should remain active, be merged, or be reserved for planned content."
+    },
+    {
+      "source": "taxonomy_design_audit",
+      "severity": "low",
+      "category": "thin_category",
+      "identifier": "CAT007",
+      "message": "Active category has only 0 primary item(s).",
+      "recommended_action": "Review whether the category should remain active, be merged, or be reserved for planned content."
+    },
+    {
+      "source": "taxonomy_design_audit",
+      "severity": "low",
+      "category": "thin_category",
+      "identifier": "CAT009",
+      "message": "Active category has only 0 primary item(s).",
+      "recommended_action": "Review whether the category should remain active, be merged, or be reserved for planned content."
+    },
+    {
+      "source": "taxonomy_design_audit",
+      "severity": "low",
+      "category": "thin_category",
+      "identifier": "CAT010",
+      "message": "Active category has only 0 primary item(s).",
+      "recommended_action": "Review whether the category should remain active, be merged, or be reserved for planned content."
+    },
+    {
+      "source": "taxonomy_design_audit",
+      "severity": "low",
+      "category": "thin_category",
+      "identifier": "CAT011",
+      "message": "Active category has only 0 primary item(s).",
+      "recommended_action": "Review whether the category should remain active, be merged, or be reserved for planned content."
+    },
+    {
+      "source": "taxonomy_design_audit",
+      "severity": "low",
+      "category": "thin_category",
+      "identifier": "CAT012",
+      "message": "Active category has only 0 primary item(s).",
+      "recommended_action": "Review whether the category should remain active, be merged, or be reserved for planned content."
+    }
+  ]
+}

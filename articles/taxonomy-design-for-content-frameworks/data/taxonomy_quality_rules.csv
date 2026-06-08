@@ -1,0 +1,9 @@
+rule_id,rule_name,description,severity
+TDR001,One primary category,Each article should have exactly one primary category,medium
+TDR002,Secondary categories optional,Secondary categories and facets should support cross-cutting relationships without replacing primary structure,low
+TDR003,Active categories populated,Active categories should have enough primary items or a clear planned role,low
+TDR004,Tag count controlled,Article tag counts should remain below the configured maximum,low
+TDR005,Taxonomy metadata complete,Published articles should meet taxonomy metadata completion requirements,medium
+TDR006,Boundary notes present,Categories should include boundary notes for governance,medium
+TDR007,Deprecated categories avoided,Deprecated categories should not receive active assignments,medium
+TDR008,Governance owner assigned,Categories and assignments should have ownership for review,medium

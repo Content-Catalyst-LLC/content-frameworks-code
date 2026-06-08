@@ -1,0 +1,53 @@
+{
+  "product_context": "Catalyst Canvas",
+  "article": "Taxonomy Design for Content Frameworks",
+  "series": "Content Frameworks",
+  "version": "1.0.0",
+  "minimum_taxonomy_metadata_completion": 0.85,
+  "minimum_items_per_active_category": 2,
+  "maximum_tags_per_article": 8,
+  "maximum_primary_categories_per_article": 1,
+  "minimum_category_balance_score": 0.25,
+  "required_taxonomy_metadata_fields": [
+    "primary_category",
+    "secondary_categories",
+    "article_role",
+    "reader_stage",
+    "governance_owner",
+    "last_reviewed",
+    "category_definition",
+    "boundary_notes"
+  ],
+  "category_types": [
+    "topic",
+    "article_role",
+    "reader_stage",
+    "evidence_type",
+    "governance_status",
+    "repository_layer"
+  ],
+  "assignment_types": [
+    "primary",
+    "secondary",
+    "facet",
+    "related"
+  ],
+  "relationship_types": [
+    "broader",
+    "narrower",
+    "related",
+    "prerequisite",
+    "application",
+    "comparison",
+    "governance",
+    "evidence"
+  ],
+  "governance_review_triggers": {
+    "missing_primary_category": true,
+    "multiple_primary_categories": true,
+    "taxonomy_metadata_completion_below": 0.85,
+    "tag_count_above": 8,
+    "active_category_primary_items_below": 2,
+    "deprecated_category_has_active_assignments": true
+  }
+}

@@ -1,0 +1,16 @@
+summary_type,name,count
+assignment_type,facet,9
+assignment_type,primary,14
+category_type,article_role,4
+category_type,topic,9
+relationship_type,broader,8
+relationship_type,related,5
+category_status,active,12
+category_status,deprecated,1
+category_assignment_count,Foundations,6
+category_assignment_count,Knowledge Architecture,6
+category_assignment_count,Framework Composition Scaling and Editorial Governance,2
+category_assignment_count,Definition Article,1
+category_assignment_count,Method Article,3
+category_assignment_count,Technical Article,3
+category_assignment_count,Governance Article,2

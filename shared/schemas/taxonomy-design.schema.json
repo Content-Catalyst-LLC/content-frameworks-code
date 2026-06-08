@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Taxonomy Design Record",
+  "type": "object",
+  "required": [
+    "category_id",
+    "category_name",
+    "category_type",
+    "status",
+    "category_definition",
+    "boundary_notes",
+    "governance_owner"
+  ],
+  "properties": {
+    "category_id": { "type": "string" },
+    "category_name": { "type": "string" },
+    "parent_category_id": { "type": "string" },
+    "category_type": { "type": "string" },
+    "relationship_type": { "type": "string" },
+    "status": { "type": "string", "enum": ["active", "planned", "deprecated", "retired"] },
+    "category_definition": { "type": "string" },
+    "boundary_notes": { "type": "string" },
+    "governance_owner": { "type": "string" }
+  }
+}

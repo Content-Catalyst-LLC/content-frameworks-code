@@ -1,0 +1,24 @@
+assignment_id,slug,category_id,assignment_type,assignment_confidence,assignment_reason,review_status
+A001,what-are-content-frameworks,CAT001,primary,0.98,Foundational definition article,approved
+A002,what-are-content-frameworks,CAT009,facet,0.95,Article role is definition,approved
+A003,why-frameworks-matter-in-research-education-and-strategic-communication,CAT001,primary,0.94,Foundational importance article,approved
+A004,what-makes-a-powerful-content-framework,CAT001,primary,0.90,Foundational quality criteria article,approved
+A005,what-makes-a-powerful-content-framework,CAT010,facet,0.90,Method-oriented quality review,approved
+A006,framework-literacy-and-the-structure-of-usable-knowledge,CAT001,primary,0.88,Foundational literacy and critique article,approved
+A007,frameworks-templates-and-models,CAT001,primary,0.91,Conceptual distinction article,approved
+A008,the-history-of-framework-thinking-in-communication-and-strategy,CAT001,primary,0.89,Historical foundation article,approved
+A009,pillar-pages-and-topic-clusters,CAT002,primary,0.97,Knowledge architecture pillar-cluster article,approved
+A010,narrative-pathways-and-knowledge-architecture,CAT002,primary,0.97,Knowledge architecture pathway article,approved
+A011,narrative-pathways-and-knowledge-architecture,CAT010,facet,0.88,Method article for pathway design,approved
+A012,frameworks-for-digital-knowledge-systems,CAT002,primary,0.96,Digital knowledge systems belong to knowledge architecture,approved
+A013,frameworks-for-digital-knowledge-systems,CAT011,facet,0.90,Technical systems article,approved
+A014,taxonomy-design-for-content-frameworks,CAT002,primary,0.98,Taxonomy design belongs to knowledge architecture,approved
+A015,taxonomy-design-for-content-frameworks,CAT010,facet,0.92,Method article for taxonomy design,approved
+A016,internal-linking-as-framework-infrastructure,CAT002,primary,0.95,Internal linking belongs to knowledge architecture,needs_review
+A017,internal-linking-as-framework-infrastructure,CAT011,facet,0.89,Technical infrastructure article,needs_review
+A018,content-audits-and-framework-governance,CAT008,primary,0.91,Governance and maintenance article,needs_review
+A019,content-audits-and-framework-governance,CAT012,facet,0.94,Governance article,needs_review
+A020,editorial-metadata-and-content-systems,CAT002,primary,0.94,Metadata systems belong to knowledge architecture,needs_review
+A021,editorial-metadata-and-content-systems,CAT011,facet,0.93,Technical metadata article,needs_review
+A022,framework-governance-and-editorial-maintenance,CAT008,primary,0.96,Framework governance and maintenance article,needs_review
+A023,framework-governance-and-editorial-maintenance,CAT012,facet,0.96,Governance article,needs_review

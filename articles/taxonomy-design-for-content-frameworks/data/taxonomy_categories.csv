@@ -1,0 +1,14 @@
+category_id,category_name,parent_category_id,category_type,relationship_type,status,category_definition,boundary_notes,governance_owner
+CAT001,Foundations,,topic,broader,active,Definitions principles literacy distinctions and history,Includes foundational definitions history and conceptual distinctions but excludes implementation-specific architecture,Series editor
+CAT002,Knowledge Architecture,,topic,broader,active,Pillar pages topic clusters narrative pathways digital systems taxonomies metadata and links,Includes content-system architecture and structural publishing logic,Knowledge architect
+CAT003,Educational Research and Conceptual Frameworks,,topic,broader,active,Learning scaffolds conceptual models evidence architecture and research communication,Includes education and research communication frameworks,Research editor
+CAT004,Classic Communication and Persuasive Sequence Frameworks,,topic,broader,active,AIDA PAS BAB 5W1H response models storytelling and persuasion ethics,Includes persuasive and explanatory sequence models,Communication editor
+CAT005,Audience Need Value Positioning and Message Architecture,,topic,broader,active,Audience need positioning personas message houses and journey structures,Includes audience and message architecture frameworks,Strategy editor
+CAT006,Strategic and Environmental Analysis Frameworks,,topic,broader,active,SWOT PESTLE competitive framing measurement and theory of change,Includes strategic analysis frameworks,Strategy editor
+CAT007,Policy Governance Systems Explanation and Public Reasoning,,topic,broader,active,Governance communication sustainability systems explanation and democratic understanding,Includes public reasoning and policy explanation frameworks,Governance editor
+CAT008,Framework Composition Scaling and Editorial Governance,,topic,broader,active,Composition scaling limits maintenance drift and AI-assisted design,Includes governance scaling drift maintenance and AI-assisted design,Editorial governance lead
+CAT009,Definition Article,,article_role,related,active,Article that defines a core concept,Used for articles introducing foundational terms,Series editor
+CAT010,Method Article,,article_role,related,active,Article that explains a practical or analytical method,Used for method and process articles,Knowledge architect
+CAT011,Technical Article,,article_role,related,active,Article with implementation systems or computational focus,Used for code metadata schemas or system design,Editorial systems lead
+CAT012,Governance Article,,article_role,related,active,Article focused on maintenance accountability and review,Used for governance audit and editorial maintenance articles,Editorial governance lead
+CAT013,Deprecated Internal Pathways Label,,topic,related,deprecated,Deprecated early label that should not be used,Legacy term retained only for audit demonstration,Editorial governance lead

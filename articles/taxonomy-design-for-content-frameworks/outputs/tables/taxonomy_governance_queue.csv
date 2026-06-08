@@ -1,0 +1,11 @@
+source,severity,category,identifier,message,recommended_action
+taxonomy_design_audit,low,category_balance,taxonomy,Taxonomy balance score is -1.0102.,"Review overloaded and thin categories, but interpret balance in context."
+taxonomy_design_audit,low,thin_category,CAT003,Active category has only 0 primary item(s).,"Review whether the category should remain active, be merged, or be reserved for planned content."
+taxonomy_design_audit,low,thin_category,CAT004,Active category has only 0 primary item(s).,"Review whether the category should remain active, be merged, or be reserved for planned content."
+taxonomy_design_audit,low,thin_category,CAT005,Active category has only 0 primary item(s).,"Review whether the category should remain active, be merged, or be reserved for planned content."
+taxonomy_design_audit,low,thin_category,CAT006,Active category has only 0 primary item(s).,"Review whether the category should remain active, be merged, or be reserved for planned content."
+taxonomy_design_audit,low,thin_category,CAT007,Active category has only 0 primary item(s).,"Review whether the category should remain active, be merged, or be reserved for planned content."
+taxonomy_design_audit,low,thin_category,CAT009,Active category has only 0 primary item(s).,"Review whether the category should remain active, be merged, or be reserved for planned content."
+taxonomy_design_audit,low,thin_category,CAT010,Active category has only 0 primary item(s).,"Review whether the category should remain active, be merged, or be reserved for planned content."
+taxonomy_design_audit,low,thin_category,CAT011,Active category has only 0 primary item(s).,"Review whether the category should remain active, be merged, or be reserved for planned content."
+taxonomy_design_audit,low,thin_category,CAT012,Active category has only 0 primary item(s).,"Review whether the category should remain active, be merged, or be reserved for planned content."

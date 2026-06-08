@@ -1,0 +1,15 @@
+article_id,slug,title,status,article_role,reader_stage,tags,review_owner
+TD001,what-are-content-frameworks,What Are Content Frameworks,published,definition,foundation,content frameworks|definition|knowledge structure|editorial systems,Series editor
+TD002,why-frameworks-matter-in-research-education-and-strategic-communication,Why Frameworks Matter in Research Education and Strategic Communication,published,foundation,foundation,research communication|education|strategic communication|frameworks,Series editor
+TD003,what-makes-a-powerful-content-framework,What Makes a Powerful Content Framework,published,method,intermediate,framework quality|clarity|evidence alignment|governance,Series editor
+TD004,framework-literacy-and-the-structure-of-usable-knowledge,Framework Literacy and the Structure of Usable Knowledge,published,critique,intermediate,framework literacy|usable knowledge|critical judgment|limits,Series editor
+TD005,frameworks-templates-and-models,Frameworks Templates and Models,published,comparison,intermediate,frameworks|templates|models|methods|distinctions,Series editor
+TD006,the-history-of-framework-thinking-in-communication-and-strategy,The History of Framework Thinking in Communication and Strategy,published,history,context,history|communication|strategy|management|education,Series editor
+TD007,pillar-pages-and-topic-clusters,Pillar Pages and Topic Clusters,published,pillar,foundation,pillar pages|topic clusters|knowledge architecture|internal linking,Knowledge architect
+TD008,narrative-pathways-and-knowledge-architecture,Narrative Pathways and Knowledge Architecture,published,method,intermediate,narrative pathways|knowledge architecture|reader pathways|internal links,Knowledge architect
+TD009,frameworks-for-digital-knowledge-systems,Frameworks for Digital Knowledge Systems,published,technical,intermediate,digital knowledge systems|metadata|taxonomy|repositories|governance,Knowledge architect
+TD010,taxonomy-design-for-content-frameworks,Taxonomy Design for Content Frameworks,published,method,intermediate,taxonomy design|categories|metadata|tags|governance|knowledge architecture,Knowledge architect
+TD011,internal-linking-as-framework-infrastructure,Internal Linking as Framework Infrastructure,planned,technical,intermediate,internal linking|semantic links|reader pathways|knowledge architecture,Knowledge architect
+TD012,content-audits-and-framework-governance,Content Audits and Framework Governance,planned,governance,advanced,content audits|governance|metadata|maintenance,Editorial governance lead
+TD013,editorial-metadata-and-content-systems,Editorial Metadata and Content Systems,planned,technical,advanced,metadata|content systems|schemas|editorial workflows,Editorial systems lead
+TD014,framework-governance-and-editorial-maintenance,Framework Governance and Editorial Maintenance,planned,governance,advanced,framework governance|maintenance|drift|editorial review,Editorial governance lead
