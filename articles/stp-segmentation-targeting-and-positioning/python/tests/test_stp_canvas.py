@@ -13,11 +13,7 @@ if str(PYTHON_DIR) not in sys.path:
     sys.path.insert(0, str(PYTHON_DIR))
 
 from stp_canvas.models import SegmentProfile  # noqa: E402
-from stp_canvas.scoring import (  # noqa: E402
-    GOVERNANCE_WEIGHTS,
-    TARGET_WEIGHTS,
-    score_profile,
-)
+from stp_canvas.scoring import GOVERNANCE_WEIGHTS, TARGET_WEIGHTS, score_profile  # noqa: E402
 from stp_canvas.validation import validate_rows, validate_weights  # noqa: E402
 
 

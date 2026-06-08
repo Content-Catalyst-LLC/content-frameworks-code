@@ -1,1 +1,25 @@
-SELECT record_id, canvas_dimension, content_value, audience_value, evidence_strength, repository_support, governance_need, ethical_risk, status FROM article_canvas_records;
+-- Catalyst Canvas STP queries.
+
+.headers on
+.mode column
+
+SELECT
+  segment,
+  weighted_target_score,
+  positioning_score,
+  positioning_gap,
+  ethical_review_flag,
+  status
+FROM stp_canvas_scores
+ORDER BY weighted_target_score DESC;
+
+SELECT
+  segment,
+  positioning_gap,
+  ethical_review_flag,
+  status
+FROM stp_canvas_scores
+WHERE positioning_gap >= 0.10
+   OR ethical_review_flag != 'standard review'
+   OR status IN ('review', 'revise')
+ORDER BY positioning_gap DESC;

@@ -2,7 +2,8 @@
   "module": "stp_canvas",
   "version": "1.0.0",
   "article_slug": "stp-segmentation-targeting-and-positioning",
-  "generated_at": "2026-06-08T23:14:26+00:00",
+  "article_title": "STP: Segmentation, Targeting, and Positioning",
+  "generated_at": "2026-06-08T23:31:16+00:00",
   "results": [
     {
       "segment": "Beginner learners",
@@ -205,7 +206,7 @@
         "review_priority": "medium",
         "reasons": "moderate positioning gap"
       },
-      "recommended_action": "moderate positioning gap"
+      "recommended_action": "Add evidence, clarify positioning, or review exclusion/stereotype risk."
     },
     {
       "card_id": "stp-segment-technical-practitioners",
@@ -234,7 +235,7 @@
         "review_priority": "standard",
         "reasons": "no immediate governance issue"
       },
-      "recommended_action": "no immediate governance issue"
+      "recommended_action": "Keep active and review during the next governance cycle."
     },
     {
       "card_id": "stp-segment-public-policy-stakeholders",
@@ -263,7 +264,7 @@
         "review_priority": "medium",
         "reasons": "moderate positioning gap; exclusion-risk review; status marked review"
       },
-      "recommended_action": "moderate positioning gap; exclusion-risk review; status marked review"
+      "recommended_action": "Add evidence, clarify positioning, or review exclusion/stereotype risk."
     },
     {
       "card_id": "stp-segment-affected-stakeholders",
@@ -292,7 +293,7 @@
         "review_priority": "high",
         "reasons": "moderate positioning gap; weak differentiation; exclusion-risk review; status marked review"
       },
-      "recommended_action": "moderate positioning gap; weak differentiation; exclusion-risk review; status marked review"
+      "recommended_action": "Revise positioning, evidence support, and ethical framing before reuse."
     },
     {
       "card_id": "stp-segment-institutional-sponsors",
@@ -321,7 +322,7 @@
         "review_priority": "standard",
         "reasons": "no immediate governance issue"
       },
-      "recommended_action": "no immediate governance issue"
+      "recommended_action": "Keep active and review during the next governance cycle."
     },
     {
       "card_id": "stp-segment-generic-audience-label",
@@ -350,7 +351,7 @@
         "review_priority": "high",
         "reasons": "weak evidence fit; weak category clarity; weak differentiation; stereotype-risk review; exclusion-risk review; status marked revise"
       },
-      "recommended_action": "weak evidence fit; weak category clarity; weak differentiation; stereotype-risk review; exclusion-risk review; status marked revise"
+      "recommended_action": "Revise positioning, evidence support, and ethical framing before reuse."
     }
   ]
 }

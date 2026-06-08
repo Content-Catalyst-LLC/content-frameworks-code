@@ -5,6 +5,27 @@ from __future__ import annotations
 from .models import AuditResult
 
 
+def slugify(value: str) -> str:
+    return (
+        value.strip()
+        .lower()
+        .replace("&", "and")
+        .replace("/", "-")
+        .replace(" ", "-")
+        .replace("_", "-")
+    )
+
+
+def recommended_action(result: AuditResult) -> str:
+    if result.review_priority == "archive review":
+        return "Review whether this segment should be retired or retained for historical context."
+    if result.review_priority == "high":
+        return "Revise positioning, evidence support, and ethical framing before reuse."
+    if result.review_priority == "medium":
+        return "Add evidence, clarify positioning, or review exclusion/stereotype risk."
+    return "Keep active and review during the next governance cycle."
+
+
 def queue_item(result: AuditResult) -> dict[str, object]:
     return {
         "queue_id": f"stp-review-{slugify(result.segment)}",
@@ -20,16 +41,6 @@ def queue_item(result: AuditResult) -> dict[str, object]:
         "governance_reasons": result.governance_reasons,
         "recommended_action": recommended_action(result),
     }
-
-
-def recommended_action(result: AuditResult) -> str:
-    if result.review_priority == "archive review":
-        return "Review whether this segment should be retired or retained for historical context."
-    if result.review_priority == "high":
-        return "Revise positioning, evidence support, and ethical framing before reuse."
-    if result.review_priority == "medium":
-        return "Add evidence, clarify positioning, or review exclusion/stereotype risk."
-    return "Keep active and review during the next governance cycle."
 
 
 def build_governance_queue(results: list[AuditResult]) -> list[dict[str, object]]:
@@ -48,15 +59,4 @@ def build_governance_queue(results: list[AuditResult]) -> list[dict[str, object]
             -float(item["positioning_gap"]),
             str(item["segment"]),
         ),
-    )
-
-
-def slugify(value: str) -> str:
-    return (
-        value.strip()
-        .lower()
-        .replace("&", "and")
-        .replace("/", "-")
-        .replace(" ", "-")
-        .replace("_", "-")
     )

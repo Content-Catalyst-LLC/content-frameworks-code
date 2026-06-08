@@ -1,7 +1,5 @@
-# Run all STP R workflows.
+# Run STP R workflow.
 
 source(file.path("r", "stp_segment_positioning_report.R"))
-source(file.path("r", "stp_dimension_summary.R"))
-source(file.path("r", "stp_targeting_plots.R"))
 
 cat("All STP R workflows completed.\n")

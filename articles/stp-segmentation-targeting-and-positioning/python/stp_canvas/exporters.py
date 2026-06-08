@@ -7,8 +7,8 @@ import csv
 import json
 from pathlib import Path
 
-from . import ARTICLE_SLUG, MODULE_NAME, __version__
-from .governance import build_governance_queue, slugify
+from . import ARTICLE_SLUG, ARTICLE_TITLE, MODULE_NAME, __version__
+from .governance import build_governance_queue, recommended_action, slugify
 from .models import AuditResult
 
 
@@ -37,12 +37,6 @@ def build_canvas_cards(results: list[AuditResult]) -> list[dict[str, object]]:
     cards: list[dict[str, object]] = []
 
     for result in results:
-        badges = [
-            result.target_classification,
-            result.ethical_review_flag,
-            f"priority: {result.review_priority}",
-        ]
-
         cards.append({
             "card_id": f"stp-segment-{slugify(result.segment)}",
             "type": "stp_segment_card",
@@ -51,7 +45,11 @@ def build_canvas_cards(results: list[AuditResult]) -> list[dict[str, object]]:
             "subtitle": result.content_pathway,
             "description": result.description,
             "primary_job": result.primary_job,
-            "badges": badges,
+            "badges": [
+                result.target_classification,
+                result.ethical_review_flag,
+                f"priority: {result.review_priority}",
+            ],
             "metrics": {
                 "weighted_target_score": result.weighted_target_score,
                 "positioning_score": result.positioning_score,
@@ -66,7 +64,7 @@ def build_canvas_cards(results: list[AuditResult]) -> list[dict[str, object]]:
                 "review_priority": result.review_priority,
                 "reasons": result.governance_reasons
             },
-            "recommended_action": result.governance_reasons
+            "recommended_action": recommended_action(result)
         })
 
     return cards
@@ -77,7 +75,7 @@ def build_catalog(results: list[AuditResult]) -> dict[str, object]:
         "module": MODULE_NAME,
         "version": __version__,
         "article_slug": ARTICLE_SLUG,
-        "article_title": "STP: Segmentation, Targeting, and Positioning",
+        "article_title": ARTICLE_TITLE,
         "generated_at": generated_at(),
         "record_count": len(results),
         "metrics": [
@@ -105,6 +103,7 @@ def build_full_export(results: list[AuditResult]) -> dict[str, object]:
         "module": MODULE_NAME,
         "version": __version__,
         "article_slug": ARTICLE_SLUG,
+        "article_title": ARTICLE_TITLE,
         "generated_at": generated_at(),
         "results": result_dicts,
         "governance_queue": governance_queue,

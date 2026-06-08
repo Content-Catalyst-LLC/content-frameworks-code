@@ -2,7 +2,7 @@
 
 Companion code for the Content Frameworks article **“STP: Segmentation, Targeting, and Positioning.”**
 
-This upgraded scaffold is designed for Catalyst Canvas integration. It includes package-style Python, JSON schemas, Canvas manifest metadata, UI-card exports, governance queue exports, tests, SQL views, synthetic data, and generated outputs.
+This scaffold is Catalyst Canvas-ready. It includes package-style Python, JSON schemas, Canvas manifest metadata, UI-card exports, governance queue exports, tests, SQL views, synthetic data, and generated outputs.
 
 ## Run the Catalyst Canvas audit
 
@@ -44,7 +44,3 @@ PYTHONPATH=python python3 -m unittest discover -s python/tests -p "test_*.py"
 ## Purpose
 
 The module treats STP as an auditable communication-governance framework. It evaluates segmentation logic, target-priority fit, positioning strength, ethical review risk, and governance priorities for content-framework strategy.
-
-## Catalyst Canvas Readiness Layer
-
-This article folder includes `canvas/`, `python/content_framework_canvas/`, tests, JSON exports, and governance queue outputs for Catalyst Canvas integration.

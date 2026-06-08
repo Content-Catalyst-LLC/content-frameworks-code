@@ -1,5 +1,4 @@
-# STP segment positioning report
-# Base R workflow for segmentation, targeting, and positioning diagnostics.
+# Base R workflow for STP segment, target, and positioning diagnostics.
 
 args <- commandArgs(trailingOnly = FALSE)
 file_arg <- grep("^--file=", args, value = TRUE)
@@ -13,17 +12,12 @@ if (length(file_arg) > 0) {
 
 setwd(article_root)
 
-data_path <- file.path(article_root, "data", "stp_segments.csv")
+data_path <- file.path(article_root, "data", "stp_canvas_segments.csv")
 tables_dir <- file.path(article_root, "outputs", "tables")
 figures_dir <- file.path(article_root, "outputs", "figures")
 
-if (!dir.exists(tables_dir)) {
-  dir.create(tables_dir, recursive = TRUE)
-}
-
-if (!dir.exists(figures_dir)) {
-  dir.create(figures_dir, recursive = TRUE)
-}
+if (!dir.exists(tables_dir)) dir.create(tables_dir, recursive = TRUE)
+if (!dir.exists(figures_dir)) dir.create(figures_dir, recursive = TRUE)
 
 stp <- read.csv(data_path, stringsAsFactors = FALSE)
 
@@ -53,24 +47,6 @@ stp$positioning_score <- rowMeans(stp[, c(
 
 stp$positioning_gap <- pmax(0, stp$need_intensity - stp$positioning_score)
 
-classify_target <- function(score) {
-  if (score >= 0.85) {
-    return("primary target candidate")
-  } else if (score >= 0.70) {
-    return("strong secondary target")
-  } else if (score >= 0.55) {
-    return("monitor or support with lighter pathway")
-  } else {
-    return("low current fit")
-  }
-}
-
-stp$target_classification <- vapply(
-  stp$weighted_target_score,
-  classify_target,
-  character(1)
-)
-
 stp$ethical_review_flag <- ifelse(
   stp$stereotype_risk >= 0.70 | stp$exclusion_risk >= 0.70,
   "high ethical review",
@@ -96,21 +72,6 @@ revision_queue <- stp[
 write.csv(
   revision_queue,
   file.path(tables_dir, "stp_revision_queue.csv"),
-  row.names = FALSE
-)
-
-metric_means <- colMeans(stp[, c(
-  "need_intensity",
-  "strategic_fit",
-  "reachability",
-  "evidence_fit",
-  "ethical_responsibility",
-  "positioning_score"
-)])
-
-write.csv(
-  data.frame(metric = names(metric_means), mean_score = as.numeric(metric_means)),
-  file.path(tables_dir, "stp_dimension_means.csv"),
   row.names = FALSE
 )
 
