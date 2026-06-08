@@ -1,0 +1,16 @@
+{
+  "article": "Evidence Architecture in Explanatory Content",
+  "series": "Content Frameworks",
+  "readiness_threshold": 0.78,
+  "weights": {
+    "claim_support": 0.30,
+    "source_quality": 0.20,
+    "uncertainty_visibility": 0.20,
+    "visual_support": 0.12,
+    "review_readiness": 0.18
+  },
+  "controlled_claim_strength": ["exploratory", "moderate", "strong", "causal"],
+  "controlled_claim_types": ["definitional", "descriptive", "comparative", "causal", "normative", "practical", "historical", "interpretive"],
+  "controlled_source_types": ["peer_reviewed", "official_report", "book", "dataset", "technical_documentation", "case_study", "expert_judgment", "institutional_guidance"],
+  "controlled_authority_levels": ["low", "medium", "high"]
+}

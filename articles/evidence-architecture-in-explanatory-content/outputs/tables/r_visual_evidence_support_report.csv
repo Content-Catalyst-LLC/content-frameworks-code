@@ -1,0 +1,6 @@
+"visual_id","article_slug","visual_type","source_visible","caption_explains_claim","alt_text_present","visual_limitations_visible","visual_support_score"
+"V001","evidence-architecture-in-explanatory-content","conceptual_illustration","yes","yes","yes","yes",1
+"V002","evidence-architecture-in-explanatory-content","table","yes","yes","yes","yes",1
+"V003","frameworks-for-research-communication","conceptual_illustration","yes","yes","yes","yes",1
+"V004","curriculum-pathways-and-framework-design","conceptual_illustration","yes","yes","yes","yes",1
+"V005","interdisciplinary-frameworks-and-knowledge-bridges","conceptual_illustration","no","yes","no","no",0.25

@@ -1,0 +1,4 @@
+review_id,record_id,issue_type,severity,review_note
+R001,C007,claim_support,high,Interdisciplinary frameworks claim needs direct support before publication
+R002,V005,visual_evidence,medium,Planned interdisciplinary visual needs source visibility alt text and limitation notes
+R003,evidence-architecture-in-explanatory-content,publication,low,Confirm final image attachment ID and repository URL after publication

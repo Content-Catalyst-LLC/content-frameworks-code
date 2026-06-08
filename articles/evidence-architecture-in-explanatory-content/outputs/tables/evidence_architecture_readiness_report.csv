@@ -1,0 +1,7 @@
+article_slug,title,status,claim_support_score,source_quality_score,uncertainty_visibility_score,visual_support_score,review_readiness_score,evidence_architecture_readiness,evidence_architecture_status
+evidence-architecture-in-explanatory-content,Evidence Architecture in Explanatory Content,published,1.0,1.0,1.0,1.0,1.0,1.0,ready
+frameworks-for-research-communication,Frameworks for Research Communication,published,0.75,0.75,1.0,1.0,1.0,0.875,ready
+curriculum-pathways-and-framework-design,Curriculum Pathways and Framework Design,published,0.75,0.75,1.0,1.0,1.0,0.875,ready
+interdisciplinary-frameworks-and-knowledge-bridges,Interdisciplinary Frameworks and Knowledge Bridges,planned,0.3375,0.75,1.0,0.25,0.0,0.4813,governance review
+frameworks-for-technology-and-scientific-communication,Frameworks for Technology and Scientific Communication,planned,0.3375,0.75,1.0,1.0,0.0,0.5713,governance review
+public-reasoning-and-framework-design,Public Reasoning and Framework Design,planned,0.3375,0.75,1.0,1.0,0.0,0.5713,governance review

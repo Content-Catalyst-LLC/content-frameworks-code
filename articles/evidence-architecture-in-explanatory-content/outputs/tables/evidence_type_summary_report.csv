@@ -1,0 +1,6 @@
+summary_type,value,count
+source_type,book,3
+source_type,expert_judgment,5
+source_type,official_report,1
+authority_level,high,4
+authority_level,medium,5

@@ -1,0 +1,9 @@
+category,description
+claim,Assertion the article asks readers to accept
+source,Record used to support a claim
+evidence_type,Kind of support used
+support_relationship,How evidence supports the claim
+uncertainty,Known unknowns assumptions confidence or disagreement
+limitation,Boundary on what should be concluded
+visual_evidence,Chart table diagram or image that supports or represents a claim
+governance,Review structure for maintaining evidence quality

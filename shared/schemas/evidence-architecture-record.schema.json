@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Evidence Architecture Record",
+  "type": "object",
+  "required": [
+    "article_slug",
+    "title",
+    "status",
+    "limitations_visible",
+    "uncertainty_visible",
+    "source_review_complete"
+  ]
+}

@@ -1,0 +1,23 @@
+source_type,authority_level,source_count
+book,high,3
+expert_judgment,medium,5
+official_report,high,1
+article_slug,claim_count,directly_supported_claims
+frameworks-for-technology-and-scientific-communication,1,0
+interdisciplinary-frameworks-and-knowledge-bridges,1,0
+public-reasoning-and-framework-design,1,0
+curriculum-pathways-and-framework-design,1,1
+frameworks-for-research-communication,1,1
+evidence-architecture-in-explanatory-content,4,4
+article_slug,title,evidence_architecture_features_present
+frameworks-for-technology-and-scientific-communication,"Frameworks for Technology and Scientific Communication",4
+interdisciplinary-frameworks-and-knowledge-bridges,"Interdisciplinary Frameworks and Knowledge Bridges",4
+public-reasoning-and-framework-design,"Public Reasoning and Framework Design",4
+curriculum-pathways-and-framework-design,"Curriculum Pathways and Framework Design",7
+evidence-architecture-in-explanatory-content,"Evidence Architecture in Explanatory Content",7
+frameworks-for-research-communication,"Frameworks for Research Communication",7
+article_slug,visual_count,visuals_with_sources,visuals_with_alt_text,visuals_with_limitations
+interdisciplinary-frameworks-and-knowledge-bridges,1,0,0,0
+curriculum-pathways-and-framework-design,1,1,1,1
+frameworks-for-research-communication,1,1,1,1
+evidence-architecture-in-explanatory-content,2,2,2,2

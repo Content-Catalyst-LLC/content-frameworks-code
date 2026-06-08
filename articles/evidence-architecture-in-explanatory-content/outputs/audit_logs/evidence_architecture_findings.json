@@ -1,0 +1,16 @@
+[
+  {
+    "severity": "high",
+    "category": "claim_support",
+    "identifier": "C007",
+    "message": "Strong or causal claim has insufficient support.",
+    "recommended_action": "Review claim language, source authority, and evidence type."
+  },
+  {
+    "severity": "high",
+    "category": "claim_support",
+    "identifier": "C009",
+    "message": "Strong or causal claim has insufficient support.",
+    "recommended_action": "Review claim language, source authority, and evidence type."
+  }
+]

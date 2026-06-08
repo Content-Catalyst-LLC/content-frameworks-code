@@ -1,0 +1,10 @@
+source_id,source_title,source_type,authority_level,review_status
+S001,The Craft of Research,book,high,ready
+S002,The Uses of Argument,book,high,ready
+S003,Communicating Science Effectively: A Research Agenda,official_report,high,ready
+S004,The Visual Display of Quantitative Information,book,high,ready
+S005,Frameworks for Research Communication Internal Record,expert_judgment,medium,ready
+S006,Curriculum Pathways Internal Record,expert_judgment,medium,ready
+S007,Interdisciplinary Frameworks Placeholder,expert_judgment,medium,review
+S008,Technology and Scientific Communication Placeholder,expert_judgment,medium,review
+S009,Public Reasoning Placeholder,expert_judgment,medium,review

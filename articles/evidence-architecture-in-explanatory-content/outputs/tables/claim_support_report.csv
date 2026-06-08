@@ -1,0 +1,10 @@
+claim_id,article_slug,claim_type,claim_strength,source_id,source_present,source_type,authority_level,direct_support,claim_support_score
+C001,evidence-architecture-in-explanatory-content,definitional,moderate,S001,True,book,high,True,1.0
+C002,evidence-architecture-in-explanatory-content,practical,strong,S002,True,book,high,True,1.0
+C003,evidence-architecture-in-explanatory-content,normative,moderate,S003,True,official_report,high,True,1.0
+C004,evidence-architecture-in-explanatory-content,visual,moderate,S004,True,book,high,True,1.0
+C005,frameworks-for-research-communication,descriptive,strong,S005,True,expert_judgment,medium,True,0.75
+C006,curriculum-pathways-and-framework-design,educational,strong,S006,True,expert_judgment,medium,True,0.75
+C007,interdisciplinary-frameworks-and-knowledge-bridges,interpretive,strong,S007,True,expert_judgment,medium,False,0.3375
+C008,frameworks-for-technology-and-scientific-communication,descriptive,moderate,S008,True,expert_judgment,medium,False,0.3375
+C009,public-reasoning-and-framework-design,normative,strong,S009,True,expert_judgment,medium,False,0.3375

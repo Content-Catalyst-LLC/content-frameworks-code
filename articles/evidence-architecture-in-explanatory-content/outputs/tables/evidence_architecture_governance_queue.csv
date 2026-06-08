@@ -1,0 +1,6 @@
+source,severity,category,identifier,message,recommended_action
+manual_review_queue,high,claim_support,C007,Interdisciplinary frameworks claim needs direct support before publication,Resolve through evidence architecture governance.
+manual_review_queue,medium,visual_evidence,V005,Planned interdisciplinary visual needs source visibility alt text and limitation notes,Resolve through evidence architecture governance.
+manual_review_queue,low,publication,evidence-architecture-in-explanatory-content,Confirm final image attachment ID and repository URL after publication,Resolve through evidence architecture governance.
+,high,claim_support,C007,Strong or causal claim has insufficient support.,"Review claim language, source authority, and evidence type."
+,high,claim_support,C009,Strong or causal claim has insufficient support.,"Review claim language, source authority, and evidence type."
