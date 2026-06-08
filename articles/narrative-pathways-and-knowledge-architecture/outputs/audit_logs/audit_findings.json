@@ -1,0 +1,30 @@
+[
+  {
+    "severity": "medium",
+    "category": "pathway_readiness",
+    "identifier": "PW002",
+    "message": "Knowledge Architecture Pathway status: coverage review required.",
+    "recommended_action": "Review missing articles, planned articles, and transition links."
+  },
+  {
+    "severity": "medium",
+    "category": "pathway_readiness",
+    "identifier": "PW003",
+    "message": "Editorial Governance Pathway status: coverage review required.",
+    "recommended_action": "Review missing articles, planned articles, and transition links."
+  },
+  {
+    "severity": "medium",
+    "category": "pathway_readiness",
+    "identifier": "PW004",
+    "message": "Critical Framework Use Pathway status: transition review required.",
+    "recommended_action": "Review missing articles, planned articles, and transition links."
+  },
+  {
+    "severity": "medium",
+    "category": "pathway_readiness",
+    "identifier": "PW005",
+    "message": "Research Communication Pathway status: transition review required.",
+    "recommended_action": "Review missing articles, planned articles, and transition links."
+  }
+]

@@ -1,0 +1,15 @@
+article_id,slug,title,cluster,status,article_role,pathway_role,reader_state,has_series_context,links_to_article_map,has_transition_links,has_next_step,review_owner
+NP001,what-are-content-frameworks,What Are Content Frameworks,Foundations,published,definition,foundation,beginner,yes,yes,yes,yes,Series editor
+NP002,why-frameworks-matter-in-research-education-and-strategic-communication,Why Frameworks Matter in Research Education and Strategic Communication,Foundations,published,foundation,foundation,beginner,yes,yes,yes,yes,Series editor
+NP003,what-makes-a-powerful-content-framework,What Makes a Powerful Content Framework,Foundations,published,method,quality_review,practitioner,yes,yes,yes,yes,Series editor
+NP004,framework-literacy-and-the-structure-of-usable-knowledge,Framework Literacy and the Structure of Usable Knowledge,Foundations,published,critique,critical_pathway,returning_reader,yes,yes,yes,yes,Series editor
+NP005,frameworks-templates-and-models,Frameworks Templates and Models,Foundations,published,comparison,distinction,practitioner,yes,yes,yes,yes,Series editor
+NP006,the-history-of-framework-thinking-in-communication-and-strategy,The History of Framework Thinking in Communication and Strategy,Foundations,published,history,context,researcher,yes,yes,yes,yes,Series editor
+NP007,pillar-pages-and-topic-clusters,Pillar Pages and Topic Clusters,Knowledge Architecture,published,pillar,architecture,beginner,yes,yes,yes,yes,Knowledge architect
+NP008,narrative-pathways-and-knowledge-architecture,Narrative Pathways and Knowledge Architecture,Knowledge Architecture,published,method,pathway_design,practitioner,yes,yes,yes,yes,Knowledge architect
+NP009,frameworks-for-digital-knowledge-systems,Frameworks for Digital Knowledge Systems,Knowledge Architecture,published,technical,digital_systems,practitioner,yes,yes,yes,yes,Knowledge architect
+NP010,taxonomy-design-for-content-frameworks,Taxonomy Design for Content Frameworks,Knowledge Architecture,planned,method,taxonomy_design,editor,no,no,no,no,Knowledge architect
+NP011,internal-linking-as-framework-infrastructure,Internal Linking as Framework Infrastructure,Knowledge Architecture,planned,technical,link_infrastructure,editor,no,no,no,no,Knowledge architect
+NP012,content-audits-and-framework-governance,Content Audits and Framework Governance,Knowledge Architecture,planned,governance,maintenance,editor,no,no,no,no,Editorial governance lead
+NP013,editorial-metadata-and-content-systems,Editorial Metadata and Content Systems,Knowledge Architecture,planned,technical,metadata_systems,editor,no,no,no,no,Editorial systems lead
+NP014,framework-governance-and-editorial-maintenance,Framework Governance and Editorial Maintenance,Framework Composition Scaling and Editorial Governance,planned,governance,governance,editor,no,no,no,no,Editorial governance lead

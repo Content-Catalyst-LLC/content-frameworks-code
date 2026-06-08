@@ -1,0 +1,59 @@
+{
+  "product_context": "Catalyst Canvas",
+  "article": "Narrative Pathways and Knowledge Architecture",
+  "series": "Content Frameworks",
+  "version": "1.0.0",
+  "minimum_metadata_completion": 0.85,
+  "minimum_link_degree": 2,
+  "minimum_pathway_readiness": 0.75,
+  "minimum_transition_coverage": 0.70,
+  "required_metadata_fields": [
+    "excerpt",
+    "tags",
+    "github_url",
+    "image_alt",
+    "references",
+    "last_reviewed",
+    "series_context",
+    "footer_navigation"
+  ],
+  "reader_states": [
+    "beginner",
+    "returning_reader",
+    "researcher",
+    "practitioner",
+    "decision_maker",
+    "editor",
+    "public_audience"
+  ],
+  "article_roles": [
+    "pillar",
+    "foundation",
+    "definition",
+    "history",
+    "method",
+    "comparison",
+    "application",
+    "technical",
+    "critique",
+    "governance"
+  ],
+  "pathway_types": [
+    "foundational",
+    "learning",
+    "method",
+    "research",
+    "strategic",
+    "governance",
+    "critical",
+    "exploratory"
+  ],
+  "governance_review_triggers": {
+    "published_article_missing_orientation": true,
+    "published_article_missing_bridge": true,
+    "metadata_completion_below": 0.85,
+    "link_degree_below": 2,
+    "pathway_readiness_below": 0.75,
+    "transition_coverage_below": 0.70
+  }
+}

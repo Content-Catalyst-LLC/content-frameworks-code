@@ -1,0 +1,5 @@
+source,severity,category,identifier,message,recommended_action
+narrative_pathway_audit,medium,pathway_readiness,PW002,Knowledge Architecture Pathway status: coverage review required.,"Review missing articles, planned articles, and transition links."
+narrative_pathway_audit,medium,pathway_readiness,PW003,Editorial Governance Pathway status: coverage review required.,"Review missing articles, planned articles, and transition links."
+narrative_pathway_audit,medium,pathway_readiness,PW004,Critical Framework Use Pathway status: transition review required.,"Review missing articles, planned articles, and transition links."
+narrative_pathway_audit,medium,pathway_readiness,PW005,Research Communication Pathway status: transition review required.,"Review missing articles, planned articles, and transition links."

@@ -1,0 +1,31 @@
+reader_state,article_count
+practitioner,2
+beginner,2
+returning_reader,1
+editor,1
+article_role,article_count
+method,2
+technical,1
+pillar,1
+definition,1
+critique,1
+pathway_type,pathway_count
+learning,1
+foundational,1
+slug,title,status,article_role,pathway_role,reader_state,outgoing_links,incoming_links,total_link_degree,pathway_readiness
+what-are-content-frameworks,"What Are Content Frameworks",published,definition,foundation,beginner,0,1,1,"link review required"
+framework-literacy-and-the-structure-of-usable-knowledge,"Framework Literacy and the Structure of Usable Knowledge",published,critique,critical_pathway,returning_reader,0,1,1,"link review required"
+taxonomy-design-for-content-frameworks,"Taxonomy Design for Content Frameworks",planned,method,taxonomy_design,editor,0,0,0,planned
+narrative-pathways-and-knowledge-architecture,"Narrative Pathways and Knowledge Architecture",published,method,pathway_design,practitioner,4,2,6,ready
+pillar-pages-and-topic-clusters,"Pillar Pages and Topic Clusters",published,pillar,architecture,beginner,1,1,2,ready
+frameworks-for-digital-knowledge-systems,"Frameworks for Digital Knowledge Systems",published,technical,digital_systems,practitioner,1,1,2,ready
+slug,title,status,metadata_completion
+taxonomy-design-for-content-frameworks,"Taxonomy Design for Content Frameworks",planned,0.0
+pillar-pages-and-topic-clusters,"Pillar Pages and Topic Clusters",published,1.0
+narrative-pathways-and-knowledge-architecture,"Narrative Pathways and Knowledge Architecture",published,1.0
+frameworks-for-digital-knowledge-systems,"Frameworks for Digital Knowledge Systems",published,1.0
+relationship_type,link_count
+previous_article,2
+next_article,2
+prerequisite,1
+critical_bridge,1

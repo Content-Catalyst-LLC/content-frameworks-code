@@ -1,0 +1,8 @@
+rule_id,rule_name,description,severity,active
+NPR001,Published article has orientation,Published articles should include series context and a link to the article map or pillar page,medium,True
+NPR002,Published article has bridge links,Published articles should include meaningful transition links or next-step guidance,medium,True
+NPR003,Pathway has sufficient readiness,Pathways should include enough published stages to be useful,medium,True
+NPR004,Pathway has transition coverage,Sequential stages should be connected by direct or near-direct links,medium,True
+NPR005,Published metadata complete,Published articles should meet minimum metadata completion,medium,True
+NPR006,Reader state coverage,Knowledge systems should support multiple reader states,low,True
+NPR007,Governance ownership,Pathways should have owners and review cycles,medium,True

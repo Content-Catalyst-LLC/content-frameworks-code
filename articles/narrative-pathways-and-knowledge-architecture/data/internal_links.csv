@@ -1,0 +1,19 @@
+source_slug,target_slug,relationship_type,transition_purpose,priority
+pillar-pages-and-topic-clusters,narrative-pathways-and-knowledge-architecture,next_article,moves from content structure to reader movement,high
+narrative-pathways-and-knowledge-architecture,pillar-pages-and-topic-clusters,previous_article,connects pathways back to pillar-cluster architecture,high
+narrative-pathways-and-knowledge-architecture,frameworks-for-digital-knowledge-systems,next_article,moves from reader pathways to digital system architecture,high
+frameworks-for-digital-knowledge-systems,narrative-pathways-and-knowledge-architecture,previous_article,connects digital systems back to pathway logic,high
+narrative-pathways-and-knowledge-architecture,content-frameworks,article_map,restores orientation to series map,high
+narrative-pathways-and-knowledge-architecture,what-are-content-frameworks,prerequisite,connects pathway design to framework definition,medium
+narrative-pathways-and-knowledge-architecture,framework-literacy-and-the-structure-of-usable-knowledge,critical_bridge,connects pathway design to responsible framework use,medium
+narrative-pathways-and-knowledge-architecture,internal-linking-as-framework-infrastructure,technical_bridge,connects narrative pathways to internal-link infrastructure,high
+narrative-pathways-and-knowledge-architecture,editorial-metadata-and-content-systems,metadata_bridge,connects pathways to metadata governance,high
+what-are-content-frameworks,why-frameworks-matter-in-research-education-and-strategic-communication,next_article,moves from definition to importance,high
+why-frameworks-matter-in-research-education-and-strategic-communication,what-makes-a-powerful-content-framework,next_article,moves from importance to quality,high
+what-makes-a-powerful-content-framework,framework-literacy-and-the-structure-of-usable-knowledge,next_article,moves from quality to literacy,high
+framework-literacy-and-the-structure-of-usable-knowledge,frameworks-templates-and-models,next_article,moves from literacy to structural distinction,high
+frameworks-templates-and-models,the-history-of-framework-thinking-in-communication-and-strategy,next_article,moves from structure distinction to history,high
+the-history-of-framework-thinking-in-communication-and-strategy,pillar-pages-and-topic-clusters,next_article,moves from history to knowledge architecture,high
+pillar-pages-and-topic-clusters,frameworks-for-digital-knowledge-systems,related_architecture,connects pillar architecture to digital knowledge systems,medium
+frameworks-for-digital-knowledge-systems,editorial-metadata-and-content-systems,metadata_bridge,connects digital architecture to metadata systems,medium
+content-audits-and-framework-governance,framework-governance-and-editorial-maintenance,governance_bridge,connects content audits to editorial maintenance,medium

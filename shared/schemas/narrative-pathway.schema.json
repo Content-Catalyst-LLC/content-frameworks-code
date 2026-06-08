@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Narrative Pathway Article Record",
+  "type": "object",
+  "required": [
+    "article_id",
+    "slug",
+    "title",
+    "cluster",
+    "status",
+    "article_role",
+    "pathway_role",
+    "reader_state"
+  ],
+  "properties": {
+    "article_id": { "type": "string" },
+    "slug": { "type": "string" },
+    "title": { "type": "string" },
+    "cluster": { "type": "string" },
+    "status": { "type": "string", "enum": ["published", "planned", "draft", "review"] },
+    "article_role": { "type": "string" },
+    "pathway_role": { "type": "string" },
+    "reader_state": { "type": "string" },
+    "has_series_context": { "type": "string" },
+    "links_to_article_map": { "type": "string" },
+    "has_transition_links": { "type": "string" },
+    "has_next_step": { "type": "string" }
+  }
+}
