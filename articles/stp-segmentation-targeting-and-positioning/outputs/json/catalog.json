@@ -1,0 +1,21 @@
+{
+  "module": "stp_canvas",
+  "version": "1.0.0",
+  "article_slug": "stp-segmentation-targeting-and-positioning",
+  "article_title": "STP: Segmentation, Targeting, and Positioning",
+  "generated_at": "2026-06-08T23:14:26+00:00",
+  "record_count": 6,
+  "metrics": [
+    "weighted_target_score",
+    "positioning_score",
+    "positioning_gap",
+    "governance_score",
+    "ethical_risk_score"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/stp_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/stp_canvas_export.json"
+  }
+}

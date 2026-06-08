@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://thecontentcatalyst.net/schemas/stp-canvas-output.schema.json",
+  "title": "STP Catalyst Canvas Output Schema",
+  "description": "Output schema for Catalyst Canvas STP audit results, UI cards, catalog records, and governance queues.",
+  "type": "object",
+  "required": ["module", "article_slug", "generated_at", "results", "governance_queue", "canvas_cards"],
+  "properties": {
+    "module": { "type": "string", "const": "stp_canvas" },
+    "article_slug": { "type": "string", "const": "stp-segmentation-targeting-and-positioning" },
+    "generated_at": { "type": "string" },
+    "results": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "segment",
+          "weighted_target_score",
+          "positioning_score",
+          "positioning_gap",
+          "governance_score",
+          "target_classification",
+          "ethical_review_flag",
+          "review_priority"
+        ],
+        "properties": {
+          "segment": { "type": "string" },
+          "weighted_target_score": { "type": "number" },
+          "positioning_score": { "type": "number" },
+          "positioning_gap": { "type": "number" },
+          "governance_score": { "type": "number" },
+          "target_classification": { "type": "string" },
+          "ethical_review_flag": { "type": "string" },
+          "review_priority": { "type": "string" }
+        },
+        "additionalProperties": true
+      }
+    },
+    "governance_queue": { "type": "array" },
+    "canvas_cards": { "type": "array" }
+  },
+  "additionalProperties": true
+}

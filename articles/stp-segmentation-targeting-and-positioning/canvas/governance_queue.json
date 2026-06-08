@@ -1,0 +1,58 @@
+[
+  {
+    "queue_id": "stp-review-affected-stakeholders",
+    "article_slug": "stp-segmentation-targeting-and-positioning",
+    "segment": "Affected stakeholders",
+    "owner": "governance",
+    "status": "review",
+    "review_date": "2026-06-08",
+    "review_priority": "high",
+    "ethical_review_flag": "high ethical review",
+    "positioning_gap": 0.172,
+    "governance_score": 0.696,
+    "governance_reasons": "moderate positioning gap; weak differentiation; exclusion-risk review; status marked review",
+    "recommended_action": "Revise positioning, evidence support, and ethical framing before reuse."
+  },
+  {
+    "queue_id": "stp-review-generic-audience-label",
+    "article_slug": "stp-segmentation-targeting-and-positioning",
+    "segment": "Generic audience label",
+    "owner": "editorial",
+    "status": "revise",
+    "review_date": "2026-06-08",
+    "review_priority": "high",
+    "ethical_review_flag": "moderate ethical review",
+    "positioning_gap": 0.082,
+    "governance_score": 0.449,
+    "governance_reasons": "weak evidence fit; weak category clarity; weak differentiation; stereotype-risk review; exclusion-risk review; status marked revise",
+    "recommended_action": "Revise positioning, evidence support, and ethical framing before reuse."
+  },
+  {
+    "queue_id": "stp-review-public-policy-stakeholders",
+    "article_slug": "stp-segmentation-targeting-and-positioning",
+    "segment": "Public policy stakeholders",
+    "owner": "governance",
+    "status": "review",
+    "review_date": "2026-06-08",
+    "review_priority": "medium",
+    "ethical_review_flag": "moderate ethical review",
+    "positioning_gap": 0.132,
+    "governance_score": 0.74,
+    "governance_reasons": "moderate positioning gap; exclusion-risk review; status marked review",
+    "recommended_action": "Add evidence, clarify positioning, or review exclusion/stereotype risk."
+  },
+  {
+    "queue_id": "stp-review-beginner-learners",
+    "article_slug": "stp-segmentation-targeting-and-positioning",
+    "segment": "Beginner learners",
+    "owner": "editorial",
+    "status": "active",
+    "review_date": "2026-06-08",
+    "review_priority": "medium",
+    "ethical_review_flag": "standard review",
+    "positioning_gap": 0.102,
+    "governance_score": 0.793,
+    "governance_reasons": "moderate positioning gap",
+    "recommended_action": "Add evidence, clarify positioning, or review exclusion/stereotype risk."
+  }
+]

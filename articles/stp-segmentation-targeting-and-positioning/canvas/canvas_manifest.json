@@ -1,0 +1,46 @@
+{
+  "module": "stp_canvas",
+  "version": "1.0.0",
+  "article_slug": "stp-segmentation-targeting-and-positioning",
+  "article_title": "STP: Segmentation, Targeting, and Positioning",
+  "series": "Content Frameworks",
+  "repository_path": "articles/stp-segmentation-targeting-and-positioning/",
+  "entrypoint": "python -m stp_canvas.cli",
+  "default_input": "data/stp_canvas_segments.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/stp_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/stp_canvas_export.json"
+  },
+  "metrics": [
+    "weighted_target_score",
+    "positioning_score",
+    "positioning_gap",
+    "governance_score",
+    "ethical_review_flag",
+    "review_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "segment_summary",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "card_grid"
+    },
+    {
+      "type": "governance_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": ["stereotype_risk", "exclusion_risk", "weak_evidence", "positioning_gap"]
+  }
+}
