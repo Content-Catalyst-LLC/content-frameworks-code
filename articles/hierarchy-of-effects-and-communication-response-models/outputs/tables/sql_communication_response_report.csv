@@ -1,0 +1,27 @@
+primary_response_stage,asset_count
+action,2
+conviction,1
+follow_through,1
+knowledge,1
+preference,1
+audience,asset_count
+commercial_audience,1
+general_reader,1
+professional_reader,1
+public_reader,1
+returning_reader,1
+technical_reader,1
+asset_id,asset_name,primary_response_stage,supported_stage_count,evidence_stage_count
+R001,"Article introduction",knowledge,3,3
+R005,"High-pressure conversion prompt",action,5,0
+R003,"Comparison table",preference,5,5
+R002,"GitHub repository block",action,6,6
+R004,"Learning pathway CTA",follow_through,7,7
+R006,"Public-interest adoption explainer",conviction,7,7
+asset_id,asset_name,ethical_features
+R005,"High-pressure conversion prompt",0
+R001,"Article introduction",4
+R002,"GitHub repository block",4
+R003,"Comparison table",4
+R004,"Learning pathway CTA",4
+R006,"Public-interest adoption explainer",4

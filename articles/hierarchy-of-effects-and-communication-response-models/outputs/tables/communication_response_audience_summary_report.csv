@@ -1,0 +1,7 @@
+audience,asset_count,average_response_readiness
+commercial_audience,1,0.2159
+general_reader,1,0.7143
+professional_reader,1,0.8359
+public_reader,1,1.0
+returning_reader,1,1.0
+technical_reader,1,0.9033

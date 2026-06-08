@@ -1,0 +1,44 @@
+[
+  {
+    "severity": "medium",
+    "category": "stage_coverage",
+    "identifier": "R001",
+    "message": "Response-stage coverage is narrow.",
+    "recommended_action": "Confirm that narrow stage coverage is intentional or add supporting assets."
+  },
+  {
+    "severity": "medium",
+    "category": "response_readiness",
+    "identifier": "R001",
+    "message": "Response readiness is 0.71.",
+    "recommended_action": "Review stage support, evidence support, audience fit, governance, and ethical-risk flags."
+  },
+  {
+    "severity": "high",
+    "category": "evidence_support",
+    "identifier": "R005",
+    "message": "Supported response stages lack evidence: awareness, liking, preference, conviction, action.",
+    "recommended_action": "Add evidence, examples, measurement notes, or limitation language."
+  },
+  {
+    "severity": "medium",
+    "category": "audience_fit",
+    "identifier": "R005",
+    "message": "Audience readiness support is weak.",
+    "recommended_action": "Define audience context, readiness level, and next-step fit."
+  },
+  {
+    "severity": "high",
+    "category": "ethical_review",
+    "identifier": "R005",
+    "message": "Ethical review score is below standard.",
+    "recommended_action": "Remove false urgency, pressure CTAs, overclaiming, or agency-reducing language."
+  },
+  {
+    "severity": "medium",
+    "category": "response_readiness",
+    "identifier": "R005",
+    "message": "Response readiness is 0.22.",
+    "recommended_action": "Review stage support, evidence support, audience fit, governance, and ethical-risk flags."
+  }
+]

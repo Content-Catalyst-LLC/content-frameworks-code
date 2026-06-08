@@ -1,0 +1,5 @@
+review_id,record_id,issue_type,severity,review_note
+R001,R005,ethical_review,high,High-pressure conversion prompt contains false urgency overclaiming pressure CTA and weak agency support
+R002,R001,stage_support,medium,Article introduction intentionally supports early stages but should not be measured as conversion content
+R003,R003,follow_through,low,Comparison table may need links to action and follow-through content
+R004,hierarchy-of-effects-and-communication-response-models,publication,low,Confirm final image attachment ID and repository URL after publication

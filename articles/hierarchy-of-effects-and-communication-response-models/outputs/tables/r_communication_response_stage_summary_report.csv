@@ -1,0 +1,8 @@
+"response_stage","assets_supporting_stage","assets_with_evidence","support_rate","evidence_rate"
+"awareness",6,5,1,0.8333
+"knowledge",5,5,0.8333,1
+"liking",5,4,0.8333,0.8
+"preference",5,4,0.8333,0.8
+"conviction",5,4,0.8333,0.8
+"action",4,3,0.6667,0.75
+"follow_through",3,3,0.5,1

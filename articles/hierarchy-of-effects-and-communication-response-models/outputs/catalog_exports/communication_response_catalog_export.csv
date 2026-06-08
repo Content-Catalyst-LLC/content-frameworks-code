@@ -1,0 +1,7 @@
+series,article_slug,asset_id,asset_name,asset_type,primary_response_stage,audience,response_readiness_score,response_status,github_path
+Content Frameworks,hierarchy-of-effects-and-communication-response-models,R001,Article introduction,article_section,knowledge,general_reader,0.7143,governance review,articles/hierarchy-of-effects-and-communication-response-models/
+Content Frameworks,hierarchy-of-effects-and-communication-response-models,R002,GitHub repository block,repository_cta,action,technical_reader,0.9033,ready,articles/hierarchy-of-effects-and-communication-response-models/
+Content Frameworks,hierarchy-of-effects-and-communication-response-models,R003,Comparison table,article_section,preference,professional_reader,0.8359,ready,articles/hierarchy-of-effects-and-communication-response-models/
+Content Frameworks,hierarchy-of-effects-and-communication-response-models,R004,Learning pathway CTA,learning_pathway,follow_through,returning_reader,1.0,ready,articles/hierarchy-of-effects-and-communication-response-models/
+Content Frameworks,hierarchy-of-effects-and-communication-response-models,R005,High-pressure conversion prompt,landing_page,action,commercial_audience,0.2159,governance review,articles/hierarchy-of-effects-and-communication-response-models/
+Content Frameworks,hierarchy-of-effects-and-communication-response-models,R006,Public-interest adoption explainer,public_campaign,conviction,public_reader,1.0,ready,articles/hierarchy-of-effects-and-communication-response-models/

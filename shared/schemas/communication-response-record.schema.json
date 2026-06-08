@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Communication Response Record",
+  "type": "object",
+  "required": [
+    "asset_id",
+    "asset_name",
+    "asset_type",
+    "primary_response_stage",
+    "audience",
+    "audience_agency_preserved"
+  ]
+}

@@ -1,0 +1,7 @@
+asset_id,asset_name,asset_type,primary_response_stage,audience,stage_coverage_score,evidence_support_score,stage_balance_score,audience_fit_score,governance_score,ethical_review_score,response_readiness_score,missing_stage_support,unsupported_stage_claims,response_status
+R001,Article introduction,article_section,knowledge,general_reader,0.4286,1.0,0.0,1.0,1.0,1.0,0.7143,preference;conviction;action;follow_through,,governance review
+R002,GitHub repository block,repository_cta,action,technical_reader,0.8571,1.0,0.5918,1.0,1.0,1.0,0.9033,liking,,ready
+R003,Comparison table,article_section,preference,professional_reader,0.7143,1.0,0.3675,1.0,1.0,1.0,0.8359,action;follow_through,,ready
+R004,Learning pathway CTA,learning_pathway,follow_through,returning_reader,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,ready
+R005,High-pressure conversion prompt,landing_page,action,commercial_audience,0.7143,0.0,0.3675,0.0,0.0,0.0,0.2159,knowledge;follow_through,awareness;liking;preference;conviction;action,governance review
+R006,Public-interest adoption explainer,public_campaign,conviction,public_reader,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,ready

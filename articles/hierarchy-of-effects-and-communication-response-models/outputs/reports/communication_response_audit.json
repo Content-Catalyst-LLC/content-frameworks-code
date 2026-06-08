@@ -1,0 +1,240 @@
+{
+  "article": "Hierarchy of Effects and Communication Response Models",
+  "generated_at": "2026-06-08T22:07:11.130768+00:00",
+  "counts": {
+    "assets": 6,
+    "findings": 6,
+    "governance_queue": 10
+  },
+  "stage_summary": [
+    {
+      "response_stage": "awareness",
+      "assets_supporting_stage": 6,
+      "assets_with_evidence": 5,
+      "support_rate": 1.0,
+      "evidence_rate": 0.8333
+    },
+    {
+      "response_stage": "knowledge",
+      "assets_supporting_stage": 5,
+      "assets_with_evidence": 5,
+      "support_rate": 0.8333,
+      "evidence_rate": 1.0
+    },
+    {
+      "response_stage": "liking",
+      "assets_supporting_stage": 5,
+      "assets_with_evidence": 4,
+      "support_rate": 0.8333,
+      "evidence_rate": 0.8
+    },
+    {
+      "response_stage": "preference",
+      "assets_supporting_stage": 5,
+      "assets_with_evidence": 4,
+      "support_rate": 0.8333,
+      "evidence_rate": 0.8
+    },
+    {
+      "response_stage": "conviction",
+      "assets_supporting_stage": 5,
+      "assets_with_evidence": 4,
+      "support_rate": 0.8333,
+      "evidence_rate": 0.8
+    },
+    {
+      "response_stage": "action",
+      "assets_supporting_stage": 4,
+      "assets_with_evidence": 3,
+      "support_rate": 0.6667,
+      "evidence_rate": 0.75
+    },
+    {
+      "response_stage": "follow_through",
+      "assets_supporting_stage": 3,
+      "assets_with_evidence": 3,
+      "support_rate": 0.5,
+      "evidence_rate": 1.0
+    }
+  ],
+  "readiness": [
+    {
+      "asset_id": "R001",
+      "asset_name": "Article introduction",
+      "asset_type": "article_section",
+      "primary_response_stage": "knowledge",
+      "audience": "general_reader",
+      "stage_coverage_score": 0.4286,
+      "evidence_support_score": 1.0,
+      "stage_balance_score": 0.0,
+      "audience_fit_score": 1.0,
+      "governance_score": 1.0,
+      "ethical_review_score": 1.0,
+      "response_readiness_score": 0.7143,
+      "missing_stage_support": "preference;conviction;action;follow_through",
+      "unsupported_stage_claims": "",
+      "response_status": "governance review"
+    },
+    {
+      "asset_id": "R002",
+      "asset_name": "GitHub repository block",
+      "asset_type": "repository_cta",
+      "primary_response_stage": "action",
+      "audience": "technical_reader",
+      "stage_coverage_score": 0.8571,
+      "evidence_support_score": 1.0,
+      "stage_balance_score": 0.5918,
+      "audience_fit_score": 1.0,
+      "governance_score": 1.0,
+      "ethical_review_score": 1.0,
+      "response_readiness_score": 0.9033,
+      "missing_stage_support": "liking",
+      "unsupported_stage_claims": "",
+      "response_status": "ready"
+    },
+    {
+      "asset_id": "R003",
+      "asset_name": "Comparison table",
+      "asset_type": "article_section",
+      "primary_response_stage": "preference",
+      "audience": "professional_reader",
+      "stage_coverage_score": 0.7143,
+      "evidence_support_score": 1.0,
+      "stage_balance_score": 0.3675,
+      "audience_fit_score": 1.0,
+      "governance_score": 1.0,
+      "ethical_review_score": 1.0,
+      "response_readiness_score": 0.8359,
+      "missing_stage_support": "action;follow_through",
+      "unsupported_stage_claims": "",
+      "response_status": "ready"
+    },
+    {
+      "asset_id": "R004",
+      "asset_name": "Learning pathway CTA",
+      "asset_type": "learning_pathway",
+      "primary_response_stage": "follow_through",
+      "audience": "returning_reader",
+      "stage_coverage_score": 1.0,
+      "evidence_support_score": 1.0,
+      "stage_balance_score": 1.0,
+      "audience_fit_score": 1.0,
+      "governance_score": 1.0,
+      "ethical_review_score": 1.0,
+      "response_readiness_score": 1.0,
+      "missing_stage_support": "",
+      "unsupported_stage_claims": "",
+      "response_status": "ready"
+    },
+    {
+      "asset_id": "R005",
+      "asset_name": "High-pressure conversion prompt",
+      "asset_type": "landing_page",
+      "primary_response_stage": "action",
+      "audience": "commercial_audience",
+      "stage_coverage_score": 0.7143,
+      "evidence_support_score": 0.0,
+      "stage_balance_score": 0.3675,
+      "audience_fit_score": 0.0,
+      "governance_score": 0.0,
+      "ethical_review_score": 0.0,
+      "response_readiness_score": 0.2159,
+      "missing_stage_support": "knowledge;follow_through",
+      "unsupported_stage_claims": "awareness;liking;preference;conviction;action",
+      "response_status": "governance review"
+    },
+    {
+      "asset_id": "R006",
+      "asset_name": "Public-interest adoption explainer",
+      "asset_type": "public_campaign",
+      "primary_response_stage": "conviction",
+      "audience": "public_reader",
+      "stage_coverage_score": 1.0,
+      "evidence_support_score": 1.0,
+      "stage_balance_score": 1.0,
+      "audience_fit_score": 1.0,
+      "governance_score": 1.0,
+      "ethical_review_score": 1.0,
+      "response_readiness_score": 1.0,
+      "missing_stage_support": "",
+      "unsupported_stage_claims": "",
+      "response_status": "ready"
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "manual_review_queue",
+      "severity": "high",
+      "category": "ethical_review",
+      "identifier": "R005",
+      "message": "High-pressure conversion prompt contains false urgency overclaiming pressure CTA and weak agency support",
+      "recommended_action": "Resolve through communication response governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "stage_support",
+      "identifier": "R001",
+      "message": "Article introduction intentionally supports early stages but should not be measured as conversion content",
+      "recommended_action": "Resolve through communication response governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "low",
+      "category": "follow_through",
+      "identifier": "R003",
+      "message": "Comparison table may need links to action and follow-through content",
+      "recommended_action": "Resolve through communication response governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "low",
+      "category": "publication",
+      "identifier": "hierarchy-of-effects-and-communication-response-models",
+      "message": "Confirm final image attachment ID and repository URL after publication",
+      "recommended_action": "Resolve through communication response governance."
+    },
+    {
+      "severity": "medium",
+      "category": "stage_coverage",
+      "identifier": "R001",
+      "message": "Response-stage coverage is narrow.",
+      "recommended_action": "Confirm that narrow stage coverage is intentional or add supporting assets."
+    },
+    {
+      "severity": "medium",
+      "category": "response_readiness",
+      "identifier": "R001",
+      "message": "Response readiness is 0.71.",
+      "recommended_action": "Review stage support, evidence support, audience fit, governance, and ethical-risk flags."
+    },
+    {
+      "severity": "high",
+      "category": "evidence_support",
+      "identifier": "R005",
+      "message": "Supported response stages lack evidence: awareness, liking, preference, conviction, action.",
+      "recommended_action": "Add evidence, examples, measurement notes, or limitation language."
+    },
+    {
+      "severity": "medium",
+      "category": "audience_fit",
+      "identifier": "R005",
+      "message": "Audience readiness support is weak.",
+      "recommended_action": "Define audience context, readiness level, and next-step fit."
+    },
+    {
+      "severity": "high",
+      "category": "ethical_review",
+      "identifier": "R005",
+      "message": "Ethical review score is below standard.",
+      "recommended_action": "Remove false urgency, pressure CTAs, overclaiming, or agency-reducing language."
+    },
+    {
+      "severity": "medium",
+      "category": "response_readiness",
+      "identifier": "R005",
+      "message": "Response readiness is 0.22.",
+      "recommended_action": "Review stage support, evidence support, audience fit, governance, and ethical-risk flags."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+source,severity,category,identifier,message,recommended_action
+manual_review_queue,high,ethical_review,R005,High-pressure conversion prompt contains false urgency overclaiming pressure CTA and weak agency support,Resolve through communication response governance.
+manual_review_queue,medium,stage_support,R001,Article introduction intentionally supports early stages but should not be measured as conversion content,Resolve through communication response governance.
+manual_review_queue,low,follow_through,R003,Comparison table may need links to action and follow-through content,Resolve through communication response governance.
+manual_review_queue,low,publication,hierarchy-of-effects-and-communication-response-models,Confirm final image attachment ID and repository URL after publication,Resolve through communication response governance.
+,medium,stage_coverage,R001,Response-stage coverage is narrow.,Confirm that narrow stage coverage is intentional or add supporting assets.
+,medium,response_readiness,R001,Response readiness is 0.71.,"Review stage support, evidence support, audience fit, governance, and ethical-risk flags."
+,high,evidence_support,R005,"Supported response stages lack evidence: awareness, liking, preference, conviction, action.","Add evidence, examples, measurement notes, or limitation language."
+,medium,audience_fit,R005,Audience readiness support is weak.,"Define audience context, readiness level, and next-step fit."
+,high,ethical_review,R005,Ethical review score is below standard.,"Remove false urgency, pressure CTAs, overclaiming, or agency-reducing language."
+,medium,response_readiness,R005,Response readiness is 0.22.,"Review stage support, evidence support, audience fit, governance, and ethical-risk flags."

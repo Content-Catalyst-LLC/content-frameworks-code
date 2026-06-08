@@ -1,0 +1,5 @@
+.cc-method-section { margin: 2rem 0; }
+.cc-method-wrapper { border-left: 4px solid #111; background: #f7f1e5; padding: 1.25rem; }
+.cc-table-wrap { overflow-x: auto; margin: 1.5rem 0; }
+.cc-table { width: 100%; border-collapse: collapse; }
+.cc-table th, .cc-table td { border: 1px solid #d8cdb8; padding: 0.75rem; vertical-align: top; }

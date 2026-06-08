@@ -1,0 +1,29 @@
+{
+  "article": "Hierarchy of Effects and Communication Response Models",
+  "series": "Content Frameworks",
+  "readiness_threshold": 0.78,
+  "governance_minimum": 0.70,
+  "stages": [
+    "awareness",
+    "knowledge",
+    "liking",
+    "preference",
+    "conviction",
+    "action",
+    "follow_through"
+  ],
+  "weights": {
+    "stage_coverage": 0.22,
+    "evidence_support": 0.22,
+    "stage_balance": 0.16,
+    "audience_fit": 0.16,
+    "governance": 0.14,
+    "ethical_review": 0.10
+  },
+  "ethical_risk_flags": [
+    "false_urgency",
+    "overclaims_response",
+    "pressure_cta",
+    "agency_reduction"
+  ]
+}
