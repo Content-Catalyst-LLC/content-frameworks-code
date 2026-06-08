@@ -1,0 +1,273 @@
+{
+  "article": "Jobs to Be Done and the Problem of Audience Need",
+  "generated_at": "2026-06-08T22:40:41.009503+00:00",
+  "counts": {
+    "assets": 6,
+    "findings": 5,
+    "governance_queue": 9
+  },
+  "job_summary": [
+    {
+      "primary_job": "application",
+      "asset_count": 1,
+      "average_jtbd_readiness": 1.0
+    },
+    {
+      "primary_job": "continued_learning",
+      "asset_count": 1,
+      "average_jtbd_readiness": 0.9778
+    },
+    {
+      "primary_job": "evaluation",
+      "asset_count": 1,
+      "average_jtbd_readiness": 0.975
+    },
+    {
+      "primary_job": "orientation",
+      "asset_count": 1,
+      "average_jtbd_readiness": 1.0
+    },
+    {
+      "primary_job": "persona_review",
+      "asset_count": 1,
+      "average_jtbd_readiness": 0.1721
+    },
+    {
+      "primary_job": "responsible_action",
+      "asset_count": 1,
+      "average_jtbd_readiness": 0.98
+    }
+  ],
+  "audience_summary": [
+    {
+      "audience": "editorial_team",
+      "asset_count": 1,
+      "average_jtbd_readiness": 0.1721
+    },
+    {
+      "audience": "general_reader",
+      "asset_count": 1,
+      "average_jtbd_readiness": 1.0
+    },
+    {
+      "audience": "learner",
+      "asset_count": 1,
+      "average_jtbd_readiness": 0.9778
+    },
+    {
+      "audience": "professional_reader",
+      "asset_count": 1,
+      "average_jtbd_readiness": 0.975
+    },
+    {
+      "audience": "public_reader",
+      "asset_count": 1,
+      "average_jtbd_readiness": 0.98
+    },
+    {
+      "audience": "technical_reader",
+      "asset_count": 1,
+      "average_jtbd_readiness": 1.0
+    }
+  ],
+  "dimension_summary": [
+    {
+      "job_dimension": "functional",
+      "assets_supporting_dimension": 6,
+      "support_rate": 1.0
+    },
+    {
+      "job_dimension": "emotional",
+      "assets_supporting_dimension": 5,
+      "support_rate": 0.8333
+    },
+    {
+      "job_dimension": "social",
+      "assets_supporting_dimension": 3,
+      "support_rate": 0.5
+    },
+    {
+      "job_dimension": "strategic",
+      "assets_supporting_dimension": 5,
+      "support_rate": 0.8333
+    },
+    {
+      "job_dimension": "learning",
+      "assets_supporting_dimension": 5,
+      "support_rate": 0.8333
+    }
+  ],
+  "readiness": [
+    {
+      "asset_id": "J001",
+      "asset_name": "Article introduction",
+      "asset_type": "article_section",
+      "primary_job": "orientation",
+      "audience": "general_reader",
+      "job_clarity_score": 1.0,
+      "job_dimension_support_score": 0.8,
+      "content_fit_score": 1.0,
+      "evidence_support_score": 1.0,
+      "outcome_support_score": 1.0,
+      "agency_score": 1.0,
+      "governance_score": 1.0,
+      "jtbd_readiness_score": 1.0,
+      "unsupported_job_dimensions": "social",
+      "jtbd_status": "ready"
+    },
+    {
+      "asset_id": "J002",
+      "asset_name": "JTBD comparison table",
+      "asset_type": "article_section",
+      "primary_job": "evaluation",
+      "audience": "professional_reader",
+      "job_clarity_score": 1.0,
+      "job_dimension_support_score": 1.0,
+      "content_fit_score": 1.0,
+      "evidence_support_score": 0.875,
+      "outcome_support_score": 1.0,
+      "agency_score": 1.0,
+      "governance_score": 1.0,
+      "jtbd_readiness_score": 0.975,
+      "unsupported_job_dimensions": "",
+      "jtbd_status": "ready"
+    },
+    {
+      "asset_id": "J003",
+      "asset_name": "GitHub repository block",
+      "asset_type": "repository_cta",
+      "primary_job": "application",
+      "audience": "technical_reader",
+      "job_clarity_score": 1.0,
+      "job_dimension_support_score": 0.8,
+      "content_fit_score": 1.0,
+      "evidence_support_score": 1.0,
+      "outcome_support_score": 1.0,
+      "agency_score": 1.0,
+      "governance_score": 1.0,
+      "jtbd_readiness_score": 1.0,
+      "unsupported_job_dimensions": "social",
+      "jtbd_status": "ready"
+    },
+    {
+      "asset_id": "J004",
+      "asset_name": "Audience persona draft",
+      "asset_type": "planning_document",
+      "primary_job": "persona_review",
+      "audience": "editorial_team",
+      "job_clarity_score": 0.25,
+      "job_dimension_support_score": 0.2,
+      "content_fit_score": 0.25,
+      "evidence_support_score": 0.2857,
+      "outcome_support_score": 0.0,
+      "agency_score": 0.0,
+      "governance_score": 0.0,
+      "jtbd_readiness_score": 0.1721,
+      "unsupported_job_dimensions": "emotional;social;strategic;learning",
+      "jtbd_status": "governance review"
+    },
+    {
+      "asset_id": "J005",
+      "asset_name": "Learning pathway page",
+      "asset_type": "learning_pathway",
+      "primary_job": "continued_learning",
+      "audience": "learner",
+      "job_clarity_score": 1.0,
+      "job_dimension_support_score": 1.0,
+      "content_fit_score": 1.0,
+      "evidence_support_score": 0.8889,
+      "outcome_support_score": 1.0,
+      "agency_score": 1.0,
+      "governance_score": 1.0,
+      "jtbd_readiness_score": 0.9778,
+      "unsupported_job_dimensions": "",
+      "jtbd_status": "ready"
+    },
+    {
+      "asset_id": "J006",
+      "asset_name": "Ethical persuasion CTA",
+      "asset_type": "campaign_asset",
+      "primary_job": "responsible_action",
+      "audience": "public_reader",
+      "job_clarity_score": 1.0,
+      "job_dimension_support_score": 1.0,
+      "content_fit_score": 1.0,
+      "evidence_support_score": 0.9,
+      "outcome_support_score": 1.0,
+      "agency_score": 1.0,
+      "governance_score": 1.0,
+      "jtbd_readiness_score": 0.98,
+      "unsupported_job_dimensions": "",
+      "jtbd_status": "ready"
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "manual_review_queue",
+      "severity": "high",
+      "category": "job_clarity",
+      "identifier": "J004",
+      "message": "Audience persona draft lacks a complete job statement and has weak evidence support",
+      "recommended_action": "Resolve through JTBD content governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "high",
+      "category": "content_fit",
+      "identifier": "J004",
+      "message": "Persona draft does not clearly match a real audience job or next step",
+      "recommended_action": "Resolve through JTBD content governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "agency",
+      "identifier": "J006",
+      "message": "Responsible action CTA should keep alternatives and commitment boundaries visible",
+      "recommended_action": "Resolve through JTBD content governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "low",
+      "category": "publication",
+      "identifier": "jobs-to-be-done-and-the-problem-of-audience-need",
+      "message": "Confirm final image attachment ID and repository URL after publication",
+      "recommended_action": "Resolve through JTBD content governance."
+    },
+    {
+      "severity": "medium",
+      "category": "job_clarity",
+      "identifier": "J004",
+      "message": "Job statement is incomplete.",
+      "recommended_action": "Define situation, motivation, desired outcome, and constraint."
+    },
+    {
+      "severity": "high",
+      "category": "evidence_support",
+      "identifier": "J004",
+      "message": "Audience-job assumptions lack sufficient evidence.",
+      "recommended_action": "Add interviews, feedback, analytics, search evidence, or observation."
+    },
+    {
+      "severity": "high",
+      "category": "content_fit",
+      "identifier": "J004",
+      "message": "Content format does not adequately match the audience job.",
+      "recommended_action": "Revise format, examples, section structure, or next step."
+    },
+    {
+      "severity": "medium",
+      "category": "agency",
+      "identifier": "J004",
+      "message": "Audience agency support is weak.",
+      "recommended_action": "Show alternatives, bound claims, and preserve choice."
+    },
+    {
+      "severity": "medium",
+      "category": "jtbd_readiness",
+      "identifier": "J004",
+      "message": "JTBD readiness is 0.17.",
+      "recommended_action": "Review job clarity, evidence support, content fit, outcome support, agency, and governance."
+    }
+  ]
+}

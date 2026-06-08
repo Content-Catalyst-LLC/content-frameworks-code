@@ -1,0 +1,37 @@
+[
+  {
+    "severity": "medium",
+    "category": "job_clarity",
+    "identifier": "J004",
+    "message": "Job statement is incomplete.",
+    "recommended_action": "Define situation, motivation, desired outcome, and constraint."
+  },
+  {
+    "severity": "high",
+    "category": "evidence_support",
+    "identifier": "J004",
+    "message": "Audience-job assumptions lack sufficient evidence.",
+    "recommended_action": "Add interviews, feedback, analytics, search evidence, or observation."
+  },
+  {
+    "severity": "high",
+    "category": "content_fit",
+    "identifier": "J004",
+    "message": "Content format does not adequately match the audience job.",
+    "recommended_action": "Revise format, examples, section structure, or next step."
+  },
+  {
+    "severity": "medium",
+    "category": "agency",
+    "identifier": "J004",
+    "message": "Audience agency support is weak.",
+    "recommended_action": "Show alternatives, bound claims, and preserve choice."
+  },
+  {
+    "severity": "medium",
+    "category": "jtbd_readiness",
+    "identifier": "J004",
+    "message": "JTBD readiness is 0.17.",
+    "recommended_action": "Review job clarity, evidence support, content fit, outcome support, agency, and governance."
+  }
+]

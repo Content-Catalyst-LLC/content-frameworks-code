@@ -1,0 +1,7 @@
+series,article_slug,asset_id,asset_name,asset_type,primary_job,audience,jtbd_readiness_score,jtbd_status,github_path
+Content Frameworks,jobs-to-be-done-and-the-problem-of-audience-need,J001,Article introduction,article_section,orientation,general_reader,1.0,ready,articles/jobs-to-be-done-and-the-problem-of-audience-need/
+Content Frameworks,jobs-to-be-done-and-the-problem-of-audience-need,J002,JTBD comparison table,article_section,evaluation,professional_reader,0.975,ready,articles/jobs-to-be-done-and-the-problem-of-audience-need/
+Content Frameworks,jobs-to-be-done-and-the-problem-of-audience-need,J003,GitHub repository block,repository_cta,application,technical_reader,1.0,ready,articles/jobs-to-be-done-and-the-problem-of-audience-need/
+Content Frameworks,jobs-to-be-done-and-the-problem-of-audience-need,J004,Audience persona draft,planning_document,persona_review,editorial_team,0.1721,governance review,articles/jobs-to-be-done-and-the-problem-of-audience-need/
+Content Frameworks,jobs-to-be-done-and-the-problem-of-audience-need,J005,Learning pathway page,learning_pathway,continued_learning,learner,0.9778,ready,articles/jobs-to-be-done-and-the-problem-of-audience-need/
+Content Frameworks,jobs-to-be-done-and-the-problem-of-audience-need,J006,Ethical persuasion CTA,campaign_asset,responsible_action,public_reader,0.98,ready,articles/jobs-to-be-done-and-the-problem-of-audience-need/

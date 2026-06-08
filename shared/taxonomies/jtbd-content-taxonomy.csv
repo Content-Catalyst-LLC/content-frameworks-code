@@ -1,0 +1,12 @@
+dimension,description
+situation,The context or trigger in which audience need appears
+motivation,The progress the audience is trying to make
+desired_outcome,The result that would count as success
+constraint,The obstacle friction or limitation that makes the job difficult
+functional_job,Task problem decision or action support
+emotional_job,Confidence uncertainty anxiety reassurance or risk support
+social_job,Legitimacy explanation peer communication or status support
+strategic_job,Prioritization direction tradeoff or decision support
+learning_job,Movement from unfamiliarity to usable understanding
+content_fit,Alignment among job format examples sections and next step
+governance,Review of job assumptions evidence support and update status

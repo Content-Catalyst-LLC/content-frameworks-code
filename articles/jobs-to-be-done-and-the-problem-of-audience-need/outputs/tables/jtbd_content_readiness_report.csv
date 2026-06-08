@@ -1,0 +1,7 @@
+asset_id,asset_name,asset_type,primary_job,audience,job_clarity_score,job_dimension_support_score,content_fit_score,evidence_support_score,outcome_support_score,agency_score,governance_score,jtbd_readiness_score,unsupported_job_dimensions,jtbd_status
+J001,Article introduction,article_section,orientation,general_reader,1.0,0.8,1.0,1.0,1.0,1.0,1.0,1.0,social,ready
+J002,JTBD comparison table,article_section,evaluation,professional_reader,1.0,1.0,1.0,0.875,1.0,1.0,1.0,0.975,,ready
+J003,GitHub repository block,repository_cta,application,technical_reader,1.0,0.8,1.0,1.0,1.0,1.0,1.0,1.0,social,ready
+J004,Audience persona draft,planning_document,persona_review,editorial_team,0.25,0.2,0.25,0.2857,0.0,0.0,0.0,0.1721,emotional;social;strategic;learning,governance review
+J005,Learning pathway page,learning_pathway,continued_learning,learner,1.0,1.0,1.0,0.8889,1.0,1.0,1.0,0.9778,,ready
+J006,Ethical persuasion CTA,campaign_asset,responsible_action,public_reader,1.0,1.0,1.0,0.9,1.0,1.0,1.0,0.98,,ready

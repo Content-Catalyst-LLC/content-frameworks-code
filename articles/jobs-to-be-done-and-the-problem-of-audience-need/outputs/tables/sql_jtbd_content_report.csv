@@ -1,0 +1,28 @@
+primary_job,asset_count
+application,1
+continued_learning,1
+evaluation,1
+orientation,1
+persona_review,1
+responsible_action,1
+audience,asset_count
+editorial_team,1
+general_reader,1
+learner,1
+professional_reader,1
+public_reader,1
+technical_reader,1
+asset_id,asset_name,primary_job,evidence_support_ratio,job_clarity_features,content_fit_features
+J004,"Audience persona draft",persona_review,0.286,1,1
+J002,"JTBD comparison table",evaluation,0.875,4,4
+J005,"Learning pathway page",continued_learning,0.889,4,4
+J006,"Ethical persuasion CTA",responsible_action,0.9,4,4
+J001,"Article introduction",orientation,1.0,4,4
+J003,"GitHub repository block",application,1.0,4,4
+asset_id,asset_name,supported_job_dimensions
+J004,"Audience persona draft",1
+J001,"Article introduction",4
+J003,"GitHub repository block",4
+J002,"JTBD comparison table",5
+J005,"Learning pathway page",5
+J006,"Ethical persuasion CTA",5

@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Jobs to Be Done Content Record",
+  "type": "object",
+  "required": [
+    "asset_id",
+    "asset_name",
+    "asset_type",
+    "primary_job",
+    "audience",
+    "situation_defined",
+    "motivation_defined",
+    "desired_outcome_defined",
+    "format_matches_job"
+  ]
+}

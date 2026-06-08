@@ -1,0 +1,22 @@
+{
+  "article": "Jobs to Be Done and the Problem of Audience Need",
+  "series": "Content Frameworks",
+  "readiness_threshold": 0.78,
+  "evidence_minimum": 0.70,
+  "content_fit_minimum": 0.70,
+  "job_dimensions": [
+    "functional",
+    "emotional",
+    "social",
+    "strategic",
+    "learning"
+  ],
+  "weights": {
+    "job_clarity": 0.24,
+    "content_fit": 0.22,
+    "evidence_support": 0.20,
+    "outcome_support": 0.14,
+    "agency": 0.10,
+    "governance": 0.10
+  }
+}

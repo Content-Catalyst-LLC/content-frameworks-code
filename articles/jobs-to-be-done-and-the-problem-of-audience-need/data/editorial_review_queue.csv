@@ -1,0 +1,5 @@
+review_id,record_id,issue_type,severity,review_note
+R001,J004,job_clarity,high,Audience persona draft lacks a complete job statement and has weak evidence support
+R002,J004,content_fit,high,Persona draft does not clearly match a real audience job or next step
+R003,J006,agency,medium,Responsible action CTA should keep alternatives and commitment boundaries visible
+R004,jobs-to-be-done-and-the-problem-of-audience-need,publication,low,Confirm final image attachment ID and repository URL after publication

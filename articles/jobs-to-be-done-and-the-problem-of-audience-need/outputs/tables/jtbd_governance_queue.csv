@@ -1,0 +1,10 @@
+source,severity,category,identifier,message,recommended_action
+manual_review_queue,high,job_clarity,J004,Audience persona draft lacks a complete job statement and has weak evidence support,Resolve through JTBD content governance.
+manual_review_queue,high,content_fit,J004,Persona draft does not clearly match a real audience job or next step,Resolve through JTBD content governance.
+manual_review_queue,medium,agency,J006,Responsible action CTA should keep alternatives and commitment boundaries visible,Resolve through JTBD content governance.
+manual_review_queue,low,publication,jobs-to-be-done-and-the-problem-of-audience-need,Confirm final image attachment ID and repository URL after publication,Resolve through JTBD content governance.
+,medium,job_clarity,J004,Job statement is incomplete.,"Define situation, motivation, desired outcome, and constraint."
+,high,evidence_support,J004,Audience-job assumptions lack sufficient evidence.,"Add interviews, feedback, analytics, search evidence, or observation."
+,high,content_fit,J004,Content format does not adequately match the audience job.,"Revise format, examples, section structure, or next step."
+,medium,agency,J004,Audience agency support is weak.,"Show alternatives, bound claims, and preserve choice."
+,medium,jtbd_readiness,J004,JTBD readiness is 0.17.,"Review job clarity, evidence support, content fit, outcome support, agency, and governance."
