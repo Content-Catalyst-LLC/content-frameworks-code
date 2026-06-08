@@ -1,0 +1,33 @@
+model_type,status,model_count
+evidence,published,1
+interactional,published,1
+learning,published,1
+linear,published,2
+systems,planned,1
+systems,published,1
+transactional,planned,1
+transactional,published,1
+abstraction_risk,model_count
+high,1
+low,4
+medium,4
+model_id,model_name,model_type,element_records,present_elements
+M008,"Audience Interpretation Model",transactional,0,0
+M009,"Public Reasoning Model",systems,0,0
+M007,"Persuasive Sequence Model",linear,6,4
+M001,"Linear Transmission Model",linear,5,5
+M002,"Interactional Feedback Model",interactional,6,6
+M003,"Transactional Meaning Model",transactional,6,6
+M006,"Learning Scaffold Communication Model",learning,6,6
+M005,"Evidence Architecture Model",evidence,7,7
+M004,"Systems Communication Model",systems,8,8
+model_id,model_name,active_relationships
+M008,"Audience Interpretation Model",0
+M009,"Public Reasoning Model",0
+M007,"Persuasive Sequence Model",2
+M001,"Linear Transmission Model",4
+M002,"Interactional Feedback Model",4
+M003,"Transactional Meaning Model",4
+M005,"Evidence Architecture Model",4
+M006,"Learning Scaffold Communication Model",4
+M004,"Systems Communication Model",5

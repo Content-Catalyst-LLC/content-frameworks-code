@@ -1,0 +1,13 @@
+{
+  "article": "Conceptual Models in Communication",
+  "series": "Content Frameworks",
+  "readiness_threshold": 0.78,
+  "required_elements_by_model_type": {
+    "linear": ["communicator", "message", "channel", "audience", "noise"],
+    "interactional": ["communicator", "message", "channel", "audience", "noise", "feedback"],
+    "transactional": ["communicator", "message", "audience", "context", "feedback", "interpretation"],
+    "systems": ["communicator", "message", "audience", "context", "feedback", "institutions", "power", "platform"],
+    "evidence": ["claim", "evidence", "method", "uncertainty", "limitation", "implication", "audience"],
+    "learning": ["orientation", "sequence", "prerequisites", "examples", "feedback", "transfer"]
+  }
+}

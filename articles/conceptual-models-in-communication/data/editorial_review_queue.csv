@@ -1,0 +1,4 @@
+review_id,model_id,issue_type,severity,review_note
+R001,M007,abstraction_risk,high,Persuasive sequence model needs feedback limitation autonomy and ethics review
+R002,M001,model_scope,medium,Linear transmission model should be clearly limited to delivery and noise analysis
+R003,M004,complexity,medium,Systems communication model should include boundary notes so it remains usable

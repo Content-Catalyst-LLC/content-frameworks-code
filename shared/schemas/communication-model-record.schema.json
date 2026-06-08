@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Communication Model Record",
+  "type": "object",
+  "required": ["model_id", "model_name", "model_type", "status", "primary_domain", "domain_fit", "abstraction_risk"]
+}
