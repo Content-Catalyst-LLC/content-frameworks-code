@@ -1,0 +1,34 @@
+{
+  "article": "Ethical Risks in Persuasive Frameworks",
+  "series": "Content Frameworks",
+  "readiness_threshold": 0.78,
+  "pressure_maximum": 0.25,
+  "evidence_minimum": 0.70,
+  "agency_fields": [
+    "clear_claim",
+    "refusal_visible",
+    "decision_support_present",
+    "commitment_transparent"
+  ],
+  "pressure_fields": [
+    "uses_false_urgency",
+    "uses_false_scarcity",
+    "uses_fear_escalation",
+    "uses_shame_pressure"
+  ],
+  "dark_pattern_fields": [
+    "hidden_terms",
+    "cancellation_friction",
+    "preselected_consent",
+    "disguised_ad"
+  ],
+  "weights": {
+    "agency": 0.24,
+    "evidence": 0.24,
+    "governance": 0.18,
+    "accessibility": 0.14,
+    "pressure_penalty": 0.12,
+    "vulnerability_penalty": 0.08,
+    "dark_pattern_penalty": 0.10
+  }
+}

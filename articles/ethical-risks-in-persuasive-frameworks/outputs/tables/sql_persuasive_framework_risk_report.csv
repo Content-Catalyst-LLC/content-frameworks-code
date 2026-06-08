@@ -1,0 +1,27 @@
+framework_used,asset_count
+AIDA,1
+PAS,1
+action_path,1
+ethical_review,1
+scarcity_and_urgency,1
+storytelling,1
+audience,asset_count
+consumer_user,1
+general_reader,2
+professional_reader,1
+public_reader,1
+technical_reader,1
+asset_id,asset_name,framework_used,requested_action,evidence_support_ratio,agency_features,pressure_flags
+E005,"Dark-pattern checkout example",scarcity_and_urgency,buy_now,0.222,0,4
+E004,"PAS risk review example",PAS,subscribe,0.429,2,2
+E003,"AIDA landing-page audit example",AIDA,register,0.875,4,0
+E001,"Article introduction",ethical_review,learn_more,1.0,4,0
+E002,"GitHub repository block",action_path,open_repository,1.0,4,0
+E006,"Public-interest call to action",storytelling,participate,1.0,4,0
+asset_id,asset_name,dark_pattern_flags
+E005,"Dark-pattern checkout example",4
+E004,"PAS risk review example",1
+E001,"Article introduction",0
+E002,"GitHub repository block",0
+E003,"AIDA landing-page audit example",0
+E006,"Public-interest call to action",0

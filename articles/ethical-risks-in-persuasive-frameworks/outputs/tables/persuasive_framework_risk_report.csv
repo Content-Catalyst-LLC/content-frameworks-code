@@ -1,0 +1,7 @@
+asset_id,asset_name,asset_type,framework_used,audience,requested_action,agency_score,pressure_score,evidence_support_score,governance_score,accessibility_score,vulnerability_risk_score,dark_pattern_risk_score,responsible_persuasion_score,ethical_status
+E001,Article introduction,article_section,ethical_review,general_reader,learn_more,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.8,ready
+E002,GitHub repository block,repository_cta,action_path,technical_reader,open_repository,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.8,ready
+E003,AIDA landing-page audit example,landing_page,AIDA,professional_reader,register,1.0,0.0,0.875,1.0,1.0,0.0,0.0,0.77,governance review
+E004,PAS risk review example,campaign_draft,PAS,general_reader,subscribe,0.5,0.5,0.4286,0.0,0.75,0.25,0.25,0.2229,governance review
+E005,Dark-pattern checkout example,interface_flow,scarcity_and_urgency,consumer_user,buy_now,0.0,1.0,0.2222,0.0,0.0,1.0,1.0,0.0,governance review
+E006,Public-interest call to action,public_campaign,storytelling,public_reader,participate,1.0,0.0,1.0,1.0,1.0,0.25,0.0,0.78,ready

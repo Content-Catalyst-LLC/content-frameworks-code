@@ -1,0 +1,5 @@
+review_id,record_id,issue_type,severity,review_note
+R001,E005,dark_pattern,critical,Dark-pattern checkout example includes hidden terms cancellation friction preselected consent and disguised advertising
+R002,E004,pressure,high,PAS risk review example contains false urgency fear escalation weak refusal visibility and weak evidence support
+R003,E006,vulnerability,medium,Public-interest CTA occurs in a high-stakes context and should maintain extra transparency and low pressure
+R004,ethical-risks-in-persuasive-frameworks,publication,low,Confirm final image attachment ID and repository URL after publication

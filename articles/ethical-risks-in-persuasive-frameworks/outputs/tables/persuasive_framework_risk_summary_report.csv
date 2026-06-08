@@ -1,0 +1,9 @@
+risk_dimension,average_score
+agency_score,0.75
+pressure_score,0.25
+evidence_support_score,0.7543
+governance_score,0.6667
+accessibility_score,0.7917
+vulnerability_risk_score,0.25
+dark_pattern_risk_score,0.2083
+responsible_persuasion_score,0.5622

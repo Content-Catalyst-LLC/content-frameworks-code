@@ -1,0 +1,86 @@
+[
+  {
+    "severity": "medium",
+    "category": "ethical_readiness",
+    "identifier": "E003",
+    "message": "Responsible persuasion score is 0.77.",
+    "recommended_action": "Review agency, evidence, pressure, accessibility, vulnerability, dark-pattern risk, and governance."
+  },
+  {
+    "severity": "high",
+    "category": "agency",
+    "identifier": "E004",
+    "message": "Audience agency support is weak.",
+    "recommended_action": "Improve claim clarity, refusal visibility, decision support, and commitment transparency."
+  },
+  {
+    "severity": "high",
+    "category": "pressure",
+    "identifier": "E004",
+    "message": "Pressure cues exceed threshold.",
+    "recommended_action": "Remove false urgency, false scarcity, fear escalation, or shame pressure."
+  },
+  {
+    "severity": "high",
+    "category": "evidence",
+    "identifier": "E004",
+    "message": "Persuasive claims lack sufficient support.",
+    "recommended_action": "Add evidence, examples, source support, limitations, or reduce claim strength."
+  },
+  {
+    "severity": "critical",
+    "category": "dark_pattern",
+    "identifier": "E004",
+    "message": "Dark-pattern risk is present.",
+    "recommended_action": "Remove hidden terms, cancellation friction, preselected consent, or disguised advertising."
+  },
+  {
+    "severity": "medium",
+    "category": "ethical_readiness",
+    "identifier": "E004",
+    "message": "Responsible persuasion score is 0.22.",
+    "recommended_action": "Review agency, evidence, pressure, accessibility, vulnerability, dark-pattern risk, and governance."
+  },
+  {
+    "severity": "high",
+    "category": "agency",
+    "identifier": "E005",
+    "message": "Audience agency support is weak.",
+    "recommended_action": "Improve claim clarity, refusal visibility, decision support, and commitment transparency."
+  },
+  {
+    "severity": "high",
+    "category": "pressure",
+    "identifier": "E005",
+    "message": "Pressure cues exceed threshold.",
+    "recommended_action": "Remove false urgency, false scarcity, fear escalation, or shame pressure."
+  },
+  {
+    "severity": "high",
+    "category": "evidence",
+    "identifier": "E005",
+    "message": "Persuasive claims lack sufficient support.",
+    "recommended_action": "Add evidence, examples, source support, limitations, or reduce claim strength."
+  },
+  {
+    "severity": "critical",
+    "category": "dark_pattern",
+    "identifier": "E005",
+    "message": "Dark-pattern risk is present.",
+    "recommended_action": "Remove hidden terms, cancellation friction, preselected consent, or disguised advertising."
+  },
+  {
+    "severity": "medium",
+    "category": "vulnerability",
+    "identifier": "E005",
+    "message": "Audience vulnerability risk is elevated.",
+    "recommended_action": "Increase transparency, reduce pressure, and add decision support."
+  },
+  {
+    "severity": "medium",
+    "category": "ethical_readiness",
+    "identifier": "E005",
+    "message": "Responsible persuasion score is 0.00.",
+    "recommended_action": "Review agency, evidence, pressure, accessibility, vulnerability, dark-pattern risk, and governance."
+  }
+]

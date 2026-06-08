@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Persuasive Framework Ethical Risk Record",
+  "type": "object",
+  "required": [
+    "asset_id",
+    "asset_name",
+    "asset_type",
+    "framework_used",
+    "audience",
+    "requested_action",
+    "clear_claim",
+    "refusal_visible",
+    "total_persuasive_claims",
+    "supported_persuasive_claims"
+  ]
+}

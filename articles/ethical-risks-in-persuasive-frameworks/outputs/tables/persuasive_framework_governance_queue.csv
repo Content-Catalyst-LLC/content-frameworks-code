@@ -1,0 +1,17 @@
+source,severity,category,identifier,message,recommended_action
+manual_review_queue,critical,dark_pattern,E005,Dark-pattern checkout example includes hidden terms cancellation friction preselected consent and disguised advertising,Resolve through persuasive-framework ethical governance.
+manual_review_queue,high,pressure,E004,PAS risk review example contains false urgency fear escalation weak refusal visibility and weak evidence support,Resolve through persuasive-framework ethical governance.
+manual_review_queue,medium,vulnerability,E006,Public-interest CTA occurs in a high-stakes context and should maintain extra transparency and low pressure,Resolve through persuasive-framework ethical governance.
+manual_review_queue,low,publication,ethical-risks-in-persuasive-frameworks,Confirm final image attachment ID and repository URL after publication,Resolve through persuasive-framework ethical governance.
+,medium,ethical_readiness,E003,Responsible persuasion score is 0.77.,"Review agency, evidence, pressure, accessibility, vulnerability, dark-pattern risk, and governance."
+,high,agency,E004,Audience agency support is weak.,"Improve claim clarity, refusal visibility, decision support, and commitment transparency."
+,high,pressure,E004,Pressure cues exceed threshold.,"Remove false urgency, false scarcity, fear escalation, or shame pressure."
+,high,evidence,E004,Persuasive claims lack sufficient support.,"Add evidence, examples, source support, limitations, or reduce claim strength."
+,critical,dark_pattern,E004,Dark-pattern risk is present.,"Remove hidden terms, cancellation friction, preselected consent, or disguised advertising."
+,medium,ethical_readiness,E004,Responsible persuasion score is 0.22.,"Review agency, evidence, pressure, accessibility, vulnerability, dark-pattern risk, and governance."
+,high,agency,E005,Audience agency support is weak.,"Improve claim clarity, refusal visibility, decision support, and commitment transparency."
+,high,pressure,E005,Pressure cues exceed threshold.,"Remove false urgency, false scarcity, fear escalation, or shame pressure."
+,high,evidence,E005,Persuasive claims lack sufficient support.,"Add evidence, examples, source support, limitations, or reduce claim strength."
+,critical,dark_pattern,E005,Dark-pattern risk is present.,"Remove hidden terms, cancellation friction, preselected consent, or disguised advertising."
+,medium,vulnerability,E005,Audience vulnerability risk is elevated.,"Increase transparency, reduce pressure, and add decision support."
+,medium,ethical_readiness,E005,Responsible persuasion score is 0.00.,"Review agency, evidence, pressure, accessibility, vulnerability, dark-pattern risk, and governance."

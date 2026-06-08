@@ -1,0 +1,297 @@
+{
+  "article": "Ethical Risks in Persuasive Frameworks",
+  "generated_at": "2026-06-08T22:28:32.968367+00:00",
+  "counts": {
+    "assets": 6,
+    "findings": 12,
+    "governance_queue": 16
+  },
+  "framework_summary": [
+    {
+      "framework_used": "AIDA",
+      "asset_count": 1,
+      "average_responsible_persuasion_score": 0.77
+    },
+    {
+      "framework_used": "PAS",
+      "asset_count": 1,
+      "average_responsible_persuasion_score": 0.2229
+    },
+    {
+      "framework_used": "action_path",
+      "asset_count": 1,
+      "average_responsible_persuasion_score": 0.8
+    },
+    {
+      "framework_used": "ethical_review",
+      "asset_count": 1,
+      "average_responsible_persuasion_score": 0.8
+    },
+    {
+      "framework_used": "scarcity_and_urgency",
+      "asset_count": 1,
+      "average_responsible_persuasion_score": 0.0
+    },
+    {
+      "framework_used": "storytelling",
+      "asset_count": 1,
+      "average_responsible_persuasion_score": 0.78
+    }
+  ],
+  "risk_summary": [
+    {
+      "risk_dimension": "agency_score",
+      "average_score": 0.75
+    },
+    {
+      "risk_dimension": "pressure_score",
+      "average_score": 0.25
+    },
+    {
+      "risk_dimension": "evidence_support_score",
+      "average_score": 0.7543
+    },
+    {
+      "risk_dimension": "governance_score",
+      "average_score": 0.6667
+    },
+    {
+      "risk_dimension": "accessibility_score",
+      "average_score": 0.7917
+    },
+    {
+      "risk_dimension": "vulnerability_risk_score",
+      "average_score": 0.25
+    },
+    {
+      "risk_dimension": "dark_pattern_risk_score",
+      "average_score": 0.2083
+    },
+    {
+      "risk_dimension": "responsible_persuasion_score",
+      "average_score": 0.5622
+    }
+  ],
+  "readiness": [
+    {
+      "asset_id": "E001",
+      "asset_name": "Article introduction",
+      "asset_type": "article_section",
+      "framework_used": "ethical_review",
+      "audience": "general_reader",
+      "requested_action": "learn_more",
+      "agency_score": 1.0,
+      "pressure_score": 0.0,
+      "evidence_support_score": 1.0,
+      "governance_score": 1.0,
+      "accessibility_score": 1.0,
+      "vulnerability_risk_score": 0.0,
+      "dark_pattern_risk_score": 0.0,
+      "responsible_persuasion_score": 0.8,
+      "ethical_status": "ready"
+    },
+    {
+      "asset_id": "E002",
+      "asset_name": "GitHub repository block",
+      "asset_type": "repository_cta",
+      "framework_used": "action_path",
+      "audience": "technical_reader",
+      "requested_action": "open_repository",
+      "agency_score": 1.0,
+      "pressure_score": 0.0,
+      "evidence_support_score": 1.0,
+      "governance_score": 1.0,
+      "accessibility_score": 1.0,
+      "vulnerability_risk_score": 0.0,
+      "dark_pattern_risk_score": 0.0,
+      "responsible_persuasion_score": 0.8,
+      "ethical_status": "ready"
+    },
+    {
+      "asset_id": "E003",
+      "asset_name": "AIDA landing-page audit example",
+      "asset_type": "landing_page",
+      "framework_used": "AIDA",
+      "audience": "professional_reader",
+      "requested_action": "register",
+      "agency_score": 1.0,
+      "pressure_score": 0.0,
+      "evidence_support_score": 0.875,
+      "governance_score": 1.0,
+      "accessibility_score": 1.0,
+      "vulnerability_risk_score": 0.0,
+      "dark_pattern_risk_score": 0.0,
+      "responsible_persuasion_score": 0.77,
+      "ethical_status": "governance review"
+    },
+    {
+      "asset_id": "E004",
+      "asset_name": "PAS risk review example",
+      "asset_type": "campaign_draft",
+      "framework_used": "PAS",
+      "audience": "general_reader",
+      "requested_action": "subscribe",
+      "agency_score": 0.5,
+      "pressure_score": 0.5,
+      "evidence_support_score": 0.4286,
+      "governance_score": 0.0,
+      "accessibility_score": 0.75,
+      "vulnerability_risk_score": 0.25,
+      "dark_pattern_risk_score": 0.25,
+      "responsible_persuasion_score": 0.2229,
+      "ethical_status": "governance review"
+    },
+    {
+      "asset_id": "E005",
+      "asset_name": "Dark-pattern checkout example",
+      "asset_type": "interface_flow",
+      "framework_used": "scarcity_and_urgency",
+      "audience": "consumer_user",
+      "requested_action": "buy_now",
+      "agency_score": 0.0,
+      "pressure_score": 1.0,
+      "evidence_support_score": 0.2222,
+      "governance_score": 0.0,
+      "accessibility_score": 0.0,
+      "vulnerability_risk_score": 1.0,
+      "dark_pattern_risk_score": 1.0,
+      "responsible_persuasion_score": 0.0,
+      "ethical_status": "governance review"
+    },
+    {
+      "asset_id": "E006",
+      "asset_name": "Public-interest call to action",
+      "asset_type": "public_campaign",
+      "framework_used": "storytelling",
+      "audience": "public_reader",
+      "requested_action": "participate",
+      "agency_score": 1.0,
+      "pressure_score": 0.0,
+      "evidence_support_score": 1.0,
+      "governance_score": 1.0,
+      "accessibility_score": 1.0,
+      "vulnerability_risk_score": 0.25,
+      "dark_pattern_risk_score": 0.0,
+      "responsible_persuasion_score": 0.78,
+      "ethical_status": "ready"
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "manual_review_queue",
+      "severity": "critical",
+      "category": "dark_pattern",
+      "identifier": "E005",
+      "message": "Dark-pattern checkout example includes hidden terms cancellation friction preselected consent and disguised advertising",
+      "recommended_action": "Resolve through persuasive-framework ethical governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "high",
+      "category": "pressure",
+      "identifier": "E004",
+      "message": "PAS risk review example contains false urgency fear escalation weak refusal visibility and weak evidence support",
+      "recommended_action": "Resolve through persuasive-framework ethical governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "vulnerability",
+      "identifier": "E006",
+      "message": "Public-interest CTA occurs in a high-stakes context and should maintain extra transparency and low pressure",
+      "recommended_action": "Resolve through persuasive-framework ethical governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "low",
+      "category": "publication",
+      "identifier": "ethical-risks-in-persuasive-frameworks",
+      "message": "Confirm final image attachment ID and repository URL after publication",
+      "recommended_action": "Resolve through persuasive-framework ethical governance."
+    },
+    {
+      "severity": "medium",
+      "category": "ethical_readiness",
+      "identifier": "E003",
+      "message": "Responsible persuasion score is 0.77.",
+      "recommended_action": "Review agency, evidence, pressure, accessibility, vulnerability, dark-pattern risk, and governance."
+    },
+    {
+      "severity": "high",
+      "category": "agency",
+      "identifier": "E004",
+      "message": "Audience agency support is weak.",
+      "recommended_action": "Improve claim clarity, refusal visibility, decision support, and commitment transparency."
+    },
+    {
+      "severity": "high",
+      "category": "pressure",
+      "identifier": "E004",
+      "message": "Pressure cues exceed threshold.",
+      "recommended_action": "Remove false urgency, false scarcity, fear escalation, or shame pressure."
+    },
+    {
+      "severity": "high",
+      "category": "evidence",
+      "identifier": "E004",
+      "message": "Persuasive claims lack sufficient support.",
+      "recommended_action": "Add evidence, examples, source support, limitations, or reduce claim strength."
+    },
+    {
+      "severity": "critical",
+      "category": "dark_pattern",
+      "identifier": "E004",
+      "message": "Dark-pattern risk is present.",
+      "recommended_action": "Remove hidden terms, cancellation friction, preselected consent, or disguised advertising."
+    },
+    {
+      "severity": "medium",
+      "category": "ethical_readiness",
+      "identifier": "E004",
+      "message": "Responsible persuasion score is 0.22.",
+      "recommended_action": "Review agency, evidence, pressure, accessibility, vulnerability, dark-pattern risk, and governance."
+    },
+    {
+      "severity": "high",
+      "category": "agency",
+      "identifier": "E005",
+      "message": "Audience agency support is weak.",
+      "recommended_action": "Improve claim clarity, refusal visibility, decision support, and commitment transparency."
+    },
+    {
+      "severity": "high",
+      "category": "pressure",
+      "identifier": "E005",
+      "message": "Pressure cues exceed threshold.",
+      "recommended_action": "Remove false urgency, false scarcity, fear escalation, or shame pressure."
+    },
+    {
+      "severity": "high",
+      "category": "evidence",
+      "identifier": "E005",
+      "message": "Persuasive claims lack sufficient support.",
+      "recommended_action": "Add evidence, examples, source support, limitations, or reduce claim strength."
+    },
+    {
+      "severity": "critical",
+      "category": "dark_pattern",
+      "identifier": "E005",
+      "message": "Dark-pattern risk is present.",
+      "recommended_action": "Remove hidden terms, cancellation friction, preselected consent, or disguised advertising."
+    },
+    {
+      "severity": "medium",
+      "category": "vulnerability",
+      "identifier": "E005",
+      "message": "Audience vulnerability risk is elevated.",
+      "recommended_action": "Increase transparency, reduce pressure, and add decision support."
+    },
+    {
+      "severity": "medium",
+      "category": "ethical_readiness",
+      "identifier": "E005",
+      "message": "Responsible persuasion score is 0.00.",
+      "recommended_action": "Review agency, evidence, pressure, accessibility, vulnerability, dark-pattern risk, and governance."
+    }
+  ]
+}

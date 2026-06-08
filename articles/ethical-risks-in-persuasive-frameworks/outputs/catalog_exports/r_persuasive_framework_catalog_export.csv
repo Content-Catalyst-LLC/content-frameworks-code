@@ -1,0 +1,7 @@
+"asset_id","asset_name","asset_type","framework_used","audience","requested_action","responsible_persuasion_score","ethical_status","series","article_slug","github_path"
+"E001","Article introduction","article_section","ethical_review","general_reader","learn_more",0.8,"ready","Content Frameworks","ethical-risks-in-persuasive-frameworks","articles/ethical-risks-in-persuasive-frameworks/"
+"E002","GitHub repository block","repository_cta","action_path","technical_reader","open_repository",0.8,"ready","Content Frameworks","ethical-risks-in-persuasive-frameworks","articles/ethical-risks-in-persuasive-frameworks/"
+"E003","AIDA landing-page audit example","landing_page","AIDA","professional_reader","register",0.77,"governance review","Content Frameworks","ethical-risks-in-persuasive-frameworks","articles/ethical-risks-in-persuasive-frameworks/"
+"E004","PAS risk review example","campaign_draft","PAS","general_reader","subscribe",0.2229,"governance review","Content Frameworks","ethical-risks-in-persuasive-frameworks","articles/ethical-risks-in-persuasive-frameworks/"
+"E005","Dark-pattern checkout example","interface_flow","scarcity_and_urgency","consumer_user","buy_now",0,"governance review","Content Frameworks","ethical-risks-in-persuasive-frameworks","articles/ethical-risks-in-persuasive-frameworks/"
+"E006","Public-interest call to action","public_campaign","storytelling","public_reader","participate",0.78,"ready","Content Frameworks","ethical-risks-in-persuasive-frameworks","articles/ethical-risks-in-persuasive-frameworks/"
