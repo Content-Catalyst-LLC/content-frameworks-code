@@ -1,0 +1,4 @@
+review_id,record_id,issue_type,severity,review_note
+R001,M005,ethical_review,high,High-pressure pain-point example contains invented pain fear escalation false urgency and weak agency support
+R002,M004,transformation_support,medium,Webinar transformation prompt needs clearer bounds on after-state claim
+R003,pas-bab-and-the-structure-of-tension-and-transformation,publication,low,Confirm final image attachment ID and repository URL after publication

@@ -1,0 +1,219 @@
+{
+  "article": "PAS, BAB, and the Structure of Tension and Transformation",
+  "generated_at": "2026-06-08T21:44:34.655817+00:00",
+  "counts": {
+    "messages": 6,
+    "findings": 7,
+    "governance_queue": 10
+  },
+  "framework_summary": [
+    {
+      "framework_used": "BAB",
+      "asset_count": 2,
+      "average_pas_bab_readiness": 0.9667
+    },
+    {
+      "framework_used": "PAS",
+      "asset_count": 3,
+      "average_pas_bab_readiness": 0.7556
+    },
+    {
+      "framework_used": "PAS_BAB_hybrid",
+      "asset_count": 1,
+      "average_pas_bab_readiness": 1.0
+    }
+  ],
+  "stage_summary": [
+    {
+      "stage_or_metric": "current_state_score",
+      "average_score": 0.8889
+    },
+    {
+      "stage_or_metric": "stakes_score",
+      "average_score": 0.8889
+    },
+    {
+      "stage_or_metric": "transformation_score",
+      "average_score": 0.8333
+    },
+    {
+      "stage_or_metric": "bridge_score",
+      "average_score": 0.8889
+    },
+    {
+      "stage_or_metric": "ethical_review_score",
+      "average_score": 0.8333
+    },
+    {
+      "stage_or_metric": "sequence_balance_score",
+      "average_score": 0.9738
+    }
+  ],
+  "readiness": [
+    {
+      "message_id": "M001",
+      "asset_name": "Content Frameworks learning path prompt",
+      "asset_type": "learning_pathway",
+      "framework_used": "BAB",
+      "audience": "general_reader",
+      "current_state_score": 1.0,
+      "stakes_score": 1.0,
+      "transformation_score": 1.0,
+      "bridge_score": 1.0,
+      "ethical_review_score": 1.0,
+      "sequence_balance_score": 1.0,
+      "pas_bab_readiness_score": 1.0,
+      "pas_bab_status": "ready"
+    },
+    {
+      "message_id": "M002",
+      "asset_name": "GitHub companion workflow CTA",
+      "asset_type": "repository_cta",
+      "framework_used": "PAS",
+      "audience": "technical_reader",
+      "current_state_score": 1.0,
+      "stakes_score": 1.0,
+      "transformation_score": 1.0,
+      "bridge_score": 1.0,
+      "ethical_review_score": 1.0,
+      "sequence_balance_score": 1.0,
+      "pas_bab_readiness_score": 1.0,
+      "pas_bab_status": "ready"
+    },
+    {
+      "message_id": "M003",
+      "asset_name": "Newsletter problem-solution prompt",
+      "asset_type": "subscription_cta",
+      "framework_used": "PAS",
+      "audience": "returning_reader",
+      "current_state_score": 1.0,
+      "stakes_score": 1.0,
+      "transformation_score": 1.0,
+      "bridge_score": 1.0,
+      "ethical_review_score": 1.0,
+      "sequence_balance_score": 1.0,
+      "pas_bab_readiness_score": 1.0,
+      "pas_bab_status": "ready"
+    },
+    {
+      "message_id": "M004",
+      "asset_name": "Webinar transformation prompt",
+      "asset_type": "event_cta",
+      "framework_used": "BAB",
+      "audience": "professional_audience",
+      "current_state_score": 1.0,
+      "stakes_score": 1.0,
+      "transformation_score": 0.6667,
+      "bridge_score": 1.0,
+      "ethical_review_score": 1.0,
+      "sequence_balance_score": 0.8425,
+      "pas_bab_readiness_score": 0.9333,
+      "pas_bab_status": "ready"
+    },
+    {
+      "message_id": "M005",
+      "asset_name": "High-pressure pain-point example",
+      "asset_type": "landing_page",
+      "framework_used": "PAS",
+      "audience": "commercial_audience",
+      "current_state_score": 0.3333,
+      "stakes_score": 0.3333,
+      "transformation_score": 0.3333,
+      "bridge_score": 0.3333,
+      "ethical_review_score": 0.0,
+      "sequence_balance_score": 1.0,
+      "pas_bab_readiness_score": 0.2667,
+      "pas_bab_status": "governance review"
+    },
+    {
+      "message_id": "M006",
+      "asset_name": "Public-interest governance pathway",
+      "asset_type": "public_campaign",
+      "framework_used": "PAS_BAB_hybrid",
+      "audience": "public_reader",
+      "current_state_score": 1.0,
+      "stakes_score": 1.0,
+      "transformation_score": 1.0,
+      "bridge_score": 1.0,
+      "ethical_review_score": 1.0,
+      "sequence_balance_score": 1.0,
+      "pas_bab_readiness_score": 1.0,
+      "pas_bab_status": "ready"
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "manual_review_queue",
+      "severity": "high",
+      "category": "ethical_review",
+      "identifier": "M005",
+      "message": "High-pressure pain-point example contains invented pain fear escalation false urgency and weak agency support",
+      "recommended_action": "Resolve through PAS/BAB sequence governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "transformation_support",
+      "identifier": "M004",
+      "message": "Webinar transformation prompt needs clearer bounds on after-state claim",
+      "recommended_action": "Resolve through PAS/BAB sequence governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "low",
+      "category": "publication",
+      "identifier": "pas-bab-and-the-structure-of-tension-and-transformation",
+      "message": "Confirm final image attachment ID and repository URL after publication",
+      "recommended_action": "Resolve through PAS/BAB sequence governance."
+    },
+    {
+      "severity": "medium",
+      "category": "transformation",
+      "identifier": "M004",
+      "message": "After state or transformation claim is weak.",
+      "recommended_action": "Bound the transformation claim and support benefit language."
+    },
+    {
+      "severity": "medium",
+      "category": "current_state",
+      "identifier": "M005",
+      "message": "Problem or before state is weakly defined.",
+      "recommended_action": "Clarify the current state, audience context, and real friction."
+    },
+    {
+      "severity": "medium",
+      "category": "stakes",
+      "identifier": "M005",
+      "message": "Stakes or agitation are underdeveloped or poorly supported.",
+      "recommended_action": "Clarify consequences with proportional evidence and context."
+    },
+    {
+      "severity": "medium",
+      "category": "transformation",
+      "identifier": "M005",
+      "message": "After state or transformation claim is weak.",
+      "recommended_action": "Bound the transformation claim and support benefit language."
+    },
+    {
+      "severity": "high",
+      "category": "bridge",
+      "identifier": "M005",
+      "message": "Solution or bridge mechanism is unclear.",
+      "recommended_action": "Explain solution fit, bridge mechanism, effort, cost, and conditions."
+    },
+    {
+      "severity": "high",
+      "category": "ethical_review",
+      "identifier": "M005",
+      "message": "Ethical review score is below the minimum threshold.",
+      "recommended_action": "Remove invented pain, fear escalation, false urgency, or agency-reducing pressure."
+    },
+    {
+      "severity": "medium",
+      "category": "pas_bab_readiness",
+      "identifier": "M005",
+      "message": "PAS/BAB readiness is 0.27.",
+      "recommended_action": "Review current state, stakes, transformation, bridge clarity, and ethical-risk flags."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "article": "PAS, BAB, and the Structure of Tension and Transformation",
+  "series": "Content Frameworks",
+  "readiness_threshold": 0.78,
+  "ethical_minimum": 0.70,
+  "weights": {
+    "current_state": 0.20,
+    "stakes": 0.20,
+    "transformation": 0.20,
+    "bridge": 0.20,
+    "ethical_review": 0.20
+  },
+  "frameworks": [
+    "PAS",
+    "BAB",
+    "PAS_BAB_hybrid"
+  ],
+  "ethical_risk_flags": [
+    "invented_pain",
+    "fear_escalation",
+    "false_urgency",
+    "agency_reduction"
+  ]
+}

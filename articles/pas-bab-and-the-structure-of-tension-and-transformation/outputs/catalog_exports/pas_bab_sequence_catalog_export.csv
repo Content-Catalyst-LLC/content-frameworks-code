@@ -1,0 +1,7 @@
+series,article_slug,message_id,asset_name,asset_type,framework_used,audience,pas_bab_readiness_score,pas_bab_status,github_path
+Content Frameworks,pas-bab-and-the-structure-of-tension-and-transformation,M001,Content Frameworks learning path prompt,learning_pathway,BAB,general_reader,1.0,ready,articles/pas-bab-and-the-structure-of-tension-and-transformation/
+Content Frameworks,pas-bab-and-the-structure-of-tension-and-transformation,M002,GitHub companion workflow CTA,repository_cta,PAS,technical_reader,1.0,ready,articles/pas-bab-and-the-structure-of-tension-and-transformation/
+Content Frameworks,pas-bab-and-the-structure-of-tension-and-transformation,M003,Newsletter problem-solution prompt,subscription_cta,PAS,returning_reader,1.0,ready,articles/pas-bab-and-the-structure-of-tension-and-transformation/
+Content Frameworks,pas-bab-and-the-structure-of-tension-and-transformation,M004,Webinar transformation prompt,event_cta,BAB,professional_audience,0.9333,ready,articles/pas-bab-and-the-structure-of-tension-and-transformation/
+Content Frameworks,pas-bab-and-the-structure-of-tension-and-transformation,M005,High-pressure pain-point example,landing_page,PAS,commercial_audience,0.2667,governance review,articles/pas-bab-and-the-structure-of-tension-and-transformation/
+Content Frameworks,pas-bab-and-the-structure-of-tension-and-transformation,M006,Public-interest governance pathway,public_campaign,PAS_BAB_hybrid,public_reader,1.0,ready,articles/pas-bab-and-the-structure-of-tension-and-transformation/

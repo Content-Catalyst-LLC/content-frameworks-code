@@ -1,0 +1,7 @@
+message_id,asset_name,asset_type,framework_used,audience,current_state_score,stakes_score,transformation_score,bridge_score,ethical_review_score,sequence_balance_score,pas_bab_readiness_score,pas_bab_status
+M001,Content Frameworks learning path prompt,learning_pathway,BAB,general_reader,1.0,1.0,1.0,1.0,1.0,1.0,1.0,ready
+M002,GitHub companion workflow CTA,repository_cta,PAS,technical_reader,1.0,1.0,1.0,1.0,1.0,1.0,1.0,ready
+M003,Newsletter problem-solution prompt,subscription_cta,PAS,returning_reader,1.0,1.0,1.0,1.0,1.0,1.0,1.0,ready
+M004,Webinar transformation prompt,event_cta,BAB,professional_audience,1.0,1.0,0.6667,1.0,1.0,0.8425,0.9333,ready
+M005,High-pressure pain-point example,landing_page,PAS,commercial_audience,0.3333,0.3333,0.3333,0.3333,0.0,1.0,0.2667,governance review
+M006,Public-interest governance pathway,public_campaign,PAS_BAB_hybrid,public_reader,1.0,1.0,1.0,1.0,1.0,1.0,1.0,ready

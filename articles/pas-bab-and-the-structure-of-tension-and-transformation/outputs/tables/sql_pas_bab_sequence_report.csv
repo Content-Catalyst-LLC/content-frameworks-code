@@ -1,0 +1,25 @@
+framework_used,message_count
+BAB,2
+PAS,3
+PAS_BAB_hybrid,1
+audience,message_count
+commercial_audience,1
+general_reader,1
+professional_audience,1
+public_reader,1
+returning_reader,1
+technical_reader,1
+message_id,asset_name,framework_used,current_state_features,stakes_features,transformation_features,bridge_features
+M001,"Content Frameworks learning path prompt",BAB,3,3,3,3
+M002,"GitHub companion workflow CTA",PAS,3,3,3,3
+M003,"Newsletter problem-solution prompt",PAS,3,3,3,3
+M004,"Webinar transformation prompt",BAB,3,3,2,3
+M005,"High-pressure pain-point example",PAS,1,1,1,1
+M006,"Public-interest governance pathway",PAS_BAB_hybrid,3,3,3,3
+message_id,asset_name,ethical_features
+M005,"High-pressure pain-point example",0
+M001,"Content Frameworks learning path prompt",4
+M002,"GitHub companion workflow CTA",4
+M003,"Newsletter problem-solution prompt",4
+M004,"Webinar transformation prompt",4
+M006,"Public-interest governance pathway",4

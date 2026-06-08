@@ -1,0 +1,7 @@
+message_id,asset_name,asset_type,framework_used,audience,problem_clear,before_state_specific,audience_context_present,stakes_visible,agitation_proportionate,consequence_supported,after_state_credible,transformation_bounded,benefit_claim_supported,solution_fit_clear,bridge_mechanism_visible,commitment_transparent,uses_invented_pain,uses_fear_escalation,uses_false_urgency,audience_agency_preserved
+M001,Content Frameworks learning path prompt,learning_pathway,BAB,general_reader,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes
+M002,GitHub companion workflow CTA,repository_cta,PAS,technical_reader,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes
+M003,Newsletter problem-solution prompt,subscription_cta,PAS,returning_reader,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes
+M004,Webinar transformation prompt,event_cta,BAB,professional_audience,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no,no,no,yes
+M005,High-pressure pain-point example,landing_page,PAS,commercial_audience,yes,no,no,yes,no,no,yes,no,no,yes,no,no,yes,yes,yes,no
+M006,Public-interest governance pathway,public_campaign,PAS_BAB_hybrid,public_reader,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PAS/BAB Sequence Record",
+  "type": "object",
+  "required": [
+    "message_id",
+    "asset_name",
+    "asset_type",
+    "framework_used",
+    "audience",
+    "problem_clear",
+    "bridge_mechanism_visible",
+    "audience_agency_preserved"
+  ]
+}

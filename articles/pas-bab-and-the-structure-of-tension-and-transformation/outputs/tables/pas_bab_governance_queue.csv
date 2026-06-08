@@ -1,0 +1,11 @@
+source,severity,category,identifier,message,recommended_action
+manual_review_queue,high,ethical_review,M005,High-pressure pain-point example contains invented pain fear escalation false urgency and weak agency support,Resolve through PAS/BAB sequence governance.
+manual_review_queue,medium,transformation_support,M004,Webinar transformation prompt needs clearer bounds on after-state claim,Resolve through PAS/BAB sequence governance.
+manual_review_queue,low,publication,pas-bab-and-the-structure-of-tension-and-transformation,Confirm final image attachment ID and repository URL after publication,Resolve through PAS/BAB sequence governance.
+,medium,transformation,M004,After state or transformation claim is weak.,Bound the transformation claim and support benefit language.
+,medium,current_state,M005,Problem or before state is weakly defined.,"Clarify the current state, audience context, and real friction."
+,medium,stakes,M005,Stakes or agitation are underdeveloped or poorly supported.,Clarify consequences with proportional evidence and context.
+,medium,transformation,M005,After state or transformation claim is weak.,Bound the transformation claim and support benefit language.
+,high,bridge,M005,Solution or bridge mechanism is unclear.,"Explain solution fit, bridge mechanism, effort, cost, and conditions."
+,high,ethical_review,M005,Ethical review score is below the minimum threshold.,"Remove invented pain, fear escalation, false urgency, or agency-reducing pressure."
+,medium,pas_bab_readiness,M005,PAS/BAB readiness is 0.27.,"Review current state, stakes, transformation, bridge clarity, and ethical-risk flags."

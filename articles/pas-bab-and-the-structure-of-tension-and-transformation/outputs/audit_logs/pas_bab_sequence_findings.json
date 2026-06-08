@@ -1,0 +1,51 @@
+[
+  {
+    "severity": "medium",
+    "category": "transformation",
+    "identifier": "M004",
+    "message": "After state or transformation claim is weak.",
+    "recommended_action": "Bound the transformation claim and support benefit language."
+  },
+  {
+    "severity": "medium",
+    "category": "current_state",
+    "identifier": "M005",
+    "message": "Problem or before state is weakly defined.",
+    "recommended_action": "Clarify the current state, audience context, and real friction."
+  },
+  {
+    "severity": "medium",
+    "category": "stakes",
+    "identifier": "M005",
+    "message": "Stakes or agitation are underdeveloped or poorly supported.",
+    "recommended_action": "Clarify consequences with proportional evidence and context."
+  },
+  {
+    "severity": "medium",
+    "category": "transformation",
+    "identifier": "M005",
+    "message": "After state or transformation claim is weak.",
+    "recommended_action": "Bound the transformation claim and support benefit language."
+  },
+  {
+    "severity": "high",
+    "category": "bridge",
+    "identifier": "M005",
+    "message": "Solution or bridge mechanism is unclear.",
+    "recommended_action": "Explain solution fit, bridge mechanism, effort, cost, and conditions."
+  },
+  {
+    "severity": "high",
+    "category": "ethical_review",
+    "identifier": "M005",
+    "message": "Ethical review score is below the minimum threshold.",
+    "recommended_action": "Remove invented pain, fear escalation, false urgency, or agency-reducing pressure."
+  },
+  {
+    "severity": "medium",
+    "category": "pas_bab_readiness",
+    "identifier": "M005",
+    "message": "PAS/BAB readiness is 0.27.",
+    "recommended_action": "Review current state, stakes, transformation, bridge clarity, and ethical-risk flags."
+  }
+]
