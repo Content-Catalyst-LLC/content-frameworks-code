@@ -1,0 +1,142 @@
+[
+  {
+    "severity": "medium",
+    "category": "metadata",
+    "slug": "what-makes-a-powerful-content-framework",
+    "message": "Published article metadata completion is 38%, below threshold 85%.",
+    "recommended_action": "Complete missing metadata fields before the next governance review."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_value",
+    "slug": "FV001",
+    "message": "Research Communication Framework requires review: ready; risk severity is medium.",
+    "recommended_action": "Review evidence integrity, ethical safety, and use conditions before product deployment."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_value",
+    "slug": "FV002",
+    "message": "Educational Scaffolding requires review: ready; risk severity is medium.",
+    "recommended_action": "Review evidence integrity, ethical safety, and use conditions before product deployment."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_value",
+    "slug": "FV003",
+    "message": "Message House requires review: ethical review needed; risk severity is medium.",
+    "recommended_action": "Review evidence integrity, ethical safety, and use conditions before product deployment."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_value",
+    "slug": "FV006",
+    "message": "Audience Journey Framework requires review: ethical review needed; risk severity is medium.",
+    "recommended_action": "Review evidence integrity, ethical safety, and use conditions before product deployment."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_value",
+    "slug": "FV007",
+    "message": "Curriculum Pathway requires review: ready; risk severity is medium.",
+    "recommended_action": "Review evidence integrity, ethical safety, and use conditions before product deployment."
+  },
+  {
+    "severity": "high",
+    "category": "framework_value",
+    "slug": "FV010",
+    "message": "Persuasive Sequence Framework requires review: ethical review needed; risk severity is high.",
+    "recommended_action": "Review evidence integrity, ethical safety, and use conditions before product deployment."
+  },
+  {
+    "severity": "medium",
+    "category": "links",
+    "slug": "evidence-architecture-in-explanatory-content",
+    "message": "Link target is not present in article map.",
+    "recommended_action": "Add target to article map or correct target slug."
+  },
+  {
+    "severity": "medium",
+    "category": "links",
+    "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+    "message": "Published article has only 1 total internal-link relationships.",
+    "recommended_action": "Add relevant links to strengthen series navigation and semantic connectivity."
+  },
+  {
+    "severity": "medium",
+    "category": "links",
+    "slug": "frameworks-for-digital-knowledge-systems",
+    "message": "Published article has only 1 total internal-link relationships.",
+    "recommended_action": "Add relevant links to strengthen series navigation and semantic connectivity."
+  },
+  {
+    "severity": "medium",
+    "category": "links",
+    "slug": "frameworks-for-research-communication",
+    "message": "Published article has only 2 total internal-link relationships.",
+    "recommended_action": "Add relevant links to strengthen series navigation and semantic connectivity."
+  },
+  {
+    "severity": "medium",
+    "category": "links",
+    "slug": "message-house-and-the-architecture-of-strategic-messaging",
+    "message": "Published article has only 1 total internal-link relationships.",
+    "recommended_action": "Add relevant links to strengthen series navigation and semantic connectivity."
+  },
+  {
+    "severity": "medium",
+    "category": "links",
+    "slug": "narrative-pathways-and-knowledge-architecture",
+    "message": "Published article has only 0 total internal-link relationships.",
+    "recommended_action": "Add relevant links to strengthen series navigation and semantic connectivity."
+  },
+  {
+    "severity": "medium",
+    "category": "links",
+    "slug": "pillar-pages-and-topic-clusters",
+    "message": "Published article has only 2 total internal-link relationships.",
+    "recommended_action": "Add relevant links to strengthen series navigation and semantic connectivity."
+  },
+  {
+    "severity": "medium",
+    "category": "links",
+    "slug": "what-are-content-frameworks",
+    "message": "Published article has only 2 total internal-link relationships.",
+    "recommended_action": "Add relevant links to strengthen series navigation and semantic connectivity."
+  },
+  {
+    "severity": "medium",
+    "category": "links",
+    "slug": "what-makes-a-powerful-content-framework",
+    "message": "Published article has only 1 total internal-link relationships.",
+    "recommended_action": "Add relevant links to strengthen series navigation and semantic connectivity."
+  },
+  {
+    "severity": "low",
+    "category": "taxonomy",
+    "slug": "Classic Communication and Persuasive Sequence Frameworks",
+    "message": "Taxonomy category has no articles in the current sample.",
+    "recommended_action": "Confirm whether this category is intentionally out of scope for the sample."
+  },
+  {
+    "severity": "low",
+    "category": "taxonomy",
+    "slug": "Strategic and Environmental Analysis Frameworks",
+    "message": "Taxonomy category has no articles in the current sample.",
+    "recommended_action": "Confirm whether this category is intentionally out of scope for the sample."
+  },
+  {
+    "severity": "low",
+    "category": "taxonomy",
+    "slug": "Policy Governance Systems Explanation and Public Reasoning",
+    "message": "Taxonomy category has no articles in the current sample.",
+    "recommended_action": "Confirm whether this category is intentionally out of scope for the sample."
+  },
+  {
+    "severity": "low",
+    "category": "taxonomy",
+    "slug": "Framework Composition Scaling and Editorial Governance",
+    "message": "Taxonomy category has no articles in the current sample.",
+    "recommended_action": "Confirm whether this category is intentionally out of scope for the sample."
+  }
+]

@@ -1,0 +1,11 @@
+framework_id,framework_name,domain,primary_use,comprehension,comparison,retention,action,governance,evidence_integrity,audience_fit,ethical_safety,risk_severity,risk_if_misused
+FV001,Research Communication Framework,Research,Move from evidence to interpretation,5,4,4,3,4,5,4,5,medium,Findings may be overstated or uncertainty hidden
+FV002,Educational Scaffolding,Education,Sequence learning and reduce overload,5,3,5,4,3,4,5,4,medium,Learning pathways may become too rigid
+FV003,Message House,Strategic Communication,Align claims proof points and audience messages,4,4,4,5,3,4,5,3,medium,Talking points may replace evidence
+FV004,Article Map,Digital Publishing,Organize a knowledge series,5,5,4,4,5,4,4,5,low,Map may become outdated or overbuilt
+FV005,Content Audit Framework,Editorial Governance,Identify gaps duplication and stale content,4,5,3,5,5,5,4,5,low,Metrics may replace judgment
+FV006,Audience Journey Framework,Strategic Communication,Sequence awareness learning trust and action,4,4,4,5,3,3,5,3,medium,Audience behavior may be oversimplified
+FV007,Curriculum Pathway,Education,Structure prerequisite and advanced learning,5,4,5,4,4,4,5,4,medium,Learner diversity may be ignored
+FV008,Evidence Architecture,Research,Connect claims support citations and limits,5,5,4,4,5,5,4,5,low,Structure may hide contested interpretation
+FV009,Public Reasoning Framework,Public Reasoning,Support civic understanding and deliberation,5,5,4,4,5,5,5,5,low,Framework may be used to narrow public debate
+FV010,Persuasive Sequence Framework,Strategic Communication,Sequence attention interest desire and action,3,3,4,5,2,3,4,2,high,Persuasive structure may become manipulative

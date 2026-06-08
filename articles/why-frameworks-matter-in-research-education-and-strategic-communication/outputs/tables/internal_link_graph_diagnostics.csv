@@ -1,0 +1,15 @@
+slug,outgoing_links,incoming_links,total_link_degree,network_role,meets_minimum_link_threshold
+educational-scaffolding-and-the-design-of-learning-systems,0,1,1,thinly linked,False
+evidence-architecture-in-explanatory-content,0,1,1,thinly linked,False
+framework-literacy-and-the-structure-of-usable-knowledge,0,0,0,thinly linked,False
+frameworks-for-digital-knowledge-systems,0,1,1,thinly linked,False
+frameworks-for-research-communication,1,1,2,thinly linked,False
+frameworks-templates-and-models,0,0,0,thinly linked,False
+history-of-framework-thinking-in-communication-and-strategy,0,0,0,thinly linked,False
+message-house-and-the-architecture-of-strategic-messaging,0,1,1,thinly linked,False
+narrative-pathways-and-knowledge-architecture,0,0,0,thinly linked,False
+pillar-pages-and-topic-clusters,1,1,2,thinly linked,False
+taxonomy-design-for-content-frameworks,0,0,0,thinly linked,False
+what-are-content-frameworks,1,1,2,thinly linked,False
+what-makes-a-powerful-content-framework,0,1,1,thinly linked,False
+why-frameworks-matter-in-research-education-and-strategic-communication,6,1,7,hub,True

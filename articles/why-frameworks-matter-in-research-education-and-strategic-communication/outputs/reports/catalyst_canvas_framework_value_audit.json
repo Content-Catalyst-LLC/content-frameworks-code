@@ -1,0 +1,836 @@
+{
+  "article": "Why Frameworks Matter in Research, Education, and Strategic Communication",
+  "generated_at": "2026-06-08T11:00:44.901350+00:00",
+  "config": {
+    "product_context": "Catalyst Canvas",
+    "article": "Why Frameworks Matter in Research, Education, and Strategic Communication",
+    "series": "Content Frameworks",
+    "version": "1.0.0",
+    "required_metadata_fields": [
+      "excerpt",
+      "tags",
+      "github_url",
+      "image_alt",
+      "references",
+      "last_reviewed",
+      "series_context",
+      "footer_navigation"
+    ],
+    "framework_value_dimensions": [
+      "comprehension",
+      "comparison",
+      "retention",
+      "action",
+      "governance",
+      "evidence_integrity",
+      "audience_fit",
+      "ethical_safety"
+    ],
+    "minimum_metadata_completion_rate": 0.85,
+    "minimum_framework_value_score": 32,
+    "minimum_internal_links_for_published_article": 3,
+    "high_risk_terms": [
+      "overclaiming",
+      "manipulation",
+      "oversimplification",
+      "false universality",
+      "evidence distortion",
+      "category distortion",
+      "framework drift"
+    ],
+    "governance_review_triggers": {
+      "metadata_completion_below": 0.85,
+      "internal_links_below": 3,
+      "framework_value_score_below": 32,
+      "status_is_planned": true,
+      "risk_severity_at_or_above": "medium"
+    }
+  },
+  "counts": {
+    "articles": 13,
+    "frameworks": 10,
+    "links": 9,
+    "taxonomy_categories": 8,
+    "governance_queue": 25,
+    "connected_components": 6
+  },
+  "coverage_summary": [
+    {
+      "cluster": "Audience Need Value Positioning and Message Architecture",
+      "published": 1,
+      "planned": 0,
+      "total": 1,
+      "coverage_rate": 1.0,
+      "gap_count": 0,
+      "coverage_status": "healthy"
+    },
+    {
+      "cluster": "Educational Research and Conceptual Frameworks",
+      "published": 2,
+      "planned": 0,
+      "total": 2,
+      "coverage_rate": 1.0,
+      "gap_count": 0,
+      "coverage_status": "healthy"
+    },
+    {
+      "cluster": "Foundations",
+      "published": 3,
+      "planned": 3,
+      "total": 6,
+      "coverage_rate": 0.5,
+      "gap_count": 3,
+      "coverage_status": "needs development"
+    },
+    {
+      "cluster": "Knowledge Architecture",
+      "published": 3,
+      "planned": 1,
+      "total": 4,
+      "coverage_rate": 0.75,
+      "gap_count": 1,
+      "coverage_status": "healthy"
+    }
+  ],
+  "metadata_summary": [
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "status": "published",
+      "completed_fields": 8,
+      "required_fields": 8,
+      "completion_rate": 1.0,
+      "readiness": "ready",
+      "missing_fields": "none"
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "status": "published",
+      "completed_fields": 8,
+      "required_fields": 8,
+      "completion_rate": 1.0,
+      "readiness": "ready",
+      "missing_fields": "none"
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "status": "published",
+      "completed_fields": 3,
+      "required_fields": 8,
+      "completion_rate": 0.375,
+      "readiness": "needs metadata work",
+      "missing_fields": "tags; github_url; image_alt; last_reviewed; footer_navigation"
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "status": "planned",
+      "completed_fields": 0,
+      "required_fields": 8,
+      "completion_rate": 0.0,
+      "readiness": "needs metadata work",
+      "missing_fields": "excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation"
+    },
+    {
+      "slug": "frameworks-templates-and-models",
+      "title": "Frameworks Templates and Models",
+      "status": "planned",
+      "completed_fields": 0,
+      "required_fields": 8,
+      "completion_rate": 0.0,
+      "readiness": "needs metadata work",
+      "missing_fields": "excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "status": "published",
+      "completed_fields": 8,
+      "required_fields": 8,
+      "completion_rate": 1.0,
+      "readiness": "ready",
+      "missing_fields": "none"
+    },
+    {
+      "slug": "frameworks-for-research-communication",
+      "title": "Frameworks for Research Communication",
+      "status": "published",
+      "completed_fields": 7,
+      "required_fields": 8,
+      "completion_rate": 0.875,
+      "readiness": "ready",
+      "missing_fields": "last_reviewed"
+    }
+  ],
+  "framework_value_scores": [
+    {
+      "framework_id": "FV009",
+      "framework_name": "Public Reasoning Framework",
+      "domain": "Public Reasoning",
+      "primary_use": "Support civic understanding and deliberation",
+      "total_score": 38,
+      "average_score": 4.75,
+      "product_readiness": "ready",
+      "risk_severity": "low",
+      "risk_if_misused": "Framework may be used to narrow public debate"
+    },
+    {
+      "framework_id": "FV008",
+      "framework_name": "Evidence Architecture",
+      "domain": "Research",
+      "primary_use": "Connect claims support citations and limits",
+      "total_score": 37,
+      "average_score": 4.625,
+      "product_readiness": "ready",
+      "risk_severity": "low",
+      "risk_if_misused": "Structure may hide contested interpretation"
+    },
+    {
+      "framework_id": "FV004",
+      "framework_name": "Article Map",
+      "domain": "Digital Publishing",
+      "primary_use": "Organize a knowledge series",
+      "total_score": 36,
+      "average_score": 4.5,
+      "product_readiness": "ready",
+      "risk_severity": "low",
+      "risk_if_misused": "Map may become outdated or overbuilt"
+    },
+    {
+      "framework_id": "FV005",
+      "framework_name": "Content Audit Framework",
+      "domain": "Editorial Governance",
+      "primary_use": "Identify gaps duplication and stale content",
+      "total_score": 36,
+      "average_score": 4.5,
+      "product_readiness": "ready",
+      "risk_severity": "low",
+      "risk_if_misused": "Metrics may replace judgment"
+    },
+    {
+      "framework_id": "FV007",
+      "framework_name": "Curriculum Pathway",
+      "domain": "Education",
+      "primary_use": "Structure prerequisite and advanced learning",
+      "total_score": 35,
+      "average_score": 4.375,
+      "product_readiness": "ready",
+      "risk_severity": "medium",
+      "risk_if_misused": "Learner diversity may be ignored"
+    },
+    {
+      "framework_id": "FV001",
+      "framework_name": "Research Communication Framework",
+      "domain": "Research",
+      "primary_use": "Move from evidence to interpretation",
+      "total_score": 34,
+      "average_score": 4.25,
+      "product_readiness": "ready",
+      "risk_severity": "medium",
+      "risk_if_misused": "Findings may be overstated or uncertainty hidden"
+    },
+    {
+      "framework_id": "FV002",
+      "framework_name": "Educational Scaffolding",
+      "domain": "Education",
+      "primary_use": "Sequence learning and reduce overload",
+      "total_score": 33,
+      "average_score": 4.125,
+      "product_readiness": "ready",
+      "risk_severity": "medium",
+      "risk_if_misused": "Learning pathways may become too rigid"
+    },
+    {
+      "framework_id": "FV003",
+      "framework_name": "Message House",
+      "domain": "Strategic Communication",
+      "primary_use": "Align claims proof points and audience messages",
+      "total_score": 32,
+      "average_score": 4.0,
+      "product_readiness": "ethical review needed",
+      "risk_severity": "medium",
+      "risk_if_misused": "Talking points may replace evidence"
+    },
+    {
+      "framework_id": "FV006",
+      "framework_name": "Audience Journey Framework",
+      "domain": "Strategic Communication",
+      "primary_use": "Sequence awareness learning trust and action",
+      "total_score": 31,
+      "average_score": 3.875,
+      "product_readiness": "ethical review needed",
+      "risk_severity": "medium",
+      "risk_if_misused": "Audience behavior may be oversimplified"
+    },
+    {
+      "framework_id": "FV010",
+      "framework_name": "Persuasive Sequence Framework",
+      "domain": "Strategic Communication",
+      "primary_use": "Sequence attention interest desire and action",
+      "total_score": 26,
+      "average_score": 3.25,
+      "product_readiness": "ethical review needed",
+      "risk_severity": "high",
+      "risk_if_misused": "Persuasive structure may become manipulative"
+    }
+  ],
+  "graph_diagnostics": [
+    {
+      "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked",
+      "meets_minimum_link_threshold": false
+    },
+    {
+      "slug": "evidence-architecture-in-explanatory-content",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked",
+      "meets_minimum_link_threshold": false
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "network_role": "thinly linked",
+      "meets_minimum_link_threshold": false
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked",
+      "meets_minimum_link_threshold": false
+    },
+    {
+      "slug": "frameworks-for-research-communication",
+      "outgoing_links": 1,
+      "incoming_links": 1,
+      "total_link_degree": 2,
+      "network_role": "thinly linked",
+      "meets_minimum_link_threshold": false
+    },
+    {
+      "slug": "frameworks-templates-and-models",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "network_role": "thinly linked",
+      "meets_minimum_link_threshold": false
+    },
+    {
+      "slug": "history-of-framework-thinking-in-communication-and-strategy",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "network_role": "thinly linked",
+      "meets_minimum_link_threshold": false
+    },
+    {
+      "slug": "message-house-and-the-architecture-of-strategic-messaging",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked",
+      "meets_minimum_link_threshold": false
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "network_role": "thinly linked",
+      "meets_minimum_link_threshold": false
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "outgoing_links": 1,
+      "incoming_links": 1,
+      "total_link_degree": 2,
+      "network_role": "thinly linked",
+      "meets_minimum_link_threshold": false
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "network_role": "thinly linked",
+      "meets_minimum_link_threshold": false
+    },
+    {
+      "slug": "what-are-content-frameworks",
+      "outgoing_links": 1,
+      "incoming_links": 1,
+      "total_link_degree": 2,
+      "network_role": "thinly linked",
+      "meets_minimum_link_threshold": false
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked",
+      "meets_minimum_link_threshold": false
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "outgoing_links": 6,
+      "incoming_links": 1,
+      "total_link_degree": 7,
+      "network_role": "hub",
+      "meets_minimum_link_threshold": true
+    }
+  ],
+  "link_recommendations": [
+    {
+      "source_slug": "what-are-content-frameworks",
+      "target_slug": "what-makes-a-powerful-content-framework",
+      "cluster": "Foundations",
+      "recommendation_type": "same-cluster semantic link",
+      "priority": "medium"
+    },
+    {
+      "source_slug": "what-makes-a-powerful-content-framework",
+      "target_slug": "what-are-content-frameworks",
+      "cluster": "Foundations",
+      "recommendation_type": "same-cluster semantic link",
+      "priority": "medium"
+    },
+    {
+      "source_slug": "what-makes-a-powerful-content-framework",
+      "target_slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "cluster": "Foundations",
+      "recommendation_type": "same-cluster semantic link",
+      "priority": "medium"
+    },
+    {
+      "source_slug": "pillar-pages-and-topic-clusters",
+      "target_slug": "narrative-pathways-and-knowledge-architecture",
+      "cluster": "Knowledge Architecture",
+      "recommendation_type": "same-cluster semantic link",
+      "priority": "medium"
+    },
+    {
+      "source_slug": "narrative-pathways-and-knowledge-architecture",
+      "target_slug": "pillar-pages-and-topic-clusters",
+      "cluster": "Knowledge Architecture",
+      "recommendation_type": "same-cluster semantic link",
+      "priority": "medium"
+    },
+    {
+      "source_slug": "narrative-pathways-and-knowledge-architecture",
+      "target_slug": "frameworks-for-digital-knowledge-systems",
+      "cluster": "Knowledge Architecture",
+      "recommendation_type": "same-cluster semantic link",
+      "priority": "medium"
+    },
+    {
+      "source_slug": "frameworks-for-digital-knowledge-systems",
+      "target_slug": "pillar-pages-and-topic-clusters",
+      "cluster": "Knowledge Architecture",
+      "recommendation_type": "same-cluster semantic link",
+      "priority": "medium"
+    },
+    {
+      "source_slug": "frameworks-for-digital-knowledge-systems",
+      "target_slug": "narrative-pathways-and-knowledge-architecture",
+      "cluster": "Knowledge Architecture",
+      "recommendation_type": "same-cluster semantic link",
+      "priority": "medium"
+    },
+    {
+      "source_slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "target_slug": "frameworks-for-research-communication",
+      "cluster": "Educational Research and Conceptual Frameworks",
+      "recommendation_type": "same-cluster semantic link",
+      "priority": "medium"
+    },
+    {
+      "source_slug": "frameworks-for-research-communication",
+      "target_slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "cluster": "Educational Research and Conceptual Frameworks",
+      "recommendation_type": "same-cluster semantic link",
+      "priority": "medium"
+    }
+  ],
+  "taxonomy_coverage": [
+    {
+      "category": "Foundations",
+      "expected_role": "conceptual grounding",
+      "article_count": 6,
+      "published": 3,
+      "planned": 3,
+      "coverage_rate": 0.5,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Knowledge Architecture",
+      "expected_role": "structural publishing logic",
+      "article_count": 4,
+      "published": 3,
+      "planned": 1,
+      "coverage_rate": 0.75,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Educational Research and Conceptual Frameworks",
+      "expected_role": "learning and evidence design",
+      "article_count": 2,
+      "published": 2,
+      "planned": 0,
+      "coverage_rate": 1.0,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Classic Communication and Persuasive Sequence Frameworks",
+      "expected_role": "communication sequence",
+      "article_count": 0,
+      "published": 0,
+      "planned": 0,
+      "coverage_rate": 0.0,
+      "taxonomy_status": "missing from current article map sample"
+    },
+    {
+      "category": "Audience Need Value Positioning and Message Architecture",
+      "expected_role": "audience relevance",
+      "article_count": 1,
+      "published": 1,
+      "planned": 0,
+      "coverage_rate": 1.0,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Strategic and Environmental Analysis Frameworks",
+      "expected_role": "strategic analysis",
+      "article_count": 0,
+      "published": 0,
+      "planned": 0,
+      "coverage_rate": 0.0,
+      "taxonomy_status": "missing from current article map sample"
+    },
+    {
+      "category": "Policy Governance Systems Explanation and Public Reasoning",
+      "expected_role": "public understanding",
+      "article_count": 0,
+      "published": 0,
+      "planned": 0,
+      "coverage_rate": 0.0,
+      "taxonomy_status": "missing from current article map sample"
+    },
+    {
+      "category": "Framework Composition Scaling and Editorial Governance",
+      "expected_role": "maintenance and critique",
+      "article_count": 0,
+      "published": 0,
+      "planned": 0,
+      "coverage_rate": 0.0,
+      "taxonomy_status": "missing from current article map sample"
+    }
+  ],
+  "connected_components": [
+    [
+      "educational-scaffolding-and-the-design-of-learning-systems",
+      "evidence-architecture-in-explanatory-content",
+      "frameworks-for-digital-knowledge-systems",
+      "frameworks-for-research-communication",
+      "message-house-and-the-architecture-of-strategic-messaging",
+      "pillar-pages-and-topic-clusters",
+      "what-are-content-frameworks",
+      "what-makes-a-powerful-content-framework",
+      "why-frameworks-matter-in-research-education-and-strategic-communication"
+    ],
+    [
+      "framework-literacy-and-the-structure-of-usable-knowledge"
+    ],
+    [
+      "frameworks-templates-and-models"
+    ],
+    [
+      "history-of-framework-thinking-in-communication-and-strategy"
+    ],
+    [
+      "narrative-pathways-and-knowledge-architecture"
+    ],
+    [
+      "taxonomy-design-for-content-frameworks"
+    ]
+  ],
+  "governance_queue": [
+    {
+      "source": "editorial_review_queue",
+      "severity": "high",
+      "category": "ethics",
+      "identifier": "persuasive-sequence-frameworks",
+      "message": "Persuasive framework articles require autonomy and manipulation risk checks",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "framework_value",
+      "identifier": "FV010",
+      "message": "Persuasive Sequence Framework requires review: ethical review needed; risk severity is high.",
+      "recommended_action": "Review evidence integrity, ethical safety, and use conditions before product deployment."
+    },
+    {
+      "source": "editorial_review_queue",
+      "severity": "medium",
+      "category": "coverage",
+      "identifier": "frameworks-templates-and-models",
+      "message": "Needs conceptual distinction examples",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_value",
+      "identifier": "FV001",
+      "message": "Research Communication Framework requires review: ready; risk severity is medium.",
+      "recommended_action": "Review evidence integrity, ethical safety, and use conditions before product deployment."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_value",
+      "identifier": "FV002",
+      "message": "Educational Scaffolding requires review: ready; risk severity is medium.",
+      "recommended_action": "Review evidence integrity, ethical safety, and use conditions before product deployment."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_value",
+      "identifier": "FV003",
+      "message": "Message House requires review: ethical review needed; risk severity is medium.",
+      "recommended_action": "Review evidence integrity, ethical safety, and use conditions before product deployment."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_value",
+      "identifier": "FV006",
+      "message": "Audience Journey Framework requires review: ethical review needed; risk severity is medium.",
+      "recommended_action": "Review evidence integrity, ethical safety, and use conditions before product deployment."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_value",
+      "identifier": "FV007",
+      "message": "Curriculum Pathway requires review: ready; risk severity is medium.",
+      "recommended_action": "Review evidence integrity, ethical safety, and use conditions before product deployment."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "links",
+      "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+      "message": "Published article has only 1 total internal-link relationships.",
+      "recommended_action": "Add relevant links to strengthen series navigation and semantic connectivity."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "links",
+      "identifier": "evidence-architecture-in-explanatory-content",
+      "message": "Link target is not present in article map.",
+      "recommended_action": "Add target to article map or correct target slug."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "links",
+      "identifier": "frameworks-for-digital-knowledge-systems",
+      "message": "Published article has only 1 total internal-link relationships.",
+      "recommended_action": "Add relevant links to strengthen series navigation and semantic connectivity."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "links",
+      "identifier": "frameworks-for-research-communication",
+      "message": "Published article has only 2 total internal-link relationships.",
+      "recommended_action": "Add relevant links to strengthen series navigation and semantic connectivity."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "links",
+      "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+      "message": "Published article has only 1 total internal-link relationships.",
+      "recommended_action": "Add relevant links to strengthen series navigation and semantic connectivity."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "links",
+      "identifier": "narrative-pathways-and-knowledge-architecture",
+      "message": "Published article has only 0 total internal-link relationships.",
+      "recommended_action": "Add relevant links to strengthen series navigation and semantic connectivity."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "links",
+      "identifier": "pillar-pages-and-topic-clusters",
+      "message": "Published article has only 2 total internal-link relationships.",
+      "recommended_action": "Add relevant links to strengthen series navigation and semantic connectivity."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "links",
+      "identifier": "what-are-content-frameworks",
+      "message": "Published article has only 2 total internal-link relationships.",
+      "recommended_action": "Add relevant links to strengthen series navigation and semantic connectivity."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "links",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Published article has only 1 total internal-link relationships.",
+      "recommended_action": "Add relevant links to strengthen series navigation and semantic connectivity."
+    },
+    {
+      "source": "editorial_review_queue",
+      "severity": "medium",
+      "category": "metadata",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Tags repository URL image alt and footer navigation need completion",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "metadata",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Published article metadata completion is 38%, below threshold 85%.",
+      "recommended_action": "Complete missing metadata fields before the next governance review."
+    },
+    {
+      "source": "editorial_review_queue",
+      "severity": "low",
+      "category": "governance",
+      "identifier": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "message": "Confirm final image attachment ID after upload",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "editorial_review_queue",
+      "severity": "low",
+      "category": "status",
+      "identifier": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "message": "Planned article needs draft date",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "taxonomy",
+      "identifier": "Classic Communication and Persuasive Sequence Frameworks",
+      "message": "Taxonomy category has no articles in the current sample.",
+      "recommended_action": "Confirm whether this category is intentionally out of scope for the sample."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "taxonomy",
+      "identifier": "Framework Composition Scaling and Editorial Governance",
+      "message": "Taxonomy category has no articles in the current sample.",
+      "recommended_action": "Confirm whether this category is intentionally out of scope for the sample."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "taxonomy",
+      "identifier": "Policy Governance Systems Explanation and Public Reasoning",
+      "message": "Taxonomy category has no articles in the current sample.",
+      "recommended_action": "Confirm whether this category is intentionally out of scope for the sample."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "taxonomy",
+      "identifier": "Strategic and Environmental Analysis Frameworks",
+      "message": "Taxonomy category has no articles in the current sample.",
+      "recommended_action": "Confirm whether this category is intentionally out of scope for the sample."
+    }
+  ],
+  "catalog_export_preview": [
+    {
+      "catalog_product": "Catalyst Canvas",
+      "series": "Content Frameworks",
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "cluster": "Foundations",
+      "status": "published",
+      "metadata_completion_rate": 1.0,
+      "metadata_readiness": "ready",
+      "total_link_degree": 2,
+      "network_role": "thinly linked",
+      "github_path": "articles/what-are-content-frameworks/"
+    },
+    {
+      "catalog_product": "Catalyst Canvas",
+      "series": "Content Frameworks",
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "cluster": "Foundations",
+      "status": "published",
+      "metadata_completion_rate": 1.0,
+      "metadata_readiness": "ready",
+      "total_link_degree": 7,
+      "network_role": "hub",
+      "github_path": "articles/why-frameworks-matter-in-research-education-and-strategic-communication/"
+    },
+    {
+      "catalog_product": "Catalyst Canvas",
+      "series": "Content Frameworks",
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "cluster": "Foundations",
+      "status": "published",
+      "metadata_completion_rate": 0.375,
+      "metadata_readiness": "needs metadata work",
+      "total_link_degree": 1,
+      "network_role": "thinly linked",
+      "github_path": "articles/what-makes-a-powerful-content-framework/"
+    },
+    {
+      "catalog_product": "Catalyst Canvas",
+      "series": "Content Frameworks",
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "cluster": "Foundations",
+      "status": "planned",
+      "metadata_completion_rate": 0.0,
+      "metadata_readiness": "needs metadata work",
+      "total_link_degree": 0,
+      "network_role": "thinly linked",
+      "github_path": "articles/framework-literacy-and-the-structure-of-usable-knowledge/"
+    },
+    {
+      "catalog_product": "Catalyst Canvas",
+      "series": "Content Frameworks",
+      "slug": "frameworks-templates-and-models",
+      "title": "Frameworks Templates and Models",
+      "cluster": "Foundations",
+      "status": "planned",
+      "metadata_completion_rate": 0.0,
+      "metadata_readiness": "needs metadata work",
+      "total_link_degree": 0,
+      "network_role": "thinly linked",
+      "github_path": "articles/frameworks-templates-and-models/"
+    }
+  ]
+}

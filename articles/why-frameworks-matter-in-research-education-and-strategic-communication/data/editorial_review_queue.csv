@@ -1,0 +1,6 @@
+review_id,slug,issue_type,severity,review_note
+R001,what-makes-a-powerful-content-framework,metadata,medium,Tags repository URL image alt and footer navigation need completion
+R002,framework-literacy-and-the-structure-of-usable-knowledge,status,low,Planned article needs draft date
+R003,why-frameworks-matter-in-research-education-and-strategic-communication,governance,low,Confirm final image attachment ID after upload
+R004,frameworks-templates-and-models,coverage,medium,Needs conceptual distinction examples
+R005,persuasive-sequence-frameworks,ethics,high,Persuasive framework articles require autonomy and manipulation risk checks

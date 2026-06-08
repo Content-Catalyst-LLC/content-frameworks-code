@@ -1,0 +1,8 @@
+slug,title,status,completed_fields,required_fields,completion_rate,readiness,missing_fields
+what-are-content-frameworks,What Are Content Frameworks?,published,8,8,1.0,ready,none
+why-frameworks-matter-in-research-education-and-strategic-communication,Why Frameworks Matter in Research Education and Strategic Communication,published,8,8,1.0,ready,none
+what-makes-a-powerful-content-framework,What Makes a Powerful Content Framework?,published,3,8,0.375,needs metadata work,tags; github_url; image_alt; last_reviewed; footer_navigation
+framework-literacy-and-the-structure-of-usable-knowledge,Framework Literacy and the Structure of Usable Knowledge,planned,0,8,0.0,needs metadata work,excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation
+frameworks-templates-and-models,Frameworks Templates and Models,planned,0,8,0.0,needs metadata work,excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation
+pillar-pages-and-topic-clusters,Pillar Pages and Topic Clusters,published,8,8,1.0,ready,none
+frameworks-for-research-communication,Frameworks for Research Communication,published,7,8,0.875,ready,last_reviewed

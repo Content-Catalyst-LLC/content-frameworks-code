@@ -1,0 +1,45 @@
+{
+  "product_context": "Catalyst Canvas",
+  "article": "Why Frameworks Matter in Research, Education, and Strategic Communication",
+  "series": "Content Frameworks",
+  "version": "1.0.0",
+  "required_metadata_fields": [
+    "excerpt",
+    "tags",
+    "github_url",
+    "image_alt",
+    "references",
+    "last_reviewed",
+    "series_context",
+    "footer_navigation"
+  ],
+  "framework_value_dimensions": [
+    "comprehension",
+    "comparison",
+    "retention",
+    "action",
+    "governance",
+    "evidence_integrity",
+    "audience_fit",
+    "ethical_safety"
+  ],
+  "minimum_metadata_completion_rate": 0.85,
+  "minimum_framework_value_score": 32,
+  "minimum_internal_links_for_published_article": 3,
+  "high_risk_terms": [
+    "overclaiming",
+    "manipulation",
+    "oversimplification",
+    "false universality",
+    "evidence distortion",
+    "category distortion",
+    "framework drift"
+  ],
+  "governance_review_triggers": {
+    "metadata_completion_below": 0.85,
+    "internal_links_below": 3,
+    "framework_value_score_below": 32,
+    "status_is_planned": true,
+    "risk_severity_at_or_above": "medium"
+  }
+}

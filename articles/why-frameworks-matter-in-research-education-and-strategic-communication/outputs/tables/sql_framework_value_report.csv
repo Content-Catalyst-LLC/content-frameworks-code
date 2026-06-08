@@ -1,0 +1,15 @@
+cluster_name,status,article_count
+Foundations,planned,1
+Foundations,published,3
+"Knowledge Architecture",published,1
+domain,average_framework_value_score
+"Digital Publishing",36.0
+Research,34.0
+Education,33.0
+"Strategic Communication",32.0
+slug,title,metadata_completion_rate
+what-makes-a-powerful-content-framework,"What Makes a Powerful Content Framework?",0.375
+what-are-content-frameworks,"What Are Content Frameworks?",1.0
+why-frameworks-matter-in-research-education-and-strategic-communication,"Why Frameworks Matter in Research Education and Strategic Communication",1.0
+source_slug,outgoing_link_count
+why-frameworks-matter-in-research-education-and-strategic-communication,4

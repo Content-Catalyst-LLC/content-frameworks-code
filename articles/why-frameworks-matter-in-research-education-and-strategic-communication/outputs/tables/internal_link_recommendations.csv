@@ -1,0 +1,11 @@
+source_slug,target_slug,cluster,recommendation_type,priority
+what-are-content-frameworks,what-makes-a-powerful-content-framework,Foundations,same-cluster semantic link,medium
+what-makes-a-powerful-content-framework,what-are-content-frameworks,Foundations,same-cluster semantic link,medium
+what-makes-a-powerful-content-framework,why-frameworks-matter-in-research-education-and-strategic-communication,Foundations,same-cluster semantic link,medium
+pillar-pages-and-topic-clusters,narrative-pathways-and-knowledge-architecture,Knowledge Architecture,same-cluster semantic link,medium
+narrative-pathways-and-knowledge-architecture,pillar-pages-and-topic-clusters,Knowledge Architecture,same-cluster semantic link,medium
+narrative-pathways-and-knowledge-architecture,frameworks-for-digital-knowledge-systems,Knowledge Architecture,same-cluster semantic link,medium
+frameworks-for-digital-knowledge-systems,pillar-pages-and-topic-clusters,Knowledge Architecture,same-cluster semantic link,medium
+frameworks-for-digital-knowledge-systems,narrative-pathways-and-knowledge-architecture,Knowledge Architecture,same-cluster semantic link,medium
+educational-scaffolding-and-the-design-of-learning-systems,frameworks-for-research-communication,Educational Research and Conceptual Frameworks,same-cluster semantic link,medium
+frameworks-for-research-communication,educational-scaffolding-and-the-design-of-learning-systems,Educational Research and Conceptual Frameworks,same-cluster semantic link,medium

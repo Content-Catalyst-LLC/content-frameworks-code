@@ -1,0 +1,10 @@
+source_slug,target_slug,relationship_type,link_purpose,priority
+why-frameworks-matter-in-research-education-and-strategic-communication,what-are-content-frameworks,previous_article,series navigation,high
+why-frameworks-matter-in-research-education-and-strategic-communication,what-makes-a-powerful-content-framework,next_article,series navigation,high
+why-frameworks-matter-in-research-education-and-strategic-communication,frameworks-for-research-communication,research_communication,connects framework value to research use,high
+why-frameworks-matter-in-research-education-and-strategic-communication,educational-scaffolding-and-the-design-of-learning-systems,education,connects framework value to learning design,high
+why-frameworks-matter-in-research-education-and-strategic-communication,message-house-and-the-architecture-of-strategic-messaging,strategic_communication,connects framework value to message architecture,high
+why-frameworks-matter-in-research-education-and-strategic-communication,pillar-pages-and-topic-clusters,knowledge_architecture,connects framework value to digital publishing,medium
+what-are-content-frameworks,why-frameworks-matter-in-research-education-and-strategic-communication,next_article,series navigation,high
+pillar-pages-and-topic-clusters,frameworks-for-digital-knowledge-systems,knowledge_architecture,connects pillar logic to platform design,medium
+frameworks-for-research-communication,evidence-architecture-in-explanatory-content,evidence_architecture,connects research communication to evidence systems,medium

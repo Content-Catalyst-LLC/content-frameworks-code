@@ -1,0 +1,26 @@
+source,severity,category,identifier,message,recommended_action
+editorial_review_queue,high,ethics,persuasive-sequence-frameworks,Persuasive framework articles require autonomy and manipulation risk checks,Resolve through editorial governance workflow.
+automated_audit,high,framework_value,FV010,Persuasive Sequence Framework requires review: ethical review needed; risk severity is high.,"Review evidence integrity, ethical safety, and use conditions before product deployment."
+editorial_review_queue,medium,coverage,frameworks-templates-and-models,Needs conceptual distinction examples,Resolve through editorial governance workflow.
+automated_audit,medium,framework_value,FV001,Research Communication Framework requires review: ready; risk severity is medium.,"Review evidence integrity, ethical safety, and use conditions before product deployment."
+automated_audit,medium,framework_value,FV002,Educational Scaffolding requires review: ready; risk severity is medium.,"Review evidence integrity, ethical safety, and use conditions before product deployment."
+automated_audit,medium,framework_value,FV003,Message House requires review: ethical review needed; risk severity is medium.,"Review evidence integrity, ethical safety, and use conditions before product deployment."
+automated_audit,medium,framework_value,FV006,Audience Journey Framework requires review: ethical review needed; risk severity is medium.,"Review evidence integrity, ethical safety, and use conditions before product deployment."
+automated_audit,medium,framework_value,FV007,Curriculum Pathway requires review: ready; risk severity is medium.,"Review evidence integrity, ethical safety, and use conditions before product deployment."
+automated_audit,medium,links,educational-scaffolding-and-the-design-of-learning-systems,Published article has only 1 total internal-link relationships.,Add relevant links to strengthen series navigation and semantic connectivity.
+automated_audit,medium,links,evidence-architecture-in-explanatory-content,Link target is not present in article map.,Add target to article map or correct target slug.
+automated_audit,medium,links,frameworks-for-digital-knowledge-systems,Published article has only 1 total internal-link relationships.,Add relevant links to strengthen series navigation and semantic connectivity.
+automated_audit,medium,links,frameworks-for-research-communication,Published article has only 2 total internal-link relationships.,Add relevant links to strengthen series navigation and semantic connectivity.
+automated_audit,medium,links,message-house-and-the-architecture-of-strategic-messaging,Published article has only 1 total internal-link relationships.,Add relevant links to strengthen series navigation and semantic connectivity.
+automated_audit,medium,links,narrative-pathways-and-knowledge-architecture,Published article has only 0 total internal-link relationships.,Add relevant links to strengthen series navigation and semantic connectivity.
+automated_audit,medium,links,pillar-pages-and-topic-clusters,Published article has only 2 total internal-link relationships.,Add relevant links to strengthen series navigation and semantic connectivity.
+automated_audit,medium,links,what-are-content-frameworks,Published article has only 2 total internal-link relationships.,Add relevant links to strengthen series navigation and semantic connectivity.
+automated_audit,medium,links,what-makes-a-powerful-content-framework,Published article has only 1 total internal-link relationships.,Add relevant links to strengthen series navigation and semantic connectivity.
+editorial_review_queue,medium,metadata,what-makes-a-powerful-content-framework,Tags repository URL image alt and footer navigation need completion,Resolve through editorial governance workflow.
+automated_audit,medium,metadata,what-makes-a-powerful-content-framework,"Published article metadata completion is 38%, below threshold 85%.",Complete missing metadata fields before the next governance review.
+editorial_review_queue,low,governance,why-frameworks-matter-in-research-education-and-strategic-communication,Confirm final image attachment ID after upload,Resolve through editorial governance workflow.
+editorial_review_queue,low,status,framework-literacy-and-the-structure-of-usable-knowledge,Planned article needs draft date,Resolve through editorial governance workflow.
+automated_audit,low,taxonomy,Classic Communication and Persuasive Sequence Frameworks,Taxonomy category has no articles in the current sample.,Confirm whether this category is intentionally out of scope for the sample.
+automated_audit,low,taxonomy,Framework Composition Scaling and Editorial Governance,Taxonomy category has no articles in the current sample.,Confirm whether this category is intentionally out of scope for the sample.
+automated_audit,low,taxonomy,Policy Governance Systems Explanation and Public Reasoning,Taxonomy category has no articles in the current sample.,Confirm whether this category is intentionally out of scope for the sample.
+automated_audit,low,taxonomy,Strategic and Environmental Analysis Frameworks,Taxonomy category has no articles in the current sample.,Confirm whether this category is intentionally out of scope for the sample.
