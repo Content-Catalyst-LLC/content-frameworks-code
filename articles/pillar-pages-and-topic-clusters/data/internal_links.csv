@@ -1,0 +1,19 @@
+source_slug,target_slug,relationship_type,link_purpose,priority
+pillar-pages-and-topic-clusters,narrative-pathways-and-knowledge-architecture,pillar_to_cluster,send readers from pillar to narrative pathways,high
+pillar-pages-and-topic-clusters,frameworks-for-digital-knowledge-systems,pillar_to_cluster,send readers from pillar to digital knowledge systems,high
+pillar-pages-and-topic-clusters,taxonomy-design-for-content-frameworks,pillar_to_cluster,send readers from pillar to taxonomy design,high
+pillar-pages-and-topic-clusters,internal-linking-as-framework-infrastructure,pillar_to_cluster,send readers from pillar to internal linking,high
+pillar-pages-and-topic-clusters,content-audits-and-framework-governance,pillar_to_cluster,send readers from pillar to content audits,high
+pillar-pages-and-topic-clusters,editorial-metadata-and-content-systems,pillar_to_cluster,send readers from pillar to metadata systems,high
+pillar-pages-and-topic-clusters,the-history-of-framework-thinking-in-communication-and-strategy,previous_article,series navigation,high
+pillar-pages-and-topic-clusters,narrative-pathways-and-knowledge-architecture,next_article,series navigation,high
+narrative-pathways-and-knowledge-architecture,pillar-pages-and-topic-clusters,cluster_to_pillar,restore reader orientation,high
+frameworks-for-digital-knowledge-systems,pillar-pages-and-topic-clusters,cluster_to_pillar,restore reader orientation,high
+taxonomy-design-for-content-frameworks,pillar-pages-and-topic-clusters,cluster_to_pillar,restore reader orientation,high
+internal-linking-as-framework-infrastructure,pillar-pages-and-topic-clusters,cluster_to_pillar,restore reader orientation,high
+content-audits-and-framework-governance,pillar-pages-and-topic-clusters,cluster_to_pillar,restore reader orientation,high
+editorial-metadata-and-content-systems,pillar-pages-and-topic-clusters,cluster_to_pillar,restore reader orientation,high
+pillar-pages-and-topic-clusters,what-are-content-frameworks,prerequisite,connects pillar architecture to framework definition,medium
+pillar-pages-and-topic-clusters,framework-literacy-and-the-structure-of-usable-knowledge,related_method,connects pillar-cluster use to framework literacy,medium
+frameworks-for-digital-knowledge-systems,editorial-metadata-and-content-systems,cluster_to_cluster,connects digital systems to metadata,medium
+content-audits-and-framework-governance,framework-governance-and-editorial-maintenance,governance,connects content audits to framework maintenance,high

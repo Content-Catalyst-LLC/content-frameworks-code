@@ -1,0 +1,11 @@
+source,severity,category,identifier,message,recommended_action
+pillar_cluster_audit,medium,cluster_orientation,framework-literacy-and-the-structure-of-usable-knowledge,Published cluster article does not link back to the pillar page.,Add a meaningful link back to the pillar or article map.
+pillar_cluster_audit,medium,cluster_orientation,frameworks-templates-and-models,Published cluster article does not link back to the pillar page.,Add a meaningful link back to the pillar or article map.
+pillar_cluster_audit,medium,cluster_orientation,the-history-of-framework-thinking-in-communication-and-strategy,Published cluster article does not link back to the pillar page.,Add a meaningful link back to the pillar or article map.
+pillar_cluster_audit,medium,cluster_orientation,what-are-content-frameworks,Published cluster article does not link back to the pillar page.,Add a meaningful link back to the pillar or article map.
+pillar_cluster_audit,medium,cluster_readiness,Framework Composition Scaling and Editorial Governance,Cluster readiness is 0%.,Review whether the cluster should be described as early-stage or prioritize planned articles.
+pillar_cluster_audit,medium,pillar_coverage,frameworks-templates-and-models,Published cluster article is not linked from the pillar page.,Add the article to the pillar page or review whether it belongs in the cluster.
+pillar_cluster_audit,low,internal_links,framework-literacy-and-the-structure-of-usable-knowledge,Published article has total link degree 1.,Add meaningful internal links to strengthen reader pathways.
+pillar_cluster_audit,low,internal_links,frameworks-templates-and-models,Published article has total link degree 0.,Add meaningful internal links to strengthen reader pathways.
+pillar_cluster_audit,low,internal_links,the-history-of-framework-thinking-in-communication-and-strategy,Published article has total link degree 1.,Add meaningful internal links to strengthen reader pathways.
+pillar_cluster_audit,low,internal_links,what-are-content-frameworks,Published article has total link degree 1.,Add meaningful internal links to strengthen reader pathways.

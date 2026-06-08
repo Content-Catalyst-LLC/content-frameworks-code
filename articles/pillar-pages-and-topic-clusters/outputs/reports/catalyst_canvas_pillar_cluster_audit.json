@@ -1,0 +1,495 @@
+{
+  "article": "Pillar Pages and Topic Clusters",
+  "generated_at": "2026-06-08T12:13:25.736850+00:00",
+  "config": {
+    "product_context": "Catalyst Canvas",
+    "article": "Pillar Pages and Topic Clusters",
+    "series": "Content Frameworks",
+    "version": "1.0.0",
+    "pillar_slug": "pillar-pages-and-topic-clusters",
+    "minimum_metadata_completion": 0.85,
+    "minimum_cluster_readiness": 0.4,
+    "minimum_link_degree": 2,
+    "required_metadata_fields": [
+      "excerpt",
+      "tags",
+      "github_url",
+      "image_alt",
+      "references",
+      "last_reviewed",
+      "series_context",
+      "footer_navigation"
+    ],
+    "required_article_roles": [
+      "pillar",
+      "definition",
+      "method",
+      "history",
+      "comparison",
+      "application",
+      "technical",
+      "governance",
+      "critique"
+    ],
+    "link_relationship_types": [
+      "pillar_to_cluster",
+      "cluster_to_pillar",
+      "cluster_to_cluster",
+      "previous_article",
+      "next_article",
+      "prerequisite",
+      "related_method",
+      "governance"
+    ],
+    "governance_review_triggers": {
+      "published_article_missing_pillar_link": true,
+      "published_article_not_linked_from_pillar": true,
+      "metadata_completion_below": 0.85,
+      "total_link_degree_below": 2,
+      "cluster_readiness_below": 0.4
+    }
+  },
+  "counts": {
+    "articles": 12,
+    "links": 18,
+    "clusters": 3,
+    "governance_queue": 10
+  },
+  "pillar_slug": "pillar-pages-and-topic-clusters",
+  "pillar_coverage_density": 1.0,
+  "article_audit": [
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "cluster": "Knowledge Architecture",
+      "status": "published",
+      "article_role": "pillar",
+      "priority": "high",
+      "review_owner": "Knowledge architect",
+      "architecture_role": "pillar",
+      "outgoing_links": 9,
+      "incoming_links": 6,
+      "total_link_degree": 15,
+      "metadata_completion": 1.0,
+      "missing_metadata": "none",
+      "linked_from_pillar": false,
+      "links_to_pillar": false,
+      "readiness": "ready",
+      "reachable_from_pillar_within_4_steps": true
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "title": "Narrative Pathways and Knowledge Architecture",
+      "cluster": "Knowledge Architecture",
+      "status": "published",
+      "article_role": "method",
+      "priority": "high",
+      "review_owner": "Knowledge architect",
+      "architecture_role": "well-connected cluster article",
+      "outgoing_links": 1,
+      "incoming_links": 1,
+      "total_link_degree": 2,
+      "metadata_completion": 1.0,
+      "missing_metadata": "none",
+      "linked_from_pillar": true,
+      "links_to_pillar": true,
+      "readiness": "ready",
+      "reachable_from_pillar_within_4_steps": true
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "title": "Frameworks for Digital Knowledge Systems",
+      "cluster": "Knowledge Architecture",
+      "status": "published",
+      "article_role": "technical",
+      "priority": "high",
+      "review_owner": "Knowledge architect",
+      "architecture_role": "well-connected cluster article",
+      "outgoing_links": 2,
+      "incoming_links": 1,
+      "total_link_degree": 3,
+      "metadata_completion": 1.0,
+      "missing_metadata": "none",
+      "linked_from_pillar": true,
+      "links_to_pillar": true,
+      "readiness": "ready",
+      "reachable_from_pillar_within_4_steps": true
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "title": "Taxonomy Design for Content Frameworks",
+      "cluster": "Knowledge Architecture",
+      "status": "planned",
+      "article_role": "method",
+      "priority": "high",
+      "review_owner": "Knowledge architect",
+      "architecture_role": "well-connected cluster article",
+      "outgoing_links": 1,
+      "incoming_links": 1,
+      "total_link_degree": 2,
+      "metadata_completion": 0.0,
+      "missing_metadata": "excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation",
+      "linked_from_pillar": true,
+      "links_to_pillar": true,
+      "readiness": "planned",
+      "reachable_from_pillar_within_4_steps": true
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "title": "Internal Linking as Framework Infrastructure",
+      "cluster": "Knowledge Architecture",
+      "status": "planned",
+      "article_role": "technical",
+      "priority": "high",
+      "review_owner": "Knowledge architect",
+      "architecture_role": "well-connected cluster article",
+      "outgoing_links": 1,
+      "incoming_links": 1,
+      "total_link_degree": 2,
+      "metadata_completion": 0.0,
+      "missing_metadata": "excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation",
+      "linked_from_pillar": true,
+      "links_to_pillar": true,
+      "readiness": "planned",
+      "reachable_from_pillar_within_4_steps": true
+    },
+    {
+      "slug": "content-audits-and-framework-governance",
+      "title": "Content Audits and Framework Governance",
+      "cluster": "Knowledge Architecture",
+      "status": "planned",
+      "article_role": "governance",
+      "priority": "high",
+      "review_owner": "Editorial governance lead",
+      "architecture_role": "well-connected cluster article",
+      "outgoing_links": 2,
+      "incoming_links": 1,
+      "total_link_degree": 3,
+      "metadata_completion": 0.0,
+      "missing_metadata": "excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation",
+      "linked_from_pillar": true,
+      "links_to_pillar": true,
+      "readiness": "planned",
+      "reachable_from_pillar_within_4_steps": true
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "title": "Editorial Metadata and Content Systems",
+      "cluster": "Knowledge Architecture",
+      "status": "planned",
+      "article_role": "technical",
+      "priority": "high",
+      "review_owner": "Editorial systems lead",
+      "architecture_role": "well-connected cluster article",
+      "outgoing_links": 1,
+      "incoming_links": 2,
+      "total_link_degree": 3,
+      "metadata_completion": 0.0,
+      "missing_metadata": "excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation",
+      "linked_from_pillar": true,
+      "links_to_pillar": true,
+      "readiness": "planned",
+      "reachable_from_pillar_within_4_steps": true
+    },
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks",
+      "cluster": "Foundations",
+      "status": "published",
+      "article_role": "definition",
+      "priority": "high",
+      "review_owner": "Series editor",
+      "architecture_role": "pillar-linked cluster article",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "metadata_completion": 1.0,
+      "missing_metadata": "none",
+      "linked_from_pillar": true,
+      "links_to_pillar": false,
+      "readiness": "link review required",
+      "reachable_from_pillar_within_4_steps": true
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "cluster": "Foundations",
+      "status": "published",
+      "article_role": "critique",
+      "priority": "high",
+      "review_owner": "Series editor",
+      "architecture_role": "pillar-linked cluster article",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "metadata_completion": 1.0,
+      "missing_metadata": "none",
+      "linked_from_pillar": true,
+      "links_to_pillar": false,
+      "readiness": "link review required",
+      "reachable_from_pillar_within_4_steps": true
+    },
+    {
+      "slug": "frameworks-templates-and-models",
+      "title": "Frameworks Templates and Models",
+      "cluster": "Foundations",
+      "status": "published",
+      "article_role": "comparison",
+      "priority": "high",
+      "review_owner": "Series editor",
+      "architecture_role": "orphan",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "metadata_completion": 1.0,
+      "missing_metadata": "none",
+      "linked_from_pillar": false,
+      "links_to_pillar": false,
+      "readiness": "link review required",
+      "reachable_from_pillar_within_4_steps": false
+    },
+    {
+      "slug": "the-history-of-framework-thinking-in-communication-and-strategy",
+      "title": "The History of Framework Thinking in Communication and Strategy",
+      "cluster": "Foundations",
+      "status": "published",
+      "article_role": "history",
+      "priority": "medium",
+      "review_owner": "Series editor",
+      "architecture_role": "pillar-linked cluster article",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "metadata_completion": 1.0,
+      "missing_metadata": "none",
+      "linked_from_pillar": true,
+      "links_to_pillar": false,
+      "readiness": "link review required",
+      "reachable_from_pillar_within_4_steps": true
+    },
+    {
+      "slug": "framework-governance-and-editorial-maintenance",
+      "title": "Framework Governance and Editorial Maintenance",
+      "cluster": "Framework Composition Scaling and Editorial Governance",
+      "status": "planned",
+      "article_role": "governance",
+      "priority": "medium",
+      "review_owner": "Editorial governance lead",
+      "architecture_role": "weakly connected article",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "metadata_completion": 0.0,
+      "missing_metadata": "excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation",
+      "linked_from_pillar": false,
+      "links_to_pillar": false,
+      "readiness": "planned",
+      "reachable_from_pillar_within_4_steps": true
+    }
+  ],
+  "cluster_summary": [
+    {
+      "cluster": "Foundations",
+      "published_articles": 4,
+      "planned_articles": 0,
+      "total_articles": 4,
+      "cluster_readiness": 1.0,
+      "cluster_status": "mature",
+      "role_mix": "comparison:1; critique:1; definition:1; history:1"
+    },
+    {
+      "cluster": "Framework Composition Scaling and Editorial Governance",
+      "published_articles": 0,
+      "planned_articles": 1,
+      "total_articles": 1,
+      "cluster_readiness": 0.0,
+      "cluster_status": "early stage",
+      "role_mix": "governance:1"
+    },
+    {
+      "cluster": "Knowledge Architecture",
+      "published_articles": 3,
+      "planned_articles": 4,
+      "total_articles": 7,
+      "cluster_readiness": 0.4286,
+      "cluster_status": "developing",
+      "role_mix": "governance:1; method:2; pillar:1; technical:3"
+    }
+  ],
+  "taxonomy_coverage": [
+    {
+      "category": "Foundations",
+      "expected_role": "conceptual grounding",
+      "article_count_in_sample": 4,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Knowledge Architecture",
+      "expected_role": "structural publishing logic",
+      "article_count_in_sample": 7,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Educational Research and Conceptual Frameworks",
+      "expected_role": "learning and evidence design",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Classic Communication and Persuasive Sequence Frameworks",
+      "expected_role": "communication sequence",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Audience Need Value Positioning and Message Architecture",
+      "expected_role": "audience relevance",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Strategic and Environmental Analysis Frameworks",
+      "expected_role": "strategic analysis",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Policy Governance Systems Explanation and Public Reasoning",
+      "expected_role": "public understanding",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Framework Composition Scaling and Editorial Governance",
+      "expected_role": "maintenance and critique",
+      "article_count_in_sample": 1,
+      "taxonomy_status": "active"
+    }
+  ],
+  "quality_rules": [
+    {
+      "rule_id": "PCR001",
+      "rule_name": "Cluster article links to pillar",
+      "description": "Every published cluster article should link back to its pillar or article map",
+      "severity": "medium",
+      "active": true
+    },
+    {
+      "rule_id": "PCR002",
+      "rule_name": "Pillar links to cluster article",
+      "description": "Every published cluster article should be reachable from the pillar or article map",
+      "severity": "medium",
+      "active": true
+    },
+    {
+      "rule_id": "PCR003",
+      "rule_name": "Published metadata complete",
+      "description": "Published articles should meet minimum metadata completion",
+      "severity": "medium",
+      "active": true
+    },
+    {
+      "rule_id": "PCR004",
+      "rule_name": "Minimum link degree",
+      "description": "Published articles should have enough internal links to avoid isolation",
+      "severity": "low",
+      "active": true
+    },
+    {
+      "rule_id": "PCR005",
+      "rule_name": "Cluster readiness threshold",
+      "description": "Topic clusters should meet a minimum published coverage threshold before being described as mature",
+      "severity": "medium",
+      "active": true
+    },
+    {
+      "rule_id": "PCR006",
+      "rule_name": "Article role clarity",
+      "description": "Each article should have a clear role such as pillar definition method history comparison technical critique or governance",
+      "severity": "medium",
+      "active": true
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "pillar_cluster_audit",
+      "severity": "medium",
+      "category": "cluster_orientation",
+      "identifier": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "message": "Published cluster article does not link back to the pillar page.",
+      "recommended_action": "Add a meaningful link back to the pillar or article map."
+    },
+    {
+      "source": "pillar_cluster_audit",
+      "severity": "medium",
+      "category": "cluster_orientation",
+      "identifier": "frameworks-templates-and-models",
+      "message": "Published cluster article does not link back to the pillar page.",
+      "recommended_action": "Add a meaningful link back to the pillar or article map."
+    },
+    {
+      "source": "pillar_cluster_audit",
+      "severity": "medium",
+      "category": "cluster_orientation",
+      "identifier": "the-history-of-framework-thinking-in-communication-and-strategy",
+      "message": "Published cluster article does not link back to the pillar page.",
+      "recommended_action": "Add a meaningful link back to the pillar or article map."
+    },
+    {
+      "source": "pillar_cluster_audit",
+      "severity": "medium",
+      "category": "cluster_orientation",
+      "identifier": "what-are-content-frameworks",
+      "message": "Published cluster article does not link back to the pillar page.",
+      "recommended_action": "Add a meaningful link back to the pillar or article map."
+    },
+    {
+      "source": "pillar_cluster_audit",
+      "severity": "medium",
+      "category": "cluster_readiness",
+      "identifier": "Framework Composition Scaling and Editorial Governance",
+      "message": "Cluster readiness is 0%.",
+      "recommended_action": "Review whether the cluster should be described as early-stage or prioritize planned articles."
+    },
+    {
+      "source": "pillar_cluster_audit",
+      "severity": "medium",
+      "category": "pillar_coverage",
+      "identifier": "frameworks-templates-and-models",
+      "message": "Published cluster article is not linked from the pillar page.",
+      "recommended_action": "Add the article to the pillar page or review whether it belongs in the cluster."
+    },
+    {
+      "source": "pillar_cluster_audit",
+      "severity": "low",
+      "category": "internal_links",
+      "identifier": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "message": "Published article has total link degree 1.",
+      "recommended_action": "Add meaningful internal links to strengthen reader pathways."
+    },
+    {
+      "source": "pillar_cluster_audit",
+      "severity": "low",
+      "category": "internal_links",
+      "identifier": "frameworks-templates-and-models",
+      "message": "Published article has total link degree 0.",
+      "recommended_action": "Add meaningful internal links to strengthen reader pathways."
+    },
+    {
+      "source": "pillar_cluster_audit",
+      "severity": "low",
+      "category": "internal_links",
+      "identifier": "the-history-of-framework-thinking-in-communication-and-strategy",
+      "message": "Published article has total link degree 1.",
+      "recommended_action": "Add meaningful internal links to strengthen reader pathways."
+    },
+    {
+      "source": "pillar_cluster_audit",
+      "severity": "low",
+      "category": "internal_links",
+      "identifier": "what-are-content-frameworks",
+      "message": "Published article has total link degree 1.",
+      "recommended_action": "Add meaningful internal links to strengthen reader pathways."
+    }
+  ]
+}

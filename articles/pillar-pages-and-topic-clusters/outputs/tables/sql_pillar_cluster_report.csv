@@ -1,0 +1,21 @@
+cluster_name,published_articles,planned_articles,total_articles,cluster_readiness
+Foundations,1,0,1,1.0
+"Knowledge Architecture",3,4,7,0.429
+slug,title,cluster_name,status,article_role,outgoing_links,incoming_links,total_link_degree
+pillar-pages-and-topic-clusters,"Pillar Pages and Topic Clusters","Knowledge Architecture",published,pillar,7,2,9
+narrative-pathways-and-knowledge-architecture,"Narrative Pathways and Knowledge Architecture","Knowledge Architecture",published,method,1,1,2
+frameworks-for-digital-knowledge-systems,"Frameworks for Digital Knowledge Systems","Knowledge Architecture",published,technical,1,1,2
+taxonomy-design-for-content-frameworks,"Taxonomy Design for Content Frameworks","Knowledge Architecture",planned,method,0,1,1
+internal-linking-as-framework-infrastructure,"Internal Linking as Framework Infrastructure","Knowledge Architecture",planned,technical,0,1,1
+content-audits-and-framework-governance,"Content Audits and Framework Governance","Knowledge Architecture",planned,governance,0,1,1
+editorial-metadata-and-content-systems,"Editorial Metadata and Content Systems","Knowledge Architecture",planned,technical,0,1,1
+the-history-of-framework-thinking-in-communication-and-strategy,"The History of Framework Thinking in Communication and Strategy",Foundations,published,history,0,1,1
+slug,title,status,metadata_completion
+taxonomy-design-for-content-frameworks,"Taxonomy Design for Content Frameworks",planned,0.0
+pillar-pages-and-topic-clusters,"Pillar Pages and Topic Clusters",published,1.0
+narrative-pathways-and-knowledge-architecture,"Narrative Pathways and Knowledge Architecture",published,1.0
+frameworks-for-digital-knowledge-systems,"Frameworks for Digital Knowledge Systems",published,1.0
+relationship_type,link_count
+pillar_to_cluster,6
+cluster_to_pillar,2
+previous_article,1

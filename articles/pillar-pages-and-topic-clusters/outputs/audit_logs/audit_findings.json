@@ -1,0 +1,72 @@
+[
+  {
+    "severity": "low",
+    "category": "internal_links",
+    "identifier": "what-are-content-frameworks",
+    "message": "Published article has total link degree 1.",
+    "recommended_action": "Add meaningful internal links to strengthen reader pathways."
+  },
+  {
+    "severity": "medium",
+    "category": "cluster_orientation",
+    "identifier": "what-are-content-frameworks",
+    "message": "Published cluster article does not link back to the pillar page.",
+    "recommended_action": "Add a meaningful link back to the pillar or article map."
+  },
+  {
+    "severity": "low",
+    "category": "internal_links",
+    "identifier": "framework-literacy-and-the-structure-of-usable-knowledge",
+    "message": "Published article has total link degree 1.",
+    "recommended_action": "Add meaningful internal links to strengthen reader pathways."
+  },
+  {
+    "severity": "medium",
+    "category": "cluster_orientation",
+    "identifier": "framework-literacy-and-the-structure-of-usable-knowledge",
+    "message": "Published cluster article does not link back to the pillar page.",
+    "recommended_action": "Add a meaningful link back to the pillar or article map."
+  },
+  {
+    "severity": "low",
+    "category": "internal_links",
+    "identifier": "frameworks-templates-and-models",
+    "message": "Published article has total link degree 0.",
+    "recommended_action": "Add meaningful internal links to strengthen reader pathways."
+  },
+  {
+    "severity": "medium",
+    "category": "cluster_orientation",
+    "identifier": "frameworks-templates-and-models",
+    "message": "Published cluster article does not link back to the pillar page.",
+    "recommended_action": "Add a meaningful link back to the pillar or article map."
+  },
+  {
+    "severity": "medium",
+    "category": "pillar_coverage",
+    "identifier": "frameworks-templates-and-models",
+    "message": "Published cluster article is not linked from the pillar page.",
+    "recommended_action": "Add the article to the pillar page or review whether it belongs in the cluster."
+  },
+  {
+    "severity": "low",
+    "category": "internal_links",
+    "identifier": "the-history-of-framework-thinking-in-communication-and-strategy",
+    "message": "Published article has total link degree 1.",
+    "recommended_action": "Add meaningful internal links to strengthen reader pathways."
+  },
+  {
+    "severity": "medium",
+    "category": "cluster_orientation",
+    "identifier": "the-history-of-framework-thinking-in-communication-and-strategy",
+    "message": "Published cluster article does not link back to the pillar page.",
+    "recommended_action": "Add a meaningful link back to the pillar or article map."
+  },
+  {
+    "severity": "medium",
+    "category": "cluster_readiness",
+    "identifier": "Framework Composition Scaling and Editorial Governance",
+    "message": "Cluster readiness is 0%.",
+    "recommended_action": "Review whether the cluster should be described as early-stage or prioritize planned articles."
+  }
+]

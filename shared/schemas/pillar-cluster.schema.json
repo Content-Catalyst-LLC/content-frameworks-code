@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Pillar Cluster Article Record",
+  "type": "object",
+  "required": [
+    "article_id",
+    "slug",
+    "title",
+    "cluster",
+    "status",
+    "article_role",
+    "review_owner"
+  ],
+  "properties": {
+    "article_id": { "type": "string" },
+    "slug": { "type": "string" },
+    "title": { "type": "string" },
+    "cluster": { "type": "string" },
+    "status": { "type": "string", "enum": ["published", "planned", "draft", "review"] },
+    "article_role": { "type": "string" },
+    "priority": { "type": "string" },
+    "review_owner": { "type": "string" }
+  }
+}

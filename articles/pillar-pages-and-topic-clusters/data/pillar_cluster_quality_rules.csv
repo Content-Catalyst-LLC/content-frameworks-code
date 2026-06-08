@@ -1,0 +1,7 @@
+rule_id,rule_name,description,severity
+PCR001,Cluster article links to pillar,Every published cluster article should link back to its pillar or article map,medium
+PCR002,Pillar links to cluster article,Every published cluster article should be reachable from the pillar or article map,medium
+PCR003,Published metadata complete,Published articles should meet minimum metadata completion,medium
+PCR004,Minimum link degree,Published articles should have enough internal links to avoid isolation,low
+PCR005,Cluster readiness threshold,Topic clusters should meet a minimum published coverage threshold before being described as mature,medium
+PCR006,Article role clarity,Each article should have a clear role such as pillar definition method history comparison technical critique or governance,medium

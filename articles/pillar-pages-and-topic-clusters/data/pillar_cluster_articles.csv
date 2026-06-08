@@ -1,0 +1,13 @@
+article_id,slug,title,cluster,status,article_role,priority,review_owner
+PC001,pillar-pages-and-topic-clusters,Pillar Pages and Topic Clusters,Knowledge Architecture,published,pillar,high,Knowledge architect
+PC002,narrative-pathways-and-knowledge-architecture,Narrative Pathways and Knowledge Architecture,Knowledge Architecture,published,method,high,Knowledge architect
+PC003,frameworks-for-digital-knowledge-systems,Frameworks for Digital Knowledge Systems,Knowledge Architecture,published,technical,high,Knowledge architect
+PC004,taxonomy-design-for-content-frameworks,Taxonomy Design for Content Frameworks,Knowledge Architecture,planned,method,high,Knowledge architect
+PC005,internal-linking-as-framework-infrastructure,Internal Linking as Framework Infrastructure,Knowledge Architecture,planned,technical,high,Knowledge architect
+PC006,content-audits-and-framework-governance,Content Audits and Framework Governance,Knowledge Architecture,planned,governance,high,Editorial governance lead
+PC007,editorial-metadata-and-content-systems,Editorial Metadata and Content Systems,Knowledge Architecture,planned,technical,high,Editorial systems lead
+PC008,what-are-content-frameworks,What Are Content Frameworks,Foundations,published,definition,high,Series editor
+PC009,framework-literacy-and-the-structure-of-usable-knowledge,Framework Literacy and the Structure of Usable Knowledge,Foundations,published,critique,high,Series editor
+PC010,frameworks-templates-and-models,Frameworks Templates and Models,Foundations,published,comparison,high,Series editor
+PC011,the-history-of-framework-thinking-in-communication-and-strategy,The History of Framework Thinking in Communication and Strategy,Foundations,published,history,medium,Series editor
+PC012,framework-governance-and-editorial-maintenance,Framework Governance and Editorial Maintenance,Framework Composition Scaling and Editorial Governance,planned,governance,medium,Editorial governance lead

@@ -1,0 +1,4 @@
+cluster,published_articles,planned_articles,total_articles,cluster_readiness,cluster_status,role_mix
+Foundations,4,0,4,1.0,mature,comparison:1; critique:1; definition:1; history:1
+Framework Composition Scaling and Editorial Governance,0,1,1,0.0,early stage,governance:1
+Knowledge Architecture,3,4,7,0.4286,developing,governance:1; method:2; pillar:1; technical:3
