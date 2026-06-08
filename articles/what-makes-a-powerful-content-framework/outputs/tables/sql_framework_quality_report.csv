@@ -1,0 +1,18 @@
+domain,average_quality_score
+Research,46.0
+"Digital Publishing",46.0
+Education,43.0
+"Strategic Communication",37.0
+Communication,30.0
+framework_id,framework_name,domain,quality_score,readiness_score,risk_severity
+FQ001,"Research Communication Framework",Research,46,4.67,low
+FQ004,"Article Map","Digital Publishing",46,4.67,low
+FQ002,"Educational Scaffolding",Education,43,4.0,medium
+FQ003,"Message House","Strategic Communication",37,3.33,medium
+FQ006,"Persuasive Sequence Framework",Communication,30,2.33,high
+slug,title,metadata_completion_rate
+what-are-content-frameworks,"What Are Content Frameworks?",1.0
+why-frameworks-matter-in-research-education-and-strategic-communication,"Why Frameworks Matter in Research Education and Strategic Communication",1.0
+what-makes-a-powerful-content-framework,"What Makes a Powerful Content Framework",1.0
+source_slug,outgoing_link_count
+what-makes-a-powerful-content-framework,4

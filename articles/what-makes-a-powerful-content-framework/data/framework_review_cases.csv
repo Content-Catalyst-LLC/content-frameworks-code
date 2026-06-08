@@ -1,0 +1,6 @@
+case_id,framework_id,use_context,review_question,decision
+C001,FQ003,Strategic communication,Does the message house preserve evidence and audience agency?,revise before reuse
+C002,FQ006,Persuasive sequence,Does the framework create pressure without context?,ethical review required
+C003,FQ004,Article map,Does the map support article navigation and governance?,ready for managed use
+C004,FQ008,Audience personas,Does the framework avoid stereotypes and shallow segmentation?,revise audience model
+C005,FQ001,Research communication,Does the framework distinguish evidence interpretation and uncertainty?,ready for managed use

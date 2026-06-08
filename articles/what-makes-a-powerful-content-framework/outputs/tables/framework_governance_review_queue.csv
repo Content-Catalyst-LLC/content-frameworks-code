@@ -1,0 +1,15 @@
+source,severity,category,identifier,message,recommended_action
+automated_audit,high,framework_quality,FQ003,Message House is strong but review; governance status: ethical review required.,"Review weak dimensions, evidence alignment, ethical safety, and governance before broad reuse."
+automated_audit,high,framework_quality,FQ006,Persuasive Sequence Framework is developing; governance status: evidence review required.,"Review weak dimensions, evidence alignment, ethical safety, and governance before broad reuse."
+framework_quality,high,governance,FQ006,Persuasive Sequence Framework governance status: evidence review required.,Resolve governance gate before product deployment.
+automated_audit,medium,framework_quality,FQ002,Educational Scaffolding is strong but review; governance status: risk review required.,"Review weak dimensions, evidence alignment, ethical safety, and governance before broad reuse."
+automated_audit,medium,framework_quality,FQ008,Audience Persona Framework is developing; governance status: evidence review required.,"Review weak dimensions, evidence alignment, ethical safety, and governance before broad reuse."
+automated_audit,medium,framework_quality,FQ010,Logic Model is strong but review; governance status: risk review required.,"Review weak dimensions, evidence alignment, ethical safety, and governance before broad reuse."
+framework_quality,medium,governance,FQ002,Educational Scaffolding governance status: risk review required.,Resolve governance gate before product deployment.
+framework_quality,medium,governance,FQ003,Message House governance status: ethical review required.,Resolve governance gate before product deployment.
+framework_quality,medium,governance,FQ008,Audience Persona Framework governance status: evidence review required.,Resolve governance gate before product deployment.
+framework_quality,medium,governance,FQ010,Logic Model governance status: risk review required.,Resolve governance gate before product deployment.
+automated_audit,low,links,content-audits-and-framework-governance,Link target is not in the sample article map.,Confirm whether the linked article exists outside the sample.
+automated_audit,low,links,educational-scaffolding-and-the-design-of-learning-systems,Link target is not in the sample article map.,Confirm whether the linked article exists outside the sample.
+automated_audit,low,links,framework-governance-and-editorial-maintenance,Link target is not in the sample article map.,Confirm whether the linked article exists outside the sample.
+automated_audit,low,links,frameworks-for-research-communication,Link target is not in the sample article map.,Confirm whether the linked article exists outside the sample.

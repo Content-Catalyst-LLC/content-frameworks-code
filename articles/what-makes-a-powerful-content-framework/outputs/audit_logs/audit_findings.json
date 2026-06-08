@@ -1,0 +1,65 @@
+[
+  {
+    "severity": "medium",
+    "category": "framework_quality",
+    "identifier": "FQ002",
+    "message": "Educational Scaffolding is strong but review; governance status: risk review required.",
+    "recommended_action": "Review weak dimensions, evidence alignment, ethical safety, and governance before broad reuse."
+  },
+  {
+    "severity": "high",
+    "category": "framework_quality",
+    "identifier": "FQ003",
+    "message": "Message House is strong but review; governance status: ethical review required.",
+    "recommended_action": "Review weak dimensions, evidence alignment, ethical safety, and governance before broad reuse."
+  },
+  {
+    "severity": "high",
+    "category": "framework_quality",
+    "identifier": "FQ006",
+    "message": "Persuasive Sequence Framework is developing; governance status: evidence review required.",
+    "recommended_action": "Review weak dimensions, evidence alignment, ethical safety, and governance before broad reuse."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_quality",
+    "identifier": "FQ008",
+    "message": "Audience Persona Framework is developing; governance status: evidence review required.",
+    "recommended_action": "Review weak dimensions, evidence alignment, ethical safety, and governance before broad reuse."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_quality",
+    "identifier": "FQ010",
+    "message": "Logic Model is strong but review; governance status: risk review required.",
+    "recommended_action": "Review weak dimensions, evidence alignment, ethical safety, and governance before broad reuse."
+  },
+  {
+    "severity": "low",
+    "category": "links",
+    "identifier": "frameworks-for-research-communication",
+    "message": "Link target is not in the sample article map.",
+    "recommended_action": "Confirm whether the linked article exists outside the sample."
+  },
+  {
+    "severity": "low",
+    "category": "links",
+    "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+    "message": "Link target is not in the sample article map.",
+    "recommended_action": "Confirm whether the linked article exists outside the sample."
+  },
+  {
+    "severity": "low",
+    "category": "links",
+    "identifier": "content-audits-and-framework-governance",
+    "message": "Link target is not in the sample article map.",
+    "recommended_action": "Confirm whether the linked article exists outside the sample."
+  },
+  {
+    "severity": "low",
+    "category": "links",
+    "identifier": "framework-governance-and-editorial-maintenance",
+    "message": "Link target is not in the sample article map.",
+    "recommended_action": "Confirm whether the linked article exists outside the sample."
+  }
+]

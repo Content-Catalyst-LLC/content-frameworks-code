@@ -1,0 +1,11 @@
+framework_id,framework_name,domain,primary_use,clarity,coherence,transferability,adaptability,explanatory_depth,domain_fit,audience_fit,evidence_alignment,ethical_safety,governability,risk_severity,risk_note
+FQ001,Research Communication Framework,Research,Move from evidence to interpretation,5,5,4,4,5,5,4,5,5,4,low,Strong if uncertainty and limits remain visible
+FQ002,Educational Scaffolding,Education,Sequence learning from foundation to application,5,4,4,4,4,5,5,4,4,4,medium,Can become too rigid if learner differences are ignored
+FQ003,Message House,Strategic Communication,Align claims proof points and audience messages,4,4,4,3,3,4,5,4,3,3,medium,Can become talking points without evidence or agency
+FQ004,Article Map,Digital Publishing,Organize a knowledge series,5,5,5,4,4,5,4,4,5,5,low,Can become stale without governance
+FQ005,Content Audit Framework,Editorial Governance,Assess gaps duplication freshness and quality,4,5,5,5,4,5,4,5,5,5,low,Metrics can replace judgment if used carelessly
+FQ006,Persuasive Sequence Framework,Communication,Sequence attention interest desire and action,4,3,4,3,2,3,4,3,2,2,high,High manipulation risk if urgency replaces agency
+FQ007,Taxonomy Design Framework,Knowledge Architecture,Define categories boundaries and semantic relationships,4,5,4,5,4,5,4,4,5,5,low,Categories may harden into misleading boundaries
+FQ008,Audience Persona Framework,Audience Research,Represent audience needs and contexts,4,3,4,4,3,4,4,3,3,3,medium,Can reproduce stereotypes or flatten audience complexity
+FQ009,Systems Explanation Framework,Public Reasoning,Explain feedback loops interdependence and tradeoffs,4,5,4,4,5,5,4,5,5,4,low,Can become abstract if lived experience is excluded
+FQ010,Logic Model,Policy and Evaluation,Connect inputs activities outputs outcomes and assumptions,4,4,5,4,4,5,4,4,4,5,medium,Can imply causal certainty if assumptions are weak

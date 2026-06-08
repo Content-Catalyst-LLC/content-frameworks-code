@@ -1,0 +1,570 @@
+{
+  "article": "What Makes a Powerful Content Framework?",
+  "generated_at": "2026-06-08T11:16:40.967367+00:00",
+  "config": {
+    "product_context": "Catalyst Canvas",
+    "article": "What Makes a Powerful Content Framework?",
+    "series": "Content Frameworks",
+    "version": "1.0.0",
+    "quality_dimensions": [
+      "clarity",
+      "coherence",
+      "transferability",
+      "adaptability",
+      "explanatory_depth",
+      "domain_fit",
+      "audience_fit",
+      "evidence_alignment",
+      "ethical_safety",
+      "governability"
+    ],
+    "readiness_dimensions": [
+      "evidence_alignment",
+      "ethical_safety",
+      "governability"
+    ],
+    "minimum_quality_score": 40,
+    "minimum_readiness_score": 4.0,
+    "minimum_dimension_score": 3,
+    "risk_terms": [
+      "overclaiming",
+      "manipulation",
+      "false universality",
+      "category distortion",
+      "evidence thinning",
+      "framework drift",
+      "oversimplification",
+      "stereotyping"
+    ],
+    "governance_review_triggers": {
+      "quality_score_below": 40,
+      "readiness_score_below": 4.0,
+      "any_dimension_below": 3,
+      "ethical_safety_below": 4,
+      "evidence_alignment_below": 4,
+      "governability_below": 4,
+      "risk_severity_at_or_above": "medium"
+    }
+  },
+  "counts": {
+    "frameworks": 10,
+    "articles": 8,
+    "metadata_records": 6,
+    "links": 7,
+    "governance_queue": 14
+  },
+  "framework_quality": [
+    {
+      "framework_id": "FQ005",
+      "framework_name": "Content Audit Framework",
+      "domain": "Editorial Governance",
+      "primary_use": "Assess gaps duplication freshness and quality",
+      "quality_score": 47,
+      "average_quality": 4.7,
+      "readiness_score": 5,
+      "maturity_level": "product-ready",
+      "governance_status": "ready for managed use",
+      "weakest_dimensions": "clarity; explanatory_depth; audience_fit",
+      "risk_severity": "low",
+      "risk_note": "Metrics can replace judgment if used carelessly"
+    },
+    {
+      "framework_id": "FQ004",
+      "framework_name": "Article Map",
+      "domain": "Digital Publishing",
+      "primary_use": "Organize a knowledge series",
+      "quality_score": 46,
+      "average_quality": 4.6,
+      "readiness_score": 4.667,
+      "maturity_level": "product-ready",
+      "governance_status": "ready for managed use",
+      "weakest_dimensions": "adaptability; explanatory_depth; audience_fit; evidence_alignment",
+      "risk_severity": "low",
+      "risk_note": "Can become stale without governance"
+    },
+    {
+      "framework_id": "FQ001",
+      "framework_name": "Research Communication Framework",
+      "domain": "Research",
+      "primary_use": "Move from evidence to interpretation",
+      "quality_score": 46,
+      "average_quality": 4.6,
+      "readiness_score": 4.667,
+      "maturity_level": "product-ready",
+      "governance_status": "ready for managed use",
+      "weakest_dimensions": "transferability; adaptability; audience_fit; governability",
+      "risk_severity": "low",
+      "risk_note": "Strong if uncertainty and limits remain visible"
+    },
+    {
+      "framework_id": "FQ009",
+      "framework_name": "Systems Explanation Framework",
+      "domain": "Public Reasoning",
+      "primary_use": "Explain feedback loops interdependence and tradeoffs",
+      "quality_score": 45,
+      "average_quality": 4.5,
+      "readiness_score": 4.667,
+      "maturity_level": "product-ready",
+      "governance_status": "ready for managed use",
+      "weakest_dimensions": "clarity; transferability; adaptability; audience_fit; governability",
+      "risk_severity": "low",
+      "risk_note": "Can become abstract if lived experience is excluded"
+    },
+    {
+      "framework_id": "FQ007",
+      "framework_name": "Taxonomy Design Framework",
+      "domain": "Knowledge Architecture",
+      "primary_use": "Define categories boundaries and semantic relationships",
+      "quality_score": 45,
+      "average_quality": 4.5,
+      "readiness_score": 4.667,
+      "maturity_level": "product-ready",
+      "governance_status": "ready for managed use",
+      "weakest_dimensions": "clarity; transferability; explanatory_depth; audience_fit; evidence_alignment",
+      "risk_severity": "low",
+      "risk_note": "Categories may harden into misleading boundaries"
+    },
+    {
+      "framework_id": "FQ002",
+      "framework_name": "Educational Scaffolding",
+      "domain": "Education",
+      "primary_use": "Sequence learning from foundation to application",
+      "quality_score": 43,
+      "average_quality": 4.3,
+      "readiness_score": 4,
+      "maturity_level": "strong but review",
+      "governance_status": "risk review required",
+      "weakest_dimensions": "coherence; transferability; adaptability; explanatory_depth; evidence_alignment; ethical_safety; governability",
+      "risk_severity": "medium",
+      "risk_note": "Can become too rigid if learner differences are ignored"
+    },
+    {
+      "framework_id": "FQ010",
+      "framework_name": "Logic Model",
+      "domain": "Policy and Evaluation",
+      "primary_use": "Connect inputs activities outputs outcomes and assumptions",
+      "quality_score": 43,
+      "average_quality": 4.3,
+      "readiness_score": 4.333,
+      "maturity_level": "strong but review",
+      "governance_status": "risk review required",
+      "weakest_dimensions": "clarity; coherence; adaptability; explanatory_depth; audience_fit; evidence_alignment; ethical_safety",
+      "risk_severity": "medium",
+      "risk_note": "Can imply causal certainty if assumptions are weak"
+    },
+    {
+      "framework_id": "FQ003",
+      "framework_name": "Message House",
+      "domain": "Strategic Communication",
+      "primary_use": "Align claims proof points and audience messages",
+      "quality_score": 37,
+      "average_quality": 3.7,
+      "readiness_score": 3.333,
+      "maturity_level": "strong but review",
+      "governance_status": "ethical review required",
+      "weakest_dimensions": "adaptability; explanatory_depth; ethical_safety; governability",
+      "risk_severity": "medium",
+      "risk_note": "Can become talking points without evidence or agency"
+    },
+    {
+      "framework_id": "FQ008",
+      "framework_name": "Audience Persona Framework",
+      "domain": "Audience Research",
+      "primary_use": "Represent audience needs and contexts",
+      "quality_score": 35,
+      "average_quality": 3.5,
+      "readiness_score": 3,
+      "maturity_level": "developing",
+      "governance_status": "evidence review required",
+      "weakest_dimensions": "coherence; explanatory_depth; evidence_alignment; ethical_safety; governability",
+      "risk_severity": "medium",
+      "risk_note": "Can reproduce stereotypes or flatten audience complexity"
+    },
+    {
+      "framework_id": "FQ006",
+      "framework_name": "Persuasive Sequence Framework",
+      "domain": "Communication",
+      "primary_use": "Sequence attention interest desire and action",
+      "quality_score": 30,
+      "average_quality": 3,
+      "readiness_score": 2.333,
+      "maturity_level": "developing",
+      "governance_status": "evidence review required",
+      "weakest_dimensions": "explanatory_depth; ethical_safety; governability",
+      "risk_severity": "high",
+      "risk_note": "High manipulation risk if urgency replaces agency"
+    }
+  ],
+  "metadata_quality": [
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "status": "published",
+      "completed_fields": 8,
+      "required_fields": 8,
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "status": "published",
+      "completed_fields": 8,
+      "required_fields": 8,
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "status": "published",
+      "completed_fields": 8,
+      "required_fields": 8,
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "status": "planned",
+      "completed_fields": 0,
+      "required_fields": 8,
+      "completion_rate": 0.0,
+      "missing_fields": "excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation",
+      "metadata_readiness": "needs metadata work"
+    },
+    {
+      "slug": "frameworks-templates-and-models",
+      "title": "Frameworks Templates and Models",
+      "status": "planned",
+      "completed_fields": 0,
+      "required_fields": 8,
+      "completion_rate": 0.0,
+      "missing_fields": "excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation",
+      "metadata_readiness": "needs metadata work"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "status": "published",
+      "completed_fields": 8,
+      "required_fields": 8,
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    }
+  ],
+  "coverage": [
+    {
+      "cluster": "Foundations",
+      "published": 3,
+      "planned": 3,
+      "total": 6,
+      "coverage_rate": 0.5,
+      "gap_count": 3
+    },
+    {
+      "cluster": "Knowledge Architecture",
+      "published": 1,
+      "planned": 1,
+      "total": 2,
+      "coverage_rate": 0.5,
+      "gap_count": 1
+    }
+  ],
+  "link_diagnostics": [
+    {
+      "slug": "content-audits-and-framework-governance",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "framework-governance-and-editorial-maintenance",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "frameworks-for-research-communication",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "frameworks-templates-and-models",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "history-of-framework-thinking-in-communication-and-strategy",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "what-are-content-frameworks",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "outgoing_links": 7,
+      "incoming_links": 0,
+      "total_link_degree": 7,
+      "network_role": "hub"
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    }
+  ],
+  "taxonomy_coverage": [
+    {
+      "category": "Foundations",
+      "expected_role": "conceptual grounding",
+      "article_count_in_sample": 6,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Knowledge Architecture",
+      "expected_role": "structural publishing logic",
+      "article_count_in_sample": 2,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Educational Research and Conceptual Frameworks",
+      "expected_role": "learning and evidence design",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Classic Communication and Persuasive Sequence Frameworks",
+      "expected_role": "communication sequence",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Audience Need Value Positioning and Message Architecture",
+      "expected_role": "audience relevance",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Strategic and Environmental Analysis Frameworks",
+      "expected_role": "strategic analysis",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Policy Governance Systems Explanation and Public Reasoning",
+      "expected_role": "public understanding",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Framework Composition Scaling and Editorial Governance",
+      "expected_role": "maintenance and critique",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    }
+  ],
+  "review_cases": [
+    {
+      "case_id": "C001",
+      "framework_id": "FQ003",
+      "use_context": "Strategic communication",
+      "review_question": "Does the message house preserve evidence and audience agency?",
+      "decision": "revise before reuse",
+      "requires_review": true
+    },
+    {
+      "case_id": "C002",
+      "framework_id": "FQ006",
+      "use_context": "Persuasive sequence",
+      "review_question": "Does the framework create pressure without context?",
+      "decision": "ethical review required",
+      "requires_review": true
+    },
+    {
+      "case_id": "C003",
+      "framework_id": "FQ004",
+      "use_context": "Article map",
+      "review_question": "Does the map support article navigation and governance?",
+      "decision": "ready for managed use",
+      "requires_review": false
+    },
+    {
+      "case_id": "C004",
+      "framework_id": "FQ008",
+      "use_context": "Audience personas",
+      "review_question": "Does the framework avoid stereotypes and shallow segmentation?",
+      "decision": "revise audience model",
+      "requires_review": true
+    },
+    {
+      "case_id": "C005",
+      "framework_id": "FQ001",
+      "use_context": "Research communication",
+      "review_question": "Does the framework distinguish evidence interpretation and uncertainty?",
+      "decision": "ready for managed use",
+      "requires_review": false
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "framework_quality",
+      "identifier": "FQ003",
+      "message": "Message House is strong but review; governance status: ethical review required.",
+      "recommended_action": "Review weak dimensions, evidence alignment, ethical safety, and governance before broad reuse."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "framework_quality",
+      "identifier": "FQ006",
+      "message": "Persuasive Sequence Framework is developing; governance status: evidence review required.",
+      "recommended_action": "Review weak dimensions, evidence alignment, ethical safety, and governance before broad reuse."
+    },
+    {
+      "source": "framework_quality",
+      "severity": "high",
+      "category": "governance",
+      "identifier": "FQ006",
+      "message": "Persuasive Sequence Framework governance status: evidence review required.",
+      "recommended_action": "Resolve governance gate before product deployment."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_quality",
+      "identifier": "FQ002",
+      "message": "Educational Scaffolding is strong but review; governance status: risk review required.",
+      "recommended_action": "Review weak dimensions, evidence alignment, ethical safety, and governance before broad reuse."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_quality",
+      "identifier": "FQ008",
+      "message": "Audience Persona Framework is developing; governance status: evidence review required.",
+      "recommended_action": "Review weak dimensions, evidence alignment, ethical safety, and governance before broad reuse."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_quality",
+      "identifier": "FQ010",
+      "message": "Logic Model is strong but review; governance status: risk review required.",
+      "recommended_action": "Review weak dimensions, evidence alignment, ethical safety, and governance before broad reuse."
+    },
+    {
+      "source": "framework_quality",
+      "severity": "medium",
+      "category": "governance",
+      "identifier": "FQ002",
+      "message": "Educational Scaffolding governance status: risk review required.",
+      "recommended_action": "Resolve governance gate before product deployment."
+    },
+    {
+      "source": "framework_quality",
+      "severity": "medium",
+      "category": "governance",
+      "identifier": "FQ003",
+      "message": "Message House governance status: ethical review required.",
+      "recommended_action": "Resolve governance gate before product deployment."
+    },
+    {
+      "source": "framework_quality",
+      "severity": "medium",
+      "category": "governance",
+      "identifier": "FQ008",
+      "message": "Audience Persona Framework governance status: evidence review required.",
+      "recommended_action": "Resolve governance gate before product deployment."
+    },
+    {
+      "source": "framework_quality",
+      "severity": "medium",
+      "category": "governance",
+      "identifier": "FQ010",
+      "message": "Logic Model governance status: risk review required.",
+      "recommended_action": "Resolve governance gate before product deployment."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "links",
+      "identifier": "content-audits-and-framework-governance",
+      "message": "Link target is not in the sample article map.",
+      "recommended_action": "Confirm whether the linked article exists outside the sample."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "links",
+      "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+      "message": "Link target is not in the sample article map.",
+      "recommended_action": "Confirm whether the linked article exists outside the sample."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "links",
+      "identifier": "framework-governance-and-editorial-maintenance",
+      "message": "Link target is not in the sample article map.",
+      "recommended_action": "Confirm whether the linked article exists outside the sample."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "links",
+      "identifier": "frameworks-for-research-communication",
+      "message": "Link target is not in the sample article map.",
+      "recommended_action": "Confirm whether the linked article exists outside the sample."
+    }
+  ]
+}

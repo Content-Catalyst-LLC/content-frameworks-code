@@ -1,0 +1,45 @@
+{
+  "product_context": "Catalyst Canvas",
+  "article": "What Makes a Powerful Content Framework?",
+  "series": "Content Frameworks",
+  "version": "1.0.0",
+  "quality_dimensions": [
+    "clarity",
+    "coherence",
+    "transferability",
+    "adaptability",
+    "explanatory_depth",
+    "domain_fit",
+    "audience_fit",
+    "evidence_alignment",
+    "ethical_safety",
+    "governability"
+  ],
+  "readiness_dimensions": [
+    "evidence_alignment",
+    "ethical_safety",
+    "governability"
+  ],
+  "minimum_quality_score": 40,
+  "minimum_readiness_score": 4.0,
+  "minimum_dimension_score": 3,
+  "risk_terms": [
+    "overclaiming",
+    "manipulation",
+    "false universality",
+    "category distortion",
+    "evidence thinning",
+    "framework drift",
+    "oversimplification",
+    "stereotyping"
+  ],
+  "governance_review_triggers": {
+    "quality_score_below": 40,
+    "readiness_score_below": 4.0,
+    "any_dimension_below": 3,
+    "ethical_safety_below": 4,
+    "evidence_alignment_below": 4,
+    "governability_below": 4,
+    "risk_severity_at_or_above": "medium"
+  }
+}
