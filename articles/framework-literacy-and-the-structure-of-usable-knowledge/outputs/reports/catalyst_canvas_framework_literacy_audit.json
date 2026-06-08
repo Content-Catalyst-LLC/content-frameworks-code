@@ -1,0 +1,524 @@
+{
+  "article": "Framework Literacy and the Structure of Usable Knowledge",
+  "generated_at": "2026-06-08T11:31:59.998137+00:00",
+  "config": {
+    "product_context": "Catalyst Canvas",
+    "article": "Framework Literacy and the Structure of Usable Knowledge",
+    "series": "Content Frameworks",
+    "version": "1.0.0",
+    "literacy_dimensions": [
+      "assumption_awareness",
+      "blind_spot_recognition",
+      "boundary_clarity",
+      "use_condition_clarity",
+      "evidence_alignment",
+      "ethical_safety",
+      "audience_fit",
+      "domain_fit",
+      "adaptability",
+      "governance_readiness"
+    ],
+    "minimum_literacy_score": 40,
+    "minimum_dimension_score": 3,
+    "readiness_gates": [
+      "blind_spot_recognition",
+      "use_condition_clarity",
+      "evidence_alignment",
+      "ethical_safety",
+      "governance_readiness"
+    ],
+    "risk_terms": [
+      "false universality",
+      "category forcing",
+      "evidence thinning",
+      "persuasive manipulation",
+      "framework drift",
+      "stereotyping",
+      "over-optimization",
+      "hidden assumptions",
+      "boundary error"
+    ],
+    "governance_review_triggers": {
+      "literacy_score_below": 40,
+      "any_dimension_below": 3,
+      "blind_spot_recognition_below": 4,
+      "use_condition_clarity_below": 4,
+      "evidence_alignment_below": 4,
+      "ethical_safety_below": 4,
+      "governance_readiness_below": 4,
+      "risk_severity_at_or_above": "medium"
+    }
+  },
+  "counts": {
+    "frameworks": 10,
+    "articles": 9,
+    "links": 8,
+    "taxonomy_categories": 8,
+    "use_conditions": 5,
+    "governance_queue": 12
+  },
+  "framework_literacy": [
+    {
+      "framework_id": "FL005",
+      "framework_name": "Content Audit Framework",
+      "domain": "Editorial Governance",
+      "primary_use": "Assess gaps duplication freshness and quality",
+      "literacy_score": 48,
+      "average_score": 4.8,
+      "readiness_status": "framework-literate use ready",
+      "weakest_dimensions": "blind_spot_recognition; audience_fit",
+      "risk_severity": "low",
+      "primary_blind_spot": "May overvalue measurable fields over interpretive quality"
+    },
+    {
+      "framework_id": "FL001",
+      "framework_name": "Research Communication Framework",
+      "domain": "Research",
+      "primary_use": "Move from evidence to interpretation",
+      "literacy_score": 48,
+      "average_score": 4.8,
+      "readiness_status": "framework-literate use ready",
+      "weakest_dimensions": "audience_fit; adaptability",
+      "risk_severity": "low",
+      "primary_blind_spot": "May underrepresent lived experience if evidence hierarchy is too narrow"
+    },
+    {
+      "framework_id": "FL004",
+      "framework_name": "Article Map",
+      "domain": "Digital Publishing",
+      "primary_use": "Organize a knowledge series",
+      "literacy_score": 47,
+      "average_score": 4.7,
+      "readiness_status": "framework-literate use ready",
+      "weakest_dimensions": "blind_spot_recognition; evidence_alignment; audience_fit",
+      "risk_severity": "low",
+      "primary_blind_spot": "May create artificial boundaries between related domains"
+    },
+    {
+      "framework_id": "FL009",
+      "framework_name": "Taxonomy Design Framework",
+      "domain": "Knowledge Architecture",
+      "primary_use": "Define categories boundaries and semantic relationships",
+      "literacy_score": 47,
+      "average_score": 4.7,
+      "readiness_status": "framework-literate use ready",
+      "weakest_dimensions": "blind_spot_recognition; evidence_alignment; audience_fit",
+      "risk_severity": "low",
+      "primary_blind_spot": "May harden provisional categories into fixed boundaries"
+    },
+    {
+      "framework_id": "FL008",
+      "framework_name": "Systems Explanation Framework",
+      "domain": "Public Reasoning",
+      "primary_use": "Explain interdependence feedback and tradeoffs",
+      "literacy_score": 44,
+      "average_score": 4.4,
+      "readiness_status": "framework-literate use ready",
+      "weakest_dimensions": "blind_spot_recognition; boundary_clarity; use_condition_clarity; audience_fit; adaptability; governance_readiness",
+      "risk_severity": "low",
+      "primary_blind_spot": "May underrepresent individual experience and moral urgency"
+    },
+    {
+      "framework_id": "FL002",
+      "framework_name": "Educational Scaffolding",
+      "domain": "Education",
+      "primary_use": "Sequence learning from foundations to application",
+      "literacy_score": 42,
+      "average_score": 4.2,
+      "readiness_status": "risk review required",
+      "weakest_dimensions": "assumption_awareness; blind_spot_recognition; boundary_clarity; use_condition_clarity; evidence_alignment; ethical_safety; adaptability; governance_readiness",
+      "risk_severity": "medium",
+      "primary_blind_spot": "May hide learner variation and accessibility needs"
+    },
+    {
+      "framework_id": "FL003",
+      "framework_name": "Message House",
+      "domain": "Strategic Communication",
+      "primary_use": "Align claims proof points and audience messages",
+      "literacy_score": 36,
+      "average_score": 3.6,
+      "readiness_status": "ethical review required",
+      "weakest_dimensions": "blind_spot_recognition; use_condition_clarity; ethical_safety; adaptability; governance_readiness",
+      "risk_severity": "medium",
+      "primary_blind_spot": "May hide uncertainty dissent or audience agency"
+    },
+    {
+      "framework_id": "FL007",
+      "framework_name": "Persona Framework",
+      "domain": "Audience Research",
+      "primary_use": "Represent audience context and needs",
+      "literacy_score": 31,
+      "average_score": 3.1,
+      "readiness_status": "ethical review required",
+      "weakest_dimensions": "blind_spot_recognition",
+      "risk_severity": "high",
+      "primary_blind_spot": "May reproduce stereotypes or flatten audience diversity"
+    },
+    {
+      "framework_id": "FL010",
+      "framework_name": "SWOT Analysis",
+      "domain": "Strategy",
+      "primary_use": "Compare strengths weaknesses opportunities and threats",
+      "literacy_score": 31,
+      "average_score": 3.1,
+      "readiness_status": "ethical review required",
+      "weakest_dimensions": "assumption_awareness; blind_spot_recognition; boundary_clarity; use_condition_clarity; evidence_alignment; ethical_safety; domain_fit; adaptability; governance_readiness",
+      "risk_severity": "medium",
+      "primary_blind_spot": "May encourage generic categories without evidence or prioritization"
+    },
+    {
+      "framework_id": "FL006",
+      "framework_name": "Persuasive Sequence Framework",
+      "domain": "Communication",
+      "primary_use": "Sequence attention interest desire and action",
+      "literacy_score": 27,
+      "average_score": 2.7,
+      "readiness_status": "ethical review required",
+      "weakest_dimensions": "blind_spot_recognition; use_condition_clarity; ethical_safety; governance_readiness",
+      "risk_severity": "high",
+      "primary_blind_spot": "May manipulate urgency and reduce audience agency"
+    }
+  ],
+  "metadata_readiness": [
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "status": "published",
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "status": "published",
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "status": "published",
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "status": "published",
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    },
+    {
+      "slug": "frameworks-templates-and-models",
+      "title": "Frameworks Templates and Models",
+      "status": "planned",
+      "completion_rate": 0.0,
+      "missing_fields": "excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation",
+      "metadata_readiness": "needs metadata work"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "status": "published",
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    }
+  ],
+  "coverage": [
+    {
+      "cluster": "Foundations",
+      "published": 4,
+      "planned": 2,
+      "total": 6,
+      "coverage_rate": 0.6667,
+      "gap_count": 2
+    },
+    {
+      "cluster": "Knowledge Architecture",
+      "published": 1,
+      "planned": 2,
+      "total": 3,
+      "coverage_rate": 0.3333,
+      "gap_count": 2
+    }
+  ],
+  "link_diagnostics": [
+    {
+      "slug": "content-audits-and-framework-governance",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "evidence-architecture-in-explanatory-content",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "outgoing_links": 8,
+      "incoming_links": 0,
+      "total_link_degree": 8,
+      "network_role": "hub"
+    },
+    {
+      "slug": "frameworks-templates-and-models",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "history-of-framework-thinking-in-communication-and-strategy",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "public-reasoning-and-framework-design",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "what-are-content-frameworks",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    }
+  ],
+  "taxonomy_coverage": [
+    {
+      "category": "Foundations",
+      "expected_role": "conceptual grounding",
+      "article_count_in_sample": 6,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Knowledge Architecture",
+      "expected_role": "structural publishing logic",
+      "article_count_in_sample": 3,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Educational Research and Conceptual Frameworks",
+      "expected_role": "learning and evidence design",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Classic Communication and Persuasive Sequence Frameworks",
+      "expected_role": "communication sequence",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Audience Need Value Positioning and Message Architecture",
+      "expected_role": "audience relevance",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Strategic and Environmental Analysis Frameworks",
+      "expected_role": "strategic analysis",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Policy Governance Systems Explanation and Public Reasoning",
+      "expected_role": "public understanding",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Framework Composition Scaling and Editorial Governance",
+      "expected_role": "maintenance and critique",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    }
+  ],
+  "use_condition_audit": [
+    {
+      "condition_id": "UC001",
+      "framework_id": "FL001",
+      "use_condition": "Use when explaining evidence interpretation uncertainty and limits",
+      "avoid_when": "Avoid when source evidence is incomplete or contested beyond article scope",
+      "review_owner": "Research editor",
+      "has_avoid_condition": true,
+      "has_owner": true
+    },
+    {
+      "condition_id": "UC002",
+      "framework_id": "FL003",
+      "use_condition": "Use when aligning claims proof points and audience messages",
+      "avoid_when": "Avoid when evidence is thin or dissent is being suppressed",
+      "review_owner": "Strategic editor",
+      "has_avoid_condition": true,
+      "has_owner": true
+    },
+    {
+      "condition_id": "UC003",
+      "framework_id": "FL006",
+      "use_condition": "Use only with explicit agency and context safeguards",
+      "avoid_when": "Avoid when fear urgency or scarcity would bypass judgment",
+      "review_owner": "Ethics reviewer",
+      "has_avoid_condition": true,
+      "has_owner": true
+    },
+    {
+      "condition_id": "UC004",
+      "framework_id": "FL007",
+      "use_condition": "Use when personas are evidence-informed and non-stereotyped",
+      "avoid_when": "Avoid when personas are speculative demographic shortcuts",
+      "review_owner": "Audience research lead",
+      "has_avoid_condition": true,
+      "has_owner": true
+    },
+    {
+      "condition_id": "UC005",
+      "framework_id": "FL009",
+      "use_condition": "Use when categories are documented and revisable",
+      "avoid_when": "Avoid when taxonomy will freeze contested or evolving concepts",
+      "review_owner": "Knowledge architect",
+      "has_avoid_condition": true,
+      "has_owner": true
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "framework_literacy",
+      "identifier": "FL003",
+      "message": "Message House requires review: ethical review required.",
+      "recommended_action": "Review assumptions, blind spots, use conditions, evidence alignment, ethical safety, and governance readiness before reuse."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "framework_literacy",
+      "identifier": "FL006",
+      "message": "Persuasive Sequence Framework requires review: ethical review required.",
+      "recommended_action": "Review assumptions, blind spots, use conditions, evidence alignment, ethical safety, and governance readiness before reuse."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "framework_literacy",
+      "identifier": "FL007",
+      "message": "Persona Framework requires review: ethical review required.",
+      "recommended_action": "Review assumptions, blind spots, use conditions, evidence alignment, ethical safety, and governance readiness before reuse."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "framework_literacy",
+      "identifier": "FL010",
+      "message": "SWOT Analysis requires review: ethical review required.",
+      "recommended_action": "Review assumptions, blind spots, use conditions, evidence alignment, ethical safety, and governance readiness before reuse."
+    },
+    {
+      "source": "framework_literacy",
+      "severity": "high",
+      "category": "framework_review",
+      "identifier": "FL006",
+      "message": "Persuasive Sequence Framework status: ethical review required.",
+      "recommended_action": "Resolve literacy gates before reuse in article templates, AI workflows, or framework libraries."
+    },
+    {
+      "source": "framework_literacy",
+      "severity": "high",
+      "category": "framework_review",
+      "identifier": "FL007",
+      "message": "Persona Framework status: ethical review required.",
+      "recommended_action": "Resolve literacy gates before reuse in article templates, AI workflows, or framework libraries."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_literacy",
+      "identifier": "FL002",
+      "message": "Educational Scaffolding requires review: risk review required.",
+      "recommended_action": "Review assumptions, blind spots, use conditions, evidence alignment, ethical safety, and governance readiness before reuse."
+    },
+    {
+      "source": "framework_literacy",
+      "severity": "medium",
+      "category": "framework_review",
+      "identifier": "FL002",
+      "message": "Educational Scaffolding status: risk review required.",
+      "recommended_action": "Resolve literacy gates before reuse in article templates, AI workflows, or framework libraries."
+    },
+    {
+      "source": "framework_literacy",
+      "severity": "medium",
+      "category": "framework_review",
+      "identifier": "FL003",
+      "message": "Message House status: ethical review required.",
+      "recommended_action": "Resolve literacy gates before reuse in article templates, AI workflows, or framework libraries."
+    },
+    {
+      "source": "framework_literacy",
+      "severity": "medium",
+      "category": "framework_review",
+      "identifier": "FL010",
+      "message": "SWOT Analysis status: ethical review required.",
+      "recommended_action": "Resolve literacy gates before reuse in article templates, AI workflows, or framework libraries."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "links",
+      "identifier": "evidence-architecture-in-explanatory-content",
+      "message": "Link target is outside sample article map.",
+      "recommended_action": "Confirm linked article exists."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "links",
+      "identifier": "public-reasoning-and-framework-design",
+      "message": "Link target is outside sample article map.",
+      "recommended_action": "Confirm linked article exists."
+    }
+  ]
+}

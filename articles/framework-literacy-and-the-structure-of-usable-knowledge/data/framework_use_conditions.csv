@@ -1,0 +1,6 @@
+condition_id,framework_id,use_condition,avoid_when,review_owner
+UC001,FL001,Use when explaining evidence interpretation uncertainty and limits,Avoid when source evidence is incomplete or contested beyond article scope,Research editor
+UC002,FL003,Use when aligning claims proof points and audience messages,Avoid when evidence is thin or dissent is being suppressed,Strategic editor
+UC003,FL006,Use only with explicit agency and context safeguards,Avoid when fear urgency or scarcity would bypass judgment,Ethics reviewer
+UC004,FL007,Use when personas are evidence-informed and non-stereotyped,Avoid when personas are speculative demographic shortcuts,Audience research lead
+UC005,FL009,Use when categories are documented and revisable,Avoid when taxonomy will freeze contested or evolving concepts,Knowledge architect

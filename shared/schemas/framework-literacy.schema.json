@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Framework Literacy Record",
+  "type": "object",
+  "required": [
+    "framework_id",
+    "framework_name",
+    "domain",
+    "primary_use",
+    "assumption_awareness",
+    "blind_spot_recognition",
+    "boundary_clarity",
+    "use_condition_clarity",
+    "evidence_alignment",
+    "ethical_safety",
+    "audience_fit",
+    "domain_fit",
+    "adaptability",
+    "governance_readiness"
+  ],
+  "properties": {
+    "framework_id": { "type": "string" },
+    "framework_name": { "type": "string" },
+    "domain": { "type": "string" },
+    "primary_use": { "type": "string" },
+    "assumption_awareness": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "blind_spot_recognition": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "boundary_clarity": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "use_condition_clarity": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "evidence_alignment": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "ethical_safety": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "audience_fit": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "domain_fit": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "adaptability": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "governance_readiness": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "risk_severity": { "type": "string" },
+    "primary_blind_spot": { "type": "string" }
+  }
+}

@@ -1,0 +1,20 @@
+domain,average_literacy_score
+Research,48.0
+"Knowledge Architecture",47.0
+"Digital Publishing",47.0
+"Strategic Communication",36.0
+Communication,27.0
+framework_id,framework_name,domain,literacy_score,risk_severity,primary_blind_spot
+FL001,"Research Communication Framework",Research,48,low,"May underrepresent lived experience if evidence hierarchy is too narrow"
+FL004,"Article Map","Digital Publishing",47,low,"May create artificial boundaries between related domains"
+FL009,"Taxonomy Design Framework","Knowledge Architecture",47,low,"May harden provisional categories into fixed boundaries"
+FL003,"Message House","Strategic Communication",36,medium,"May hide uncertainty dissent or audience agency"
+FL006,"Persuasive Sequence Framework",Communication,27,high,"May manipulate urgency and reduce audience agency"
+framework_id,framework_name,governance_status
+FL003,"Message House","blind-spot documentation required"
+FL006,"Persuasive Sequence Framework","blind-spot documentation required"
+FL001,"Research Communication Framework","ready for managed use"
+FL004,"Article Map","ready for managed use"
+FL009,"Taxonomy Design Framework","ready for managed use"
+source_slug,outgoing_link_count
+framework-literacy-and-the-structure-of-usable-knowledge,4

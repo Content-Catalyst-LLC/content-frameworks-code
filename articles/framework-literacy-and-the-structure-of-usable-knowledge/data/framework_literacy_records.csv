@@ -1,0 +1,11 @@
+framework_id,framework_name,domain,primary_use,assumption_awareness,blind_spot_recognition,boundary_clarity,use_condition_clarity,evidence_alignment,ethical_safety,audience_fit,domain_fit,adaptability,governance_readiness,risk_severity,primary_blind_spot
+FL001,Research Communication Framework,Research,Move from evidence to interpretation,5,5,5,5,5,5,4,5,4,5,low,May underrepresent lived experience if evidence hierarchy is too narrow
+FL002,Educational Scaffolding,Education,Sequence learning from foundations to application,4,4,4,4,4,4,5,5,4,4,medium,May hide learner variation and accessibility needs
+FL003,Message House,Strategic Communication,Align claims proof points and audience messages,4,3,4,3,4,3,5,4,3,3,medium,May hide uncertainty dissent or audience agency
+FL004,Article Map,Digital Publishing,Organize a knowledge series,5,4,5,5,4,5,4,5,5,5,low,May create artificial boundaries between related domains
+FL005,Content Audit Framework,Editorial Governance,Assess gaps duplication freshness and quality,5,4,5,5,5,5,4,5,5,5,low,May overvalue measurable fields over interpretive quality
+FL006,Persuasive Sequence Framework,Communication,Sequence attention interest desire and action,3,2,3,2,3,2,4,3,3,2,high,May manipulate urgency and reduce audience agency
+FL007,Persona Framework,Audience Research,Represent audience context and needs,3,2,3,3,3,3,4,3,4,3,high,May reproduce stereotypes or flatten audience diversity
+FL008,Systems Explanation Framework,Public Reasoning,Explain interdependence feedback and tradeoffs,5,4,4,4,5,5,4,5,4,4,low,May underrepresent individual experience and moral urgency
+FL009,Taxonomy Design Framework,Knowledge Architecture,Define categories boundaries and semantic relationships,5,4,5,5,4,5,4,5,5,5,low,May harden provisional categories into fixed boundaries
+FL010,SWOT Analysis,Strategy,Compare strengths weaknesses opportunities and threats,3,3,3,3,3,3,4,3,3,3,medium,May encourage generic categories without evidence or prioritization

@@ -1,0 +1,13 @@
+source,severity,category,identifier,message,recommended_action
+automated_audit,high,framework_literacy,FL003,Message House requires review: ethical review required.,"Review assumptions, blind spots, use conditions, evidence alignment, ethical safety, and governance readiness before reuse."
+automated_audit,high,framework_literacy,FL006,Persuasive Sequence Framework requires review: ethical review required.,"Review assumptions, blind spots, use conditions, evidence alignment, ethical safety, and governance readiness before reuse."
+automated_audit,high,framework_literacy,FL007,Persona Framework requires review: ethical review required.,"Review assumptions, blind spots, use conditions, evidence alignment, ethical safety, and governance readiness before reuse."
+automated_audit,high,framework_literacy,FL010,SWOT Analysis requires review: ethical review required.,"Review assumptions, blind spots, use conditions, evidence alignment, ethical safety, and governance readiness before reuse."
+framework_literacy,high,framework_review,FL006,Persuasive Sequence Framework status: ethical review required.,"Resolve literacy gates before reuse in article templates, AI workflows, or framework libraries."
+framework_literacy,high,framework_review,FL007,Persona Framework status: ethical review required.,"Resolve literacy gates before reuse in article templates, AI workflows, or framework libraries."
+automated_audit,medium,framework_literacy,FL002,Educational Scaffolding requires review: risk review required.,"Review assumptions, blind spots, use conditions, evidence alignment, ethical safety, and governance readiness before reuse."
+framework_literacy,medium,framework_review,FL002,Educational Scaffolding status: risk review required.,"Resolve literacy gates before reuse in article templates, AI workflows, or framework libraries."
+framework_literacy,medium,framework_review,FL003,Message House status: ethical review required.,"Resolve literacy gates before reuse in article templates, AI workflows, or framework libraries."
+framework_literacy,medium,framework_review,FL010,SWOT Analysis status: ethical review required.,"Resolve literacy gates before reuse in article templates, AI workflows, or framework libraries."
+automated_audit,low,links,evidence-architecture-in-explanatory-content,Link target is outside sample article map.,Confirm linked article exists.
+automated_audit,low,links,public-reasoning-and-framework-design,Link target is outside sample article map.,Confirm linked article exists.

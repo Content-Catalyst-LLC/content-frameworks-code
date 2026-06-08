@@ -1,0 +1,51 @@
+[
+  {
+    "severity": "medium",
+    "category": "framework_literacy",
+    "identifier": "FL002",
+    "message": "Educational Scaffolding requires review: risk review required.",
+    "recommended_action": "Review assumptions, blind spots, use conditions, evidence alignment, ethical safety, and governance readiness before reuse."
+  },
+  {
+    "severity": "high",
+    "category": "framework_literacy",
+    "identifier": "FL003",
+    "message": "Message House requires review: ethical review required.",
+    "recommended_action": "Review assumptions, blind spots, use conditions, evidence alignment, ethical safety, and governance readiness before reuse."
+  },
+  {
+    "severity": "high",
+    "category": "framework_literacy",
+    "identifier": "FL006",
+    "message": "Persuasive Sequence Framework requires review: ethical review required.",
+    "recommended_action": "Review assumptions, blind spots, use conditions, evidence alignment, ethical safety, and governance readiness before reuse."
+  },
+  {
+    "severity": "high",
+    "category": "framework_literacy",
+    "identifier": "FL007",
+    "message": "Persona Framework requires review: ethical review required.",
+    "recommended_action": "Review assumptions, blind spots, use conditions, evidence alignment, ethical safety, and governance readiness before reuse."
+  },
+  {
+    "severity": "high",
+    "category": "framework_literacy",
+    "identifier": "FL010",
+    "message": "SWOT Analysis requires review: ethical review required.",
+    "recommended_action": "Review assumptions, blind spots, use conditions, evidence alignment, ethical safety, and governance readiness before reuse."
+  },
+  {
+    "severity": "low",
+    "category": "links",
+    "identifier": "public-reasoning-and-framework-design",
+    "message": "Link target is outside sample article map.",
+    "recommended_action": "Confirm linked article exists."
+  },
+  {
+    "severity": "low",
+    "category": "links",
+    "identifier": "evidence-architecture-in-explanatory-content",
+    "message": "Link target is outside sample article map.",
+    "recommended_action": "Confirm linked article exists."
+  }
+]
