@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Content Structure Classification Record",
+  "type": "object",
+  "required": [
+    "structure_id",
+    "structure_name",
+    "declared_type",
+    "observed_type",
+    "domain",
+    "purpose"
+  ],
+  "properties": {
+    "structure_id": { "type": "string" },
+    "structure_name": { "type": "string" },
+    "declared_type": { "type": "string", "enum": ["framework", "template", "model", "method", "workflow"] },
+    "observed_type": { "type": "string", "enum": ["framework", "template", "model", "method", "workflow"] },
+    "domain": { "type": "string" },
+    "purpose": { "type": "string" },
+    "risk_severity": { "type": "string" },
+    "risk_note": { "type": "string" }
+  }
+}

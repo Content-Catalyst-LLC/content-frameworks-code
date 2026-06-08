@@ -1,0 +1,6 @@
+case_id,structure_id,misuse_pattern,likely_consequence,recommended_review,requires_governance_review
+MC001,ST004,template mistaken for method,Audit results become inconsistent because procedure is undefined,Document audit method and decision rules,True
+MC002,ST006,model mistaken for audience truth,Personas may reinforce stereotypes or unsupported assumptions,Review evidence base and uncertainty,True
+MC003,ST007,template mistaken for workflow,Checklist may track tasks without accountability,Assign owners statuses and escalation rules,True
+MC004,ST010,AI outline mistaken for framework,Generated structure may be used without fit evidence or governance,Require framework review before publication,True
+MC005,ST005,framework reduced to talking points,Strategic communication may become unsupported repetition,Attach evidence and audience agency safeguards,True

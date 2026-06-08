@@ -1,0 +1,4 @@
+"structure_id","structure_name","declared_type","observed_type","inferred_type","risk_severity","risk_note"
+"ST004","Content Audit Sheet","template","method","template","medium","Template is being used as a method without clear procedure"
+"ST007","Publishing Checklist","template","workflow","template","low","Checklist overlaps with workflow management"
+"ST010","AI Outline Prompt","template","framework","framework","high","AI-generated structure may be treated as framework without review"

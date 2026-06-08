@@ -1,0 +1,25 @@
+observed_type,structure_count
+framework,2
+template,1
+model,1
+method,1
+declared_type,observed_type,count
+framework,framework,1
+model,model,1
+template,framework,1
+template,method,1
+template,template,1
+structure_id,structure_name,declared_type,observed_type,review_status,risk_severity,risk_note
+ST010,"AI Outline Prompt",template,framework,"declared type mismatch",high,"AI-generated structure may be treated as framework without review"
+ST004,"Content Audit Sheet",template,method,"declared type mismatch",medium,"Template is being used as a method without clear procedure"
+ST001,"Content Framework Article Map",framework,framework,"ready for managed use",low,"May create artificial boundaries if not reviewed"
+ST002,"Article Metadata Block",template,template,"ready for managed use",low,"May become mechanical if excerpt quality is not reviewed"
+ST003,"Internal Link Graph",model,model,"ready for managed use",low,"Graph centrality may overvalue popular nodes"
+structure_id,structure_name,governance_completion
+ST010,"AI Outline Prompt",0.0
+ST004,"Content Audit Sheet",0.714
+ST001,"Content Framework Article Map",1.0
+ST002,"Article Metadata Block",1.0
+ST003,"Internal Link Graph",1.0
+source_slug,outgoing_link_count
+frameworks-templates-and-models,3

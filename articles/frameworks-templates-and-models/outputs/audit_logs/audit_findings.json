@@ -1,0 +1,93 @@
+[
+  {
+    "severity": "medium",
+    "category": "structure_type",
+    "identifier": "ST004",
+    "message": "Declared type is template, but observed type is method.",
+    "recommended_action": "Review whether the structure is being named and used correctly."
+  },
+  {
+    "severity": "low",
+    "category": "classification_signal",
+    "identifier": "ST004",
+    "message": "Inferred type is template, but observed type is method.",
+    "recommended_action": "Review classification signals and structure documentation."
+  },
+  {
+    "severity": "medium",
+    "category": "governance",
+    "identifier": "ST004",
+    "message": "Governance completion is 71%.",
+    "recommended_action": "Complete purpose, use conditions, limitations, evidence review, ethical review, owner, and review cycle."
+  },
+  {
+    "severity": "medium",
+    "category": "governance",
+    "identifier": "ST006",
+    "message": "Governance completion is 71%.",
+    "recommended_action": "Complete purpose, use conditions, limitations, evidence review, ethical review, owner, and review cycle."
+  },
+  {
+    "severity": "high",
+    "category": "risk",
+    "identifier": "ST006",
+    "message": "High-risk structure: Can reproduce stereotypes if evidence is weak",
+    "recommended_action": "Route to governance review before reuse in publication, AI workflows, or product catalogs."
+  },
+  {
+    "severity": "medium",
+    "category": "structure_type",
+    "identifier": "ST007",
+    "message": "Declared type is template, but observed type is workflow.",
+    "recommended_action": "Review whether the structure is being named and used correctly."
+  },
+  {
+    "severity": "low",
+    "category": "classification_signal",
+    "identifier": "ST007",
+    "message": "Inferred type is template, but observed type is workflow.",
+    "recommended_action": "Review classification signals and structure documentation."
+  },
+  {
+    "severity": "low",
+    "category": "classification_signal",
+    "identifier": "ST008",
+    "message": "Inferred type is framework, but observed type is method.",
+    "recommended_action": "Review classification signals and structure documentation."
+  },
+  {
+    "severity": "medium",
+    "category": "structure_type",
+    "identifier": "ST010",
+    "message": "Declared type is template, but observed type is framework.",
+    "recommended_action": "Review whether the structure is being named and used correctly."
+  },
+  {
+    "severity": "medium",
+    "category": "governance",
+    "identifier": "ST010",
+    "message": "Governance completion is 0%.",
+    "recommended_action": "Complete purpose, use conditions, limitations, evidence review, ethical review, owner, and review cycle."
+  },
+  {
+    "severity": "high",
+    "category": "risk",
+    "identifier": "ST010",
+    "message": "High-risk structure: AI-generated structure may be treated as framework without review",
+    "recommended_action": "Route to governance review before reuse in publication, AI workflows, or product catalogs."
+  },
+  {
+    "severity": "low",
+    "category": "links",
+    "identifier": "taxonomy-design-for-content-frameworks",
+    "message": "Link target is outside sample article map.",
+    "recommended_action": "Confirm linked article exists."
+  },
+  {
+    "severity": "low",
+    "category": "links",
+    "identifier": "framework-governance-and-editorial-maintenance",
+    "message": "Link target is outside sample article map.",
+    "recommended_action": "Confirm linked article exists."
+  }
+]

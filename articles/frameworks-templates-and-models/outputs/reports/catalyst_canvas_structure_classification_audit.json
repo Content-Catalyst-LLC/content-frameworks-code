@@ -1,0 +1,654 @@
+{
+  "article": "Frameworks, Templates, and Models",
+  "generated_at": "2026-06-08T11:46:23.250286+00:00",
+  "config": {
+    "product_context": "Catalyst Canvas",
+    "article": "Frameworks, Templates, and Models",
+    "series": "Content Frameworks",
+    "version": "1.0.0",
+    "structure_types": [
+      "framework",
+      "template",
+      "model",
+      "method",
+      "workflow"
+    ],
+    "classification_signals": {
+      "framework": [
+        "organizes_reasoning",
+        "defines_categories",
+        "supports_interpretation"
+      ],
+      "template": [
+        "standardizes_fields",
+        "standardizes_format",
+        "repeatable_output"
+      ],
+      "model": [
+        "represents_relationships",
+        "uses_assumptions",
+        "explains_mechanism"
+      ],
+      "method": [
+        "defines_steps",
+        "supports_repeatable_process",
+        "produces_decision_rules"
+      ],
+      "workflow": [
+        "coordinates_handoffs",
+        "tracks_status",
+        "assigns_responsibility"
+      ]
+    },
+    "governance_fields": [
+      "purpose_documented",
+      "use_conditions_documented",
+      "limitations_documented",
+      "evidence_alignment_reviewed",
+      "ethical_risk_reviewed",
+      "owner_assigned",
+      "review_cycle_defined"
+    ],
+    "minimum_governance_completion": 0.85,
+    "risk_terms": [
+      "template mistaken for strategy",
+      "model mistaken for reality",
+      "framework treated as rigid form",
+      "workflow mistaken for governance",
+      "taxonomy mistaken for article map",
+      "method applied mechanically",
+      "AI-generated structure used without review"
+    ],
+    "governance_review_triggers": {
+      "type_mismatch": true,
+      "governance_completion_below": 0.85,
+      "risk_severity_at_or_above": "medium"
+    }
+  },
+  "counts": {
+    "structures": 10,
+    "articles": 9,
+    "links": 8,
+    "taxonomy_categories": 8,
+    "misuse_cases": 5,
+    "type_mismatches": 3,
+    "governance_queue": 18
+  },
+  "structure_classification": [
+    {
+      "structure_id": "ST007",
+      "structure_name": "Publishing Checklist",
+      "declared_type": "template",
+      "observed_type": "workflow",
+      "inferred_type": "template",
+      "declared_matches_observed": false,
+      "inferred_matches_observed": false,
+      "governance_completion": 1.0,
+      "missing_governance_fields": "none",
+      "review_status": "declared type mismatch",
+      "risk_severity": "low",
+      "risk_note": "Checklist overlaps with workflow management",
+      "framework_signal": 0,
+      "template_signal": 3,
+      "model_signal": 0,
+      "method_signal": 3,
+      "workflow_signal": 3
+    },
+    {
+      "structure_id": "ST004",
+      "structure_name": "Content Audit Sheet",
+      "declared_type": "template",
+      "observed_type": "method",
+      "inferred_type": "template",
+      "declared_matches_observed": false,
+      "inferred_matches_observed": false,
+      "governance_completion": 0.7143,
+      "missing_governance_fields": "use_conditions_documented; review_cycle_defined",
+      "review_status": "declared type mismatch",
+      "risk_severity": "medium",
+      "risk_note": "Template is being used as a method without clear procedure",
+      "framework_signal": 2,
+      "template_signal": 3,
+      "model_signal": 0,
+      "method_signal": 3,
+      "workflow_signal": 2
+    },
+    {
+      "structure_id": "ST005",
+      "structure_name": "Message House",
+      "declared_type": "framework",
+      "observed_type": "framework",
+      "inferred_type": "framework",
+      "declared_matches_observed": true,
+      "inferred_matches_observed": true,
+      "governance_completion": 1.0,
+      "missing_governance_fields": "none",
+      "review_status": "risk review required",
+      "risk_severity": "medium",
+      "risk_note": "Can become talking points without evidence review",
+      "framework_signal": 3,
+      "template_signal": 0,
+      "model_signal": 2,
+      "method_signal": 0,
+      "workflow_signal": 0
+    },
+    {
+      "structure_id": "ST010",
+      "structure_name": "AI Outline Prompt",
+      "declared_type": "template",
+      "observed_type": "framework",
+      "inferred_type": "framework",
+      "declared_matches_observed": false,
+      "inferred_matches_observed": true,
+      "governance_completion": 0.0,
+      "missing_governance_fields": "purpose_documented; use_conditions_documented; limitations_documented; evidence_alignment_reviewed; ethical_risk_reviewed; owner_assigned; review_cycle_defined",
+      "review_status": "declared type mismatch",
+      "risk_severity": "high",
+      "risk_note": "AI-generated structure may be treated as framework without review",
+      "framework_signal": 3,
+      "template_signal": 3,
+      "model_signal": 1,
+      "method_signal": 2,
+      "workflow_signal": 0
+    },
+    {
+      "structure_id": "ST006",
+      "structure_name": "Audience Persona",
+      "declared_type": "model",
+      "observed_type": "model",
+      "inferred_type": "model",
+      "declared_matches_observed": true,
+      "inferred_matches_observed": true,
+      "governance_completion": 0.7143,
+      "missing_governance_fields": "evidence_alignment_reviewed; review_cycle_defined",
+      "review_status": "governance incomplete",
+      "risk_severity": "high",
+      "risk_note": "Can reproduce stereotypes if evidence is weak",
+      "framework_signal": 2,
+      "template_signal": 0,
+      "model_signal": 3,
+      "method_signal": 0,
+      "workflow_signal": 0
+    },
+    {
+      "structure_id": "ST002",
+      "structure_name": "Article Metadata Block",
+      "declared_type": "template",
+      "observed_type": "template",
+      "inferred_type": "template",
+      "declared_matches_observed": true,
+      "inferred_matches_observed": true,
+      "governance_completion": 1.0,
+      "missing_governance_fields": "none",
+      "review_status": "ready for managed use",
+      "risk_severity": "low",
+      "risk_note": "May become mechanical if excerpt quality is not reviewed",
+      "framework_signal": 0,
+      "template_signal": 3,
+      "model_signal": 0,
+      "method_signal": 0,
+      "workflow_signal": 1
+    },
+    {
+      "structure_id": "ST001",
+      "structure_name": "Content Framework Article Map",
+      "declared_type": "framework",
+      "observed_type": "framework",
+      "inferred_type": "framework",
+      "declared_matches_observed": true,
+      "inferred_matches_observed": true,
+      "governance_completion": 1.0,
+      "missing_governance_fields": "none",
+      "review_status": "ready for managed use",
+      "risk_severity": "low",
+      "risk_note": "May create artificial boundaries if not reviewed",
+      "framework_signal": 3,
+      "template_signal": 0,
+      "model_signal": 2,
+      "method_signal": 0,
+      "workflow_signal": 0
+    },
+    {
+      "structure_id": "ST008",
+      "structure_name": "Framework Quality Review Method",
+      "declared_type": "method",
+      "observed_type": "method",
+      "inferred_type": "framework",
+      "declared_matches_observed": true,
+      "inferred_matches_observed": false,
+      "governance_completion": 1.0,
+      "missing_governance_fields": "none",
+      "review_status": "ready for managed use",
+      "risk_severity": "low",
+      "risk_note": "Needs periodic calibration",
+      "framework_signal": 3,
+      "template_signal": 0,
+      "model_signal": 1,
+      "method_signal": 3,
+      "workflow_signal": 2
+    },
+    {
+      "structure_id": "ST003",
+      "structure_name": "Internal Link Graph",
+      "declared_type": "model",
+      "observed_type": "model",
+      "inferred_type": "model",
+      "declared_matches_observed": true,
+      "inferred_matches_observed": true,
+      "governance_completion": 1.0,
+      "missing_governance_fields": "none",
+      "review_status": "ready for managed use",
+      "risk_severity": "low",
+      "risk_note": "Graph centrality may overvalue popular nodes",
+      "framework_signal": 1,
+      "template_signal": 0,
+      "model_signal": 3,
+      "method_signal": 0,
+      "workflow_signal": 0
+    },
+    {
+      "structure_id": "ST009",
+      "structure_name": "Systems Explanation Diagram",
+      "declared_type": "model",
+      "observed_type": "model",
+      "inferred_type": "model",
+      "declared_matches_observed": true,
+      "inferred_matches_observed": true,
+      "governance_completion": 1.0,
+      "missing_governance_fields": "none",
+      "review_status": "ready for managed use",
+      "risk_severity": "low",
+      "risk_note": "Can hide lived experience if overly abstract",
+      "framework_signal": 2,
+      "template_signal": 0,
+      "model_signal": 3,
+      "method_signal": 0,
+      "workflow_signal": 0
+    }
+  ],
+  "metadata_readiness": [
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "status": "published",
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "status": "published",
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "status": "published",
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "status": "published",
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    },
+    {
+      "slug": "frameworks-templates-and-models",
+      "title": "Frameworks Templates and Models",
+      "status": "published",
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    },
+    {
+      "slug": "the-history-of-framework-thinking-in-communication-and-strategy",
+      "title": "The History of Framework Thinking in Communication and Strategy",
+      "status": "planned",
+      "completion_rate": 0.0,
+      "missing_fields": "excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation",
+      "metadata_readiness": "needs metadata work"
+    }
+  ],
+  "coverage": [
+    {
+      "cluster": "Foundations",
+      "published": 5,
+      "planned": 1,
+      "total": 6,
+      "coverage_rate": 0.8333,
+      "gap_count": 1
+    },
+    {
+      "cluster": "Knowledge Architecture",
+      "published": 1,
+      "planned": 2,
+      "total": 3,
+      "coverage_rate": 0.3333,
+      "gap_count": 2
+    }
+  ],
+  "link_diagnostics": [
+    {
+      "slug": "content-audits-and-framework-governance",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "framework-governance-and-editorial-maintenance",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "frameworks-templates-and-models",
+      "outgoing_links": 8,
+      "incoming_links": 0,
+      "total_link_degree": 8,
+      "network_role": "hub"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "the-history-of-framework-thinking-in-communication-and-strategy",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "what-are-content-frameworks",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "network_role": "thinly linked"
+    }
+  ],
+  "taxonomy_coverage": [
+    {
+      "category": "Foundations",
+      "expected_role": "conceptual grounding",
+      "article_count_in_sample": 6,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Knowledge Architecture",
+      "expected_role": "structural publishing logic",
+      "article_count_in_sample": 3,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Educational Research and Conceptual Frameworks",
+      "expected_role": "learning and evidence design",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Classic Communication and Persuasive Sequence Frameworks",
+      "expected_role": "communication sequence",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Audience Need Value Positioning and Message Architecture",
+      "expected_role": "audience relevance",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Strategic and Environmental Analysis Frameworks",
+      "expected_role": "strategic analysis",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Policy Governance Systems Explanation and Public Reasoning",
+      "expected_role": "public understanding",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Framework Composition Scaling and Editorial Governance",
+      "expected_role": "maintenance and critique",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    }
+  ],
+  "misuse_cases": [
+    {
+      "case_id": "MC001",
+      "structure_id": "ST004",
+      "misuse_pattern": "template mistaken for method",
+      "likely_consequence": "Audit results become inconsistent because procedure is undefined",
+      "recommended_review": "Document audit method and decision rules",
+      "requires_governance_review": true
+    },
+    {
+      "case_id": "MC002",
+      "structure_id": "ST006",
+      "misuse_pattern": "model mistaken for audience truth",
+      "likely_consequence": "Personas may reinforce stereotypes or unsupported assumptions",
+      "recommended_review": "Review evidence base and uncertainty",
+      "requires_governance_review": true
+    },
+    {
+      "case_id": "MC003",
+      "structure_id": "ST007",
+      "misuse_pattern": "template mistaken for workflow",
+      "likely_consequence": "Checklist may track tasks without accountability",
+      "recommended_review": "Assign owners statuses and escalation rules",
+      "requires_governance_review": true
+    },
+    {
+      "case_id": "MC004",
+      "structure_id": "ST010",
+      "misuse_pattern": "AI outline mistaken for framework",
+      "likely_consequence": "Generated structure may be used without fit evidence or governance",
+      "recommended_review": "Require framework review before publication",
+      "requires_governance_review": true
+    },
+    {
+      "case_id": "MC005",
+      "structure_id": "ST005",
+      "misuse_pattern": "framework reduced to talking points",
+      "likely_consequence": "Strategic communication may become unsupported repetition",
+      "recommended_review": "Attach evidence and audience agency safeguards",
+      "requires_governance_review": true
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "risk",
+      "identifier": "ST006",
+      "message": "High-risk structure: Can reproduce stereotypes if evidence is weak",
+      "recommended_action": "Route to governance review before reuse in publication, AI workflows, or product catalogs."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "risk",
+      "identifier": "ST010",
+      "message": "High-risk structure: AI-generated structure may be treated as framework without review",
+      "recommended_action": "Route to governance review before reuse in publication, AI workflows, or product catalogs."
+    },
+    {
+      "source": "structure_classification",
+      "severity": "high",
+      "category": "structure_review",
+      "identifier": "ST006",
+      "message": "Audience Persona status: governance incomplete.",
+      "recommended_action": "Review structure type, governance, use conditions, and documented limitations before reuse."
+    },
+    {
+      "source": "structure_classification",
+      "severity": "high",
+      "category": "structure_review",
+      "identifier": "ST010",
+      "message": "AI Outline Prompt status: declared type mismatch.",
+      "recommended_action": "Review structure type, governance, use conditions, and documented limitations before reuse."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "governance",
+      "identifier": "ST004",
+      "message": "Governance completion is 71%.",
+      "recommended_action": "Complete purpose, use conditions, limitations, evidence review, ethical review, owner, and review cycle."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "governance",
+      "identifier": "ST006",
+      "message": "Governance completion is 71%.",
+      "recommended_action": "Complete purpose, use conditions, limitations, evidence review, ethical review, owner, and review cycle."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "governance",
+      "identifier": "ST010",
+      "message": "Governance completion is 0%.",
+      "recommended_action": "Complete purpose, use conditions, limitations, evidence review, ethical review, owner, and review cycle."
+    },
+    {
+      "source": "structure_classification",
+      "severity": "medium",
+      "category": "structure_review",
+      "identifier": "ST004",
+      "message": "Content Audit Sheet status: declared type mismatch.",
+      "recommended_action": "Review structure type, governance, use conditions, and documented limitations before reuse."
+    },
+    {
+      "source": "structure_classification",
+      "severity": "medium",
+      "category": "structure_review",
+      "identifier": "ST005",
+      "message": "Message House status: risk review required.",
+      "recommended_action": "Review structure type, governance, use conditions, and documented limitations before reuse."
+    },
+    {
+      "source": "structure_classification",
+      "severity": "medium",
+      "category": "structure_review",
+      "identifier": "ST007",
+      "message": "Publishing Checklist status: declared type mismatch.",
+      "recommended_action": "Review structure type, governance, use conditions, and documented limitations before reuse."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "structure_type",
+      "identifier": "ST004",
+      "message": "Declared type is template, but observed type is method.",
+      "recommended_action": "Review whether the structure is being named and used correctly."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "structure_type",
+      "identifier": "ST007",
+      "message": "Declared type is template, but observed type is workflow.",
+      "recommended_action": "Review whether the structure is being named and used correctly."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "structure_type",
+      "identifier": "ST010",
+      "message": "Declared type is template, but observed type is framework.",
+      "recommended_action": "Review whether the structure is being named and used correctly."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "classification_signal",
+      "identifier": "ST004",
+      "message": "Inferred type is template, but observed type is method.",
+      "recommended_action": "Review classification signals and structure documentation."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "classification_signal",
+      "identifier": "ST007",
+      "message": "Inferred type is template, but observed type is workflow.",
+      "recommended_action": "Review classification signals and structure documentation."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "classification_signal",
+      "identifier": "ST008",
+      "message": "Inferred type is framework, but observed type is method.",
+      "recommended_action": "Review classification signals and structure documentation."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "links",
+      "identifier": "framework-governance-and-editorial-maintenance",
+      "message": "Link target is outside sample article map.",
+      "recommended_action": "Confirm linked article exists."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "links",
+      "identifier": "taxonomy-design-for-content-frameworks",
+      "message": "Link target is outside sample article map.",
+      "recommended_action": "Confirm linked article exists."
+    }
+  ]
+}

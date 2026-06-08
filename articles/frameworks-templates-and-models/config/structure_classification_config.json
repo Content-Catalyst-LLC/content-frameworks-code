@@ -1,0 +1,64 @@
+{
+  "product_context": "Catalyst Canvas",
+  "article": "Frameworks, Templates, and Models",
+  "series": "Content Frameworks",
+  "version": "1.0.0",
+  "structure_types": [
+    "framework",
+    "template",
+    "model",
+    "method",
+    "workflow"
+  ],
+  "classification_signals": {
+    "framework": [
+      "organizes_reasoning",
+      "defines_categories",
+      "supports_interpretation"
+    ],
+    "template": [
+      "standardizes_fields",
+      "standardizes_format",
+      "repeatable_output"
+    ],
+    "model": [
+      "represents_relationships",
+      "uses_assumptions",
+      "explains_mechanism"
+    ],
+    "method": [
+      "defines_steps",
+      "supports_repeatable_process",
+      "produces_decision_rules"
+    ],
+    "workflow": [
+      "coordinates_handoffs",
+      "tracks_status",
+      "assigns_responsibility"
+    ]
+  },
+  "governance_fields": [
+    "purpose_documented",
+    "use_conditions_documented",
+    "limitations_documented",
+    "evidence_alignment_reviewed",
+    "ethical_risk_reviewed",
+    "owner_assigned",
+    "review_cycle_defined"
+  ],
+  "minimum_governance_completion": 0.85,
+  "risk_terms": [
+    "template mistaken for strategy",
+    "model mistaken for reality",
+    "framework treated as rigid form",
+    "workflow mistaken for governance",
+    "taxonomy mistaken for article map",
+    "method applied mechanically",
+    "AI-generated structure used without review"
+  ],
+  "governance_review_triggers": {
+    "type_mismatch": true,
+    "governance_completion_below": 0.85,
+    "risk_severity_at_or_above": "medium"
+  }
+}

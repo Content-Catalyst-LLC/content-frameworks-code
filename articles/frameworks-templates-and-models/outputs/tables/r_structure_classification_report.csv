@@ -1,0 +1,11 @@
+"structure_id","structure_name","declared_type","observed_type","inferred_type","type_match","inferred_match","governance_completion","review_status","risk_severity","risk_note","framework_signal","template_signal","model_signal","method_signal","workflow_signal"
+"ST001","Content Framework Article Map","framework","framework","framework",TRUE,TRUE,1,"ready for managed use","low","May create artificial boundaries if not reviewed",3,0,2,0,0
+"ST002","Article Metadata Block","template","template","template",TRUE,TRUE,1,"ready for managed use","low","May become mechanical if excerpt quality is not reviewed",0,3,0,0,1
+"ST003","Internal Link Graph","model","model","model",TRUE,TRUE,1,"ready for managed use","low","Graph centrality may overvalue popular nodes",1,0,3,0,0
+"ST004","Content Audit Sheet","template","method","template",FALSE,FALSE,0.7143,"declared type mismatch","medium","Template is being used as a method without clear procedure",2,3,0,3,2
+"ST005","Message House","framework","framework","framework",TRUE,TRUE,1,"risk review required","medium","Can become talking points without evidence review",3,0,2,0,0
+"ST006","Audience Persona","model","model","model",TRUE,TRUE,0.7143,"governance incomplete","high","Can reproduce stereotypes if evidence is weak",2,0,3,0,0
+"ST007","Publishing Checklist","template","workflow","template",FALSE,FALSE,1,"declared type mismatch","low","Checklist overlaps with workflow management",0,3,0,3,3
+"ST008","Framework Quality Review Method","method","method","framework",TRUE,FALSE,1,"ready for managed use","low","Needs periodic calibration",3,0,1,3,2
+"ST009","Systems Explanation Diagram","model","model","model",TRUE,TRUE,1,"ready for managed use","low","Can hide lived experience if overly abstract",2,0,3,0,0
+"ST010","AI Outline Prompt","template","framework","framework",FALSE,TRUE,0,"declared type mismatch","high","AI-generated structure may be treated as framework without review",3,3,1,2,0
