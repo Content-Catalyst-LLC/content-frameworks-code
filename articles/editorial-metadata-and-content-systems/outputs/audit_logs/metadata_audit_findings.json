@@ -1,0 +1,191 @@
+[
+  {
+    "severity": "medium",
+    "category": "footer_navigation",
+    "identifier": "what-makes-a-powerful-content-framework",
+    "message": "Footer navigation metadata does not fully match article-map sequence.",
+    "recommended_action": "Update previous, next, and article-map metadata from the article map."
+  },
+  {
+    "severity": "medium",
+    "category": "footer_navigation",
+    "identifier": "pillar-pages-and-topic-clusters",
+    "message": "Footer navigation metadata does not fully match article-map sequence.",
+    "recommended_action": "Update previous, next, and article-map metadata from the article map."
+  },
+  {
+    "severity": "medium",
+    "category": "footer_navigation",
+    "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+    "message": "Footer navigation metadata does not fully match article-map sequence.",
+    "recommended_action": "Update previous, next, and article-map metadata from the article map."
+  },
+  {
+    "severity": "medium",
+    "category": "image_metadata",
+    "identifier": "what-are-content-frameworks",
+    "message": "Image metadata score is 100%; review status is missing image record.",
+    "recommended_action": "Complete image title, filename, alt text, caption, description, and review status."
+  },
+  {
+    "severity": "medium",
+    "category": "image_metadata",
+    "identifier": "why-frameworks-matter-in-research-education-and-strategic-communication",
+    "message": "Image metadata score is 100%; review status is missing image record.",
+    "recommended_action": "Complete image title, filename, alt text, caption, description, and review status."
+  },
+  {
+    "severity": "medium",
+    "category": "image_metadata",
+    "identifier": "what-makes-a-powerful-content-framework",
+    "message": "Image metadata score is 100%; review status is missing image record.",
+    "recommended_action": "Complete image title, filename, alt text, caption, description, and review status."
+  },
+  {
+    "severity": "medium",
+    "category": "image_metadata",
+    "identifier": "pillar-pages-and-topic-clusters",
+    "message": "Image metadata score is 100%; review status is missing image record.",
+    "recommended_action": "Complete image title, filename, alt text, caption, description, and review status."
+  },
+  {
+    "severity": "medium",
+    "category": "image_metadata",
+    "identifier": "narrative-pathways-and-knowledge-architecture",
+    "message": "Image metadata score is 100%; review status is missing image record.",
+    "recommended_action": "Complete image title, filename, alt text, caption, description, and review status."
+  },
+  {
+    "severity": "medium",
+    "category": "image_metadata",
+    "identifier": "frameworks-for-digital-knowledge-systems",
+    "message": "Image metadata score is 100%; review status is missing image record.",
+    "recommended_action": "Complete image title, filename, alt text, caption, description, and review status."
+  },
+  {
+    "severity": "medium",
+    "category": "image_metadata",
+    "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+    "message": "Image metadata score is 100%; review status is missing image record.",
+    "recommended_action": "Complete image title, filename, alt text, caption, description, and review status."
+  },
+  {
+    "severity": "medium",
+    "category": "reference_metadata",
+    "identifier": "what-are-content-frameworks",
+    "message": "Reference metadata readiness score is 0.00.",
+    "recommended_action": "Review source records, authority level, and claim support."
+  },
+  {
+    "severity": "medium",
+    "category": "reference_metadata",
+    "identifier": "why-frameworks-matter-in-research-education-and-strategic-communication",
+    "message": "Reference metadata readiness score is 0.00.",
+    "recommended_action": "Review source records, authority level, and claim support."
+  },
+  {
+    "severity": "medium",
+    "category": "reference_metadata",
+    "identifier": "what-makes-a-powerful-content-framework",
+    "message": "Reference metadata readiness score is 0.00.",
+    "recommended_action": "Review source records, authority level, and claim support."
+  },
+  {
+    "severity": "medium",
+    "category": "reference_metadata",
+    "identifier": "pillar-pages-and-topic-clusters",
+    "message": "Reference metadata readiness score is 0.00.",
+    "recommended_action": "Review source records, authority level, and claim support."
+  },
+  {
+    "severity": "medium",
+    "category": "reference_metadata",
+    "identifier": "narrative-pathways-and-knowledge-architecture",
+    "message": "Reference metadata readiness score is 0.00.",
+    "recommended_action": "Review source records, authority level, and claim support."
+  },
+  {
+    "severity": "medium",
+    "category": "reference_metadata",
+    "identifier": "frameworks-for-digital-knowledge-systems",
+    "message": "Reference metadata readiness score is 0.00.",
+    "recommended_action": "Review source records, authority level, and claim support."
+  },
+  {
+    "severity": "medium",
+    "category": "reference_metadata",
+    "identifier": "internal-linking-as-framework-infrastructure",
+    "message": "Reference metadata readiness score is 0.00.",
+    "recommended_action": "Review source records, authority level, and claim support."
+  },
+  {
+    "severity": "medium",
+    "category": "reference_metadata",
+    "identifier": "content-audits-and-framework-governance",
+    "message": "Reference metadata readiness score is 0.00.",
+    "recommended_action": "Review source records, authority level, and claim support."
+  },
+  {
+    "severity": "medium",
+    "category": "reference_metadata",
+    "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+    "message": "Reference metadata readiness score is 0.00.",
+    "recommended_action": "Review source records, authority level, and claim support."
+  },
+  {
+    "severity": "medium",
+    "category": "repository_manifest",
+    "identifier": "what-are-content-frameworks",
+    "message": "Repository manifest score is 0%; status is missing manifest.",
+    "recommended_action": "Review companion repository structure, README, workflows, SQL, and outputs."
+  },
+  {
+    "severity": "medium",
+    "category": "repository_manifest",
+    "identifier": "why-frameworks-matter-in-research-education-and-strategic-communication",
+    "message": "Repository manifest score is 0%; status is missing manifest.",
+    "recommended_action": "Review companion repository structure, README, workflows, SQL, and outputs."
+  },
+  {
+    "severity": "medium",
+    "category": "repository_manifest",
+    "identifier": "what-makes-a-powerful-content-framework",
+    "message": "Repository manifest score is 0%; status is missing manifest.",
+    "recommended_action": "Review companion repository structure, README, workflows, SQL, and outputs."
+  },
+  {
+    "severity": "medium",
+    "category": "repository_manifest",
+    "identifier": "pillar-pages-and-topic-clusters",
+    "message": "Repository manifest score is 0%; status is missing manifest.",
+    "recommended_action": "Review companion repository structure, README, workflows, SQL, and outputs."
+  },
+  {
+    "severity": "medium",
+    "category": "repository_manifest",
+    "identifier": "narrative-pathways-and-knowledge-architecture",
+    "message": "Repository manifest score is 0%; status is missing manifest.",
+    "recommended_action": "Review companion repository structure, README, workflows, SQL, and outputs."
+  },
+  {
+    "severity": "medium",
+    "category": "repository_manifest",
+    "identifier": "frameworks-for-digital-knowledge-systems",
+    "message": "Repository manifest score is 0%; status is missing manifest.",
+    "recommended_action": "Review companion repository structure, README, workflows, SQL, and outputs."
+  },
+  {
+    "severity": "medium",
+    "category": "repository_manifest",
+    "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+    "message": "Repository manifest score is 0%; status is missing manifest.",
+    "recommended_action": "Review companion repository structure, README, workflows, SQL, and outputs."
+  },
+  {
+    "severity": "medium",
+    "category": "freshness",
+    "identifier": "frameworks-for-digital-knowledge-systems",
+    "message": "Freshness status is review overdue.",
+    "recommended_action": "Review article and update last-reviewed metadata."
+  }
+]

@@ -1,0 +1,4 @@
+cluster,article_count,published_count,average_metadata_completion_rate,published_coverage_rate,cluster_metadata_status
+Educational Research and Conceptual Frameworks,1,1,1.0,1.0,ready
+Foundations,3,3,0.9867,1.0,ready
+Knowledge Architecture,7,6,0.9886,0.8571,ready

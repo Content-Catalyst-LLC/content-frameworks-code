@@ -1,0 +1,12 @@
+slug,manifest_present,repository_manifest_score,manifest_status,repository_workflow_ready
+what-are-content-frameworks,False,0.0,missing manifest,False
+why-frameworks-matter-in-research-education-and-strategic-communication,False,0.0,missing manifest,False
+what-makes-a-powerful-content-framework,False,0.0,missing manifest,False
+pillar-pages-and-topic-clusters,False,0.0,missing manifest,False
+narrative-pathways-and-knowledge-architecture,False,0.0,missing manifest,False
+frameworks-for-digital-knowledge-systems,False,0.0,missing manifest,False
+taxonomy-design-for-content-frameworks,True,0.0,planned,False
+internal-linking-as-framework-infrastructure,True,1.0,ready,True
+content-audits-and-framework-governance,True,1.0,ready,True
+editorial-metadata-and-content-systems,True,1.0,ready,True
+educational-scaffolding-and-the-design-of-learning-systems,False,0.0,missing manifest,False

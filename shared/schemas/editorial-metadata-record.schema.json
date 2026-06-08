@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Editorial Metadata Record",
+  "type": "object",
+  "required": [
+    "title",
+    "seo_title",
+    "slug",
+    "series",
+    "cluster",
+    "article_type",
+    "status",
+    "description",
+    "excerpt",
+    "tags",
+    "image_title",
+    "image_filename",
+    "alt_text",
+    "caption",
+    "references",
+    "repository_url",
+    "repository_path",
+    "previous_title",
+    "article_map_title",
+    "article_map_url",
+    "next_title",
+    "last_reviewed"
+  ],
+  "properties": {
+    "title": { "type": "string" },
+    "seo_title": { "type": "string" },
+    "slug": { "type": "string" },
+    "series": { "type": "string" },
+    "cluster": { "type": "string" },
+    "article_type": {
+      "type": "string",
+      "enum": ["foundational", "methodological", "technical", "governance", "strategic", "critical", "capstone"]
+    },
+    "status": {
+      "type": "string",
+      "enum": ["planned", "draft", "review", "published", "needs update", "archive candidate"]
+    },
+    "description": { "type": "string" },
+    "excerpt": { "type": "string" },
+    "tags": { "type": "string" },
+    "image_title": { "type": "string" },
+    "image_filename": { "type": "string" },
+    "alt_text": { "type": "string" },
+    "caption": { "type": "string" },
+    "references": { "type": "string" },
+    "repository_url": { "type": "string" },
+    "repository_path": { "type": "string" },
+    "last_reviewed": { "type": "string" }
+  }
+}

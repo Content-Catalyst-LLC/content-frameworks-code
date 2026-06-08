@@ -1,0 +1,17 @@
+slug,title,status,cluster_name,article_type,metadata_completion_rate
+content-audits-and-framework-governance,"Content Audits and Framework Governance",published,"Knowledge Architecture",governance,1.0
+editorial-metadata-and-content-systems,"Editorial Metadata and Content Systems",published,"Knowledge Architecture",technical,1.0
+educational-scaffolding-and-the-design-of-learning-systems,"Educational Scaffolding and the Design of Learning Systems",published,"Educational Research and Conceptual Frameworks",methodological,1.0
+slug,title,repository_path,expected_repository_path,repository_path_aligned
+content-audits-and-framework-governance,"Content Audits and Framework Governance",articles/content-audits-and-framework-governance/,articles/content-audits-and-framework-governance/,1
+editorial-metadata-and-content-systems,"Editorial Metadata and Content Systems",articles/editorial-metadata-and-content-systems/,articles/editorial-metadata-and-content-systems/,1
+educational-scaffolding-and-the-design-of-learning-systems,"Educational Scaffolding and the Design of Learning Systems",articles/educational-scaffolding-and-the-design-of-learning-systems/,articles/educational-scaffolding-and-the-design-of-learning-systems/,1
+slug,previous_title,previous_url,article_map_title,article_map_url,next_title,next_url
+content-audits-and-framework-governance,"Internal Linking as Framework Infrastructure",/internal-linking-as-framework-infrastructure/,"Content Frameworks",/content-frameworks/,"Editorial Metadata and Content Systems",/editorial-metadata-and-content-systems/
+editorial-metadata-and-content-systems,"Content Audits and Framework Governance",/content-audits-and-framework-governance/,"Content Frameworks",/content-frameworks/,"Educational Scaffolding and the Design of Learning Systems",/educational-scaffolding-and-the-design-of-learning-systems/
+educational-scaffolding-and-the-design-of-learning-systems,"Editorial Metadata and Content Systems",/editorial-metadata-and-content-systems/,"Content Frameworks",/content-frameworks/,"Conceptual Models in Communication",/conceptual-models-in-communication/
+slug,reference_records,high_authority_sources,ready_reference_records
+editorial-metadata-and-content-systems,3,3,3
+severity,issue_type,queue_count
+low,publication,1
+low,repository,1

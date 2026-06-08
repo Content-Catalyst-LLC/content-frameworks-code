@@ -1,0 +1,5 @@
+slug,repository_url,repository_path,required_folders_present,readme_present,python_workflow_present,r_workflow_present,sql_schema_present,outputs_present,manifest_status
+editorial-metadata-and-content-systems,https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/editorial-metadata-and-content-systems,articles/editorial-metadata-and-content-systems/,yes,yes,yes,yes,yes,yes,ready
+content-audits-and-framework-governance,https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/content-audits-and-framework-governance,articles/content-audits-and-framework-governance/,yes,yes,yes,yes,yes,yes,ready
+internal-linking-as-framework-infrastructure,https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/internal-linking-as-framework-infrastructure,articles/internal-linking-as-framework-infrastructure/,yes,yes,yes,yes,yes,yes,ready
+taxonomy-design-for-content-frameworks,https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/taxonomy-design-for-content-frameworks,articles/taxonomy-design-for-content-frameworks/,no,no,no,no,no,no,planned

@@ -1,0 +1,8 @@
+source_id,slug,source_title,source_type,authority_level,recency_risk,claim_supported,review_status
+REF001,editorial-metadata-and-content-systems,DCMI Metadata Terms,official_standard,high,medium,Metadata fields and interoperability,ready
+REF002,editorial-metadata-and-content-systems,Schema.org Vocabulary,official_vocabulary,high,medium,Structured data and machine-readable content records,ready
+REF003,editorial-metadata-and-content-systems,Google Structured Data Documentation,official_documentation,high,medium,Structured data in search systems,ready
+REF004,editorial-metadata-and-content-systems,WCAG 2.2,official_standard,high,medium,Accessibility requirements and non-text content,ready
+REF005,editorial-metadata-and-content-systems,Information Architecture for the Web and Beyond,book,high,low,Information architecture and content organization,ready
+REF006,editorial-metadata-and-content-systems,Content Strategy for the Web,book,high,low,Content strategy and editorial operations,ready
+REF007,editorial-metadata-and-content-systems,The Elements of Content Strategy,book,medium,low,Content strategy foundations,ready

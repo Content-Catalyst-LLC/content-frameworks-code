@@ -1,0 +1,5 @@
+review_id,slug,issue_type,severity,review_note
+R001,taxonomy-design-for-content-frameworks,image_metadata,medium,Planned article image metadata is incomplete
+R002,frameworks-for-digital-knowledge-systems,freshness,medium,Technical article review date should be refreshed
+R003,editorial-metadata-and-content-systems,publication,low,Confirm final WordPress attachment ID after upload
+R004,editorial-metadata-and-content-systems,repository,low,Confirm GitHub folder appears after push

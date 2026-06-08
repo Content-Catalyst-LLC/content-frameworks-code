@@ -1,0 +1,12 @@
+slug,title,image_record_present,completed_image_fields,required_image_fields,image_metadata_score,image_review_status,image_metadata_status
+what-are-content-frameworks,What Are Content Frameworks?,False,5,5,1.0,missing image record,needs image metadata review
+why-frameworks-matter-in-research-education-and-strategic-communication,Why Frameworks Matter in Research Education and Strategic Communication,False,5,5,1.0,missing image record,needs image metadata review
+what-makes-a-powerful-content-framework,What Makes a Powerful Content Framework?,False,5,5,1.0,missing image record,needs image metadata review
+pillar-pages-and-topic-clusters,Pillar Pages and Topic Clusters,False,5,5,1.0,missing image record,needs image metadata review
+narrative-pathways-and-knowledge-architecture,Narrative Pathways and Knowledge Architecture,False,5,5,1.0,missing image record,needs image metadata review
+frameworks-for-digital-knowledge-systems,Frameworks for Digital Knowledge Systems,False,5,5,1.0,missing image record,needs image metadata review
+taxonomy-design-for-content-frameworks,Taxonomy Design for Content Frameworks,True,4,5,0.8,review,needs image metadata review
+internal-linking-as-framework-infrastructure,Internal Linking as Framework Infrastructure,True,5,5,1.0,ready,ready
+content-audits-and-framework-governance,Content Audits and Framework Governance,True,5,5,1.0,ready,ready
+editorial-metadata-and-content-systems,Editorial Metadata and Content Systems,True,5,5,1.0,ready,ready
+educational-scaffolding-and-the-design-of-learning-systems,Educational Scaffolding and the Design of Learning Systems,False,5,5,1.0,missing image record,needs image metadata review

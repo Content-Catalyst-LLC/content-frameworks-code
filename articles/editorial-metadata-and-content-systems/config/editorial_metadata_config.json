@@ -1,0 +1,76 @@
+{
+  "article": "Editorial Metadata and Content Systems",
+  "series": "Content Frameworks",
+  "version": "1.0.0",
+  "article_map_url": "/content-frameworks/",
+  "repository_base_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code",
+  "required_metadata_fields": [
+    "title",
+    "seo_title",
+    "slug",
+    "series",
+    "cluster",
+    "article_type",
+    "status",
+    "description",
+    "excerpt",
+    "tags",
+    "image_title",
+    "image_filename",
+    "alt_text",
+    "caption",
+    "image_description",
+    "references",
+    "repository_url",
+    "repository_path",
+    "previous_title",
+    "previous_url",
+    "article_map_title",
+    "article_map_url",
+    "next_title",
+    "next_url",
+    "last_reviewed"
+  ],
+  "controlled_status_values": [
+    "planned",
+    "draft",
+    "review",
+    "published",
+    "needs update",
+    "archive candidate"
+  ],
+  "controlled_article_types": [
+    "foundational",
+    "methodological",
+    "technical",
+    "governance",
+    "strategic",
+    "critical",
+    "capstone"
+  ],
+  "controlled_clusters": [
+    "Foundations",
+    "Knowledge Architecture",
+    "Educational Research and Conceptual Frameworks",
+    "Classic Communication and Persuasive Sequence Frameworks",
+    "Audience Need Value Positioning and Message Architecture",
+    "Strategic and Environmental Analysis Frameworks",
+    "Policy Governance Systems Explanation and Public Reasoning",
+    "Framework Composition Scaling and Editorial Governance"
+  ],
+  "review_cycles_by_article_type": {
+    "foundational": 730,
+    "methodological": 365,
+    "technical": 180,
+    "governance": 180,
+    "strategic": 365,
+    "critical": 365,
+    "capstone": 365
+  },
+  "thresholds": {
+    "metadata_completion_minimum": 0.9,
+    "image_metadata_minimum": 0.8,
+    "accessibility_metadata_minimum": 0.75,
+    "relationship_completeness_minimum": 0.8
+  }
+}

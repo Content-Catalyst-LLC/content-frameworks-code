@@ -1,0 +1,1166 @@
+{
+  "article": "Editorial Metadata and Content Systems",
+  "generated_at": "2026-06-08T14:43:54.069620+00:00",
+  "counts": {
+    "metadata_records": 11,
+    "image_records": 4,
+    "reference_records": 7,
+    "repository_manifest_records": 4,
+    "findings": 27,
+    "governance_queue": 31
+  },
+  "metadata_completeness": [
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "status": "published",
+      "cluster": "Foundations",
+      "article_type": "foundational",
+      "completed_fields": 24,
+      "required_fields": 25,
+      "metadata_completion_rate": 0.96,
+      "missing_fields": "previous_url",
+      "metadata_status": "ready"
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "status": "published",
+      "cluster": "Foundations",
+      "article_type": "foundational",
+      "completed_fields": 25,
+      "required_fields": 25,
+      "metadata_completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_status": "ready"
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "status": "published",
+      "cluster": "Foundations",
+      "article_type": "foundational",
+      "completed_fields": 25,
+      "required_fields": 25,
+      "metadata_completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_status": "ready"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "status": "published",
+      "cluster": "Knowledge Architecture",
+      "article_type": "methodological",
+      "completed_fields": 25,
+      "required_fields": 25,
+      "metadata_completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_status": "ready"
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "title": "Narrative Pathways and Knowledge Architecture",
+      "status": "published",
+      "cluster": "Knowledge Architecture",
+      "article_type": "methodological",
+      "completed_fields": 25,
+      "required_fields": 25,
+      "metadata_completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_status": "ready"
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "title": "Frameworks for Digital Knowledge Systems",
+      "status": "published",
+      "cluster": "Knowledge Architecture",
+      "article_type": "technical",
+      "completed_fields": 25,
+      "required_fields": 25,
+      "metadata_completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_status": "ready"
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "title": "Taxonomy Design for Content Frameworks",
+      "status": "planned",
+      "cluster": "Knowledge Architecture",
+      "article_type": "methodological",
+      "completed_fields": 23,
+      "required_fields": 25,
+      "metadata_completion_rate": 0.92,
+      "missing_fields": "excerpt; references",
+      "metadata_status": "ready"
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "title": "Internal Linking as Framework Infrastructure",
+      "status": "published",
+      "cluster": "Knowledge Architecture",
+      "article_type": "methodological",
+      "completed_fields": 25,
+      "required_fields": 25,
+      "metadata_completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_status": "ready"
+    },
+    {
+      "slug": "content-audits-and-framework-governance",
+      "title": "Content Audits and Framework Governance",
+      "status": "published",
+      "cluster": "Knowledge Architecture",
+      "article_type": "governance",
+      "completed_fields": 25,
+      "required_fields": 25,
+      "metadata_completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_status": "ready"
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "title": "Editorial Metadata and Content Systems",
+      "status": "published",
+      "cluster": "Knowledge Architecture",
+      "article_type": "technical",
+      "completed_fields": 25,
+      "required_fields": 25,
+      "metadata_completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_status": "ready"
+    },
+    {
+      "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "title": "Educational Scaffolding and the Design of Learning Systems",
+      "status": "published",
+      "cluster": "Educational Research and Conceptual Frameworks",
+      "article_type": "methodological",
+      "completed_fields": 25,
+      "required_fields": 25,
+      "metadata_completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_status": "ready"
+    }
+  ],
+  "footer_navigation": [
+    {
+      "slug": "what-are-content-frameworks",
+      "previous_title": "Series Start",
+      "expected_previous_title": "Series Start",
+      "previous_title_valid": true,
+      "previous_url": "",
+      "expected_previous_url": "",
+      "previous_url_valid": true,
+      "next_title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "expected_next_title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "next_title_valid": true,
+      "next_url": "/why-frameworks-matter-in-research-education-and-strategic-communication/",
+      "expected_next_url": "/why-frameworks-matter-in-research-education-and-strategic-communication/",
+      "next_url_valid": true,
+      "article_map_url": "/content-frameworks/",
+      "article_map_valid": true
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "previous_title": "What Are Content Frameworks?",
+      "expected_previous_title": "What Are Content Frameworks?",
+      "previous_title_valid": true,
+      "previous_url": "/what-are-content-frameworks/",
+      "expected_previous_url": "/what-are-content-frameworks/",
+      "previous_url_valid": true,
+      "next_title": "What Makes a Powerful Content Framework?",
+      "expected_next_title": "What Makes a Powerful Content Framework?",
+      "next_title_valid": true,
+      "next_url": "/what-makes-a-powerful-content-framework/",
+      "expected_next_url": "/what-makes-a-powerful-content-framework/",
+      "next_url_valid": true,
+      "article_map_url": "/content-frameworks/",
+      "article_map_valid": true
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "previous_title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "expected_previous_title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "previous_title_valid": true,
+      "previous_url": "/why-frameworks-matter-in-research-education-and-strategic-communication/",
+      "expected_previous_url": "/why-frameworks-matter-in-research-education-and-strategic-communication/",
+      "previous_url_valid": true,
+      "next_title": "Framework Literacy and the Structure of Usable Knowledge",
+      "expected_next_title": "Pillar Pages and Topic Clusters",
+      "next_title_valid": false,
+      "next_url": "/framework-literacy-and-the-structure-of-usable-knowledge/",
+      "expected_next_url": "/pillar-pages-and-topic-clusters/",
+      "next_url_valid": false,
+      "article_map_url": "/content-frameworks/",
+      "article_map_valid": true
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "previous_title": "The History of Framework Thinking in Communication and Strategy",
+      "expected_previous_title": "What Makes a Powerful Content Framework?",
+      "previous_title_valid": false,
+      "previous_url": "/history-of-framework-thinking-in-communication-and-strategy/",
+      "expected_previous_url": "/what-makes-a-powerful-content-framework/",
+      "previous_url_valid": false,
+      "next_title": "Narrative Pathways and Knowledge Architecture",
+      "expected_next_title": "Narrative Pathways and Knowledge Architecture",
+      "next_title_valid": true,
+      "next_url": "/narrative-pathways-and-knowledge-architecture/",
+      "expected_next_url": "/narrative-pathways-and-knowledge-architecture/",
+      "next_url_valid": true,
+      "article_map_url": "/content-frameworks/",
+      "article_map_valid": true
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "previous_title": "Pillar Pages and Topic Clusters",
+      "expected_previous_title": "Pillar Pages and Topic Clusters",
+      "previous_title_valid": true,
+      "previous_url": "/pillar-pages-and-topic-clusters/",
+      "expected_previous_url": "/pillar-pages-and-topic-clusters/",
+      "previous_url_valid": true,
+      "next_title": "Frameworks for Digital Knowledge Systems",
+      "expected_next_title": "Frameworks for Digital Knowledge Systems",
+      "next_title_valid": true,
+      "next_url": "/frameworks-for-digital-knowledge-systems/",
+      "expected_next_url": "/frameworks-for-digital-knowledge-systems/",
+      "next_url_valid": true,
+      "article_map_url": "/content-frameworks/",
+      "article_map_valid": true
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "previous_title": "Narrative Pathways and Knowledge Architecture",
+      "expected_previous_title": "Narrative Pathways and Knowledge Architecture",
+      "previous_title_valid": true,
+      "previous_url": "/narrative-pathways-and-knowledge-architecture/",
+      "expected_previous_url": "/narrative-pathways-and-knowledge-architecture/",
+      "previous_url_valid": true,
+      "next_title": "Taxonomy Design for Content Frameworks",
+      "expected_next_title": "Taxonomy Design for Content Frameworks",
+      "next_title_valid": true,
+      "next_url": "/taxonomy-design-for-content-frameworks/",
+      "expected_next_url": "/taxonomy-design-for-content-frameworks/",
+      "next_url_valid": true,
+      "article_map_url": "/content-frameworks/",
+      "article_map_valid": true
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "previous_title": "Frameworks for Digital Knowledge Systems",
+      "expected_previous_title": "Frameworks for Digital Knowledge Systems",
+      "previous_title_valid": true,
+      "previous_url": "/frameworks-for-digital-knowledge-systems/",
+      "expected_previous_url": "/frameworks-for-digital-knowledge-systems/",
+      "previous_url_valid": true,
+      "next_title": "Internal Linking as Framework Infrastructure",
+      "expected_next_title": "Internal Linking as Framework Infrastructure",
+      "next_title_valid": true,
+      "next_url": "/internal-linking-as-framework-infrastructure/",
+      "expected_next_url": "/internal-linking-as-framework-infrastructure/",
+      "next_url_valid": true,
+      "article_map_url": "/content-frameworks/",
+      "article_map_valid": true
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "previous_title": "Taxonomy Design for Content Frameworks",
+      "expected_previous_title": "Taxonomy Design for Content Frameworks",
+      "previous_title_valid": true,
+      "previous_url": "/taxonomy-design-for-content-frameworks/",
+      "expected_previous_url": "/taxonomy-design-for-content-frameworks/",
+      "previous_url_valid": true,
+      "next_title": "Content Audits and Framework Governance",
+      "expected_next_title": "Content Audits and Framework Governance",
+      "next_title_valid": true,
+      "next_url": "/content-audits-and-framework-governance/",
+      "expected_next_url": "/content-audits-and-framework-governance/",
+      "next_url_valid": true,
+      "article_map_url": "/content-frameworks/",
+      "article_map_valid": true
+    },
+    {
+      "slug": "content-audits-and-framework-governance",
+      "previous_title": "Internal Linking as Framework Infrastructure",
+      "expected_previous_title": "Internal Linking as Framework Infrastructure",
+      "previous_title_valid": true,
+      "previous_url": "/internal-linking-as-framework-infrastructure/",
+      "expected_previous_url": "/internal-linking-as-framework-infrastructure/",
+      "previous_url_valid": true,
+      "next_title": "Editorial Metadata and Content Systems",
+      "expected_next_title": "Editorial Metadata and Content Systems",
+      "next_title_valid": true,
+      "next_url": "/editorial-metadata-and-content-systems/",
+      "expected_next_url": "/editorial-metadata-and-content-systems/",
+      "next_url_valid": true,
+      "article_map_url": "/content-frameworks/",
+      "article_map_valid": true
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "previous_title": "Content Audits and Framework Governance",
+      "expected_previous_title": "Content Audits and Framework Governance",
+      "previous_title_valid": true,
+      "previous_url": "/content-audits-and-framework-governance/",
+      "expected_previous_url": "/content-audits-and-framework-governance/",
+      "previous_url_valid": true,
+      "next_title": "Educational Scaffolding and the Design of Learning Systems",
+      "expected_next_title": "Educational Scaffolding and the Design of Learning Systems",
+      "next_title_valid": true,
+      "next_url": "/educational-scaffolding-and-the-design-of-learning-systems/",
+      "expected_next_url": "/educational-scaffolding-and-the-design-of-learning-systems/",
+      "next_url_valid": true,
+      "article_map_url": "/content-frameworks/",
+      "article_map_valid": true
+    },
+    {
+      "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "previous_title": "Editorial Metadata and Content Systems",
+      "expected_previous_title": "Editorial Metadata and Content Systems",
+      "previous_title_valid": true,
+      "previous_url": "/editorial-metadata-and-content-systems/",
+      "expected_previous_url": "/editorial-metadata-and-content-systems/",
+      "previous_url_valid": true,
+      "next_title": "Conceptual Models in Communication",
+      "expected_next_title": "Series End",
+      "next_title_valid": false,
+      "next_url": "/conceptual-models-in-communication/",
+      "expected_next_url": "",
+      "next_url_valid": false,
+      "article_map_url": "/content-frameworks/",
+      "article_map_valid": true
+    }
+  ],
+  "repository_alignment": [
+    {
+      "slug": "what-are-content-frameworks",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/what-are-content-frameworks",
+      "repository_path": "articles/what-are-content-frameworks/",
+      "expected_repository_path": "articles/what-are-content-frameworks/",
+      "repository_path_aligned": true
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/why-frameworks-matter-in-research-education-and-strategic-communication",
+      "repository_path": "articles/why-frameworks-matter-in-research-education-and-strategic-communication/",
+      "expected_repository_path": "articles/why-frameworks-matter-in-research-education-and-strategic-communication/",
+      "repository_path_aligned": true
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/what-makes-a-powerful-content-framework",
+      "repository_path": "articles/what-makes-a-powerful-content-framework/",
+      "expected_repository_path": "articles/what-makes-a-powerful-content-framework/",
+      "repository_path_aligned": true
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/pillar-pages-and-topic-clusters",
+      "repository_path": "articles/pillar-pages-and-topic-clusters/",
+      "expected_repository_path": "articles/pillar-pages-and-topic-clusters/",
+      "repository_path_aligned": true
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/narrative-pathways-and-knowledge-architecture",
+      "repository_path": "articles/narrative-pathways-and-knowledge-architecture/",
+      "expected_repository_path": "articles/narrative-pathways-and-knowledge-architecture/",
+      "repository_path_aligned": true
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/frameworks-for-digital-knowledge-systems",
+      "repository_path": "articles/frameworks-for-digital-knowledge-systems/",
+      "expected_repository_path": "articles/frameworks-for-digital-knowledge-systems/",
+      "repository_path_aligned": true
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/taxonomy-design-for-content-frameworks",
+      "repository_path": "articles/taxonomy-design-for-content-frameworks/",
+      "expected_repository_path": "articles/taxonomy-design-for-content-frameworks/",
+      "repository_path_aligned": true
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/internal-linking-as-framework-infrastructure",
+      "repository_path": "articles/internal-linking-as-framework-infrastructure/",
+      "expected_repository_path": "articles/internal-linking-as-framework-infrastructure/",
+      "repository_path_aligned": true
+    },
+    {
+      "slug": "content-audits-and-framework-governance",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/content-audits-and-framework-governance",
+      "repository_path": "articles/content-audits-and-framework-governance/",
+      "expected_repository_path": "articles/content-audits-and-framework-governance/",
+      "repository_path_aligned": true
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/editorial-metadata-and-content-systems",
+      "repository_path": "articles/editorial-metadata-and-content-systems/",
+      "expected_repository_path": "articles/editorial-metadata-and-content-systems/",
+      "repository_path_aligned": true
+    },
+    {
+      "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/educational-scaffolding-and-the-design-of-learning-systems",
+      "repository_path": "articles/educational-scaffolding-and-the-design-of-learning-systems/",
+      "expected_repository_path": "articles/educational-scaffolding-and-the-design-of-learning-systems/",
+      "repository_path_aligned": true
+    }
+  ],
+  "image_metadata": [
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "image_record_present": false,
+      "completed_image_fields": 5,
+      "required_image_fields": 5,
+      "image_metadata_score": 1.0,
+      "image_review_status": "missing image record",
+      "image_metadata_status": "needs image metadata review"
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "image_record_present": false,
+      "completed_image_fields": 5,
+      "required_image_fields": 5,
+      "image_metadata_score": 1.0,
+      "image_review_status": "missing image record",
+      "image_metadata_status": "needs image metadata review"
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "image_record_present": false,
+      "completed_image_fields": 5,
+      "required_image_fields": 5,
+      "image_metadata_score": 1.0,
+      "image_review_status": "missing image record",
+      "image_metadata_status": "needs image metadata review"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "image_record_present": false,
+      "completed_image_fields": 5,
+      "required_image_fields": 5,
+      "image_metadata_score": 1.0,
+      "image_review_status": "missing image record",
+      "image_metadata_status": "needs image metadata review"
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "title": "Narrative Pathways and Knowledge Architecture",
+      "image_record_present": false,
+      "completed_image_fields": 5,
+      "required_image_fields": 5,
+      "image_metadata_score": 1.0,
+      "image_review_status": "missing image record",
+      "image_metadata_status": "needs image metadata review"
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "title": "Frameworks for Digital Knowledge Systems",
+      "image_record_present": false,
+      "completed_image_fields": 5,
+      "required_image_fields": 5,
+      "image_metadata_score": 1.0,
+      "image_review_status": "missing image record",
+      "image_metadata_status": "needs image metadata review"
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "title": "Taxonomy Design for Content Frameworks",
+      "image_record_present": true,
+      "completed_image_fields": 4,
+      "required_image_fields": 5,
+      "image_metadata_score": 0.8,
+      "image_review_status": "review",
+      "image_metadata_status": "needs image metadata review"
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "title": "Internal Linking as Framework Infrastructure",
+      "image_record_present": true,
+      "completed_image_fields": 5,
+      "required_image_fields": 5,
+      "image_metadata_score": 1.0,
+      "image_review_status": "ready",
+      "image_metadata_status": "ready"
+    },
+    {
+      "slug": "content-audits-and-framework-governance",
+      "title": "Content Audits and Framework Governance",
+      "image_record_present": true,
+      "completed_image_fields": 5,
+      "required_image_fields": 5,
+      "image_metadata_score": 1.0,
+      "image_review_status": "ready",
+      "image_metadata_status": "ready"
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "title": "Editorial Metadata and Content Systems",
+      "image_record_present": true,
+      "completed_image_fields": 5,
+      "required_image_fields": 5,
+      "image_metadata_score": 1.0,
+      "image_review_status": "ready",
+      "image_metadata_status": "ready"
+    },
+    {
+      "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "title": "Educational Scaffolding and the Design of Learning Systems",
+      "image_record_present": false,
+      "completed_image_fields": 5,
+      "required_image_fields": 5,
+      "image_metadata_score": 1.0,
+      "image_review_status": "missing image record",
+      "image_metadata_status": "needs image metadata review"
+    }
+  ],
+  "reference_metadata": [
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "reference_records": 0,
+      "high_authority_sources": 0,
+      "ready_reference_records": 0,
+      "reference_readiness_score": 0.0,
+      "reference_status": "needs reference metadata review"
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "reference_records": 0,
+      "high_authority_sources": 0,
+      "ready_reference_records": 0,
+      "reference_readiness_score": 0.0,
+      "reference_status": "needs reference metadata review"
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "reference_records": 0,
+      "high_authority_sources": 0,
+      "ready_reference_records": 0,
+      "reference_readiness_score": 0.0,
+      "reference_status": "needs reference metadata review"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "reference_records": 0,
+      "high_authority_sources": 0,
+      "ready_reference_records": 0,
+      "reference_readiness_score": 0.0,
+      "reference_status": "needs reference metadata review"
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "title": "Narrative Pathways and Knowledge Architecture",
+      "reference_records": 0,
+      "high_authority_sources": 0,
+      "ready_reference_records": 0,
+      "reference_readiness_score": 0.0,
+      "reference_status": "needs reference metadata review"
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "title": "Frameworks for Digital Knowledge Systems",
+      "reference_records": 0,
+      "high_authority_sources": 0,
+      "ready_reference_records": 0,
+      "reference_readiness_score": 0.0,
+      "reference_status": "needs reference metadata review"
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "title": "Taxonomy Design for Content Frameworks",
+      "reference_records": 0,
+      "high_authority_sources": 0,
+      "ready_reference_records": 0,
+      "reference_readiness_score": 0.0,
+      "reference_status": "needs reference metadata review"
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "title": "Internal Linking as Framework Infrastructure",
+      "reference_records": 0,
+      "high_authority_sources": 0,
+      "ready_reference_records": 0,
+      "reference_readiness_score": 0.0,
+      "reference_status": "needs reference metadata review"
+    },
+    {
+      "slug": "content-audits-and-framework-governance",
+      "title": "Content Audits and Framework Governance",
+      "reference_records": 0,
+      "high_authority_sources": 0,
+      "ready_reference_records": 0,
+      "reference_readiness_score": 0.0,
+      "reference_status": "needs reference metadata review"
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "title": "Editorial Metadata and Content Systems",
+      "reference_records": 7,
+      "high_authority_sources": 6,
+      "ready_reference_records": 7,
+      "reference_readiness_score": 1.0,
+      "reference_status": "ready"
+    },
+    {
+      "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "title": "Educational Scaffolding and the Design of Learning Systems",
+      "reference_records": 0,
+      "high_authority_sources": 0,
+      "ready_reference_records": 0,
+      "reference_readiness_score": 0.0,
+      "reference_status": "needs reference metadata review"
+    }
+  ],
+  "repository_manifest": [
+    {
+      "slug": "what-are-content-frameworks",
+      "manifest_present": false,
+      "repository_manifest_score": 0.0,
+      "manifest_status": "missing manifest",
+      "repository_workflow_ready": false
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "manifest_present": false,
+      "repository_manifest_score": 0.0,
+      "manifest_status": "missing manifest",
+      "repository_workflow_ready": false
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "manifest_present": false,
+      "repository_manifest_score": 0.0,
+      "manifest_status": "missing manifest",
+      "repository_workflow_ready": false
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "manifest_present": false,
+      "repository_manifest_score": 0.0,
+      "manifest_status": "missing manifest",
+      "repository_workflow_ready": false
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "manifest_present": false,
+      "repository_manifest_score": 0.0,
+      "manifest_status": "missing manifest",
+      "repository_workflow_ready": false
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "manifest_present": false,
+      "repository_manifest_score": 0.0,
+      "manifest_status": "missing manifest",
+      "repository_workflow_ready": false
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "manifest_present": true,
+      "repository_manifest_score": 0.0,
+      "manifest_status": "planned",
+      "repository_workflow_ready": false
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "manifest_present": true,
+      "repository_manifest_score": 1.0,
+      "manifest_status": "ready",
+      "repository_workflow_ready": true
+    },
+    {
+      "slug": "content-audits-and-framework-governance",
+      "manifest_present": true,
+      "repository_manifest_score": 1.0,
+      "manifest_status": "ready",
+      "repository_workflow_ready": true
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "manifest_present": true,
+      "repository_manifest_score": 1.0,
+      "manifest_status": "ready",
+      "repository_workflow_ready": true
+    },
+    {
+      "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "manifest_present": false,
+      "repository_manifest_score": 0.0,
+      "manifest_status": "missing manifest",
+      "repository_workflow_ready": false
+    }
+  ],
+  "freshness": [
+    {
+      "slug": "what-are-content-frameworks",
+      "article_type": "foundational",
+      "status": "published",
+      "last_reviewed": "2026-06-08",
+      "review_cycle_days": 730,
+      "content_age_days": 0,
+      "freshness_score": 1.0,
+      "freshness_status": "fresh"
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "article_type": "foundational",
+      "status": "published",
+      "last_reviewed": "2026-06-08",
+      "review_cycle_days": 730,
+      "content_age_days": 0,
+      "freshness_score": 1.0,
+      "freshness_status": "fresh"
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "article_type": "foundational",
+      "status": "published",
+      "last_reviewed": "2026-06-08",
+      "review_cycle_days": 730,
+      "content_age_days": 0,
+      "freshness_score": 1.0,
+      "freshness_status": "fresh"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "article_type": "methodological",
+      "status": "published",
+      "last_reviewed": "2026-06-08",
+      "review_cycle_days": 365,
+      "content_age_days": 0,
+      "freshness_score": 1.0,
+      "freshness_status": "fresh"
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "article_type": "methodological",
+      "status": "published",
+      "last_reviewed": "2026-06-08",
+      "review_cycle_days": 365,
+      "content_age_days": 0,
+      "freshness_score": 1.0,
+      "freshness_status": "fresh"
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "article_type": "technical",
+      "status": "published",
+      "last_reviewed": "2025-10-01",
+      "review_cycle_days": 180,
+      "content_age_days": 250,
+      "freshness_score": 0.0,
+      "freshness_status": "review overdue"
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "article_type": "methodological",
+      "status": "planned",
+      "last_reviewed": "2025-09-15",
+      "review_cycle_days": 365,
+      "content_age_days": 266,
+      "freshness_score": 0.2712,
+      "freshness_status": "fresh"
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "article_type": "methodological",
+      "status": "published",
+      "last_reviewed": "2026-06-08",
+      "review_cycle_days": 365,
+      "content_age_days": 0,
+      "freshness_score": 1.0,
+      "freshness_status": "fresh"
+    },
+    {
+      "slug": "content-audits-and-framework-governance",
+      "article_type": "governance",
+      "status": "published",
+      "last_reviewed": "2026-06-08",
+      "review_cycle_days": 180,
+      "content_age_days": 0,
+      "freshness_score": 1.0,
+      "freshness_status": "fresh"
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "article_type": "technical",
+      "status": "published",
+      "last_reviewed": "2026-06-08",
+      "review_cycle_days": 180,
+      "content_age_days": 0,
+      "freshness_score": 1.0,
+      "freshness_status": "fresh"
+    },
+    {
+      "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "article_type": "methodological",
+      "status": "published",
+      "last_reviewed": "2026-06-08",
+      "review_cycle_days": 365,
+      "content_age_days": 0,
+      "freshness_score": 1.0,
+      "freshness_status": "fresh"
+    }
+  ],
+  "cluster_readiness": [
+    {
+      "cluster": "Educational Research and Conceptual Frameworks",
+      "article_count": 1,
+      "published_count": 1,
+      "average_metadata_completion_rate": 1.0,
+      "published_coverage_rate": 1.0,
+      "cluster_metadata_status": "ready"
+    },
+    {
+      "cluster": "Foundations",
+      "article_count": 3,
+      "published_count": 3,
+      "average_metadata_completion_rate": 0.9867,
+      "published_coverage_rate": 1.0,
+      "cluster_metadata_status": "ready"
+    },
+    {
+      "cluster": "Knowledge Architecture",
+      "article_count": 7,
+      "published_count": 6,
+      "average_metadata_completion_rate": 0.9886,
+      "published_coverage_rate": 0.8571,
+      "cluster_metadata_status": "ready"
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "footer_navigation",
+      "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+      "message": "Footer navigation metadata does not fully match article-map sequence.",
+      "recommended_action": "Update previous, next, and article-map metadata from the article map."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "footer_navigation",
+      "identifier": "pillar-pages-and-topic-clusters",
+      "message": "Footer navigation metadata does not fully match article-map sequence.",
+      "recommended_action": "Update previous, next, and article-map metadata from the article map."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "footer_navigation",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Footer navigation metadata does not fully match article-map sequence.",
+      "recommended_action": "Update previous, next, and article-map metadata from the article map."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "freshness",
+      "identifier": "frameworks-for-digital-knowledge-systems",
+      "message": "Technical article review date should be refreshed",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "freshness",
+      "identifier": "frameworks-for-digital-knowledge-systems",
+      "message": "Freshness status is review overdue.",
+      "recommended_action": "Review article and update last-reviewed metadata."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "image_metadata",
+      "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+      "message": "Image metadata score is 100%; review status is missing image record.",
+      "recommended_action": "Complete image title, filename, alt text, caption, description, and review status."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "image_metadata",
+      "identifier": "frameworks-for-digital-knowledge-systems",
+      "message": "Image metadata score is 100%; review status is missing image record.",
+      "recommended_action": "Complete image title, filename, alt text, caption, description, and review status."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "image_metadata",
+      "identifier": "narrative-pathways-and-knowledge-architecture",
+      "message": "Image metadata score is 100%; review status is missing image record.",
+      "recommended_action": "Complete image title, filename, alt text, caption, description, and review status."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "image_metadata",
+      "identifier": "pillar-pages-and-topic-clusters",
+      "message": "Image metadata score is 100%; review status is missing image record.",
+      "recommended_action": "Complete image title, filename, alt text, caption, description, and review status."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "image_metadata",
+      "identifier": "taxonomy-design-for-content-frameworks",
+      "message": "Planned article image metadata is incomplete",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "image_metadata",
+      "identifier": "what-are-content-frameworks",
+      "message": "Image metadata score is 100%; review status is missing image record.",
+      "recommended_action": "Complete image title, filename, alt text, caption, description, and review status."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "image_metadata",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Image metadata score is 100%; review status is missing image record.",
+      "recommended_action": "Complete image title, filename, alt text, caption, description, and review status."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "image_metadata",
+      "identifier": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "message": "Image metadata score is 100%; review status is missing image record.",
+      "recommended_action": "Complete image title, filename, alt text, caption, description, and review status."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "reference_metadata",
+      "identifier": "content-audits-and-framework-governance",
+      "message": "Reference metadata readiness score is 0.00.",
+      "recommended_action": "Review source records, authority level, and claim support."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "reference_metadata",
+      "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+      "message": "Reference metadata readiness score is 0.00.",
+      "recommended_action": "Review source records, authority level, and claim support."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "reference_metadata",
+      "identifier": "frameworks-for-digital-knowledge-systems",
+      "message": "Reference metadata readiness score is 0.00.",
+      "recommended_action": "Review source records, authority level, and claim support."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "reference_metadata",
+      "identifier": "internal-linking-as-framework-infrastructure",
+      "message": "Reference metadata readiness score is 0.00.",
+      "recommended_action": "Review source records, authority level, and claim support."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "reference_metadata",
+      "identifier": "narrative-pathways-and-knowledge-architecture",
+      "message": "Reference metadata readiness score is 0.00.",
+      "recommended_action": "Review source records, authority level, and claim support."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "reference_metadata",
+      "identifier": "pillar-pages-and-topic-clusters",
+      "message": "Reference metadata readiness score is 0.00.",
+      "recommended_action": "Review source records, authority level, and claim support."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "reference_metadata",
+      "identifier": "what-are-content-frameworks",
+      "message": "Reference metadata readiness score is 0.00.",
+      "recommended_action": "Review source records, authority level, and claim support."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "reference_metadata",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Reference metadata readiness score is 0.00.",
+      "recommended_action": "Review source records, authority level, and claim support."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "reference_metadata",
+      "identifier": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "message": "Reference metadata readiness score is 0.00.",
+      "recommended_action": "Review source records, authority level, and claim support."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "repository_manifest",
+      "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+      "message": "Repository manifest score is 0%; status is missing manifest.",
+      "recommended_action": "Review companion repository structure, README, workflows, SQL, and outputs."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "repository_manifest",
+      "identifier": "frameworks-for-digital-knowledge-systems",
+      "message": "Repository manifest score is 0%; status is missing manifest.",
+      "recommended_action": "Review companion repository structure, README, workflows, SQL, and outputs."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "repository_manifest",
+      "identifier": "narrative-pathways-and-knowledge-architecture",
+      "message": "Repository manifest score is 0%; status is missing manifest.",
+      "recommended_action": "Review companion repository structure, README, workflows, SQL, and outputs."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "repository_manifest",
+      "identifier": "pillar-pages-and-topic-clusters",
+      "message": "Repository manifest score is 0%; status is missing manifest.",
+      "recommended_action": "Review companion repository structure, README, workflows, SQL, and outputs."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "repository_manifest",
+      "identifier": "what-are-content-frameworks",
+      "message": "Repository manifest score is 0%; status is missing manifest.",
+      "recommended_action": "Review companion repository structure, README, workflows, SQL, and outputs."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "repository_manifest",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Repository manifest score is 0%; status is missing manifest.",
+      "recommended_action": "Review companion repository structure, README, workflows, SQL, and outputs."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "repository_manifest",
+      "identifier": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "message": "Repository manifest score is 0%; status is missing manifest.",
+      "recommended_action": "Review companion repository structure, README, workflows, SQL, and outputs."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "low",
+      "category": "publication",
+      "identifier": "editorial-metadata-and-content-systems",
+      "message": "Confirm final WordPress attachment ID after upload",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "low",
+      "category": "repository",
+      "identifier": "editorial-metadata-and-content-systems",
+      "message": "Confirm GitHub folder appears after push",
+      "recommended_action": "Resolve through editorial governance workflow."
+    }
+  ],
+  "catalog_export_preview": [
+    {
+      "series": "Content Frameworks",
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "cluster": "Foundations",
+      "article_type": "foundational",
+      "status": "published",
+      "metadata_completion_rate": 0.96,
+      "metadata_status": "ready",
+      "freshness_status": "fresh",
+      "repository_path": "articles/what-are-content-frameworks/",
+      "article_map_url": "/content-frameworks/",
+      "github_path": "articles/what-are-content-frameworks/"
+    },
+    {
+      "series": "Content Frameworks",
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "cluster": "Foundations",
+      "article_type": "foundational",
+      "status": "published",
+      "metadata_completion_rate": 1.0,
+      "metadata_status": "ready",
+      "freshness_status": "fresh",
+      "repository_path": "articles/why-frameworks-matter-in-research-education-and-strategic-communication/",
+      "article_map_url": "/content-frameworks/",
+      "github_path": "articles/why-frameworks-matter-in-research-education-and-strategic-communication/"
+    },
+    {
+      "series": "Content Frameworks",
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "cluster": "Foundations",
+      "article_type": "foundational",
+      "status": "published",
+      "metadata_completion_rate": 1.0,
+      "metadata_status": "ready",
+      "freshness_status": "fresh",
+      "repository_path": "articles/what-makes-a-powerful-content-framework/",
+      "article_map_url": "/content-frameworks/",
+      "github_path": "articles/what-makes-a-powerful-content-framework/"
+    },
+    {
+      "series": "Content Frameworks",
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "cluster": "Knowledge Architecture",
+      "article_type": "methodological",
+      "status": "published",
+      "metadata_completion_rate": 1.0,
+      "metadata_status": "ready",
+      "freshness_status": "fresh",
+      "repository_path": "articles/pillar-pages-and-topic-clusters/",
+      "article_map_url": "/content-frameworks/",
+      "github_path": "articles/pillar-pages-and-topic-clusters/"
+    },
+    {
+      "series": "Content Frameworks",
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "title": "Narrative Pathways and Knowledge Architecture",
+      "cluster": "Knowledge Architecture",
+      "article_type": "methodological",
+      "status": "published",
+      "metadata_completion_rate": 1.0,
+      "metadata_status": "ready",
+      "freshness_status": "fresh",
+      "repository_path": "articles/narrative-pathways-and-knowledge-architecture/",
+      "article_map_url": "/content-frameworks/",
+      "github_path": "articles/narrative-pathways-and-knowledge-architecture/"
+    }
+  ]
+}

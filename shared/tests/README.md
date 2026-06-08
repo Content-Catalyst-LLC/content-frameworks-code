@@ -1,3 +1,3 @@
 # Shared Tests
 
-Future validation tests may check metadata completeness, slug consistency, footer navigation order, internal-link targets, framework category coverage, repository links, image metadata, framework health scores, governance queues, and Catalyst Canvas catalog exports.
+Future validation tests may check metadata completeness, controlled vocabularies, slug consistency, footer navigation order, repository paths, image metadata, reference records, review cycles, and catalog exports.

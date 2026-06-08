@@ -1,0 +1,12 @@
+slug,title,status,cluster,article_type,completed_fields,required_fields,metadata_completion_rate,missing_fields,metadata_status
+what-are-content-frameworks,What Are Content Frameworks?,published,Foundations,foundational,24,25,0.96,previous_url,ready
+why-frameworks-matter-in-research-education-and-strategic-communication,Why Frameworks Matter in Research Education and Strategic Communication,published,Foundations,foundational,25,25,1.0,none,ready
+what-makes-a-powerful-content-framework,What Makes a Powerful Content Framework?,published,Foundations,foundational,25,25,1.0,none,ready
+pillar-pages-and-topic-clusters,Pillar Pages and Topic Clusters,published,Knowledge Architecture,methodological,25,25,1.0,none,ready
+narrative-pathways-and-knowledge-architecture,Narrative Pathways and Knowledge Architecture,published,Knowledge Architecture,methodological,25,25,1.0,none,ready
+frameworks-for-digital-knowledge-systems,Frameworks for Digital Knowledge Systems,published,Knowledge Architecture,technical,25,25,1.0,none,ready
+taxonomy-design-for-content-frameworks,Taxonomy Design for Content Frameworks,planned,Knowledge Architecture,methodological,23,25,0.92,excerpt; references,ready
+internal-linking-as-framework-infrastructure,Internal Linking as Framework Infrastructure,published,Knowledge Architecture,methodological,25,25,1.0,none,ready
+content-audits-and-framework-governance,Content Audits and Framework Governance,published,Knowledge Architecture,governance,25,25,1.0,none,ready
+editorial-metadata-and-content-systems,Editorial Metadata and Content Systems,published,Knowledge Architecture,technical,25,25,1.0,none,ready
+educational-scaffolding-and-the-design-of-learning-systems,Educational Scaffolding and the Design of Learning Systems,published,Educational Research and Conceptual Frameworks,methodological,25,25,1.0,none,ready
