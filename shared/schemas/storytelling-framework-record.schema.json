@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Storytelling Framework Record",
+  "type": "object",
+  "required": [
+    "asset_id",
+    "asset_name",
+    "asset_type",
+    "story_purpose",
+    "audience",
+    "context_present",
+    "actors_present",
+    "tension_present",
+    "sequence_present",
+    "transformation_present",
+    "action_present"
+  ]
+}

@@ -1,0 +1,5 @@
+review_id,record_id,issue_type,severity,review_note
+R001,S005,ethical_review,high,Overdramatic campaign draft contains savior framing overdramatized tension unsupported anecdote and pressure CTA
+R002,S004,transformation_support,medium,Learning pathway story needs stronger support for transformation claim
+R003,S003,representation,medium,Public-interest case example should confirm actor agency and source context before publication
+R004,storytelling-frameworks-for-transformation-and-action,publication,low,Confirm final image attachment ID and repository URL after publication

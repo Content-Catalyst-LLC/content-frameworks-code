@@ -1,0 +1,7 @@
+asset_id,asset_name,asset_type,story_purpose,audience,narrative_completeness_score,evidence_support_score,narrative_balance_score,agency_score,transformation_credibility_score,governance_score,ethical_review_score,storytelling_readiness_score,missing_dimensions,unsupported_dimensions,storytelling_status
+S001,Article introduction,article_section,orientation,general_reader,1.0,1.0,1.0,1.0,1.0,1.0,0.75,0.98,,,ready
+S002,GitHub repository block,repository_cta,application,technical_reader,1.0,1.0,1.0,1.0,1.0,1.0,0.75,0.98,,,ready
+S003,Public-interest case example,case_study,public_reasoning,public_reader,1.0,1.0,1.0,1.0,1.0,1.0,0.75,0.98,,,ready
+S004,Learning pathway story,learning_pathway,education,learner,1.0,0.8333,1.0,1.0,1.0,1.0,0.75,0.9433,,transformation,ready
+S005,Overdramatic campaign draft,campaign_draft,mobilization,general_reader,0.6667,0.0,0.2929,0.0,0.0,0.25,0.25,0.21,context;sequence,actors;tension;transformation;action,governance review
+S006,Institutional memory narrative,governance_asset,institutional_memory,editorial_team,1.0,1.0,1.0,1.0,1.0,1.0,0.75,0.98,,,ready

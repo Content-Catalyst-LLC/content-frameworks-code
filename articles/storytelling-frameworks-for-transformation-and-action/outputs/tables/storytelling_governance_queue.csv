@@ -1,0 +1,11 @@
+source,severity,category,identifier,message,recommended_action
+manual_review_queue,high,ethical_review,S005,Overdramatic campaign draft contains savior framing overdramatized tension unsupported anecdote and pressure CTA,Resolve through storytelling framework governance.
+manual_review_queue,medium,transformation_support,S004,Learning pathway story needs stronger support for transformation claim,Resolve through storytelling framework governance.
+manual_review_queue,medium,representation,S003,Public-interest case example should confirm actor agency and source context before publication,Resolve through storytelling framework governance.
+manual_review_queue,low,publication,storytelling-frameworks-for-transformation-and-action,Confirm final image attachment ID and repository URL after publication,Resolve through storytelling framework governance.
+,high,evidence_support,S004,Narrative dimensions lack support: transformation.,"Add evidence, examples, source context, method notes, or limitation language."
+,medium,narrative_completeness,S005,"Missing narrative dimensions: context, sequence.",Add the missing dimensions or mark them intentionally out of scope.
+,high,evidence_support,S005,"Narrative dimensions lack support: actors, tension, transformation, action.","Add evidence, examples, source context, method notes, or limitation language."
+,high,agency,S005,Agency representation is weak.,"Review affected people, institutional responsibility, and audience agency."
+,high,ethical_review,S005,Ethical storytelling score is below standard.,"Remove savior framing, overdramatization, unsupported anecdote, or pressure CTA."
+,medium,storytelling_readiness,S005,Storytelling readiness is 0.21.,"Review narrative completeness, evidence, agency, transformation credibility, governance, and ethical-risk flags."

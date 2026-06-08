@@ -1,0 +1,24 @@
+story_purpose,asset_count
+application,1
+education,1
+institutional_memory,1
+orientation,1
+public_reasoning,1
+audience,asset_count
+editorial_team,1
+general_reader,1
+learner,1
+public_reader,1
+technical_reader,1
+asset_id,asset_name,story_purpose,narrative_dimension_count,supported_dimension_count
+S004,"Learning pathway story",education,6,5
+S001,"Article introduction",orientation,6,6
+S002,"GitHub repository block",application,6,6
+S003,"Public-interest case example",public_reasoning,6,6
+S006,"Institutional memory narrative",institutional_memory,6,6
+asset_id,asset_name,ethical_features
+S001,"Article introduction",3
+S002,"GitHub repository block",3
+S003,"Public-interest case example",3
+S004,"Learning pathway story",3
+S006,"Institutional memory narrative",3

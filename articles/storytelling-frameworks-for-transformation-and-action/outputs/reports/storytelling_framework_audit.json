@@ -1,0 +1,239 @@
+{
+  "article": "Storytelling Frameworks for Transformation and Action",
+  "generated_at": "2026-06-08T22:17:13.055811+00:00",
+  "counts": {
+    "assets": 6,
+    "findings": 6,
+    "governance_queue": 10
+  },
+  "dimension_summary": [
+    {
+      "narrative_dimension": "context",
+      "assets_with_dimension": 5,
+      "assets_with_support": 5,
+      "presence_rate": 0.8333,
+      "support_rate": 1.0
+    },
+    {
+      "narrative_dimension": "actors",
+      "assets_with_dimension": 6,
+      "assets_with_support": 5,
+      "presence_rate": 1.0,
+      "support_rate": 0.8333
+    },
+    {
+      "narrative_dimension": "tension",
+      "assets_with_dimension": 6,
+      "assets_with_support": 5,
+      "presence_rate": 1.0,
+      "support_rate": 0.8333
+    },
+    {
+      "narrative_dimension": "sequence",
+      "assets_with_dimension": 5,
+      "assets_with_support": 5,
+      "presence_rate": 0.8333,
+      "support_rate": 1.0
+    },
+    {
+      "narrative_dimension": "transformation",
+      "assets_with_dimension": 6,
+      "assets_with_support": 4,
+      "presence_rate": 1.0,
+      "support_rate": 0.6667
+    },
+    {
+      "narrative_dimension": "action",
+      "assets_with_dimension": 6,
+      "assets_with_support": 5,
+      "presence_rate": 1.0,
+      "support_rate": 0.8333
+    }
+  ],
+  "readiness": [
+    {
+      "asset_id": "S001",
+      "asset_name": "Article introduction",
+      "asset_type": "article_section",
+      "story_purpose": "orientation",
+      "audience": "general_reader",
+      "narrative_completeness_score": 1.0,
+      "evidence_support_score": 1.0,
+      "narrative_balance_score": 1.0,
+      "agency_score": 1.0,
+      "transformation_credibility_score": 1.0,
+      "governance_score": 1.0,
+      "ethical_review_score": 0.75,
+      "storytelling_readiness_score": 0.98,
+      "missing_dimensions": "",
+      "unsupported_dimensions": "",
+      "storytelling_status": "ready"
+    },
+    {
+      "asset_id": "S002",
+      "asset_name": "GitHub repository block",
+      "asset_type": "repository_cta",
+      "story_purpose": "application",
+      "audience": "technical_reader",
+      "narrative_completeness_score": 1.0,
+      "evidence_support_score": 1.0,
+      "narrative_balance_score": 1.0,
+      "agency_score": 1.0,
+      "transformation_credibility_score": 1.0,
+      "governance_score": 1.0,
+      "ethical_review_score": 0.75,
+      "storytelling_readiness_score": 0.98,
+      "missing_dimensions": "",
+      "unsupported_dimensions": "",
+      "storytelling_status": "ready"
+    },
+    {
+      "asset_id": "S003",
+      "asset_name": "Public-interest case example",
+      "asset_type": "case_study",
+      "story_purpose": "public_reasoning",
+      "audience": "public_reader",
+      "narrative_completeness_score": 1.0,
+      "evidence_support_score": 1.0,
+      "narrative_balance_score": 1.0,
+      "agency_score": 1.0,
+      "transformation_credibility_score": 1.0,
+      "governance_score": 1.0,
+      "ethical_review_score": 0.75,
+      "storytelling_readiness_score": 0.98,
+      "missing_dimensions": "",
+      "unsupported_dimensions": "",
+      "storytelling_status": "ready"
+    },
+    {
+      "asset_id": "S004",
+      "asset_name": "Learning pathway story",
+      "asset_type": "learning_pathway",
+      "story_purpose": "education",
+      "audience": "learner",
+      "narrative_completeness_score": 1.0,
+      "evidence_support_score": 0.8333,
+      "narrative_balance_score": 1.0,
+      "agency_score": 1.0,
+      "transformation_credibility_score": 1.0,
+      "governance_score": 1.0,
+      "ethical_review_score": 0.75,
+      "storytelling_readiness_score": 0.9433,
+      "missing_dimensions": "",
+      "unsupported_dimensions": "transformation",
+      "storytelling_status": "ready"
+    },
+    {
+      "asset_id": "S005",
+      "asset_name": "Overdramatic campaign draft",
+      "asset_type": "campaign_draft",
+      "story_purpose": "mobilization",
+      "audience": "general_reader",
+      "narrative_completeness_score": 0.6667,
+      "evidence_support_score": 0.0,
+      "narrative_balance_score": 0.2929,
+      "agency_score": 0.0,
+      "transformation_credibility_score": 0.0,
+      "governance_score": 0.25,
+      "ethical_review_score": 0.25,
+      "storytelling_readiness_score": 0.21,
+      "missing_dimensions": "context;sequence",
+      "unsupported_dimensions": "actors;tension;transformation;action",
+      "storytelling_status": "governance review"
+    },
+    {
+      "asset_id": "S006",
+      "asset_name": "Institutional memory narrative",
+      "asset_type": "governance_asset",
+      "story_purpose": "institutional_memory",
+      "audience": "editorial_team",
+      "narrative_completeness_score": 1.0,
+      "evidence_support_score": 1.0,
+      "narrative_balance_score": 1.0,
+      "agency_score": 1.0,
+      "transformation_credibility_score": 1.0,
+      "governance_score": 1.0,
+      "ethical_review_score": 0.75,
+      "storytelling_readiness_score": 0.98,
+      "missing_dimensions": "",
+      "unsupported_dimensions": "",
+      "storytelling_status": "ready"
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "manual_review_queue",
+      "severity": "high",
+      "category": "ethical_review",
+      "identifier": "S005",
+      "message": "Overdramatic campaign draft contains savior framing overdramatized tension unsupported anecdote and pressure CTA",
+      "recommended_action": "Resolve through storytelling framework governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "transformation_support",
+      "identifier": "S004",
+      "message": "Learning pathway story needs stronger support for transformation claim",
+      "recommended_action": "Resolve through storytelling framework governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "representation",
+      "identifier": "S003",
+      "message": "Public-interest case example should confirm actor agency and source context before publication",
+      "recommended_action": "Resolve through storytelling framework governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "low",
+      "category": "publication",
+      "identifier": "storytelling-frameworks-for-transformation-and-action",
+      "message": "Confirm final image attachment ID and repository URL after publication",
+      "recommended_action": "Resolve through storytelling framework governance."
+    },
+    {
+      "severity": "high",
+      "category": "evidence_support",
+      "identifier": "S004",
+      "message": "Narrative dimensions lack support: transformation.",
+      "recommended_action": "Add evidence, examples, source context, method notes, or limitation language."
+    },
+    {
+      "severity": "medium",
+      "category": "narrative_completeness",
+      "identifier": "S005",
+      "message": "Missing narrative dimensions: context, sequence.",
+      "recommended_action": "Add the missing dimensions or mark them intentionally out of scope."
+    },
+    {
+      "severity": "high",
+      "category": "evidence_support",
+      "identifier": "S005",
+      "message": "Narrative dimensions lack support: actors, tension, transformation, action.",
+      "recommended_action": "Add evidence, examples, source context, method notes, or limitation language."
+    },
+    {
+      "severity": "high",
+      "category": "agency",
+      "identifier": "S005",
+      "message": "Agency representation is weak.",
+      "recommended_action": "Review affected people, institutional responsibility, and audience agency."
+    },
+    {
+      "severity": "high",
+      "category": "ethical_review",
+      "identifier": "S005",
+      "message": "Ethical storytelling score is below standard.",
+      "recommended_action": "Remove savior framing, overdramatization, unsupported anecdote, or pressure CTA."
+    },
+    {
+      "severity": "medium",
+      "category": "storytelling_readiness",
+      "identifier": "S005",
+      "message": "Storytelling readiness is 0.21.",
+      "recommended_action": "Review narrative completeness, evidence, agency, transformation credibility, governance, and ethical-risk flags."
+    }
+  ]
+}

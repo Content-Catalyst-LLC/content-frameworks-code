@@ -1,0 +1,44 @@
+[
+  {
+    "severity": "high",
+    "category": "evidence_support",
+    "identifier": "S004",
+    "message": "Narrative dimensions lack support: transformation.",
+    "recommended_action": "Add evidence, examples, source context, method notes, or limitation language."
+  },
+  {
+    "severity": "medium",
+    "category": "narrative_completeness",
+    "identifier": "S005",
+    "message": "Missing narrative dimensions: context, sequence.",
+    "recommended_action": "Add the missing dimensions or mark them intentionally out of scope."
+  },
+  {
+    "severity": "high",
+    "category": "evidence_support",
+    "identifier": "S005",
+    "message": "Narrative dimensions lack support: actors, tension, transformation, action.",
+    "recommended_action": "Add evidence, examples, source context, method notes, or limitation language."
+  },
+  {
+    "severity": "high",
+    "category": "agency",
+    "identifier": "S005",
+    "message": "Agency representation is weak.",
+    "recommended_action": "Review affected people, institutional responsibility, and audience agency."
+  },
+  {
+    "severity": "high",
+    "category": "ethical_review",
+    "identifier": "S005",
+    "message": "Ethical storytelling score is below standard.",
+    "recommended_action": "Remove savior framing, overdramatization, unsupported anecdote, or pressure CTA."
+  },
+  {
+    "severity": "medium",
+    "category": "storytelling_readiness",
+    "identifier": "S005",
+    "message": "Storytelling readiness is 0.21.",
+    "recommended_action": "Review narrative completeness, evidence, agency, transformation credibility, governance, and ethical-risk flags."
+  }
+]

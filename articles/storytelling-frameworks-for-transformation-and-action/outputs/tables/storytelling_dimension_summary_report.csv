@@ -1,0 +1,7 @@
+narrative_dimension,assets_with_dimension,assets_with_support,presence_rate,support_rate
+context,5,5,0.8333,1.0
+actors,6,5,1.0,0.8333
+tension,6,5,1.0,0.8333
+sequence,5,5,0.8333,1.0
+transformation,6,4,1.0,0.6667
+action,6,5,1.0,0.8333
