@@ -1,0 +1,21 @@
+{
+  "article": "Value Proposition Canvas and the Communication of Relevance",
+  "series": "Content Frameworks",
+  "readiness_threshold": 0.78,
+  "score_dimensions": [
+    "job_alignment",
+    "pain_relief_alignment",
+    "gain_creation_alignment",
+    "evidence_strength",
+    "communication_clarity",
+    "ethical_fit"
+  ],
+  "risk_flags": [
+    "audience_flattening",
+    "feature_translation_failure",
+    "unsupported_benefit_claim",
+    "promotional_drift",
+    "missing_limitations",
+    "stale_audience_assumption"
+  ]
+}

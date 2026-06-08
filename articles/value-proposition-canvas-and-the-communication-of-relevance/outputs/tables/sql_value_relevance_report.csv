@@ -1,0 +1,7 @@
+item_id,title,audience_segment,status,relevance_score,classification,primary_risk
+VPC001,"Value Proposition Canvas article introduction","content strategists",published,0.858,"publishable with review",none
+VPC006,"Public policy explainer","civic readers",planned,0.827,"publishable with review",none
+VPC003,"Research communication framework overview","research communicators",published,0.82,"publishable with review",none
+VPC004,"Audience journey explainer",editors,published,0.783,"publishable with review",missing_limitations
+VPC005,"Promotional platform landing page",prospects,draft,0.6,"revise before publication",promotional_drift
+VPC002,"Generic feature summary","broad audience",draft,0.467,"major relevance gap",feature_translation_failure

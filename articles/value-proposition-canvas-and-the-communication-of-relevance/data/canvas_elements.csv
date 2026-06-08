@@ -1,0 +1,16 @@
+item_id,canvas_side,element,description,evidence_level
+VPC001,customer_profile,job,Understand why relevance needs structure,high
+VPC001,customer_profile,pain,Feature-heavy content hides audience need,high
+VPC001,customer_profile,gain,Clearer message architecture,medium
+VPC001,value_map,pain_reliever,Separates audience profile from offer description,high
+VPC001,value_map,gain_creator,Connects value claims to audience situations,medium
+VPC002,value_map,product_service,Product feature list,low
+VPC002,value_map,gain_creator,Claims better outcomes without specifics,low
+VPC003,customer_profile,job,Translate research evidence responsibly,high
+VPC003,value_map,pain_reliever,Clarifies claims methods limits and uncertainty,high
+VPC004,customer_profile,job,Sequence reader attention through a content pathway,medium
+VPC004,value_map,gain_creator,Improves orientation and next-step clarity,medium
+VPC005,value_map,pain_reliever,Claims to simplify workflow,low
+VPC005,value_map,gain_creator,Claims transformation without evidence,low
+VPC006,customer_profile,pain,Policy evidence is difficult to interpret,high
+VPC006,value_map,pain_reliever,Explains tradeoffs evidence and limits,high

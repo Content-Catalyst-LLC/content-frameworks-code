@@ -1,0 +1,8 @@
+[
+  {
+    "slug": "value-proposition-canvas-and-the-communication-of-relevance",
+    "series": "Content Frameworks",
+    "workflow": "value-relevance-audit",
+    "output": "outputs/tables/python_value_relevance_scores.csv"
+  }
+]
