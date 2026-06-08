@@ -1,0 +1,10 @@
+source,severity,category,identifier,message,recommended_action
+manual_review_queue,high,ethical_review,M005,High-pressure sales example contains false urgency exaggerated claims hidden conditions and weak agency support,Resolve through AIDA sequence governance.
+manual_review_queue,medium,desire_support,M004,Webinar prompt needs clearer fit and limitation language,Resolve through AIDA sequence governance.
+manual_review_queue,low,publication,aida-and-the-logic-of-persuasive-sequence,Confirm final image attachment ID and repository URL after publication,Resolve through AIDA sequence governance.
+,medium,desire,M004,Desire stage is underdeveloped.,"Strengthen value proposition, benefit support, and fit/limit language."
+,medium,attention,M005,Attention stage is weak or poorly supported.,"Clarify relevance, opening problem, and attention claim support."
+,medium,desire,M005,Desire stage is underdeveloped.,"Strengthen value proposition, benefit support, and fit/limit language."
+,high,action,M005,"Call to action is unclear, infeasible, or insufficiently transparent.","Clarify next step, commitment level, and action expectations."
+,high,ethical_review,M005,Ethical review score is below the minimum threshold.,"Remove false urgency, exaggerated claims, hidden conditions, or agency-reducing language."
+,medium,aida_readiness,M005,AIDA readiness is 0.33.,Review AIDA stage coverage and ethical-risk flags.

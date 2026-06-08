@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AIDA Sequence Record",
+  "type": "object",
+  "required": [
+    "message_id",
+    "asset_name",
+    "asset_type",
+    "audience",
+    "headline_relevant",
+    "cta_clear",
+    "audience_agency_preserved"
+  ]
+}

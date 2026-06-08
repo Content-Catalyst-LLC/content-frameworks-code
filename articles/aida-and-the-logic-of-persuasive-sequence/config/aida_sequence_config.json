@@ -1,0 +1,25 @@
+{
+  "article": "AIDA and the Logic of Persuasive Sequence",
+  "series": "Content Frameworks",
+  "readiness_threshold": 0.78,
+  "ethical_minimum": 0.70,
+  "weights": {
+    "attention": 0.18,
+    "interest": 0.20,
+    "desire": 0.22,
+    "action": 0.20,
+    "ethical_review": 0.20
+  },
+  "stages": [
+    "attention",
+    "interest",
+    "desire",
+    "action"
+  ],
+  "ethical_risk_flags": [
+    "false_urgency",
+    "exaggerated_claims",
+    "hidden_cost_or_condition",
+    "agency_reduction"
+  ]
+}

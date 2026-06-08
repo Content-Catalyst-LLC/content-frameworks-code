@@ -1,0 +1,7 @@
+"message_id","asset_name","asset_type","audience","aida_readiness_score","aida_status","series","article_slug","github_path"
+"M001","Content Frameworks article CTA","article_navigation","general_reader",0.8,"governance review","Content Frameworks","aida-and-the-logic-of-persuasive-sequence","articles/aida-and-the-logic-of-persuasive-sequence/"
+"M002","GitHub companion repository block","repository_cta","technical_reader",0.8,"governance review","Content Frameworks","aida-and-the-logic-of-persuasive-sequence","articles/aida-and-the-logic-of-persuasive-sequence/"
+"M003","Newsletter subscription prompt","subscription_cta","returning_reader",0.8,"governance review","Content Frameworks","aida-and-the-logic-of-persuasive-sequence","articles/aida-and-the-logic-of-persuasive-sequence/"
+"M004","Webinar registration prompt","event_cta","professional_audience",0.7267,"governance review","Content Frameworks","aida-and-the-logic-of-persuasive-sequence","articles/aida-and-the-logic-of-persuasive-sequence/"
+"M005","High-pressure sales example","landing_page","commercial_audience",0.3333,"governance review","Content Frameworks","aida-and-the-logic-of-persuasive-sequence","articles/aida-and-the-logic-of-persuasive-sequence/"
+"M006","Public-interest learning pathway","learning_pathway","public_reader",0.8,"governance review","Content Frameworks","aida-and-the-logic-of-persuasive-sequence","articles/aida-and-the-logic-of-persuasive-sequence/"

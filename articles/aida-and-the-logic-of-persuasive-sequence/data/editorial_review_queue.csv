@@ -1,0 +1,4 @@
+review_id,record_id,issue_type,severity,review_note
+R001,M005,ethical_review,high,High-pressure sales example contains false urgency exaggerated claims hidden conditions and weak agency support
+R002,M004,desire_support,medium,Webinar prompt needs clearer fit and limitation language
+R003,aida-and-the-logic-of-persuasive-sequence,publication,low,Confirm final image attachment ID and repository URL after publication

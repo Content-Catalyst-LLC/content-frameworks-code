@@ -1,0 +1,7 @@
+message_id,asset_name,asset_type,audience,headline_relevant,opening_problem_clear,attention_claim_supported,audience_relevance_visible,context_provided,evidence_or_example_present,value_proposition_clear,benefit_claim_supported,fit_and_limits_visible,cta_clear,cta_feasible,commitment_transparent,uses_false_urgency,uses_exaggerated_claims,uses_hidden_cost_or_condition,audience_agency_preserved
+M001,Content Frameworks article CTA,article_navigation,general_reader,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes
+M002,GitHub companion repository block,repository_cta,technical_reader,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes
+M003,Newsletter subscription prompt,subscription_cta,returning_reader,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes
+M004,Webinar registration prompt,event_cta,professional_audience,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,no,no,no,yes
+M005,High-pressure sales example,landing_page,commercial_audience,yes,no,no,yes,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no
+M006,Public-interest learning pathway,learning_pathway,public_reader,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes

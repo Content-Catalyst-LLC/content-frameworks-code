@@ -1,0 +1,44 @@
+[
+  {
+    "severity": "medium",
+    "category": "desire",
+    "identifier": "M004",
+    "message": "Desire stage is underdeveloped.",
+    "recommended_action": "Strengthen value proposition, benefit support, and fit/limit language."
+  },
+  {
+    "severity": "medium",
+    "category": "attention",
+    "identifier": "M005",
+    "message": "Attention stage is weak or poorly supported.",
+    "recommended_action": "Clarify relevance, opening problem, and attention claim support."
+  },
+  {
+    "severity": "medium",
+    "category": "desire",
+    "identifier": "M005",
+    "message": "Desire stage is underdeveloped.",
+    "recommended_action": "Strengthen value proposition, benefit support, and fit/limit language."
+  },
+  {
+    "severity": "high",
+    "category": "action",
+    "identifier": "M005",
+    "message": "Call to action is unclear, infeasible, or insufficiently transparent.",
+    "recommended_action": "Clarify next step, commitment level, and action expectations."
+  },
+  {
+    "severity": "high",
+    "category": "ethical_review",
+    "identifier": "M005",
+    "message": "Ethical review score is below the minimum threshold.",
+    "recommended_action": "Remove false urgency, exaggerated claims, hidden conditions, or agency-reducing language."
+  },
+  {
+    "severity": "medium",
+    "category": "aida_readiness",
+    "identifier": "M005",
+    "message": "AIDA readiness is 0.33.",
+    "recommended_action": "Review AIDA stage coverage and ethical-risk flags."
+  }
+]

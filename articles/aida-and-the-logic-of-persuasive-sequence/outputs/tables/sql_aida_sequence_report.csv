@@ -1,0 +1,28 @@
+asset_type,message_count
+article_navigation,1
+event_cta,1
+landing_page,1
+learning_pathway,1
+repository_cta,1
+subscription_cta,1
+audience,message_count
+commercial_audience,1
+general_reader,1
+professional_audience,1
+public_reader,1
+returning_reader,1
+technical_reader,1
+message_id,asset_name,attention_features,interest_features,desire_features,action_features
+M001,"Content Frameworks article CTA",3,3,3,3
+M002,"GitHub companion repository block",3,3,3,3
+M003,"Newsletter subscription prompt",3,3,3,3
+M004,"Webinar registration prompt",3,3,2,3
+M005,"High-pressure sales example",1,1,1,2
+M006,"Public-interest learning pathway",3,3,3,3
+message_id,asset_name,ethical_features
+M005,"High-pressure sales example",0
+M001,"Content Frameworks article CTA",4
+M002,"GitHub companion repository block",4
+M003,"Newsletter subscription prompt",4
+M004,"Webinar registration prompt",4
+M006,"Public-interest learning pathway",4

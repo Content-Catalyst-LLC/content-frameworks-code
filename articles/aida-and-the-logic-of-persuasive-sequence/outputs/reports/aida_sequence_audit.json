@@ -1,0 +1,189 @@
+{
+  "article": "AIDA and the Logic of Persuasive Sequence",
+  "generated_at": "2026-06-08T21:30:06.232853+00:00",
+  "counts": {
+    "messages": 6,
+    "findings": 6,
+    "governance_queue": 9
+  },
+  "stage_summary": [
+    {
+      "stage_or_metric": "attention_score",
+      "average_score": 0.8889
+    },
+    {
+      "stage_or_metric": "interest_score",
+      "average_score": 0.8889
+    },
+    {
+      "stage_or_metric": "desire_score",
+      "average_score": 0.8333
+    },
+    {
+      "stage_or_metric": "action_score",
+      "average_score": 0.9444
+    },
+    {
+      "stage_or_metric": "ethical_review_score",
+      "average_score": 0.8333
+    },
+    {
+      "stage_or_metric": "stage_balance_score",
+      "average_score": 0.916
+    }
+  ],
+  "readiness": [
+    {
+      "message_id": "M001",
+      "asset_name": "Content Frameworks article CTA",
+      "asset_type": "article_navigation",
+      "audience": "general_reader",
+      "attention_score": 1.0,
+      "interest_score": 1.0,
+      "desire_score": 1.0,
+      "action_score": 1.0,
+      "ethical_review_score": 1.0,
+      "stage_balance_score": 1.0,
+      "aida_readiness_score": 1.0,
+      "aida_status": "ready"
+    },
+    {
+      "message_id": "M002",
+      "asset_name": "GitHub companion repository block",
+      "asset_type": "repository_cta",
+      "audience": "technical_reader",
+      "attention_score": 1.0,
+      "interest_score": 1.0,
+      "desire_score": 1.0,
+      "action_score": 1.0,
+      "ethical_review_score": 1.0,
+      "stage_balance_score": 1.0,
+      "aida_readiness_score": 1.0,
+      "aida_status": "ready"
+    },
+    {
+      "message_id": "M003",
+      "asset_name": "Newsletter subscription prompt",
+      "asset_type": "subscription_cta",
+      "audience": "returning_reader",
+      "attention_score": 1.0,
+      "interest_score": 1.0,
+      "desire_score": 1.0,
+      "action_score": 1.0,
+      "ethical_review_score": 1.0,
+      "stage_balance_score": 1.0,
+      "aida_readiness_score": 1.0,
+      "aida_status": "ready"
+    },
+    {
+      "message_id": "M004",
+      "asset_name": "Webinar registration prompt",
+      "asset_type": "event_cta",
+      "audience": "professional_audience",
+      "attention_score": 1.0,
+      "interest_score": 1.0,
+      "desire_score": 0.6667,
+      "action_score": 1.0,
+      "ethical_review_score": 1.0,
+      "stage_balance_score": 0.8425,
+      "aida_readiness_score": 0.9267,
+      "aida_status": "ready"
+    },
+    {
+      "message_id": "M005",
+      "asset_name": "High-pressure sales example",
+      "asset_type": "landing_page",
+      "audience": "commercial_audience",
+      "attention_score": 0.3333,
+      "interest_score": 0.3333,
+      "desire_score": 0.3333,
+      "action_score": 0.6667,
+      "ethical_review_score": 0.0,
+      "stage_balance_score": 0.6536,
+      "aida_readiness_score": 0.3333,
+      "aida_status": "governance review"
+    },
+    {
+      "message_id": "M006",
+      "asset_name": "Public-interest learning pathway",
+      "asset_type": "learning_pathway",
+      "audience": "public_reader",
+      "attention_score": 1.0,
+      "interest_score": 1.0,
+      "desire_score": 1.0,
+      "action_score": 1.0,
+      "ethical_review_score": 1.0,
+      "stage_balance_score": 1.0,
+      "aida_readiness_score": 1.0,
+      "aida_status": "ready"
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "manual_review_queue",
+      "severity": "high",
+      "category": "ethical_review",
+      "identifier": "M005",
+      "message": "High-pressure sales example contains false urgency exaggerated claims hidden conditions and weak agency support",
+      "recommended_action": "Resolve through AIDA sequence governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "desire_support",
+      "identifier": "M004",
+      "message": "Webinar prompt needs clearer fit and limitation language",
+      "recommended_action": "Resolve through AIDA sequence governance."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "low",
+      "category": "publication",
+      "identifier": "aida-and-the-logic-of-persuasive-sequence",
+      "message": "Confirm final image attachment ID and repository URL after publication",
+      "recommended_action": "Resolve through AIDA sequence governance."
+    },
+    {
+      "severity": "medium",
+      "category": "desire",
+      "identifier": "M004",
+      "message": "Desire stage is underdeveloped.",
+      "recommended_action": "Strengthen value proposition, benefit support, and fit/limit language."
+    },
+    {
+      "severity": "medium",
+      "category": "attention",
+      "identifier": "M005",
+      "message": "Attention stage is weak or poorly supported.",
+      "recommended_action": "Clarify relevance, opening problem, and attention claim support."
+    },
+    {
+      "severity": "medium",
+      "category": "desire",
+      "identifier": "M005",
+      "message": "Desire stage is underdeveloped.",
+      "recommended_action": "Strengthen value proposition, benefit support, and fit/limit language."
+    },
+    {
+      "severity": "high",
+      "category": "action",
+      "identifier": "M005",
+      "message": "Call to action is unclear, infeasible, or insufficiently transparent.",
+      "recommended_action": "Clarify next step, commitment level, and action expectations."
+    },
+    {
+      "severity": "high",
+      "category": "ethical_review",
+      "identifier": "M005",
+      "message": "Ethical review score is below the minimum threshold.",
+      "recommended_action": "Remove false urgency, exaggerated claims, hidden conditions, or agency-reducing language."
+    },
+    {
+      "severity": "medium",
+      "category": "aida_readiness",
+      "identifier": "M005",
+      "message": "AIDA readiness is 0.33.",
+      "recommended_action": "Review AIDA stage coverage and ethical-risk flags."
+    }
+  ]
+}
