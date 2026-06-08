@@ -1,0 +1,6 @@
+segment,need_intensity,strategic_fit,reachability,evidence_fit,ethical_responsibility,category_clarity,audience_relevance,differentiation,credibility,stereotype_risk,exclusion_risk
+Beginner learners,0.88,0.86,0.82,0.78,0.80,0.75,0.88,0.70,0.78,0.25,0.30
+Technical practitioners,0.76,0.82,0.70,0.86,0.74,0.84,0.78,0.82,0.86,0.20,0.28
+Public policy stakeholders,0.84,0.72,0.58,0.74,0.92,0.68,0.76,0.64,0.72,0.36,0.62
+Institutional sponsors,0.68,0.76,0.80,0.70,0.66,0.76,0.70,0.72,0.74,0.24,0.40
+Generic audience label,0.50,0.46,0.72,0.40,0.44,0.42,0.45,0.38,0.44,0.58,0.52

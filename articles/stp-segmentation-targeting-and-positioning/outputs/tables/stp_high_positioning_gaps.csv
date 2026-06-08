@@ -1,0 +1,3 @@
+segment,need_intensity,strategic_fit,reachability,evidence_fit,ethical_responsibility,target_score,weighted_target_score,target_classification,category_clarity,audience_relevance,differentiation,credibility,positioning_score,positioning_gap,stereotype_risk,exclusion_risk,ethical_review_flag
+Beginner learners,0.88,0.86,0.82,0.78,0.8,0.828,0.831,strong secondary target,0.75,0.88,0.7,0.78,0.778,0.102,0.25,0.3,standard review
+Public policy stakeholders,0.84,0.72,0.58,0.74,0.92,0.76,0.773,strong secondary target,0.68,0.76,0.64,0.72,0.708,0.132,0.36,0.62,moderate ethical review

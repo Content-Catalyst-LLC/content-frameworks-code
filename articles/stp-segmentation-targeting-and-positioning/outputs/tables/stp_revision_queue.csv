@@ -1,0 +1,3 @@
+"segment","need_intensity","strategic_fit","reachability","evidence_fit","ethical_responsibility","category_clarity","audience_relevance","differentiation","credibility","stereotype_risk","exclusion_risk","target_score","weighted_target_score","positioning_score","positioning_gap","target_classification","ethical_review_flag"
+"Public policy stakeholders",0.84,0.72,0.58,0.74,0.92,0.68,0.76,0.64,0.72,0.36,0.62,0.76,0.773,0.708,0.132,"strong secondary target","moderate ethical review"
+"Generic audience label",0.5,0.46,0.72,0.4,0.44,0.42,0.45,0.38,0.44,0.58,0.52,0.504,0.493,0.418,0.082,"low current fit","moderate ethical review"
