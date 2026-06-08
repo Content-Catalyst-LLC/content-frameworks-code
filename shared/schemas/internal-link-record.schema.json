@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Internal Link Record",
+  "type": "object",
+  "required": ["source_slug", "target_slug", "relationship_type", "anchor_text", "priority", "status", "last_reviewed"],
+  "properties": {
+    "source_slug": { "type": "string" },
+    "target_slug": { "type": "string" },
+    "relationship_type": { "type": "string" },
+    "anchor_text": { "type": "string" },
+    "priority": { "type": "string" },
+    "status": { "type": "string" },
+    "last_reviewed": { "type": "string" }
+  }
+}

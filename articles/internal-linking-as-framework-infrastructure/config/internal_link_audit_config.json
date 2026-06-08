@@ -1,0 +1,16 @@
+{
+  "product_context": "Catalyst Canvas",
+  "article": "Internal Linking as Framework Infrastructure",
+  "series": "Content Frameworks",
+  "version": "1.0.0",
+  "hub_slugs": ["content-frameworks", "pillar-pages-and-topic-clusters", "frameworks-for-digital-knowledge-systems"],
+  "required_article_fields": ["slug", "title", "status", "cluster", "article_type", "series_context", "footer_navigation", "github_url"],
+  "required_link_fields": ["source_slug", "target_slug", "relationship_type", "anchor_text", "priority", "status", "last_reviewed"],
+  "valid_relationship_types": ["series_navigation", "definition", "prerequisite", "method", "application", "contrast", "ethics", "governance", "topic_cluster", "bridge", "repository"],
+  "minimum_total_degree_for_published": 3,
+  "minimum_incoming_links_for_published": 1,
+  "maximum_recommended_link_depth_from_hub": 3,
+  "anchor_text_min_characters": 6,
+  "anchor_text_max_characters": 95,
+  "weak_anchor_text_patterns": ["click here", "read more", "this article", "here", "learn more"]
+}

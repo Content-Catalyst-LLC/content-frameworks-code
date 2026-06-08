@@ -1,0 +1,5 @@
+cluster,total_outgoing_links,within_cluster_links,bridge_links,cluster_coherence,bridge_rate,interpretation
+Article Map,4,0,4,0.0,1.0,bridge-heavy or underdeveloped
+Educational Research and Conceptual Frameworks,1,1,0,1.0,0.0,cohesive
+Foundations,2,0,2,0.0,1.0,bridge-heavy or underdeveloped
+Knowledge Architecture,11,9,2,0.8182,0.1818,cohesive

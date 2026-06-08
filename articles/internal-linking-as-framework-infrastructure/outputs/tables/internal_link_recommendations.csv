@@ -1,0 +1,13 @@
+source_slug,target_slug,cluster,recommendation_type,recommended_relationship_type,priority
+what-are-content-frameworks,why-frameworks-matter-in-research-education-and-strategic-communication,Foundations,same-cluster support link,topic_cluster,high
+what-are-content-frameworks,what-makes-a-powerful-content-framework,Foundations,same-cluster support link,topic_cluster,high
+why-frameworks-matter-in-research-education-and-strategic-communication,what-are-content-frameworks,Foundations,same-cluster support link,topic_cluster,high
+why-frameworks-matter-in-research-education-and-strategic-communication,what-makes-a-powerful-content-framework,Foundations,same-cluster support link,topic_cluster,high
+what-makes-a-powerful-content-framework,what-are-content-frameworks,Foundations,same-cluster support link,topic_cluster,high
+what-makes-a-powerful-content-framework,why-frameworks-matter-in-research-education-and-strategic-communication,Foundations,same-cluster support link,topic_cluster,high
+pillar-pages-and-topic-clusters,narrative-pathways-and-knowledge-architecture,Knowledge Architecture,same-cluster support link,topic_cluster,high
+pillar-pages-and-topic-clusters,frameworks-for-digital-knowledge-systems,Knowledge Architecture,same-cluster support link,topic_cluster,high
+frameworks-for-digital-knowledge-systems,pillar-pages-and-topic-clusters,Knowledge Architecture,same-cluster support link,topic_cluster,medium
+frameworks-for-digital-knowledge-systems,narrative-pathways-and-knowledge-architecture,Knowledge Architecture,same-cluster support link,topic_cluster,high
+internal-linking-as-framework-infrastructure,narrative-pathways-and-knowledge-architecture,Knowledge Architecture,same-cluster support link,topic_cluster,high
+frameworks-for-research-communication,educational-scaffolding-and-the-design-of-learning-systems,Educational Research and Conceptual Frameworks,same-cluster support link,topic_cluster,high

@@ -1,0 +1,5 @@
+review_id,identifier,issue_type,severity,review_note
+R001,what-are-content-frameworks,anchor_text,medium,Replace vague anchor text with descriptive destination label
+R002,taxonomy-design-for-content-frameworks,status,low,Planned predecessor article should be published or link status marked planned
+R003,content-audits-and-framework-governance,status,medium,Planned next article is linked from published article and should be prioritized
+R004,internal-linking-as-framework-infrastructure,governance,low,Confirm final image attachment ID and repository URL after publication

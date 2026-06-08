@@ -1,0 +1,19 @@
+source_slug,target_slug,relationship_type,anchor_text,priority,status,last_reviewed
+content-frameworks,what-are-content-frameworks,series_navigation,What Are Content Frameworks,high,active,2026-06-08
+content-frameworks,why-frameworks-matter-in-research-education-and-strategic-communication,series_navigation,Why Frameworks Matter in Research Education and Strategic Communication,high,active,2026-06-08
+content-frameworks,pillar-pages-and-topic-clusters,topic_cluster,Pillar Pages and Topic Clusters,high,active,2026-06-08
+content-frameworks,internal-linking-as-framework-infrastructure,topic_cluster,Internal Linking as Framework Infrastructure,high,active,2026-06-08
+internal-linking-as-framework-infrastructure,taxonomy-design-for-content-frameworks,series_navigation,Taxonomy Design for Content Frameworks,high,planned,2026-06-08
+internal-linking-as-framework-infrastructure,content-audits-and-framework-governance,series_navigation,Content Audits and Framework Governance,high,planned,2026-06-08
+internal-linking-as-framework-infrastructure,content-frameworks,series_navigation,Content Frameworks article map,high,active,2026-06-08
+internal-linking-as-framework-infrastructure,pillar-pages-and-topic-clusters,prerequisite,pillar pages and topic clusters,high,active,2026-06-08
+internal-linking-as-framework-infrastructure,frameworks-for-digital-knowledge-systems,method,digital knowledge systems,medium,active,2026-06-08
+internal-linking-as-framework-infrastructure,content-audits-and-framework-governance,governance,content audits and framework governance,high,planned,2026-06-08
+internal-linking-as-framework-infrastructure,editorial-metadata-and-content-systems,governance,editorial metadata and content systems,medium,planned,2026-06-08
+internal-linking-as-framework-infrastructure,framework-governance-and-editorial-maintenance,governance,framework governance and editorial maintenance,medium,planned,2026-06-08
+pillar-pages-and-topic-clusters,internal-linking-as-framework-infrastructure,method,internal linking as framework infrastructure,high,active,2026-06-08
+narrative-pathways-and-knowledge-architecture,internal-linking-as-framework-infrastructure,bridge,internal linking,medium,active,2026-06-08
+frameworks-for-digital-knowledge-systems,internal-linking-as-framework-infrastructure,method,semantic internal links,medium,active,2026-06-08
+why-frameworks-matter-in-research-education-and-strategic-communication,internal-linking-as-framework-infrastructure,bridge,link infrastructure,medium,active,2026-06-08
+what-are-content-frameworks,internal-linking-as-framework-infrastructure,method,click here,medium,active,2026-06-08
+educational-scaffolding-and-the-design-of-learning-systems,frameworks-for-research-communication,bridge,frameworks for research communication,medium,active,2026-06-08

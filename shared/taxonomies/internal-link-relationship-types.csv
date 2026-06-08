@@ -1,0 +1,12 @@
+relationship_type,description
+series_navigation,Previous next or article-map relationship
+definition,Points to a foundational definition
+prerequisite,Points to background knowledge needed before the current article
+method,Points to a practical method or workflow
+application,Shows where a concept is used
+contrast,Clarifies a distinction or boundary
+ethics,Connects method to risks or responsible use
+governance,Connects content to maintenance audit metadata or review
+topic_cluster,Connects articles within a shared cluster
+bridge,Connects related clusters or domains
+repository,Connects article to companion code

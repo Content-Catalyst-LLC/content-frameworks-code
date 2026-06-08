@@ -1,0 +1,993 @@
+{
+  "article": "Internal Linking as Framework Infrastructure",
+  "generated_at": "2026-06-08T14:08:39.036766+00:00",
+  "counts": {
+    "articles": 18,
+    "links": 18,
+    "findings": 18,
+    "governance_queue": 22,
+    "connected_components": 7
+  },
+  "degree_report": [
+    {
+      "slug": "content-frameworks",
+      "title": "Content Frameworks",
+      "cluster": "Article Map",
+      "status": "published",
+      "article_type": "pillar_map",
+      "incoming_links": 1,
+      "outgoing_links": 4,
+      "total_link_degree": 5,
+      "network_role": "bridge",
+      "meets_total_degree_threshold": true,
+      "meets_incoming_threshold": true
+    },
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "cluster": "Foundations",
+      "status": "published",
+      "article_type": "foundational",
+      "incoming_links": 1,
+      "outgoing_links": 1,
+      "total_link_degree": 2,
+      "network_role": "thinly linked",
+      "meets_total_degree_threshold": false,
+      "meets_incoming_threshold": true
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "cluster": "Foundations",
+      "status": "published",
+      "article_type": "foundational",
+      "incoming_links": 1,
+      "outgoing_links": 1,
+      "total_link_degree": 2,
+      "network_role": "thinly linked",
+      "meets_total_degree_threshold": false,
+      "meets_incoming_threshold": true
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework",
+      "cluster": "Foundations",
+      "status": "published",
+      "article_type": "foundational",
+      "incoming_links": 0,
+      "outgoing_links": 0,
+      "total_link_degree": 0,
+      "network_role": "orphaned",
+      "meets_total_degree_threshold": false,
+      "meets_incoming_threshold": false
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "cluster": "Foundations",
+      "status": "planned",
+      "article_type": "foundational",
+      "incoming_links": 0,
+      "outgoing_links": 0,
+      "total_link_degree": 0,
+      "network_role": "orphaned",
+      "meets_total_degree_threshold": false,
+      "meets_incoming_threshold": false
+    },
+    {
+      "slug": "frameworks-templates-and-models",
+      "title": "Frameworks Templates and Models",
+      "cluster": "Foundations",
+      "status": "planned",
+      "article_type": "conceptual",
+      "incoming_links": 0,
+      "outgoing_links": 0,
+      "total_link_degree": 0,
+      "network_role": "orphaned",
+      "meets_total_degree_threshold": false,
+      "meets_incoming_threshold": false
+    },
+    {
+      "slug": "history-of-framework-thinking-in-communication-and-strategy",
+      "title": "The History of Framework Thinking in Communication and Strategy",
+      "cluster": "Foundations",
+      "status": "planned",
+      "article_type": "historical",
+      "incoming_links": 0,
+      "outgoing_links": 0,
+      "total_link_degree": 0,
+      "network_role": "orphaned",
+      "meets_total_degree_threshold": false,
+      "meets_incoming_threshold": false
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "cluster": "Knowledge Architecture",
+      "status": "published",
+      "article_type": "method",
+      "incoming_links": 2,
+      "outgoing_links": 1,
+      "total_link_degree": 3,
+      "network_role": "connector",
+      "meets_total_degree_threshold": true,
+      "meets_incoming_threshold": true
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "title": "Narrative Pathways and Knowledge Architecture",
+      "cluster": "Knowledge Architecture",
+      "status": "published",
+      "article_type": "bridge",
+      "incoming_links": 0,
+      "outgoing_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked",
+      "meets_total_degree_threshold": false,
+      "meets_incoming_threshold": false
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "title": "Frameworks for Digital Knowledge Systems",
+      "cluster": "Knowledge Architecture",
+      "status": "published",
+      "article_type": "method",
+      "incoming_links": 1,
+      "outgoing_links": 1,
+      "total_link_degree": 2,
+      "network_role": "thinly linked",
+      "meets_total_degree_threshold": false,
+      "meets_incoming_threshold": true
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "title": "Taxonomy Design for Content Frameworks",
+      "cluster": "Knowledge Architecture",
+      "status": "planned",
+      "article_type": "method",
+      "incoming_links": 1,
+      "outgoing_links": 0,
+      "total_link_degree": 1,
+      "network_role": "thinly linked",
+      "meets_total_degree_threshold": false,
+      "meets_incoming_threshold": true
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "title": "Internal Linking as Framework Infrastructure",
+      "cluster": "Knowledge Architecture",
+      "status": "published",
+      "article_type": "method",
+      "incoming_links": 6,
+      "outgoing_links": 7,
+      "total_link_degree": 13,
+      "network_role": "hub",
+      "meets_total_degree_threshold": true,
+      "meets_incoming_threshold": true
+    },
+    {
+      "slug": "content-audits-and-framework-governance",
+      "title": "Content Audits and Framework Governance",
+      "cluster": "Knowledge Architecture",
+      "status": "planned",
+      "article_type": "governance",
+      "incoming_links": 1,
+      "outgoing_links": 0,
+      "total_link_degree": 1,
+      "network_role": "thinly linked",
+      "meets_total_degree_threshold": false,
+      "meets_incoming_threshold": true
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "title": "Editorial Metadata and Content Systems",
+      "cluster": "Knowledge Architecture",
+      "status": "planned",
+      "article_type": "technical",
+      "incoming_links": 1,
+      "outgoing_links": 0,
+      "total_link_degree": 1,
+      "network_role": "thinly linked",
+      "meets_total_degree_threshold": false,
+      "meets_incoming_threshold": true
+    },
+    {
+      "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "title": "Educational Scaffolding and the Design of Learning Systems",
+      "cluster": "Educational Research and Conceptual Frameworks",
+      "status": "published",
+      "article_type": "method",
+      "incoming_links": 0,
+      "outgoing_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked",
+      "meets_total_degree_threshold": false,
+      "meets_incoming_threshold": false
+    },
+    {
+      "slug": "frameworks-for-research-communication",
+      "title": "Frameworks for Research Communication",
+      "cluster": "Educational Research and Conceptual Frameworks",
+      "status": "published",
+      "article_type": "method",
+      "incoming_links": 1,
+      "outgoing_links": 0,
+      "total_link_degree": 1,
+      "network_role": "thinly linked",
+      "meets_total_degree_threshold": false,
+      "meets_incoming_threshold": true
+    },
+    {
+      "slug": "message-house-and-the-architecture-of-strategic-messaging",
+      "title": "Message House and the Architecture of Strategic Messaging",
+      "cluster": "Audience Need Value Positioning and Message Architecture",
+      "status": "published",
+      "article_type": "method",
+      "incoming_links": 0,
+      "outgoing_links": 0,
+      "total_link_degree": 0,
+      "network_role": "orphaned",
+      "meets_total_degree_threshold": false,
+      "meets_incoming_threshold": false
+    },
+    {
+      "slug": "framework-governance-and-editorial-maintenance",
+      "title": "Framework Governance and Editorial Maintenance",
+      "cluster": "Framework Composition Scaling and Editorial Governance",
+      "status": "planned",
+      "article_type": "governance",
+      "incoming_links": 1,
+      "outgoing_links": 0,
+      "total_link_degree": 1,
+      "network_role": "thinly linked",
+      "meets_total_degree_threshold": false,
+      "meets_incoming_threshold": true
+    }
+  ],
+  "link_depth_report": [
+    {
+      "slug": "content-audits-and-framework-governance",
+      "title": "Content Audits and Framework Governance",
+      "status": "planned",
+      "minimum_link_depth_from_hub": 2,
+      "reachable_from_configured_hub": true,
+      "within_recommended_depth": true
+    },
+    {
+      "slug": "content-frameworks",
+      "title": "Content Frameworks",
+      "status": "published",
+      "minimum_link_depth_from_hub": 0,
+      "reachable_from_configured_hub": true,
+      "within_recommended_depth": true
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "title": "Editorial Metadata and Content Systems",
+      "status": "planned",
+      "minimum_link_depth_from_hub": 2,
+      "reachable_from_configured_hub": true,
+      "within_recommended_depth": true
+    },
+    {
+      "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "title": "Educational Scaffolding and the Design of Learning Systems",
+      "status": "published",
+      "minimum_link_depth_from_hub": "unreachable",
+      "reachable_from_configured_hub": false,
+      "within_recommended_depth": false
+    },
+    {
+      "slug": "framework-governance-and-editorial-maintenance",
+      "title": "Framework Governance and Editorial Maintenance",
+      "status": "planned",
+      "minimum_link_depth_from_hub": 2,
+      "reachable_from_configured_hub": true,
+      "within_recommended_depth": true
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "status": "planned",
+      "minimum_link_depth_from_hub": "unreachable",
+      "reachable_from_configured_hub": false,
+      "within_recommended_depth": false
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "title": "Frameworks for Digital Knowledge Systems",
+      "status": "published",
+      "minimum_link_depth_from_hub": 0,
+      "reachable_from_configured_hub": true,
+      "within_recommended_depth": true
+    },
+    {
+      "slug": "frameworks-for-research-communication",
+      "title": "Frameworks for Research Communication",
+      "status": "published",
+      "minimum_link_depth_from_hub": "unreachable",
+      "reachable_from_configured_hub": false,
+      "within_recommended_depth": false
+    },
+    {
+      "slug": "frameworks-templates-and-models",
+      "title": "Frameworks Templates and Models",
+      "status": "planned",
+      "minimum_link_depth_from_hub": "unreachable",
+      "reachable_from_configured_hub": false,
+      "within_recommended_depth": false
+    },
+    {
+      "slug": "history-of-framework-thinking-in-communication-and-strategy",
+      "title": "The History of Framework Thinking in Communication and Strategy",
+      "status": "planned",
+      "minimum_link_depth_from_hub": "unreachable",
+      "reachable_from_configured_hub": false,
+      "within_recommended_depth": false
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "title": "Internal Linking as Framework Infrastructure",
+      "status": "published",
+      "minimum_link_depth_from_hub": 1,
+      "reachable_from_configured_hub": true,
+      "within_recommended_depth": true
+    },
+    {
+      "slug": "message-house-and-the-architecture-of-strategic-messaging",
+      "title": "Message House and the Architecture of Strategic Messaging",
+      "status": "published",
+      "minimum_link_depth_from_hub": "unreachable",
+      "reachable_from_configured_hub": false,
+      "within_recommended_depth": false
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "title": "Narrative Pathways and Knowledge Architecture",
+      "status": "published",
+      "minimum_link_depth_from_hub": "unreachable",
+      "reachable_from_configured_hub": false,
+      "within_recommended_depth": false
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "status": "published",
+      "minimum_link_depth_from_hub": 0,
+      "reachable_from_configured_hub": true,
+      "within_recommended_depth": true
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "title": "Taxonomy Design for Content Frameworks",
+      "status": "planned",
+      "minimum_link_depth_from_hub": 2,
+      "reachable_from_configured_hub": true,
+      "within_recommended_depth": true
+    },
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "status": "published",
+      "minimum_link_depth_from_hub": 1,
+      "reachable_from_configured_hub": true,
+      "within_recommended_depth": true
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework",
+      "status": "published",
+      "minimum_link_depth_from_hub": "unreachable",
+      "reachable_from_configured_hub": false,
+      "within_recommended_depth": false
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "status": "published",
+      "minimum_link_depth_from_hub": 1,
+      "reachable_from_configured_hub": true,
+      "within_recommended_depth": true
+    }
+  ],
+  "cluster_coherence": [
+    {
+      "cluster": "Article Map",
+      "total_outgoing_links": 4,
+      "within_cluster_links": 0,
+      "bridge_links": 4,
+      "cluster_coherence": 0.0,
+      "bridge_rate": 1.0,
+      "interpretation": "bridge-heavy or underdeveloped"
+    },
+    {
+      "cluster": "Educational Research and Conceptual Frameworks",
+      "total_outgoing_links": 1,
+      "within_cluster_links": 1,
+      "bridge_links": 0,
+      "cluster_coherence": 1.0,
+      "bridge_rate": 0.0,
+      "interpretation": "cohesive"
+    },
+    {
+      "cluster": "Foundations",
+      "total_outgoing_links": 2,
+      "within_cluster_links": 0,
+      "bridge_links": 2,
+      "cluster_coherence": 0.0,
+      "bridge_rate": 1.0,
+      "interpretation": "bridge-heavy or underdeveloped"
+    },
+    {
+      "cluster": "Knowledge Architecture",
+      "total_outgoing_links": 11,
+      "within_cluster_links": 9,
+      "bridge_links": 2,
+      "cluster_coherence": 0.8182,
+      "bridge_rate": 0.1818,
+      "interpretation": "cohesive"
+    }
+  ],
+  "relationship_type_summary": [
+    {
+      "relationship_type": "bridge",
+      "link_count": 3
+    },
+    {
+      "relationship_type": "governance",
+      "link_count": 3
+    },
+    {
+      "relationship_type": "method",
+      "link_count": 4
+    },
+    {
+      "relationship_type": "prerequisite",
+      "link_count": 1
+    },
+    {
+      "relationship_type": "series_navigation",
+      "link_count": 5
+    },
+    {
+      "relationship_type": "topic_cluster",
+      "link_count": 2
+    }
+  ],
+  "anchor_text_quality": [
+    {
+      "source_slug": "content-frameworks",
+      "target_slug": "what-are-content-frameworks",
+      "anchor_text": "What Are Content Frameworks",
+      "anchor_length": 27,
+      "quality": "strong",
+      "problems": "none"
+    },
+    {
+      "source_slug": "content-frameworks",
+      "target_slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "anchor_text": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "anchor_length": 71,
+      "quality": "strong",
+      "problems": "none"
+    },
+    {
+      "source_slug": "content-frameworks",
+      "target_slug": "pillar-pages-and-topic-clusters",
+      "anchor_text": "Pillar Pages and Topic Clusters",
+      "anchor_length": 31,
+      "quality": "strong",
+      "problems": "none"
+    },
+    {
+      "source_slug": "content-frameworks",
+      "target_slug": "internal-linking-as-framework-infrastructure",
+      "anchor_text": "Internal Linking as Framework Infrastructure",
+      "anchor_length": 44,
+      "quality": "strong",
+      "problems": "none"
+    },
+    {
+      "source_slug": "internal-linking-as-framework-infrastructure",
+      "target_slug": "taxonomy-design-for-content-frameworks",
+      "anchor_text": "Taxonomy Design for Content Frameworks",
+      "anchor_length": 38,
+      "quality": "strong",
+      "problems": "none"
+    },
+    {
+      "source_slug": "internal-linking-as-framework-infrastructure",
+      "target_slug": "content-audits-and-framework-governance",
+      "anchor_text": "Content Audits and Framework Governance",
+      "anchor_length": 39,
+      "quality": "strong",
+      "problems": "none"
+    },
+    {
+      "source_slug": "internal-linking-as-framework-infrastructure",
+      "target_slug": "content-frameworks",
+      "anchor_text": "Content Frameworks article map",
+      "anchor_length": 30,
+      "quality": "strong",
+      "problems": "none"
+    },
+    {
+      "source_slug": "internal-linking-as-framework-infrastructure",
+      "target_slug": "pillar-pages-and-topic-clusters",
+      "anchor_text": "pillar pages and topic clusters",
+      "anchor_length": 31,
+      "quality": "strong",
+      "problems": "none"
+    },
+    {
+      "source_slug": "internal-linking-as-framework-infrastructure",
+      "target_slug": "frameworks-for-digital-knowledge-systems",
+      "anchor_text": "digital knowledge systems",
+      "anchor_length": 25,
+      "quality": "strong",
+      "problems": "none"
+    },
+    {
+      "source_slug": "internal-linking-as-framework-infrastructure",
+      "target_slug": "content-audits-and-framework-governance",
+      "anchor_text": "content audits and framework governance",
+      "anchor_length": 39,
+      "quality": "strong",
+      "problems": "none"
+    },
+    {
+      "source_slug": "internal-linking-as-framework-infrastructure",
+      "target_slug": "editorial-metadata-and-content-systems",
+      "anchor_text": "editorial metadata and content systems",
+      "anchor_length": 38,
+      "quality": "strong",
+      "problems": "none"
+    },
+    {
+      "source_slug": "internal-linking-as-framework-infrastructure",
+      "target_slug": "framework-governance-and-editorial-maintenance",
+      "anchor_text": "framework governance and editorial maintenance",
+      "anchor_length": 46,
+      "quality": "strong",
+      "problems": "none"
+    },
+    {
+      "source_slug": "pillar-pages-and-topic-clusters",
+      "target_slug": "internal-linking-as-framework-infrastructure",
+      "anchor_text": "internal linking as framework infrastructure",
+      "anchor_length": 44,
+      "quality": "strong",
+      "problems": "none"
+    },
+    {
+      "source_slug": "narrative-pathways-and-knowledge-architecture",
+      "target_slug": "internal-linking-as-framework-infrastructure",
+      "anchor_text": "internal linking",
+      "anchor_length": 16,
+      "quality": "strong",
+      "problems": "none"
+    },
+    {
+      "source_slug": "frameworks-for-digital-knowledge-systems",
+      "target_slug": "internal-linking-as-framework-infrastructure",
+      "anchor_text": "semantic internal links",
+      "anchor_length": 23,
+      "quality": "strong",
+      "problems": "none"
+    },
+    {
+      "source_slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "target_slug": "internal-linking-as-framework-infrastructure",
+      "anchor_text": "link infrastructure",
+      "anchor_length": 19,
+      "quality": "strong",
+      "problems": "none"
+    },
+    {
+      "source_slug": "what-are-content-frameworks",
+      "target_slug": "internal-linking-as-framework-infrastructure",
+      "anchor_text": "click here",
+      "anchor_length": 10,
+      "quality": "needs review",
+      "problems": "generic_anchor"
+    },
+    {
+      "source_slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "target_slug": "frameworks-for-research-communication",
+      "anchor_text": "frameworks for research communication",
+      "anchor_length": 37,
+      "quality": "strong",
+      "problems": "none"
+    }
+  ],
+  "connected_components": [
+    {
+      "component_id": 1,
+      "node_count": 11,
+      "slugs": "content-audits-and-framework-governance; content-frameworks; editorial-metadata-and-content-systems; framework-governance-and-editorial-maintenance; frameworks-for-digital-knowledge-systems; internal-linking-as-framework-infrastructure; narrative-pathways-and-knowledge-architecture; pillar-pages-and-topic-clusters; taxonomy-design-for-content-frameworks; what-are-content-frameworks; why-frameworks-matter-in-research-education-and-strategic-communication"
+    },
+    {
+      "component_id": 2,
+      "node_count": 2,
+      "slugs": "educational-scaffolding-and-the-design-of-learning-systems; frameworks-for-research-communication"
+    },
+    {
+      "component_id": 3,
+      "node_count": 1,
+      "slugs": "framework-literacy-and-the-structure-of-usable-knowledge"
+    },
+    {
+      "component_id": 4,
+      "node_count": 1,
+      "slugs": "frameworks-templates-and-models"
+    },
+    {
+      "component_id": 5,
+      "node_count": 1,
+      "slugs": "history-of-framework-thinking-in-communication-and-strategy"
+    },
+    {
+      "component_id": 6,
+      "node_count": 1,
+      "slugs": "message-house-and-the-architecture-of-strategic-messaging"
+    },
+    {
+      "component_id": 7,
+      "node_count": 1,
+      "slugs": "what-makes-a-powerful-content-framework"
+    }
+  ],
+  "recommendations": [
+    {
+      "source_slug": "what-are-content-frameworks",
+      "target_slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "cluster": "Foundations",
+      "recommendation_type": "same-cluster support link",
+      "recommended_relationship_type": "topic_cluster",
+      "priority": "high"
+    },
+    {
+      "source_slug": "what-are-content-frameworks",
+      "target_slug": "what-makes-a-powerful-content-framework",
+      "cluster": "Foundations",
+      "recommendation_type": "same-cluster support link",
+      "recommended_relationship_type": "topic_cluster",
+      "priority": "high"
+    },
+    {
+      "source_slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "target_slug": "what-are-content-frameworks",
+      "cluster": "Foundations",
+      "recommendation_type": "same-cluster support link",
+      "recommended_relationship_type": "topic_cluster",
+      "priority": "high"
+    },
+    {
+      "source_slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "target_slug": "what-makes-a-powerful-content-framework",
+      "cluster": "Foundations",
+      "recommendation_type": "same-cluster support link",
+      "recommended_relationship_type": "topic_cluster",
+      "priority": "high"
+    },
+    {
+      "source_slug": "what-makes-a-powerful-content-framework",
+      "target_slug": "what-are-content-frameworks",
+      "cluster": "Foundations",
+      "recommendation_type": "same-cluster support link",
+      "recommended_relationship_type": "topic_cluster",
+      "priority": "high"
+    },
+    {
+      "source_slug": "what-makes-a-powerful-content-framework",
+      "target_slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "cluster": "Foundations",
+      "recommendation_type": "same-cluster support link",
+      "recommended_relationship_type": "topic_cluster",
+      "priority": "high"
+    },
+    {
+      "source_slug": "pillar-pages-and-topic-clusters",
+      "target_slug": "narrative-pathways-and-knowledge-architecture",
+      "cluster": "Knowledge Architecture",
+      "recommendation_type": "same-cluster support link",
+      "recommended_relationship_type": "topic_cluster",
+      "priority": "high"
+    },
+    {
+      "source_slug": "pillar-pages-and-topic-clusters",
+      "target_slug": "frameworks-for-digital-knowledge-systems",
+      "cluster": "Knowledge Architecture",
+      "recommendation_type": "same-cluster support link",
+      "recommended_relationship_type": "topic_cluster",
+      "priority": "high"
+    },
+    {
+      "source_slug": "frameworks-for-digital-knowledge-systems",
+      "target_slug": "pillar-pages-and-topic-clusters",
+      "cluster": "Knowledge Architecture",
+      "recommendation_type": "same-cluster support link",
+      "recommended_relationship_type": "topic_cluster",
+      "priority": "medium"
+    },
+    {
+      "source_slug": "frameworks-for-digital-knowledge-systems",
+      "target_slug": "narrative-pathways-and-knowledge-architecture",
+      "cluster": "Knowledge Architecture",
+      "recommendation_type": "same-cluster support link",
+      "recommended_relationship_type": "topic_cluster",
+      "priority": "high"
+    },
+    {
+      "source_slug": "internal-linking-as-framework-infrastructure",
+      "target_slug": "narrative-pathways-and-knowledge-architecture",
+      "cluster": "Knowledge Architecture",
+      "recommendation_type": "same-cluster support link",
+      "recommended_relationship_type": "topic_cluster",
+      "priority": "high"
+    },
+    {
+      "source_slug": "frameworks-for-research-communication",
+      "target_slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "cluster": "Educational Research and Conceptual Frameworks",
+      "recommendation_type": "same-cluster support link",
+      "recommended_relationship_type": "topic_cluster",
+      "priority": "high"
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "orphaned_content",
+      "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+      "message": "Published article has 0 incoming links.",
+      "recommended_action": "Add incoming links from article map, hub, or related pages."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "orphaned_content",
+      "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+      "message": "Published article has 0 incoming links.",
+      "recommended_action": "Add incoming links from article map, hub, or related pages."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "orphaned_content",
+      "identifier": "narrative-pathways-and-knowledge-architecture",
+      "message": "Published article has 0 incoming links.",
+      "recommended_action": "Add incoming links from article map, hub, or related pages."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "orphaned_content",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Published article has 0 incoming links.",
+      "recommended_action": "Add incoming links from article map, hub, or related pages."
+    },
+    {
+      "source": "editorial_review_queue",
+      "severity": "medium",
+      "category": "anchor_text",
+      "identifier": "what-are-content-frameworks",
+      "message": "Replace vague anchor text with descriptive destination label",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "anchor_text",
+      "identifier": "what-are-content-frameworks->internal-linking-as-framework-infrastructure",
+      "message": "Anchor text needs review: generic_anchor.",
+      "recommended_action": "Use descriptive anchor text."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "link_degree",
+      "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+      "message": "Published article has total link degree 1, below threshold 3.",
+      "recommended_action": "Add relevant series, cluster, method, governance, or bridge links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "link_degree",
+      "identifier": "frameworks-for-digital-knowledge-systems",
+      "message": "Published article has total link degree 2, below threshold 3.",
+      "recommended_action": "Add relevant series, cluster, method, governance, or bridge links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "link_degree",
+      "identifier": "frameworks-for-research-communication",
+      "message": "Published article has total link degree 1, below threshold 3.",
+      "recommended_action": "Add relevant series, cluster, method, governance, or bridge links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "link_degree",
+      "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+      "message": "Published article has total link degree 0, below threshold 3.",
+      "recommended_action": "Add relevant series, cluster, method, governance, or bridge links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "link_degree",
+      "identifier": "narrative-pathways-and-knowledge-architecture",
+      "message": "Published article has total link degree 1, below threshold 3.",
+      "recommended_action": "Add relevant series, cluster, method, governance, or bridge links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "link_degree",
+      "identifier": "what-are-content-frameworks",
+      "message": "Published article has total link degree 2, below threshold 3.",
+      "recommended_action": "Add relevant series, cluster, method, governance, or bridge links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "link_degree",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Published article has total link degree 0, below threshold 3.",
+      "recommended_action": "Add relevant series, cluster, method, governance, or bridge links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "link_degree",
+      "identifier": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "message": "Published article has total link degree 2, below threshold 3.",
+      "recommended_action": "Add relevant series, cluster, method, governance, or bridge links."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "link_depth",
+      "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+      "message": "Published article is not within recommended hub depth 3.",
+      "recommended_action": "Add or revise links from article maps, pillar pages, or cluster hubs."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "link_depth",
+      "identifier": "frameworks-for-research-communication",
+      "message": "Published article is not within recommended hub depth 3.",
+      "recommended_action": "Add or revise links from article maps, pillar pages, or cluster hubs."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "link_depth",
+      "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+      "message": "Published article is not within recommended hub depth 3.",
+      "recommended_action": "Add or revise links from article maps, pillar pages, or cluster hubs."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "link_depth",
+      "identifier": "narrative-pathways-and-knowledge-architecture",
+      "message": "Published article is not within recommended hub depth 3.",
+      "recommended_action": "Add or revise links from article maps, pillar pages, or cluster hubs."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "link_depth",
+      "identifier": "what-makes-a-powerful-content-framework",
+      "message": "Published article is not within recommended hub depth 3.",
+      "recommended_action": "Add or revise links from article maps, pillar pages, or cluster hubs."
+    },
+    {
+      "source": "editorial_review_queue",
+      "severity": "medium",
+      "category": "status",
+      "identifier": "content-audits-and-framework-governance",
+      "message": "Planned next article is linked from published article and should be prioritized",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "editorial_review_queue",
+      "severity": "low",
+      "category": "governance",
+      "identifier": "internal-linking-as-framework-infrastructure",
+      "message": "Confirm final image attachment ID and repository URL after publication",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "editorial_review_queue",
+      "severity": "low",
+      "category": "status",
+      "identifier": "taxonomy-design-for-content-frameworks",
+      "message": "Planned predecessor article should be published or link status marked planned",
+      "recommended_action": "Resolve through editorial governance workflow."
+    }
+  ],
+  "catalog_export_preview": [
+    {
+      "catalog_product": "Catalyst Canvas",
+      "series": "Content Frameworks",
+      "slug": "content-frameworks",
+      "title": "Content Frameworks",
+      "cluster": "Article Map",
+      "status": "published",
+      "article_type": "pillar_map",
+      "incoming_links": 1,
+      "outgoing_links": 4,
+      "total_link_degree": 5,
+      "network_role": "bridge",
+      "minimum_link_depth_from_hub": 0,
+      "github_path": "articles/content-frameworks/"
+    },
+    {
+      "catalog_product": "Catalyst Canvas",
+      "series": "Content Frameworks",
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "cluster": "Foundations",
+      "status": "published",
+      "article_type": "foundational",
+      "incoming_links": 1,
+      "outgoing_links": 1,
+      "total_link_degree": 2,
+      "network_role": "thinly linked",
+      "minimum_link_depth_from_hub": 1,
+      "github_path": "articles/what-are-content-frameworks/"
+    },
+    {
+      "catalog_product": "Catalyst Canvas",
+      "series": "Content Frameworks",
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "cluster": "Foundations",
+      "status": "published",
+      "article_type": "foundational",
+      "incoming_links": 1,
+      "outgoing_links": 1,
+      "total_link_degree": 2,
+      "network_role": "thinly linked",
+      "minimum_link_depth_from_hub": 1,
+      "github_path": "articles/why-frameworks-matter-in-research-education-and-strategic-communication/"
+    },
+    {
+      "catalog_product": "Catalyst Canvas",
+      "series": "Content Frameworks",
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework",
+      "cluster": "Foundations",
+      "status": "published",
+      "article_type": "foundational",
+      "incoming_links": 0,
+      "outgoing_links": 0,
+      "total_link_degree": 0,
+      "network_role": "orphaned",
+      "minimum_link_depth_from_hub": "unreachable",
+      "github_path": "articles/what-makes-a-powerful-content-framework/"
+    },
+    {
+      "catalog_product": "Catalyst Canvas",
+      "series": "Content Frameworks",
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "cluster": "Foundations",
+      "status": "planned",
+      "article_type": "foundational",
+      "incoming_links": 0,
+      "outgoing_links": 0,
+      "total_link_degree": 0,
+      "network_role": "orphaned",
+      "minimum_link_depth_from_hub": "unreachable",
+      "github_path": "articles/framework-literacy-and-the-structure-of-usable-knowledge/"
+    }
+  ]
+}

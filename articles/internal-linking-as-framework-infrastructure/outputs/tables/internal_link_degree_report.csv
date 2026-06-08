@@ -1,0 +1,19 @@
+slug,title,cluster,status,article_type,incoming_links,outgoing_links,total_link_degree,network_role,meets_total_degree_threshold,meets_incoming_threshold
+content-frameworks,Content Frameworks,Article Map,published,pillar_map,1,4,5,bridge,True,True
+what-are-content-frameworks,What Are Content Frameworks?,Foundations,published,foundational,1,1,2,thinly linked,False,True
+why-frameworks-matter-in-research-education-and-strategic-communication,Why Frameworks Matter in Research Education and Strategic Communication,Foundations,published,foundational,1,1,2,thinly linked,False,True
+what-makes-a-powerful-content-framework,What Makes a Powerful Content Framework,Foundations,published,foundational,0,0,0,orphaned,False,False
+framework-literacy-and-the-structure-of-usable-knowledge,Framework Literacy and the Structure of Usable Knowledge,Foundations,planned,foundational,0,0,0,orphaned,False,False
+frameworks-templates-and-models,Frameworks Templates and Models,Foundations,planned,conceptual,0,0,0,orphaned,False,False
+history-of-framework-thinking-in-communication-and-strategy,The History of Framework Thinking in Communication and Strategy,Foundations,planned,historical,0,0,0,orphaned,False,False
+pillar-pages-and-topic-clusters,Pillar Pages and Topic Clusters,Knowledge Architecture,published,method,2,1,3,connector,True,True
+narrative-pathways-and-knowledge-architecture,Narrative Pathways and Knowledge Architecture,Knowledge Architecture,published,bridge,0,1,1,thinly linked,False,False
+frameworks-for-digital-knowledge-systems,Frameworks for Digital Knowledge Systems,Knowledge Architecture,published,method,1,1,2,thinly linked,False,True
+taxonomy-design-for-content-frameworks,Taxonomy Design for Content Frameworks,Knowledge Architecture,planned,method,1,0,1,thinly linked,False,True
+internal-linking-as-framework-infrastructure,Internal Linking as Framework Infrastructure,Knowledge Architecture,published,method,6,7,13,hub,True,True
+content-audits-and-framework-governance,Content Audits and Framework Governance,Knowledge Architecture,planned,governance,1,0,1,thinly linked,False,True
+editorial-metadata-and-content-systems,Editorial Metadata and Content Systems,Knowledge Architecture,planned,technical,1,0,1,thinly linked,False,True
+educational-scaffolding-and-the-design-of-learning-systems,Educational Scaffolding and the Design of Learning Systems,Educational Research and Conceptual Frameworks,published,method,0,1,1,thinly linked,False,False
+frameworks-for-research-communication,Frameworks for Research Communication,Educational Research and Conceptual Frameworks,published,method,1,0,1,thinly linked,False,True
+message-house-and-the-architecture-of-strategic-messaging,Message House and the Architecture of Strategic Messaging,Audience Need Value Positioning and Message Architecture,published,method,0,0,0,orphaned,False,False
+framework-governance-and-editorial-maintenance,Framework Governance and Editorial Maintenance,Framework Composition Scaling and Editorial Governance,planned,governance,1,0,1,thinly linked,False,True

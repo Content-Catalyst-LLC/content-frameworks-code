@@ -1,0 +1,16 @@
+cluster_name,article_count
+"Knowledge Architecture",3
+"Article Map",1
+Foundations,1
+relationship_type,link_count
+governance,1
+method,1
+prerequisite,1
+series_navigation,1
+topic_cluster,1
+slug,title,status,incoming_links,outgoing_links,total_link_degree
+what-are-content-frameworks,"What Are Content Frameworks?",published,0,0,0
+content-audits-and-framework-governance,"Content Audits and Framework Governance",planned,1,0,1
+content-frameworks,"Content Frameworks",published,1,1,2
+pillar-pages-and-topic-clusters,"Pillar Pages and Topic Clusters",published,1,1,2
+internal-linking-as-framework-infrastructure,"Internal Linking as Framework Infrastructure",published,2,3,5

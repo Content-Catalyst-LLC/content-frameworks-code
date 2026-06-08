@@ -1,0 +1,12 @@
+relationship_type,description,governance_use
+series_navigation,Previous next or article-map relationship,Required for article footer and sequence checks
+definition,Points to a foundational definition,Supports conceptual consistency
+prerequisite,Points to background knowledge needed before the current article,Supports learning progression
+method,Points to a practical method or workflow,Supports applied use
+application,Shows where a concept is used,Supports transfer and examples
+contrast,Clarifies distinction or boundary,Supports conceptual precision
+ethics,Connects method to risks or responsible use,Supports public-interest review
+governance,Connects content to maintenance audit metadata or review,Supports editorial stewardship
+topic_cluster,Connects articles within a shared cluster,Supports cluster coherence
+bridge,Connects related clusters or domains,Supports cross-series understanding
+repository,Connects article to companion code,Supports reproducibility

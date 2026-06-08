@@ -1,0 +1,23 @@
+source,severity,category,identifier,message,recommended_action
+automated_audit,high,orphaned_content,educational-scaffolding-and-the-design-of-learning-systems,Published article has 0 incoming links.,"Add incoming links from article map, hub, or related pages."
+automated_audit,high,orphaned_content,message-house-and-the-architecture-of-strategic-messaging,Published article has 0 incoming links.,"Add incoming links from article map, hub, or related pages."
+automated_audit,high,orphaned_content,narrative-pathways-and-knowledge-architecture,Published article has 0 incoming links.,"Add incoming links from article map, hub, or related pages."
+automated_audit,high,orphaned_content,what-makes-a-powerful-content-framework,Published article has 0 incoming links.,"Add incoming links from article map, hub, or related pages."
+editorial_review_queue,medium,anchor_text,what-are-content-frameworks,Replace vague anchor text with descriptive destination label,Resolve through editorial governance workflow.
+automated_audit,medium,anchor_text,what-are-content-frameworks->internal-linking-as-framework-infrastructure,Anchor text needs review: generic_anchor.,Use descriptive anchor text.
+automated_audit,medium,link_degree,educational-scaffolding-and-the-design-of-learning-systems,"Published article has total link degree 1, below threshold 3.","Add relevant series, cluster, method, governance, or bridge links."
+automated_audit,medium,link_degree,frameworks-for-digital-knowledge-systems,"Published article has total link degree 2, below threshold 3.","Add relevant series, cluster, method, governance, or bridge links."
+automated_audit,medium,link_degree,frameworks-for-research-communication,"Published article has total link degree 1, below threshold 3.","Add relevant series, cluster, method, governance, or bridge links."
+automated_audit,medium,link_degree,message-house-and-the-architecture-of-strategic-messaging,"Published article has total link degree 0, below threshold 3.","Add relevant series, cluster, method, governance, or bridge links."
+automated_audit,medium,link_degree,narrative-pathways-and-knowledge-architecture,"Published article has total link degree 1, below threshold 3.","Add relevant series, cluster, method, governance, or bridge links."
+automated_audit,medium,link_degree,what-are-content-frameworks,"Published article has total link degree 2, below threshold 3.","Add relevant series, cluster, method, governance, or bridge links."
+automated_audit,medium,link_degree,what-makes-a-powerful-content-framework,"Published article has total link degree 0, below threshold 3.","Add relevant series, cluster, method, governance, or bridge links."
+automated_audit,medium,link_degree,why-frameworks-matter-in-research-education-and-strategic-communication,"Published article has total link degree 2, below threshold 3.","Add relevant series, cluster, method, governance, or bridge links."
+automated_audit,medium,link_depth,educational-scaffolding-and-the-design-of-learning-systems,Published article is not within recommended hub depth 3.,"Add or revise links from article maps, pillar pages, or cluster hubs."
+automated_audit,medium,link_depth,frameworks-for-research-communication,Published article is not within recommended hub depth 3.,"Add or revise links from article maps, pillar pages, or cluster hubs."
+automated_audit,medium,link_depth,message-house-and-the-architecture-of-strategic-messaging,Published article is not within recommended hub depth 3.,"Add or revise links from article maps, pillar pages, or cluster hubs."
+automated_audit,medium,link_depth,narrative-pathways-and-knowledge-architecture,Published article is not within recommended hub depth 3.,"Add or revise links from article maps, pillar pages, or cluster hubs."
+automated_audit,medium,link_depth,what-makes-a-powerful-content-framework,Published article is not within recommended hub depth 3.,"Add or revise links from article maps, pillar pages, or cluster hubs."
+editorial_review_queue,medium,status,content-audits-and-framework-governance,Planned next article is linked from published article and should be prioritized,Resolve through editorial governance workflow.
+editorial_review_queue,low,governance,internal-linking-as-framework-infrastructure,Confirm final image attachment ID and repository URL after publication,Resolve through editorial governance workflow.
+editorial_review_queue,low,status,taxonomy-design-for-content-frameworks,Planned predecessor article should be published or link status marked planned,Resolve through editorial governance workflow.

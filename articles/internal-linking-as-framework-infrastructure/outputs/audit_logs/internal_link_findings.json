@@ -1,0 +1,128 @@
+[
+  {
+    "severity": "medium",
+    "category": "anchor_text",
+    "identifier": "what-are-content-frameworks->internal-linking-as-framework-infrastructure",
+    "message": "Anchor text needs review: generic_anchor.",
+    "recommended_action": "Use descriptive anchor text."
+  },
+  {
+    "severity": "medium",
+    "category": "link_degree",
+    "identifier": "what-are-content-frameworks",
+    "message": "Published article has total link degree 2, below threshold 3.",
+    "recommended_action": "Add relevant series, cluster, method, governance, or bridge links."
+  },
+  {
+    "severity": "medium",
+    "category": "link_degree",
+    "identifier": "why-frameworks-matter-in-research-education-and-strategic-communication",
+    "message": "Published article has total link degree 2, below threshold 3.",
+    "recommended_action": "Add relevant series, cluster, method, governance, or bridge links."
+  },
+  {
+    "severity": "medium",
+    "category": "link_degree",
+    "identifier": "what-makes-a-powerful-content-framework",
+    "message": "Published article has total link degree 0, below threshold 3.",
+    "recommended_action": "Add relevant series, cluster, method, governance, or bridge links."
+  },
+  {
+    "severity": "high",
+    "category": "orphaned_content",
+    "identifier": "what-makes-a-powerful-content-framework",
+    "message": "Published article has 0 incoming links.",
+    "recommended_action": "Add incoming links from article map, hub, or related pages."
+  },
+  {
+    "severity": "medium",
+    "category": "link_degree",
+    "identifier": "narrative-pathways-and-knowledge-architecture",
+    "message": "Published article has total link degree 1, below threshold 3.",
+    "recommended_action": "Add relevant series, cluster, method, governance, or bridge links."
+  },
+  {
+    "severity": "high",
+    "category": "orphaned_content",
+    "identifier": "narrative-pathways-and-knowledge-architecture",
+    "message": "Published article has 0 incoming links.",
+    "recommended_action": "Add incoming links from article map, hub, or related pages."
+  },
+  {
+    "severity": "medium",
+    "category": "link_degree",
+    "identifier": "frameworks-for-digital-knowledge-systems",
+    "message": "Published article has total link degree 2, below threshold 3.",
+    "recommended_action": "Add relevant series, cluster, method, governance, or bridge links."
+  },
+  {
+    "severity": "medium",
+    "category": "link_degree",
+    "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+    "message": "Published article has total link degree 1, below threshold 3.",
+    "recommended_action": "Add relevant series, cluster, method, governance, or bridge links."
+  },
+  {
+    "severity": "high",
+    "category": "orphaned_content",
+    "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+    "message": "Published article has 0 incoming links.",
+    "recommended_action": "Add incoming links from article map, hub, or related pages."
+  },
+  {
+    "severity": "medium",
+    "category": "link_degree",
+    "identifier": "frameworks-for-research-communication",
+    "message": "Published article has total link degree 1, below threshold 3.",
+    "recommended_action": "Add relevant series, cluster, method, governance, or bridge links."
+  },
+  {
+    "severity": "medium",
+    "category": "link_degree",
+    "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+    "message": "Published article has total link degree 0, below threshold 3.",
+    "recommended_action": "Add relevant series, cluster, method, governance, or bridge links."
+  },
+  {
+    "severity": "high",
+    "category": "orphaned_content",
+    "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+    "message": "Published article has 0 incoming links.",
+    "recommended_action": "Add incoming links from article map, hub, or related pages."
+  },
+  {
+    "severity": "medium",
+    "category": "link_depth",
+    "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+    "message": "Published article is not within recommended hub depth 3.",
+    "recommended_action": "Add or revise links from article maps, pillar pages, or cluster hubs."
+  },
+  {
+    "severity": "medium",
+    "category": "link_depth",
+    "identifier": "frameworks-for-research-communication",
+    "message": "Published article is not within recommended hub depth 3.",
+    "recommended_action": "Add or revise links from article maps, pillar pages, or cluster hubs."
+  },
+  {
+    "severity": "medium",
+    "category": "link_depth",
+    "identifier": "message-house-and-the-architecture-of-strategic-messaging",
+    "message": "Published article is not within recommended hub depth 3.",
+    "recommended_action": "Add or revise links from article maps, pillar pages, or cluster hubs."
+  },
+  {
+    "severity": "medium",
+    "category": "link_depth",
+    "identifier": "narrative-pathways-and-knowledge-architecture",
+    "message": "Published article is not within recommended hub depth 3.",
+    "recommended_action": "Add or revise links from article maps, pillar pages, or cluster hubs."
+  },
+  {
+    "severity": "medium",
+    "category": "link_depth",
+    "identifier": "what-makes-a-powerful-content-framework",
+    "message": "Published article is not within recommended hub depth 3.",
+    "recommended_action": "Add or revise links from article maps, pillar pages, or cluster hubs."
+  }
+]
