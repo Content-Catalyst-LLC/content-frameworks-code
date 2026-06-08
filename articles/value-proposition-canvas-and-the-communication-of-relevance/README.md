@@ -28,3 +28,29 @@ Rscript r/run_all_value_relevance_workflows.R
 sqlite3 outputs/value_relevance.sqlite < sql/value_relevance_schema.sql
 sqlite3 -header -csv outputs/value_relevance.sqlite < sql/value_relevance_queries.sql > outputs/tables/sql_value_relevance_report.csv
 ```
+
+## Catalyst Canvas Readiness Layer
+
+This article folder includes a Canvas-ready integration layer:
+
+- `canvas/canvas_manifest.json`
+- `canvas/input_schema.json`
+- `canvas/output_schema.json`
+- `canvas/canvas_cards.json`
+- `canvas/governance_queue.json`
+- `python/content_framework_canvas/`
+- `python/tests/`
+- `outputs/json/`
+- `outputs/markdown/`
+
+Run the audit from the article directory:
+
+```bash
+PYTHONPATH=python python3 -m content_framework_canvas.cli --article-root .
+```
+
+Run tests:
+
+```bash
+PYTHONPATH=python python3 -m unittest discover -s python/tests -p "test_*.py"
+```

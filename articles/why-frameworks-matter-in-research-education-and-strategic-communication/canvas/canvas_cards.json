@@ -1,0 +1,176 @@
+[
+  {
+    "card_id": "why-frameworks-matter-in-research-education-and-strategic-communication-orientation",
+    "type": "content_framework_canvas_dimension",
+    "article_slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+    "title": "Orientation",
+    "subtitle": "Why Frameworks Matter in Research, Education, and Strategic Communication",
+    "description": "Defines the article purpose and helps readers understand why the topic matters",
+    "badges": [
+      "readiness: 0.73",
+      "priority: medium",
+      "active"
+    ],
+    "metrics": {
+      "content_score": 0.82,
+      "audience_score": 0.84,
+      "evidence_score": 0.72,
+      "repository_score": 0.64,
+      "governance_pressure": 0.58,
+      "ethical_risk": 0.24,
+      "readiness_score": 0.73
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "repository support needs improvement"
+    }
+  },
+  {
+    "card_id": "why-frameworks-matter-in-research-education-and-strategic-communication-audience_need",
+    "type": "content_framework_canvas_dimension",
+    "article_slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+    "title": "Audience Need",
+    "subtitle": "Why Frameworks Matter in Research, Education, and Strategic Communication",
+    "description": "Connects the article to reader jobs pains gains questions or decision needs",
+    "badges": [
+      "readiness: 0.722",
+      "priority: medium",
+      "active"
+    ],
+    "metrics": {
+      "content_score": 0.8,
+      "audience_score": 0.88,
+      "evidence_score": 0.7,
+      "repository_score": 0.62,
+      "governance_pressure": 0.62,
+      "ethical_risk": 0.28,
+      "readiness_score": 0.722
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "repository support needs improvement"
+    }
+  },
+  {
+    "card_id": "why-frameworks-matter-in-research-education-and-strategic-communication-message_architecture",
+    "type": "content_framework_canvas_dimension",
+    "article_slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+    "title": "Message Architecture",
+    "subtitle": "Why Frameworks Matter in Research, Education, and Strategic Communication",
+    "description": "Assesses title intro section order examples and internal pathways",
+    "badges": [
+      "readiness: 0.721",
+      "priority: medium",
+      "active"
+    ],
+    "metrics": {
+      "content_score": 0.86,
+      "audience_score": 0.8,
+      "evidence_score": 0.74,
+      "repository_score": 0.58,
+      "governance_pressure": 0.6,
+      "ethical_risk": 0.26,
+      "readiness_score": 0.721
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "repository support needs improvement"
+    }
+  },
+  {
+    "card_id": "why-frameworks-matter-in-research-education-and-strategic-communication-evidence_architecture",
+    "type": "content_framework_canvas_dimension",
+    "article_slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+    "title": "Evidence Architecture",
+    "subtitle": "Why Frameworks Matter in Research, Education, and Strategic Communication",
+    "description": "Checks whether claims examples references and caveats support the article",
+    "badges": [
+      "readiness: 0.707",
+      "priority: medium",
+      "review"
+    ],
+    "metrics": {
+      "content_score": 0.78,
+      "audience_score": 0.76,
+      "evidence_score": 0.82,
+      "repository_score": 0.6,
+      "governance_pressure": 0.7,
+      "ethical_risk": 0.22,
+      "readiness_score": 0.707
+    },
+    "governance": {
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "repository support needs improvement; status marked review"
+    }
+  },
+  {
+    "card_id": "why-frameworks-matter-in-research-education-and-strategic-communication-repository_integration",
+    "type": "content_framework_canvas_dimension",
+    "article_slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+    "title": "Repository Integration",
+    "subtitle": "Why Frameworks Matter in Research, Education, and Strategic Communication",
+    "description": "Assesses whether code data outputs and documentation support reuse",
+    "badges": [
+      "readiness: 0.705",
+      "priority: medium",
+      "active"
+    ],
+    "metrics": {
+      "content_score": 0.74,
+      "audience_score": 0.72,
+      "evidence_score": 0.68,
+      "repository_score": 0.86,
+      "governance_pressure": 0.66,
+      "ethical_risk": 0.2,
+      "readiness_score": 0.705
+    },
+    "governance": {
+      "owner": "technical",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "evidence needs strengthening"
+    }
+  },
+  {
+    "card_id": "why-frameworks-matter-in-research-education-and-strategic-communication-governance_review",
+    "type": "content_framework_canvas_dimension",
+    "article_slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+    "title": "Governance Review",
+    "subtitle": "Why Frameworks Matter in Research, Education, and Strategic Communication",
+    "description": "Flags metadata freshness link integrity evidence review and conceptual drift",
+    "badges": [
+      "readiness: 0.656",
+      "priority: medium",
+      "review"
+    ],
+    "metrics": {
+      "content_score": 0.7,
+      "audience_score": 0.72,
+      "evidence_score": 0.76,
+      "repository_score": 0.7,
+      "governance_pressure": 0.88,
+      "ethical_risk": 0.36,
+      "readiness_score": 0.656
+    },
+    "governance": {
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "high governance need; status marked review"
+    }
+  }
+]

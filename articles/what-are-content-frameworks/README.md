@@ -31,3 +31,29 @@ javac java/ContentFrameworkModel.java && java -cp java ContentFrameworkModel
 sqlite3 outputs/content_frameworks.sqlite < sql/content_frameworks_schema.sql
 sqlite3 -header -csv outputs/content_frameworks.sqlite < sql/content_frameworks_queries.sql > outputs/tables/sql_content_framework_report.csv
 ```
+
+## Catalyst Canvas Readiness Layer
+
+This article folder includes a Canvas-ready integration layer:
+
+- `canvas/canvas_manifest.json`
+- `canvas/input_schema.json`
+- `canvas/output_schema.json`
+- `canvas/canvas_cards.json`
+- `canvas/governance_queue.json`
+- `python/content_framework_canvas/`
+- `python/tests/`
+- `outputs/json/`
+- `outputs/markdown/`
+
+Run the audit from the article directory:
+
+```bash
+PYTHONPATH=python python3 -m content_framework_canvas.cli --article-root .
+```
+
+Run tests:
+
+```bash
+PYTHONPATH=python python3 -m unittest discover -s python/tests -p "test_*.py"
+```

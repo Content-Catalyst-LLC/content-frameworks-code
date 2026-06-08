@@ -1,0 +1,397 @@
+{
+  "module": "editorial_metadata_and_content_systems_canvas",
+  "version": "1.0.0",
+  "article_slug": "editorial-metadata-and-content-systems",
+  "article_title": "Editorial Metadata and Content Systems",
+  "generated_at": "2026-06-08T23:18:54+00:00",
+  "results": [
+    {
+      "record_id": "orientation",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "article_title": "Editorial Metadata and Content Systems",
+      "module_kind": "metadata",
+      "canvas_dimension": "Orientation",
+      "description": "Defines the article purpose and helps readers understand why the topic matters",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "content_score": 0.82,
+      "audience_score": 0.84,
+      "evidence_score": 0.72,
+      "repository_score": 0.64,
+      "governance_pressure": 0.58,
+      "ethical_risk": 0.24,
+      "readiness_score": 0.73,
+      "review_priority": "medium",
+      "governance_reasons": "repository support needs improvement"
+    },
+    {
+      "record_id": "audience_need",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "article_title": "Editorial Metadata and Content Systems",
+      "module_kind": "metadata",
+      "canvas_dimension": "Audience Need",
+      "description": "Connects the article to reader jobs pains gains questions or decision needs",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "content_score": 0.8,
+      "audience_score": 0.88,
+      "evidence_score": 0.7,
+      "repository_score": 0.62,
+      "governance_pressure": 0.62,
+      "ethical_risk": 0.28,
+      "readiness_score": 0.722,
+      "review_priority": "medium",
+      "governance_reasons": "repository support needs improvement"
+    },
+    {
+      "record_id": "message_architecture",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "article_title": "Editorial Metadata and Content Systems",
+      "module_kind": "metadata",
+      "canvas_dimension": "Message Architecture",
+      "description": "Assesses title intro section order examples and internal pathways",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "content_score": 0.86,
+      "audience_score": 0.8,
+      "evidence_score": 0.74,
+      "repository_score": 0.58,
+      "governance_pressure": 0.6,
+      "ethical_risk": 0.26,
+      "readiness_score": 0.721,
+      "review_priority": "medium",
+      "governance_reasons": "repository support needs improvement"
+    },
+    {
+      "record_id": "evidence_architecture",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "article_title": "Editorial Metadata and Content Systems",
+      "module_kind": "metadata",
+      "canvas_dimension": "Evidence Architecture",
+      "description": "Checks whether claims examples references and caveats support the article",
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "content_score": 0.78,
+      "audience_score": 0.76,
+      "evidence_score": 0.82,
+      "repository_score": 0.6,
+      "governance_pressure": 0.7,
+      "ethical_risk": 0.22,
+      "readiness_score": 0.707,
+      "review_priority": "medium",
+      "governance_reasons": "repository support needs improvement; status marked review"
+    },
+    {
+      "record_id": "repository_integration",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "article_title": "Editorial Metadata and Content Systems",
+      "module_kind": "metadata",
+      "canvas_dimension": "Repository Integration",
+      "description": "Assesses whether code data outputs and documentation support reuse",
+      "owner": "technical",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "content_score": 0.74,
+      "audience_score": 0.72,
+      "evidence_score": 0.68,
+      "repository_score": 0.86,
+      "governance_pressure": 0.66,
+      "ethical_risk": 0.2,
+      "readiness_score": 0.705,
+      "review_priority": "medium",
+      "governance_reasons": "evidence needs strengthening"
+    },
+    {
+      "record_id": "governance_review",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "article_title": "Editorial Metadata and Content Systems",
+      "module_kind": "metadata",
+      "canvas_dimension": "Governance Review",
+      "description": "Flags metadata freshness link integrity evidence review and conceptual drift",
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "content_score": 0.7,
+      "audience_score": 0.72,
+      "evidence_score": 0.76,
+      "repository_score": 0.7,
+      "governance_pressure": 0.88,
+      "ethical_risk": 0.36,
+      "readiness_score": 0.656,
+      "review_priority": "medium",
+      "governance_reasons": "high governance need; status marked review"
+    }
+  ],
+  "governance_queue": [
+    {
+      "queue_id": "editorial-metadata-and-content-systems-governance_review",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "article_title": "Editorial Metadata and Content Systems",
+      "canvas_dimension": "Governance Review",
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "readiness_score": 0.656,
+      "governance_pressure": 0.88,
+      "ethical_risk": 0.36,
+      "governance_reasons": "high governance need; status marked review",
+      "recommended_action": "Review evidence, repository support, governance status, or ethical risk."
+    },
+    {
+      "queue_id": "editorial-metadata-and-content-systems-repository_integration",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "article_title": "Editorial Metadata and Content Systems",
+      "canvas_dimension": "Repository Integration",
+      "owner": "technical",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "readiness_score": 0.705,
+      "governance_pressure": 0.66,
+      "ethical_risk": 0.2,
+      "governance_reasons": "evidence needs strengthening",
+      "recommended_action": "Review evidence, repository support, governance status, or ethical risk."
+    },
+    {
+      "queue_id": "editorial-metadata-and-content-systems-evidence_architecture",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "article_title": "Editorial Metadata and Content Systems",
+      "canvas_dimension": "Evidence Architecture",
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "readiness_score": 0.707,
+      "governance_pressure": 0.7,
+      "ethical_risk": 0.22,
+      "governance_reasons": "repository support needs improvement; status marked review",
+      "recommended_action": "Review evidence, repository support, governance status, or ethical risk."
+    },
+    {
+      "queue_id": "editorial-metadata-and-content-systems-message_architecture",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "article_title": "Editorial Metadata and Content Systems",
+      "canvas_dimension": "Message Architecture",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "readiness_score": 0.721,
+      "governance_pressure": 0.6,
+      "ethical_risk": 0.26,
+      "governance_reasons": "repository support needs improvement",
+      "recommended_action": "Review evidence, repository support, governance status, or ethical risk."
+    },
+    {
+      "queue_id": "editorial-metadata-and-content-systems-audience_need",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "article_title": "Editorial Metadata and Content Systems",
+      "canvas_dimension": "Audience Need",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "readiness_score": 0.722,
+      "governance_pressure": 0.62,
+      "ethical_risk": 0.28,
+      "governance_reasons": "repository support needs improvement",
+      "recommended_action": "Review evidence, repository support, governance status, or ethical risk."
+    },
+    {
+      "queue_id": "editorial-metadata-and-content-systems-orientation",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "article_title": "Editorial Metadata and Content Systems",
+      "canvas_dimension": "Orientation",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "readiness_score": 0.73,
+      "governance_pressure": 0.58,
+      "ethical_risk": 0.24,
+      "governance_reasons": "repository support needs improvement",
+      "recommended_action": "Review evidence, repository support, governance status, or ethical risk."
+    }
+  ],
+  "canvas_cards": [
+    {
+      "card_id": "editorial-metadata-and-content-systems-orientation",
+      "type": "content_framework_canvas_dimension",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "title": "Orientation",
+      "subtitle": "Editorial Metadata and Content Systems",
+      "description": "Defines the article purpose and helps readers understand why the topic matters",
+      "badges": [
+        "readiness: 0.73",
+        "priority: medium",
+        "active"
+      ],
+      "metrics": {
+        "content_score": 0.82,
+        "audience_score": 0.84,
+        "evidence_score": 0.72,
+        "repository_score": 0.64,
+        "governance_pressure": 0.58,
+        "ethical_risk": 0.24,
+        "readiness_score": 0.73
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "repository support needs improvement"
+      }
+    },
+    {
+      "card_id": "editorial-metadata-and-content-systems-audience_need",
+      "type": "content_framework_canvas_dimension",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "title": "Audience Need",
+      "subtitle": "Editorial Metadata and Content Systems",
+      "description": "Connects the article to reader jobs pains gains questions or decision needs",
+      "badges": [
+        "readiness: 0.722",
+        "priority: medium",
+        "active"
+      ],
+      "metrics": {
+        "content_score": 0.8,
+        "audience_score": 0.88,
+        "evidence_score": 0.7,
+        "repository_score": 0.62,
+        "governance_pressure": 0.62,
+        "ethical_risk": 0.28,
+        "readiness_score": 0.722
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "repository support needs improvement"
+      }
+    },
+    {
+      "card_id": "editorial-metadata-and-content-systems-message_architecture",
+      "type": "content_framework_canvas_dimension",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "title": "Message Architecture",
+      "subtitle": "Editorial Metadata and Content Systems",
+      "description": "Assesses title intro section order examples and internal pathways",
+      "badges": [
+        "readiness: 0.721",
+        "priority: medium",
+        "active"
+      ],
+      "metrics": {
+        "content_score": 0.86,
+        "audience_score": 0.8,
+        "evidence_score": 0.74,
+        "repository_score": 0.58,
+        "governance_pressure": 0.6,
+        "ethical_risk": 0.26,
+        "readiness_score": 0.721
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "repository support needs improvement"
+      }
+    },
+    {
+      "card_id": "editorial-metadata-and-content-systems-evidence_architecture",
+      "type": "content_framework_canvas_dimension",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "title": "Evidence Architecture",
+      "subtitle": "Editorial Metadata and Content Systems",
+      "description": "Checks whether claims examples references and caveats support the article",
+      "badges": [
+        "readiness: 0.707",
+        "priority: medium",
+        "review"
+      ],
+      "metrics": {
+        "content_score": 0.78,
+        "audience_score": 0.76,
+        "evidence_score": 0.82,
+        "repository_score": 0.6,
+        "governance_pressure": 0.7,
+        "ethical_risk": 0.22,
+        "readiness_score": 0.707
+      },
+      "governance": {
+        "owner": "governance",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "repository support needs improvement; status marked review"
+      }
+    },
+    {
+      "card_id": "editorial-metadata-and-content-systems-repository_integration",
+      "type": "content_framework_canvas_dimension",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "title": "Repository Integration",
+      "subtitle": "Editorial Metadata and Content Systems",
+      "description": "Assesses whether code data outputs and documentation support reuse",
+      "badges": [
+        "readiness: 0.705",
+        "priority: medium",
+        "active"
+      ],
+      "metrics": {
+        "content_score": 0.74,
+        "audience_score": 0.72,
+        "evidence_score": 0.68,
+        "repository_score": 0.86,
+        "governance_pressure": 0.66,
+        "ethical_risk": 0.2,
+        "readiness_score": 0.705
+      },
+      "governance": {
+        "owner": "technical",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "evidence needs strengthening"
+      }
+    },
+    {
+      "card_id": "editorial-metadata-and-content-systems-governance_review",
+      "type": "content_framework_canvas_dimension",
+      "article_slug": "editorial-metadata-and-content-systems",
+      "title": "Governance Review",
+      "subtitle": "Editorial Metadata and Content Systems",
+      "description": "Flags metadata freshness link integrity evidence review and conceptual drift",
+      "badges": [
+        "readiness: 0.656",
+        "priority: medium",
+        "review"
+      ],
+      "metrics": {
+        "content_score": 0.7,
+        "audience_score": 0.72,
+        "evidence_score": 0.76,
+        "repository_score": 0.7,
+        "governance_pressure": 0.88,
+        "ethical_risk": 0.36,
+        "readiness_score": 0.656
+      },
+      "governance": {
+        "owner": "governance",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "high governance need; status marked review"
+      }
+    }
+  ]
+}

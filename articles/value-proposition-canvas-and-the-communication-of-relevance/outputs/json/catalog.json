@@ -1,0 +1,24 @@
+{
+  "module": "value_proposition_canvas_and_the_communication_of_relevance_canvas",
+  "version": "1.0.0",
+  "article_slug": "value-proposition-canvas-and-the-communication-of-relevance",
+  "article_title": "Value Proposition Canvas and the Communication of Relevance",
+  "generated_at": "2026-06-08T23:18:55+00:00",
+  "record_count": 6,
+  "average_readiness_score": 0.707,
+  "metrics": [
+    "content_score",
+    "audience_score",
+    "evidence_score",
+    "repository_score",
+    "governance_pressure",
+    "ethical_risk",
+    "readiness_score"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/article_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/article_canvas_export.json"
+  }
+}

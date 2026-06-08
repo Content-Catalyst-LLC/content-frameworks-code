@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://thecontentcatalyst.net/schemas/why-frameworks-matter-in-research-education-and-strategic-communication-canvas-output.schema.json",
+  "title": "Catalyst Canvas Output Schema: Why Frameworks Matter in Research, Education, and Strategic Communication",
+  "description": "Output schema for Catalyst Canvas article-readiness audit results, UI cards, catalog records, and governance queues.",
+  "type": "object",
+  "required": ["module", "article_slug", "generated_at", "results", "governance_queue", "canvas_cards"],
+  "properties": {
+    "module": { "type": "string", "const": "why_frameworks_matter_in_research_education_and_strategic_communication_canvas" },
+    "article_slug": { "type": "string", "const": "why-frameworks-matter-in-research-education-and-strategic-communication" },
+    "generated_at": { "type": "string" },
+    "results": { "type": "array" },
+    "governance_queue": { "type": "array" },
+    "canvas_cards": { "type": "array" }
+  },
+  "additionalProperties": true
+}
