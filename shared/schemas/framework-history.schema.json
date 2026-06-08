@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Historical Framework Record",
+  "type": "object",
+  "required": [
+    "framework_id",
+    "framework_name",
+    "period",
+    "lineage",
+    "domain",
+    "structure_type",
+    "primary_function"
+  ],
+  "properties": {
+    "framework_id": { "type": "string" },
+    "framework_name": { "type": "string" },
+    "period": { "type": "string" },
+    "lineage": { "type": "string" },
+    "domain": { "type": "string" },
+    "structure_type": { "type": "string" },
+    "primary_function": { "type": "string" },
+    "transferred_across_domains": { "type": "string" },
+    "risk_severity": { "type": "string" },
+    "risk_note": { "type": "string" }
+  }
+}

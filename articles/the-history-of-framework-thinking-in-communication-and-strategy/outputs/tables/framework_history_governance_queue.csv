@@ -1,0 +1,18 @@
+source,severity,category,identifier,message,recommended_action
+automated_audit,high,framework_history,HF008,AIDA requires review: transfer review required.,"Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+automated_audit,high,framework_history,HF013,AI Generated Article Map requires review: transfer review required.,"Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+framework_history,high,historical_lineage_review,HF008,AIDA status: transfer review required.,"Review lineage, transfer context, limitations, and governance before reuse."
+framework_history,high,historical_lineage_review,HF013,AI Generated Article Map status: transfer review required.,"Review lineage, transfer context, limitations, and governance before reuse."
+automated_audit,medium,framework_history,HF001,Classical Rhetorical Arrangement requires review: risk review recommended.,"Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+automated_audit,medium,framework_history,HF002,Ethos Pathos Logos requires review: risk review recommended.,"Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+automated_audit,medium,framework_history,HF006,SWOT Analysis requires review: transfer review required.,"Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+automated_audit,medium,framework_history,HF007,Porter Five Forces requires review: risk review recommended.,"Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+automated_audit,medium,framework_history,HF012,Topic Cluster SEO requires review: risk review recommended.,"Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+framework_history,medium,historical_lineage_review,HF001,Classical Rhetorical Arrangement status: risk review recommended.,"Review lineage, transfer context, limitations, and governance before reuse."
+framework_history,medium,historical_lineage_review,HF002,Ethos Pathos Logos status: risk review recommended.,"Review lineage, transfer context, limitations, and governance before reuse."
+framework_history,medium,historical_lineage_review,HF006,SWOT Analysis status: transfer review required.,"Review lineage, transfer context, limitations, and governance before reuse."
+framework_history,medium,historical_lineage_review,HF007,Porter Five Forces status: risk review recommended.,"Review lineage, transfer context, limitations, and governance before reuse."
+framework_history,medium,historical_lineage_review,HF012,Topic Cluster SEO status: risk review recommended.,"Review lineage, transfer context, limitations, and governance before reuse."
+automated_audit,low,links,aida-and-the-logic-of-persuasive-sequence,Link target is outside sample article map.,Confirm linked article exists.
+automated_audit,low,links,framework-governance-and-editorial-maintenance,Link target is outside sample article map.,Confirm linked article exists.
+automated_audit,low,links,swot-analysis-strengths-uses-and-limits,Link target is outside sample article map.,Confirm linked article exists.

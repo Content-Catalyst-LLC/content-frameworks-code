@@ -1,0 +1,754 @@
+{
+  "article": "The History of Framework Thinking in Communication and Strategy",
+  "generated_at": "2026-06-08T12:01:15.186352+00:00",
+  "config": {
+    "product_context": "Catalyst Canvas",
+    "article": "The History of Framework Thinking in Communication and Strategy",
+    "series": "Content Frameworks",
+    "version": "1.0.0",
+    "lineages": [
+      "rhetorical",
+      "logical_classificatory",
+      "educational",
+      "scientific_modeling",
+      "strategic_managerial",
+      "advertising_persuasive_sequence",
+      "information_architecture",
+      "content_strategy_governance",
+      "knowledge_management_metadata",
+      "digital_platform",
+      "ai_assisted"
+    ],
+    "governance_fields": [
+      "purpose_documented",
+      "use_conditions_documented",
+      "limitations_documented",
+      "owner_assigned",
+      "review_cycle_defined"
+    ],
+    "minimum_governance_score": 0.8,
+    "risk_terms": [
+      "false universality",
+      "ahistorical reuse",
+      "managerial overreach",
+      "persuasive manipulation",
+      "classification drift",
+      "model treated as reality",
+      "AI-generated structure without review",
+      "framework detached from original purpose"
+    ],
+    "governance_review_triggers": {
+      "governance_score_below": 0.8,
+      "cross_domain_transfer_without_use_conditions": true,
+      "risk_severity_at_or_above": "medium"
+    }
+  },
+  "counts": {
+    "frameworks": 13,
+    "influence_edges": 12,
+    "articles": 9,
+    "links": 7,
+    "governance_queue": 17
+  },
+  "summary": {
+    "lineage_counts": {
+      "rhetorical": 2,
+      "logical_classificatory": 1,
+      "educational": 1,
+      "scientific_modeling": 1,
+      "strategic_managerial": 2,
+      "advertising_persuasive_sequence": 1,
+      "information_architecture": 1,
+      "content_strategy_governance": 1,
+      "knowledge_management_metadata": 1,
+      "digital_platform": 1,
+      "ai_assisted": 1
+    },
+    "period_counts": {
+      "ancient": 2,
+      "ancient_to_modern": 1,
+      "modern": 5,
+      "late_modern": 1,
+      "contemporary": 3,
+      "active": 1
+    },
+    "domain_counts": {
+      "Communication": 2,
+      "Knowledge Organization": 1,
+      "Education": 1,
+      "Research": 1,
+      "Strategy": 2,
+      "Advertising": 1,
+      "Digital Publishing": 2,
+      "Editorial Systems": 1,
+      "Knowledge Management": 1,
+      "AI-Assisted Workflows": 1
+    }
+  },
+  "historical_frameworks": [
+    {
+      "framework_id": "HF001",
+      "framework_name": "Classical Rhetorical Arrangement",
+      "period": "ancient",
+      "lineage": "rhetorical",
+      "domain": "Communication",
+      "structure_type": "framework",
+      "primary_function": "Structure persuasive speech",
+      "transferred_across_domains": "yes",
+      "governance_score": 1.0,
+      "missing_governance_fields": "none",
+      "transfer_status": "risk review recommended",
+      "risk_severity": "medium",
+      "risk_note": "Can support public reasoning or manipulation depending on use"
+    },
+    {
+      "framework_id": "HF002",
+      "framework_name": "Ethos Pathos Logos",
+      "period": "ancient",
+      "lineage": "rhetorical",
+      "domain": "Communication",
+      "structure_type": "framework",
+      "primary_function": "Analyze credibility emotion and reason",
+      "transferred_across_domains": "yes",
+      "governance_score": 1.0,
+      "missing_governance_fields": "none",
+      "transfer_status": "risk review recommended",
+      "risk_severity": "medium",
+      "risk_note": "Can be reduced to persuasion tactics without ethical context"
+    },
+    {
+      "framework_id": "HF007",
+      "framework_name": "Porter Five Forces",
+      "period": "modern",
+      "lineage": "strategic_managerial",
+      "domain": "Strategy",
+      "structure_type": "framework",
+      "primary_function": "Analyze competitive forces",
+      "transferred_across_domains": "yes",
+      "governance_score": 1.0,
+      "missing_governance_fields": "none",
+      "transfer_status": "risk review recommended",
+      "risk_severity": "medium",
+      "risk_note": "Can overemphasize competition in public value contexts"
+    },
+    {
+      "framework_id": "HF006",
+      "framework_name": "SWOT Analysis",
+      "period": "modern",
+      "lineage": "strategic_managerial",
+      "domain": "Strategy",
+      "structure_type": "framework",
+      "primary_function": "Organize internal and external factors",
+      "transferred_across_domains": "yes",
+      "governance_score": 0.6,
+      "missing_governance_fields": "use_conditions_documented; review_cycle_defined",
+      "transfer_status": "transfer review required",
+      "risk_severity": "medium",
+      "risk_note": "Can become generic without evidence and prioritization"
+    },
+    {
+      "framework_id": "HF012",
+      "framework_name": "Topic Cluster SEO",
+      "period": "contemporary",
+      "lineage": "digital_platform",
+      "domain": "Digital Publishing",
+      "structure_type": "framework",
+      "primary_function": "Organize content for search and navigation",
+      "transferred_across_domains": "yes",
+      "governance_score": 1.0,
+      "missing_governance_fields": "none",
+      "transfer_status": "risk review recommended",
+      "risk_severity": "medium",
+      "risk_note": "Can optimize for search while weakening understanding"
+    },
+    {
+      "framework_id": "HF013",
+      "framework_name": "AI Generated Article Map",
+      "period": "active",
+      "lineage": "ai_assisted",
+      "domain": "AI-Assisted Workflows",
+      "structure_type": "workflow",
+      "primary_function": "Generate candidate content structures",
+      "transferred_across_domains": "yes",
+      "governance_score": 0.0,
+      "missing_governance_fields": "purpose_documented; use_conditions_documented; limitations_documented; owner_assigned; review_cycle_defined",
+      "transfer_status": "transfer review required",
+      "risk_severity": "high",
+      "risk_note": "Can scale generic structures without evidence or governance"
+    },
+    {
+      "framework_id": "HF008",
+      "framework_name": "AIDA",
+      "period": "modern",
+      "lineage": "advertising_persuasive_sequence",
+      "domain": "Advertising",
+      "structure_type": "framework",
+      "primary_function": "Sequence audience response",
+      "transferred_across_domains": "yes",
+      "governance_score": 0.6,
+      "missing_governance_fields": "use_conditions_documented; review_cycle_defined",
+      "transfer_status": "transfer review required",
+      "risk_severity": "high",
+      "risk_note": "Can encourage manipulation when agency and context are ignored"
+    },
+    {
+      "framework_id": "HF003",
+      "framework_name": "Classification and Taxonomy",
+      "period": "ancient_to_modern",
+      "lineage": "logical_classificatory",
+      "domain": "Knowledge Organization",
+      "structure_type": "framework",
+      "primary_function": "Group and retrieve knowledge",
+      "transferred_across_domains": "yes",
+      "governance_score": 1.0,
+      "missing_governance_fields": "none",
+      "transfer_status": "managed use",
+      "risk_severity": "low",
+      "risk_note": "Can harden provisional categories into fixed boundaries"
+    },
+    {
+      "framework_id": "HF010",
+      "framework_name": "Content Strategy Governance",
+      "period": "contemporary",
+      "lineage": "content_strategy_governance",
+      "domain": "Editorial Systems",
+      "structure_type": "framework",
+      "primary_function": "Plan govern and maintain content systems",
+      "transferred_across_domains": "yes",
+      "governance_score": 1.0,
+      "missing_governance_fields": "none",
+      "transfer_status": "managed use",
+      "risk_severity": "low",
+      "risk_note": "Can become process-heavy without editorial judgment"
+    },
+    {
+      "framework_id": "HF004",
+      "framework_name": "Curriculum Scaffolding",
+      "period": "modern",
+      "lineage": "educational",
+      "domain": "Education",
+      "structure_type": "framework",
+      "primary_function": "Sequence learning progression",
+      "transferred_across_domains": "yes",
+      "governance_score": 1.0,
+      "missing_governance_fields": "none",
+      "transfer_status": "managed use",
+      "risk_severity": "low",
+      "risk_note": "Can become rigid if learner variation is ignored"
+    },
+    {
+      "framework_id": "HF009",
+      "framework_name": "Information Architecture",
+      "period": "late_modern",
+      "lineage": "information_architecture",
+      "domain": "Digital Publishing",
+      "structure_type": "framework",
+      "primary_function": "Organize digital knowledge environments",
+      "transferred_across_domains": "yes",
+      "governance_score": 1.0,
+      "missing_governance_fields": "none",
+      "transfer_status": "managed use",
+      "risk_severity": "low",
+      "risk_note": "Can overfit to navigation while missing conceptual depth"
+    },
+    {
+      "framework_id": "HF011",
+      "framework_name": "Metadata Standards",
+      "period": "contemporary",
+      "lineage": "knowledge_management_metadata",
+      "domain": "Knowledge Management",
+      "structure_type": "model",
+      "primary_function": "Represent managed content attributes",
+      "transferred_across_domains": "yes",
+      "governance_score": 1.0,
+      "missing_governance_fields": "none",
+      "transfer_status": "managed use",
+      "risk_severity": "low",
+      "risk_note": "Can become mechanical if fields replace interpretation"
+    },
+    {
+      "framework_id": "HF005",
+      "framework_name": "Scientific Modeling",
+      "period": "modern",
+      "lineage": "scientific_modeling",
+      "domain": "Research",
+      "structure_type": "model",
+      "primary_function": "Represent relationships and mechanisms",
+      "transferred_across_domains": "yes",
+      "governance_score": 1.0,
+      "missing_governance_fields": "none",
+      "transfer_status": "managed use",
+      "risk_severity": "low",
+      "risk_note": "Can be mistaken for reality if assumptions disappear"
+    }
+  ],
+  "influence_graph": [
+    {
+      "framework_id": "HF001",
+      "incoming_influences": 0,
+      "outgoing_influences": 1,
+      "influence_degree": 1,
+      "lineage_role": "source"
+    },
+    {
+      "framework_id": "HF002",
+      "incoming_influences": 0,
+      "outgoing_influences": 1,
+      "influence_degree": 1,
+      "lineage_role": "source"
+    },
+    {
+      "framework_id": "HF003",
+      "incoming_influences": 0,
+      "outgoing_influences": 2,
+      "influence_degree": 2,
+      "lineage_role": "source"
+    },
+    {
+      "framework_id": "HF004",
+      "incoming_influences": 0,
+      "outgoing_influences": 1,
+      "influence_degree": 1,
+      "lineage_role": "source"
+    },
+    {
+      "framework_id": "HF005",
+      "incoming_influences": 0,
+      "outgoing_influences": 1,
+      "influence_degree": 1,
+      "lineage_role": "source"
+    },
+    {
+      "framework_id": "HF006",
+      "incoming_influences": 0,
+      "outgoing_influences": 1,
+      "influence_degree": 1,
+      "lineage_role": "source"
+    },
+    {
+      "framework_id": "HF007",
+      "incoming_influences": 0,
+      "outgoing_influences": 1,
+      "influence_degree": 1,
+      "lineage_role": "source"
+    },
+    {
+      "framework_id": "HF008",
+      "incoming_influences": 2,
+      "outgoing_influences": 0,
+      "influence_degree": 2,
+      "lineage_role": "receiver"
+    },
+    {
+      "framework_id": "HF009",
+      "incoming_influences": 1,
+      "outgoing_influences": 1,
+      "influence_degree": 2,
+      "lineage_role": "receiver"
+    },
+    {
+      "framework_id": "HF010",
+      "incoming_influences": 4,
+      "outgoing_influences": 1,
+      "influence_degree": 5,
+      "lineage_role": "bridge"
+    },
+    {
+      "framework_id": "HF011",
+      "incoming_influences": 1,
+      "outgoing_influences": 1,
+      "influence_degree": 2,
+      "lineage_role": "receiver"
+    },
+    {
+      "framework_id": "HF012",
+      "incoming_influences": 1,
+      "outgoing_influences": 1,
+      "influence_degree": 2,
+      "lineage_role": "receiver"
+    },
+    {
+      "framework_id": "HF013",
+      "incoming_influences": 3,
+      "outgoing_influences": 0,
+      "influence_degree": 3,
+      "lineage_role": "receiver"
+    }
+  ],
+  "metadata_readiness": [
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks",
+      "status": "published",
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    },
+    {
+      "slug": "frameworks-templates-and-models",
+      "title": "Frameworks Templates and Models",
+      "status": "published",
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    },
+    {
+      "slug": "the-history-of-framework-thinking-in-communication-and-strategy",
+      "title": "The History of Framework Thinking in Communication and Strategy",
+      "status": "published",
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "status": "published",
+      "completion_rate": 1.0,
+      "missing_fields": "none",
+      "metadata_readiness": "ready"
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "title": "Taxonomy Design for Content Frameworks",
+      "status": "planned",
+      "completion_rate": 0.0,
+      "missing_fields": "excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation",
+      "metadata_readiness": "needs metadata work"
+    }
+  ],
+  "coverage": [
+    {
+      "cluster": "Foundations",
+      "published": 6,
+      "planned": 0,
+      "total": 6,
+      "coverage_rate": 1.0,
+      "gap_count": 0
+    },
+    {
+      "cluster": "Knowledge Architecture",
+      "published": 3,
+      "planned": 0,
+      "total": 3,
+      "coverage_rate": 1.0,
+      "gap_count": 0
+    }
+  ],
+  "link_diagnostics": [
+    {
+      "slug": "aida-and-the-logic-of-persuasive-sequence",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "framework-governance-and-editorial-maintenance",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "frameworks-templates-and-models",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "swot-analysis-strengths-uses-and-limits",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "the-history-of-framework-thinking-in-communication-and-strategy",
+      "outgoing_links": 7,
+      "incoming_links": 0,
+      "total_link_degree": 7,
+      "network_role": "hub"
+    },
+    {
+      "slug": "what-are-content-frameworks",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "network_role": "thinly linked"
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "network_role": "thinly linked"
+    }
+  ],
+  "taxonomy_coverage": [
+    {
+      "category": "Foundations",
+      "expected_role": "conceptual grounding",
+      "article_count_in_sample": 6,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Knowledge Architecture",
+      "expected_role": "structural publishing logic",
+      "article_count_in_sample": 3,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Educational Research and Conceptual Frameworks",
+      "expected_role": "learning and evidence design",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Classic Communication and Persuasive Sequence Frameworks",
+      "expected_role": "communication sequence",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Audience Need Value Positioning and Message Architecture",
+      "expected_role": "audience relevance",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Strategic and Environmental Analysis Frameworks",
+      "expected_role": "strategic analysis",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Policy Governance Systems Explanation and Public Reasoning",
+      "expected_role": "public understanding",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Framework Composition Scaling and Editorial Governance",
+      "expected_role": "maintenance and critique",
+      "article_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    }
+  ],
+  "review_cases": [
+    {
+      "case_id": "HC001",
+      "framework_id": "HF008",
+      "reuse_context": "Public health communication",
+      "historical_question": "Does persuasive sequence preserve agency and uncertainty",
+      "decision": "ethical review required",
+      "requires_review": true
+    },
+    {
+      "case_id": "HC002",
+      "framework_id": "HF006",
+      "reuse_context": "Public policy explanation",
+      "historical_question": "Does managerial strategy language distort civic values",
+      "decision": "domain-fit review required",
+      "requires_review": true
+    },
+    {
+      "case_id": "HC003",
+      "framework_id": "HF012",
+      "reuse_context": "Research library architecture",
+      "historical_question": "Does topic cluster logic support understanding rather than only search visibility",
+      "decision": "managed use with governance",
+      "requires_review": false
+    },
+    {
+      "case_id": "HC004",
+      "framework_id": "HF013",
+      "reuse_context": "AI-assisted article planning",
+      "historical_question": "Does generated structure include lineage evidence and limitations",
+      "decision": "governance review required",
+      "requires_review": true
+    },
+    {
+      "case_id": "HC005",
+      "framework_id": "HF009",
+      "reuse_context": "Digital knowledge platform",
+      "historical_question": "Does information architecture support reader pathways and metadata governance",
+      "decision": "managed use",
+      "requires_review": false
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "framework_history",
+      "identifier": "HF008",
+      "message": "AIDA requires review: transfer review required.",
+      "recommended_action": "Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "high",
+      "category": "framework_history",
+      "identifier": "HF013",
+      "message": "AI Generated Article Map requires review: transfer review required.",
+      "recommended_action": "Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+    },
+    {
+      "source": "framework_history",
+      "severity": "high",
+      "category": "historical_lineage_review",
+      "identifier": "HF008",
+      "message": "AIDA status: transfer review required.",
+      "recommended_action": "Review lineage, transfer context, limitations, and governance before reuse."
+    },
+    {
+      "source": "framework_history",
+      "severity": "high",
+      "category": "historical_lineage_review",
+      "identifier": "HF013",
+      "message": "AI Generated Article Map status: transfer review required.",
+      "recommended_action": "Review lineage, transfer context, limitations, and governance before reuse."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_history",
+      "identifier": "HF001",
+      "message": "Classical Rhetorical Arrangement requires review: risk review recommended.",
+      "recommended_action": "Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_history",
+      "identifier": "HF002",
+      "message": "Ethos Pathos Logos requires review: risk review recommended.",
+      "recommended_action": "Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_history",
+      "identifier": "HF006",
+      "message": "SWOT Analysis requires review: transfer review required.",
+      "recommended_action": "Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_history",
+      "identifier": "HF007",
+      "message": "Porter Five Forces requires review: risk review recommended.",
+      "recommended_action": "Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "medium",
+      "category": "framework_history",
+      "identifier": "HF012",
+      "message": "Topic Cluster SEO requires review: risk review recommended.",
+      "recommended_action": "Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+    },
+    {
+      "source": "framework_history",
+      "severity": "medium",
+      "category": "historical_lineage_review",
+      "identifier": "HF001",
+      "message": "Classical Rhetorical Arrangement status: risk review recommended.",
+      "recommended_action": "Review lineage, transfer context, limitations, and governance before reuse."
+    },
+    {
+      "source": "framework_history",
+      "severity": "medium",
+      "category": "historical_lineage_review",
+      "identifier": "HF002",
+      "message": "Ethos Pathos Logos status: risk review recommended.",
+      "recommended_action": "Review lineage, transfer context, limitations, and governance before reuse."
+    },
+    {
+      "source": "framework_history",
+      "severity": "medium",
+      "category": "historical_lineage_review",
+      "identifier": "HF006",
+      "message": "SWOT Analysis status: transfer review required.",
+      "recommended_action": "Review lineage, transfer context, limitations, and governance before reuse."
+    },
+    {
+      "source": "framework_history",
+      "severity": "medium",
+      "category": "historical_lineage_review",
+      "identifier": "HF007",
+      "message": "Porter Five Forces status: risk review recommended.",
+      "recommended_action": "Review lineage, transfer context, limitations, and governance before reuse."
+    },
+    {
+      "source": "framework_history",
+      "severity": "medium",
+      "category": "historical_lineage_review",
+      "identifier": "HF012",
+      "message": "Topic Cluster SEO status: risk review recommended.",
+      "recommended_action": "Review lineage, transfer context, limitations, and governance before reuse."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "links",
+      "identifier": "aida-and-the-logic-of-persuasive-sequence",
+      "message": "Link target is outside sample article map.",
+      "recommended_action": "Confirm linked article exists."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "links",
+      "identifier": "framework-governance-and-editorial-maintenance",
+      "message": "Link target is outside sample article map.",
+      "recommended_action": "Confirm linked article exists."
+    },
+    {
+      "source": "automated_audit",
+      "severity": "low",
+      "category": "links",
+      "identifier": "swot-analysis-strengths-uses-and-limits",
+      "message": "Link target is outside sample article map.",
+      "recommended_action": "Confirm linked article exists."
+    }
+  ]
+}

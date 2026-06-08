@@ -1,0 +1,13 @@
+source_framework_id,target_framework_id,influence_type,description,strength
+HF001,HF008,sequence_influence,Rhetorical arrangement influenced persuasive sequence structures,high
+HF002,HF008,persuasion_influence,Classical appeals shaped modern persuasive communication,high
+HF003,HF009,classification_influence,Taxonomy traditions influenced information architecture,high
+HF003,HF011,metadata_influence,Classification traditions influenced metadata fields,medium
+HF004,HF010,learning_influence,Scaffolding logic influenced content strategy sequencing,medium
+HF005,HF010,evidence_influence,Scientific modeling influenced evidence-aware content systems,medium
+HF006,HF010,management_influence,Strategic planning frameworks influenced content governance,medium
+HF007,HF010,management_influence,Competitive strategy influenced positioning and strategic communication,medium
+HF009,HF012,digital_architecture_influence,Information architecture influenced topic clusters and pillar pages,high
+HF010,HF013,workflow_influence,Content strategy workflows shaped AI-assisted article-map generation,medium
+HF011,HF013,metadata_influence,Metadata systems shaped AI-ready content records,medium
+HF012,HF013,digital_platform_influence,Topic cluster systems shaped AI-generated content architecture,medium

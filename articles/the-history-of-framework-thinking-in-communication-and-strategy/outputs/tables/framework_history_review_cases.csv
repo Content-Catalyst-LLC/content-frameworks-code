@@ -1,0 +1,6 @@
+case_id,framework_id,reuse_context,historical_question,decision,requires_review
+HC001,HF008,Public health communication,Does persuasive sequence preserve agency and uncertainty,ethical review required,True
+HC002,HF006,Public policy explanation,Does managerial strategy language distort civic values,domain-fit review required,True
+HC003,HF012,Research library architecture,Does topic cluster logic support understanding rather than only search visibility,managed use with governance,False
+HC004,HF013,AI-assisted article planning,Does generated structure include lineage evidence and limitations,governance review required,True
+HC005,HF009,Digital knowledge platform,Does information architecture support reader pathways and metadata governance,managed use,False

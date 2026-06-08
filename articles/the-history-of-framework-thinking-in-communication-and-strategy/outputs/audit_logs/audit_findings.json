@@ -1,0 +1,72 @@
+[
+  {
+    "severity": "medium",
+    "category": "framework_history",
+    "identifier": "HF001",
+    "message": "Classical Rhetorical Arrangement requires review: risk review recommended.",
+    "recommended_action": "Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_history",
+    "identifier": "HF002",
+    "message": "Ethos Pathos Logos requires review: risk review recommended.",
+    "recommended_action": "Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_history",
+    "identifier": "HF006",
+    "message": "SWOT Analysis requires review: transfer review required.",
+    "recommended_action": "Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_history",
+    "identifier": "HF007",
+    "message": "Porter Five Forces requires review: risk review recommended.",
+    "recommended_action": "Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+  },
+  {
+    "severity": "high",
+    "category": "framework_history",
+    "identifier": "HF008",
+    "message": "AIDA requires review: transfer review required.",
+    "recommended_action": "Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+  },
+  {
+    "severity": "medium",
+    "category": "framework_history",
+    "identifier": "HF012",
+    "message": "Topic Cluster SEO requires review: risk review recommended.",
+    "recommended_action": "Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+  },
+  {
+    "severity": "high",
+    "category": "framework_history",
+    "identifier": "HF013",
+    "message": "AI Generated Article Map requires review: transfer review required.",
+    "recommended_action": "Review lineage, transfer conditions, limitations, evidence, ethics, and governance before reuse."
+  },
+  {
+    "severity": "low",
+    "category": "links",
+    "identifier": "aida-and-the-logic-of-persuasive-sequence",
+    "message": "Link target is outside sample article map.",
+    "recommended_action": "Confirm linked article exists."
+  },
+  {
+    "severity": "low",
+    "category": "links",
+    "identifier": "swot-analysis-strengths-uses-and-limits",
+    "message": "Link target is outside sample article map.",
+    "recommended_action": "Confirm linked article exists."
+  },
+  {
+    "severity": "low",
+    "category": "links",
+    "identifier": "framework-governance-and-editorial-maintenance",
+    "message": "Link target is outside sample article map.",
+    "recommended_action": "Confirm linked article exists."
+  }
+]

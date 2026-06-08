@@ -1,0 +1,26 @@
+lineage,framework_count
+strategic_managerial,1
+rhetorical,1
+logical_classificatory,1
+information_architecture,1
+ai_assisted,1
+advertising_persuasive_sequence,1
+period,framework_count
+modern,2
+late_modern,1
+ancient_to_modern,1
+ancient,1
+active,1
+framework_id,framework_name,lineage,domain,governance_score,review_status,risk_severity
+HF003,"Classification and Taxonomy",logical_classificatory,"Knowledge Organization",1.0,"managed use",low
+HF009,"Information Architecture",information_architecture,"Digital Publishing",1.0,"managed use",low
+HF001,"Classical Rhetorical Arrangement",rhetorical,Communication,1.0,"risk review recommended",medium
+HF008,AIDA,advertising_persuasive_sequence,Advertising,0.6,"transfer review required",high
+HF013,"AI Generated Article Map",ai_assisted,"AI-Assisted Workflows",0.0,"transfer review required",high
+HF006,"SWOT Analysis",strategic_managerial,Strategy,0.6,"transfer review required",medium
+source_framework_id,outgoing_influence_count
+HF009,1
+HF003,1
+HF001,1
+source_slug,outgoing_link_count
+the-history-of-framework-thinking-in-communication-and-strategy,3

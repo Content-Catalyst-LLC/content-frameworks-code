@@ -1,0 +1,42 @@
+{
+  "product_context": "Catalyst Canvas",
+  "article": "The History of Framework Thinking in Communication and Strategy",
+  "series": "Content Frameworks",
+  "version": "1.0.0",
+  "lineages": [
+    "rhetorical",
+    "logical_classificatory",
+    "educational",
+    "scientific_modeling",
+    "strategic_managerial",
+    "advertising_persuasive_sequence",
+    "information_architecture",
+    "content_strategy_governance",
+    "knowledge_management_metadata",
+    "digital_platform",
+    "ai_assisted"
+  ],
+  "governance_fields": [
+    "purpose_documented",
+    "use_conditions_documented",
+    "limitations_documented",
+    "owner_assigned",
+    "review_cycle_defined"
+  ],
+  "minimum_governance_score": 0.8,
+  "risk_terms": [
+    "false universality",
+    "ahistorical reuse",
+    "managerial overreach",
+    "persuasive manipulation",
+    "classification drift",
+    "model treated as reality",
+    "AI-generated structure without review",
+    "framework detached from original purpose"
+  ],
+  "governance_review_triggers": {
+    "governance_score_below": 0.8,
+    "cross_domain_transfer_without_use_conditions": true,
+    "risk_severity_at_or_above": "medium"
+  }
+}
