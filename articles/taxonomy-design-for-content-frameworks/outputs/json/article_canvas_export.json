@@ -1,0 +1,390 @@
+{
+  "module": "taxonomy_design_for_content_frameworks_canvas",
+  "version": "1.0.0",
+  "article_slug": "taxonomy-design-for-content-frameworks",
+  "article_title": "Taxonomy Design for Content Frameworks",
+  "article_stage": "active",
+  "generated_at": "2026-06-08T23:24:14+00:00",
+  "results": [
+    {
+      "record_id": "orientation",
+      "article_slug": "taxonomy-design-for-content-frameworks",
+      "article_title": "Taxonomy Design for Content Frameworks",
+      "module_kind": "taxonomy_design",
+      "article_stage": "active",
+      "canvas_dimension": "Orientation",
+      "description": "Defines the article purpose and reader promise: Categories, tags, hierarchies, semantic relationships, and conceptual boundaries.",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "content_score": 0.84,
+      "audience_score": 0.84,
+      "evidence_score": 0.74,
+      "repository_score": 0.7,
+      "governance_pressure": 0.58,
+      "ethical_risk": 0.22,
+      "readiness_score": 0.75,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue"
+    },
+    {
+      "record_id": "audience_need",
+      "article_slug": "taxonomy-design-for-content-frameworks",
+      "article_title": "Taxonomy Design for Content Frameworks",
+      "module_kind": "taxonomy_design",
+      "article_stage": "active",
+      "canvas_dimension": "Audience Need",
+      "description": "Connects the article to reader jobs, pains, gains, questions, or decision needs.",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "content_score": 0.82,
+      "audience_score": 0.88,
+      "evidence_score": 0.72,
+      "repository_score": 0.68,
+      "governance_pressure": 0.62,
+      "ethical_risk": 0.26,
+      "readiness_score": 0.741,
+      "review_priority": "standard",
+      "governance_reasons": "repository support needs improvement"
+    },
+    {
+      "record_id": "message_architecture",
+      "article_slug": "taxonomy-design-for-content-frameworks",
+      "article_title": "Taxonomy Design for Content Frameworks",
+      "module_kind": "taxonomy_design",
+      "article_stage": "active",
+      "canvas_dimension": "Message Architecture",
+      "description": "Assesses title, opening, section sequence, examples, internal links, and next-step clarity.",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "content_score": 0.86,
+      "audience_score": 0.82,
+      "evidence_score": 0.74,
+      "repository_score": 0.64,
+      "governance_pressure": 0.6,
+      "ethical_risk": 0.24,
+      "readiness_score": 0.737,
+      "review_priority": "medium",
+      "governance_reasons": "repository support needs improvement"
+    },
+    {
+      "record_id": "evidence_architecture",
+      "article_slug": "taxonomy-design-for-content-frameworks",
+      "article_title": "Taxonomy Design for Content Frameworks",
+      "module_kind": "taxonomy_design",
+      "article_stage": "active",
+      "canvas_dimension": "Evidence Architecture",
+      "description": "Checks whether claims, examples, references, caveats, and interpretive limits support the article.",
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "content_score": 0.8,
+      "audience_score": 0.78,
+      "evidence_score": 0.84,
+      "repository_score": 0.66,
+      "governance_pressure": 0.7,
+      "ethical_risk": 0.22,
+      "readiness_score": 0.73,
+      "review_priority": "medium",
+      "governance_reasons": "repository support needs improvement; status marked review"
+    },
+    {
+      "record_id": "repository_integration",
+      "article_slug": "taxonomy-design-for-content-frameworks",
+      "article_title": "Taxonomy Design for Content Frameworks",
+      "module_kind": "taxonomy_design",
+      "article_stage": "active",
+      "canvas_dimension": "Repository Integration",
+      "description": "Assesses whether code, data, outputs, documentation, and generated assets support reuse.",
+      "owner": "technical",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "content_score": 0.76,
+      "audience_score": 0.74,
+      "evidence_score": 0.7,
+      "repository_score": 0.88,
+      "governance_pressure": 0.66,
+      "ethical_risk": 0.2,
+      "readiness_score": 0.722,
+      "review_priority": "medium",
+      "governance_reasons": "no immediate governance issue"
+    },
+    {
+      "record_id": "governance_review",
+      "article_slug": "taxonomy-design-for-content-frameworks",
+      "article_title": "Taxonomy Design for Content Frameworks",
+      "module_kind": "taxonomy_design",
+      "article_stage": "active",
+      "canvas_dimension": "Governance Review",
+      "description": "Flags metadata freshness, link integrity, evidence review, repository status, and conceptual drift.",
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "content_score": 0.74,
+      "audience_score": 0.74,
+      "evidence_score": 0.78,
+      "repository_score": 0.72,
+      "governance_pressure": 0.86,
+      "ethical_risk": 0.34,
+      "readiness_score": 0.681,
+      "review_priority": "medium",
+      "governance_reasons": "high governance need; status marked review"
+    }
+  ],
+  "governance_queue": [
+    {
+      "queue_id": "taxonomy-design-for-content-frameworks-governance_review",
+      "article_slug": "taxonomy-design-for-content-frameworks",
+      "article_title": "Taxonomy Design for Content Frameworks",
+      "article_stage": "active",
+      "canvas_dimension": "Governance Review",
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "readiness_score": 0.681,
+      "governance_pressure": 0.86,
+      "ethical_risk": 0.34,
+      "governance_reasons": "high governance need; status marked review",
+      "recommended_action": "Review evidence, repository support, governance status, or ethical risk."
+    },
+    {
+      "queue_id": "taxonomy-design-for-content-frameworks-repository_integration",
+      "article_slug": "taxonomy-design-for-content-frameworks",
+      "article_title": "Taxonomy Design for Content Frameworks",
+      "article_stage": "active",
+      "canvas_dimension": "Repository Integration",
+      "owner": "technical",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "readiness_score": 0.722,
+      "governance_pressure": 0.66,
+      "ethical_risk": 0.2,
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Review evidence, repository support, governance status, or ethical risk."
+    },
+    {
+      "queue_id": "taxonomy-design-for-content-frameworks-evidence_architecture",
+      "article_slug": "taxonomy-design-for-content-frameworks",
+      "article_title": "Taxonomy Design for Content Frameworks",
+      "article_stage": "active",
+      "canvas_dimension": "Evidence Architecture",
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "readiness_score": 0.73,
+      "governance_pressure": 0.7,
+      "ethical_risk": 0.22,
+      "governance_reasons": "repository support needs improvement; status marked review",
+      "recommended_action": "Review evidence, repository support, governance status, or ethical risk."
+    },
+    {
+      "queue_id": "taxonomy-design-for-content-frameworks-message_architecture",
+      "article_slug": "taxonomy-design-for-content-frameworks",
+      "article_title": "Taxonomy Design for Content Frameworks",
+      "article_stage": "active",
+      "canvas_dimension": "Message Architecture",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "readiness_score": 0.737,
+      "governance_pressure": 0.6,
+      "ethical_risk": 0.24,
+      "governance_reasons": "repository support needs improvement",
+      "recommended_action": "Review evidence, repository support, governance status, or ethical risk."
+    }
+  ],
+  "canvas_cards": [
+    {
+      "card_id": "taxonomy-design-for-content-frameworks-orientation",
+      "type": "content_framework_canvas_dimension",
+      "article_slug": "taxonomy-design-for-content-frameworks",
+      "article_stage": "active",
+      "title": "Orientation",
+      "subtitle": "Taxonomy Design for Content Frameworks",
+      "description": "Defines the article purpose and reader promise: Categories, tags, hierarchies, semantic relationships, and conceptual boundaries.",
+      "badges": [
+        "stage: active",
+        "readiness: 0.75",
+        "priority: standard",
+        "active"
+      ],
+      "metrics": {
+        "content_score": 0.84,
+        "audience_score": 0.84,
+        "evidence_score": 0.74,
+        "repository_score": 0.7,
+        "governance_pressure": 0.58,
+        "ethical_risk": 0.22,
+        "readiness_score": 0.75
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue"
+      }
+    },
+    {
+      "card_id": "taxonomy-design-for-content-frameworks-audience_need",
+      "type": "content_framework_canvas_dimension",
+      "article_slug": "taxonomy-design-for-content-frameworks",
+      "article_stage": "active",
+      "title": "Audience Need",
+      "subtitle": "Taxonomy Design for Content Frameworks",
+      "description": "Connects the article to reader jobs, pains, gains, questions, or decision needs.",
+      "badges": [
+        "stage: active",
+        "readiness: 0.741",
+        "priority: standard",
+        "active"
+      ],
+      "metrics": {
+        "content_score": 0.82,
+        "audience_score": 0.88,
+        "evidence_score": 0.72,
+        "repository_score": 0.68,
+        "governance_pressure": 0.62,
+        "ethical_risk": 0.26,
+        "readiness_score": 0.741
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "repository support needs improvement"
+      }
+    },
+    {
+      "card_id": "taxonomy-design-for-content-frameworks-message_architecture",
+      "type": "content_framework_canvas_dimension",
+      "article_slug": "taxonomy-design-for-content-frameworks",
+      "article_stage": "active",
+      "title": "Message Architecture",
+      "subtitle": "Taxonomy Design for Content Frameworks",
+      "description": "Assesses title, opening, section sequence, examples, internal links, and next-step clarity.",
+      "badges": [
+        "stage: active",
+        "readiness: 0.737",
+        "priority: medium",
+        "active"
+      ],
+      "metrics": {
+        "content_score": 0.86,
+        "audience_score": 0.82,
+        "evidence_score": 0.74,
+        "repository_score": 0.64,
+        "governance_pressure": 0.6,
+        "ethical_risk": 0.24,
+        "readiness_score": 0.737
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "repository support needs improvement"
+      }
+    },
+    {
+      "card_id": "taxonomy-design-for-content-frameworks-evidence_architecture",
+      "type": "content_framework_canvas_dimension",
+      "article_slug": "taxonomy-design-for-content-frameworks",
+      "article_stage": "active",
+      "title": "Evidence Architecture",
+      "subtitle": "Taxonomy Design for Content Frameworks",
+      "description": "Checks whether claims, examples, references, caveats, and interpretive limits support the article.",
+      "badges": [
+        "stage: active",
+        "readiness: 0.73",
+        "priority: medium",
+        "review"
+      ],
+      "metrics": {
+        "content_score": 0.8,
+        "audience_score": 0.78,
+        "evidence_score": 0.84,
+        "repository_score": 0.66,
+        "governance_pressure": 0.7,
+        "ethical_risk": 0.22,
+        "readiness_score": 0.73
+      },
+      "governance": {
+        "owner": "governance",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "repository support needs improvement; status marked review"
+      }
+    },
+    {
+      "card_id": "taxonomy-design-for-content-frameworks-repository_integration",
+      "type": "content_framework_canvas_dimension",
+      "article_slug": "taxonomy-design-for-content-frameworks",
+      "article_stage": "active",
+      "title": "Repository Integration",
+      "subtitle": "Taxonomy Design for Content Frameworks",
+      "description": "Assesses whether code, data, outputs, documentation, and generated assets support reuse.",
+      "badges": [
+        "stage: active",
+        "readiness: 0.722",
+        "priority: medium",
+        "active"
+      ],
+      "metrics": {
+        "content_score": 0.76,
+        "audience_score": 0.74,
+        "evidence_score": 0.7,
+        "repository_score": 0.88,
+        "governance_pressure": 0.66,
+        "ethical_risk": 0.2,
+        "readiness_score": 0.722
+      },
+      "governance": {
+        "owner": "technical",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "no immediate governance issue"
+      }
+    },
+    {
+      "card_id": "taxonomy-design-for-content-frameworks-governance_review",
+      "type": "content_framework_canvas_dimension",
+      "article_slug": "taxonomy-design-for-content-frameworks",
+      "article_stage": "active",
+      "title": "Governance Review",
+      "subtitle": "Taxonomy Design for Content Frameworks",
+      "description": "Flags metadata freshness, link integrity, evidence review, repository status, and conceptual drift.",
+      "badges": [
+        "stage: active",
+        "readiness: 0.681",
+        "priority: medium",
+        "review"
+      ],
+      "metrics": {
+        "content_score": 0.74,
+        "audience_score": 0.74,
+        "evidence_score": 0.78,
+        "repository_score": 0.72,
+        "governance_pressure": 0.86,
+        "ethical_risk": 0.34,
+        "readiness_score": 0.681
+      },
+      "governance": {
+        "owner": "governance",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "high governance need; status marked review"
+      }
+    }
+  ]
+}

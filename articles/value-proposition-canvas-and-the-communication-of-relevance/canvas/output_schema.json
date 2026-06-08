@@ -4,14 +4,35 @@
   "title": "Catalyst Canvas Output Schema: Value Proposition Canvas and the Communication of Relevance",
   "description": "Output schema for Catalyst Canvas article-readiness audit results, UI cards, catalog records, and governance queues.",
   "type": "object",
-  "required": ["module", "article_slug", "generated_at", "results", "governance_queue", "canvas_cards"],
+  "required": [
+    "module",
+    "article_slug",
+    "generated_at",
+    "results",
+    "governance_queue",
+    "canvas_cards"
+  ],
   "properties": {
-    "module": { "type": "string", "const": "value_proposition_canvas_and_the_communication_of_relevance_canvas" },
-    "article_slug": { "type": "string", "const": "value-proposition-canvas-and-the-communication-of-relevance" },
-    "generated_at": { "type": "string" },
-    "results": { "type": "array" },
-    "governance_queue": { "type": "array" },
-    "canvas_cards": { "type": "array" }
+    "module": {
+      "type": "string",
+      "const": "value_proposition_canvas_and_the_communication_of_relevance_canvas"
+    },
+    "article_slug": {
+      "type": "string",
+      "const": "value-proposition-canvas-and-the-communication-of-relevance"
+    },
+    "generated_at": {
+      "type": "string"
+    },
+    "results": {
+      "type": "array"
+    },
+    "governance_queue": {
+      "type": "array"
+    },
+    "canvas_cards": {
+      "type": "array"
+    }
   },
   "additionalProperties": true
 }

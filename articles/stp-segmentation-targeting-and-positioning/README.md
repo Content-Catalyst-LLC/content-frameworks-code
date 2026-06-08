@@ -44,3 +44,7 @@ PYTHONPATH=python python3 -m unittest discover -s python/tests -p "test_*.py"
 ## Purpose
 
 The module treats STP as an auditable communication-governance framework. It evaluates segmentation logic, target-priority fit, positioning strength, ethical review risk, and governance priorities for content-framework strategy.
+
+## Catalyst Canvas Readiness Layer
+
+This article folder includes `canvas/`, `python/content_framework_canvas/`, tests, JSON exports, and governance queue outputs for Catalyst Canvas integration.

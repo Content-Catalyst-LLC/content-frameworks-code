@@ -1,0 +1,61 @@
+{
+  "module": "jobs_to_be_done_and_the_problem_of_audience_need_canvas",
+  "version": "1.0.0",
+  "article_slug": "jobs-to-be-done-and-the-problem-of-audience-need",
+  "article_title": "Jobs to Be Done and the Problem of Audience Need",
+  "series": "Content Frameworks",
+  "module_kind": "audience_need",
+  "article_stage": "active",
+  "repository_path": "articles/jobs-to-be-done-and-the-problem-of-audience-need/",
+  "entrypoint": "python -m content_framework_canvas.cli",
+  "default_input": "data/article_canvas_inputs.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/article_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/article_canvas_export.json"
+  },
+  "metrics": [
+    "content_score",
+    "audience_score",
+    "evidence_score",
+    "repository_score",
+    "governance_pressure",
+    "ethical_risk",
+    "readiness_score",
+    "review_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "article_canvas_dimension_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "card_grid"
+    },
+    {
+      "type": "article_governance_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": [
+      "active",
+      "review",
+      "revise",
+      "archive"
+    ],
+    "risk_flags": [
+      "weak_evidence",
+      "weak_repository_support",
+      "high_governance_need",
+      "ethical_risk",
+      "revision_status"
+    ]
+  }
+}

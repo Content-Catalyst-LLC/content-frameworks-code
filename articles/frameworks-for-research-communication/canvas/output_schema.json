@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://thecontentcatalyst.net/schemas/frameworks-for-research-communication-canvas-output.schema.json",
+  "title": "Catalyst Canvas Output Schema: Frameworks for Research Communication",
+  "description": "Output schema for Catalyst Canvas article-readiness audit results, UI cards, catalog records, and governance queues.",
+  "type": "object",
+  "required": [
+    "module",
+    "article_slug",
+    "generated_at",
+    "results",
+    "governance_queue",
+    "canvas_cards"
+  ],
+  "properties": {
+    "module": {
+      "type": "string",
+      "const": "frameworks_for_research_communication_canvas"
+    },
+    "article_slug": {
+      "type": "string",
+      "const": "frameworks-for-research-communication"
+    },
+    "generated_at": {
+      "type": "string"
+    },
+    "results": {
+      "type": "array"
+    },
+    "governance_queue": {
+      "type": "array"
+    },
+    "canvas_cards": {
+      "type": "array"
+    }
+  },
+  "additionalProperties": true
+}

@@ -28,3 +28,7 @@ javac java/StorytellingFrameworkAudit.java && java -cp java StorytellingFramewor
 sqlite3 outputs/storytelling_framework.sqlite < sql/storytelling_framework_schema.sql
 sqlite3 -header -csv outputs/storytelling_framework.sqlite < sql/storytelling_framework_queries.sql > outputs/tables/sql_storytelling_framework_report.csv
 ```
+
+## Catalyst Canvas Readiness Layer
+
+This article folder includes `canvas/`, `python/content_framework_canvas/`, tests, JSON exports, and governance queue outputs for Catalyst Canvas integration.

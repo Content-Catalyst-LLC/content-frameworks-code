@@ -5,6 +5,7 @@
   "article_title": "Editorial Metadata and Content Systems",
   "series": "Content Frameworks",
   "module_kind": "metadata",
+  "article_stage": "active",
   "repository_path": "articles/editorial-metadata-and-content-systems/",
   "entrypoint": "python -m content_framework_canvas.cli",
   "default_input": "data/article_canvas_inputs.csv",
@@ -23,7 +24,8 @@
     "audience_score",
     "evidence_score",
     "repository_score",
-    "governance_score",
+    "governance_pressure",
+    "ethical_risk",
     "readiness_score",
     "review_priority"
   ],
@@ -42,7 +44,18 @@
   "governance": {
     "owner": "Content Catalyst LLC",
     "review_cycle": "quarterly",
-    "status_values": ["active", "review", "revise", "archive"],
-    "risk_flags": ["weak_evidence", "weak_repository_support", "high_governance_need", "ethical_risk", "revision_status"]
+    "status_values": [
+      "active",
+      "review",
+      "revise",
+      "archive"
+    ],
+    "risk_flags": [
+      "weak_evidence",
+      "weak_repository_support",
+      "high_governance_need",
+      "ethical_risk",
+      "revision_status"
+    ]
   }
 }

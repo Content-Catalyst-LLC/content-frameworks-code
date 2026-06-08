@@ -28,3 +28,7 @@ javac java/PersuasiveRiskAudit.java && java -cp java PersuasiveRiskAudit
 sqlite3 outputs/persuasive_framework_risk.sqlite < sql/persuasive_framework_risk_schema.sql
 sqlite3 -header -csv outputs/persuasive_framework_risk.sqlite < sql/persuasive_framework_risk_queries.sql > outputs/tables/sql_persuasive_framework_risk_report.csv
 ```
+
+## Catalyst Canvas Readiness Layer
+
+This article folder includes `canvas/`, `python/content_framework_canvas/`, tests, JSON exports, and governance queue outputs for Catalyst Canvas integration.

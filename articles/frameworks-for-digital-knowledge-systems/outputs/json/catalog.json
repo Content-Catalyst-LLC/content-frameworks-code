@@ -1,0 +1,25 @@
+{
+  "module": "frameworks_for_digital_knowledge_systems_canvas",
+  "version": "1.0.0",
+  "article_slug": "frameworks-for-digital-knowledge-systems",
+  "article_title": "Frameworks for Digital Knowledge Systems",
+  "article_stage": "active",
+  "generated_at": "2026-06-08T23:24:14+00:00",
+  "record_count": 6,
+  "average_readiness_score": 0.727,
+  "metrics": [
+    "content_score",
+    "audience_score",
+    "evidence_score",
+    "repository_score",
+    "governance_pressure",
+    "ethical_risk",
+    "readiness_score"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/article_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/article_canvas_export.json"
+  }
+}

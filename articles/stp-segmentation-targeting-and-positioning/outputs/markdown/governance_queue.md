@@ -1,52 +1,56 @@
-# STP Catalyst Canvas Governance Queue
+# Catalyst Canvas Governance Queue: STP: Segmentation, Targeting, and Positioning
 
-Generated review queue for segmentation, targeting, positioning, evidence-fit, and ethical-risk checks.
+Generated review queue for Canvas readiness across content value, audience value, evidence strength, repository support, governance pressure, and ethical risk.
 
-## Affected stakeholders
-
-- Priority: high
-- Owner: governance
-- Status: review
-- Review date: 2026-06-08
-- Ethical review: high ethical review
-- Positioning gap: 0.172
-- Governance score: 0.696
-- Reasons: moderate positioning gap; weak differentiation; exclusion-risk review; status marked review
-- Recommended action: Revise positioning, evidence support, and ethical framing before reuse.
-
-## Generic audience label
-
-- Priority: high
-- Owner: editorial
-- Status: revise
-- Review date: 2026-06-08
-- Ethical review: moderate ethical review
-- Positioning gap: 0.082
-- Governance score: 0.449
-- Reasons: weak evidence fit; weak category clarity; weak differentiation; stereotype-risk review; exclusion-risk review; status marked revise
-- Recommended action: Revise positioning, evidence support, and ethical framing before reuse.
-
-## Public policy stakeholders
+## Governance Review
 
 - Priority: medium
 - Owner: governance
 - Status: review
+- Article stage: active
 - Review date: 2026-06-08
-- Ethical review: moderate ethical review
-- Positioning gap: 0.132
-- Governance score: 0.74
-- Reasons: moderate positioning gap; exclusion-risk review; status marked review
-- Recommended action: Add evidence, clarify positioning, or review exclusion/stereotype risk.
+- Readiness score: 0.681
+- Governance pressure: 0.86
+- Ethical risk: 0.34
+- Reasons: high governance need; status marked review
+- Recommended action: Review evidence, repository support, governance status, or ethical risk.
 
-## Beginner learners
+## Repository Integration
+
+- Priority: medium
+- Owner: technical
+- Status: active
+- Article stage: active
+- Review date: 2026-06-08
+- Readiness score: 0.722
+- Governance pressure: 0.66
+- Ethical risk: 0.2
+- Reasons: no immediate governance issue
+- Recommended action: Review evidence, repository support, governance status, or ethical risk.
+
+## Evidence Architecture
+
+- Priority: medium
+- Owner: governance
+- Status: review
+- Article stage: active
+- Review date: 2026-06-08
+- Readiness score: 0.73
+- Governance pressure: 0.7
+- Ethical risk: 0.22
+- Reasons: repository support needs improvement; status marked review
+- Recommended action: Review evidence, repository support, governance status, or ethical risk.
+
+## Message Architecture
 
 - Priority: medium
 - Owner: editorial
 - Status: active
+- Article stage: active
 - Review date: 2026-06-08
-- Ethical review: standard review
-- Positioning gap: 0.102
-- Governance score: 0.793
-- Reasons: moderate positioning gap
-- Recommended action: Add evidence, clarify positioning, or review exclusion/stereotype risk.
+- Readiness score: 0.737
+- Governance pressure: 0.6
+- Ethical risk: 0.24
+- Reasons: repository support needs improvement
+- Recommended action: Review evidence, repository support, governance status, or ethical risk.
 

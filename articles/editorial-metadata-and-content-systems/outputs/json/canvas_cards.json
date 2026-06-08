@@ -3,57 +3,61 @@
     "card_id": "editorial-metadata-and-content-systems-orientation",
     "type": "content_framework_canvas_dimension",
     "article_slug": "editorial-metadata-and-content-systems",
+    "article_stage": "active",
     "title": "Orientation",
     "subtitle": "Editorial Metadata and Content Systems",
-    "description": "Defines the article purpose and helps readers understand why the topic matters",
+    "description": "Defines the article purpose and reader promise: Metadata fields, status tracking, references, excerpts, image metadata, and repository links.",
     "badges": [
-      "readiness: 0.73",
-      "priority: medium",
+      "stage: active",
+      "readiness: 0.75",
+      "priority: standard",
       "active"
     ],
     "metrics": {
-      "content_score": 0.82,
+      "content_score": 0.84,
       "audience_score": 0.84,
-      "evidence_score": 0.72,
-      "repository_score": 0.64,
+      "evidence_score": 0.74,
+      "repository_score": 0.7,
       "governance_pressure": 0.58,
-      "ethical_risk": 0.24,
-      "readiness_score": 0.73
+      "ethical_risk": 0.22,
+      "readiness_score": 0.75
     },
     "governance": {
       "owner": "editorial",
       "status": "active",
       "review_date": "2026-06-08",
-      "review_priority": "medium",
-      "reasons": "repository support needs improvement"
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue"
     }
   },
   {
     "card_id": "editorial-metadata-and-content-systems-audience_need",
     "type": "content_framework_canvas_dimension",
     "article_slug": "editorial-metadata-and-content-systems",
+    "article_stage": "active",
     "title": "Audience Need",
     "subtitle": "Editorial Metadata and Content Systems",
-    "description": "Connects the article to reader jobs pains gains questions or decision needs",
+    "description": "Connects the article to reader jobs, pains, gains, questions, or decision needs.",
     "badges": [
-      "readiness: 0.722",
-      "priority: medium",
+      "stage: active",
+      "readiness: 0.741",
+      "priority: standard",
       "active"
     ],
     "metrics": {
-      "content_score": 0.8,
+      "content_score": 0.82,
       "audience_score": 0.88,
-      "evidence_score": 0.7,
-      "repository_score": 0.62,
+      "evidence_score": 0.72,
+      "repository_score": 0.68,
       "governance_pressure": 0.62,
-      "ethical_risk": 0.28,
-      "readiness_score": 0.722
+      "ethical_risk": 0.26,
+      "readiness_score": 0.741
     },
     "governance": {
       "owner": "editorial",
       "status": "active",
       "review_date": "2026-06-08",
-      "review_priority": "medium",
+      "review_priority": "standard",
       "reasons": "repository support needs improvement"
     }
   },
@@ -61,22 +65,24 @@
     "card_id": "editorial-metadata-and-content-systems-message_architecture",
     "type": "content_framework_canvas_dimension",
     "article_slug": "editorial-metadata-and-content-systems",
+    "article_stage": "active",
     "title": "Message Architecture",
     "subtitle": "Editorial Metadata and Content Systems",
-    "description": "Assesses title intro section order examples and internal pathways",
+    "description": "Assesses title, opening, section sequence, examples, internal links, and next-step clarity.",
     "badges": [
-      "readiness: 0.721",
+      "stage: active",
+      "readiness: 0.737",
       "priority: medium",
       "active"
     ],
     "metrics": {
       "content_score": 0.86,
-      "audience_score": 0.8,
+      "audience_score": 0.82,
       "evidence_score": 0.74,
-      "repository_score": 0.58,
+      "repository_score": 0.64,
       "governance_pressure": 0.6,
-      "ethical_risk": 0.26,
-      "readiness_score": 0.721
+      "ethical_risk": 0.24,
+      "readiness_score": 0.737
     },
     "governance": {
       "owner": "editorial",
@@ -90,22 +96,24 @@
     "card_id": "editorial-metadata-and-content-systems-evidence_architecture",
     "type": "content_framework_canvas_dimension",
     "article_slug": "editorial-metadata-and-content-systems",
+    "article_stage": "active",
     "title": "Evidence Architecture",
     "subtitle": "Editorial Metadata and Content Systems",
-    "description": "Checks whether claims examples references and caveats support the article",
+    "description": "Checks whether claims, examples, references, caveats, and interpretive limits support the article.",
     "badges": [
-      "readiness: 0.707",
+      "stage: active",
+      "readiness: 0.73",
       "priority: medium",
       "review"
     ],
     "metrics": {
-      "content_score": 0.78,
-      "audience_score": 0.76,
-      "evidence_score": 0.82,
-      "repository_score": 0.6,
+      "content_score": 0.8,
+      "audience_score": 0.78,
+      "evidence_score": 0.84,
+      "repository_score": 0.66,
       "governance_pressure": 0.7,
       "ethical_risk": 0.22,
-      "readiness_score": 0.707
+      "readiness_score": 0.73
     },
     "governance": {
       "owner": "governance",
@@ -119,51 +127,55 @@
     "card_id": "editorial-metadata-and-content-systems-repository_integration",
     "type": "content_framework_canvas_dimension",
     "article_slug": "editorial-metadata-and-content-systems",
+    "article_stage": "active",
     "title": "Repository Integration",
     "subtitle": "Editorial Metadata and Content Systems",
-    "description": "Assesses whether code data outputs and documentation support reuse",
+    "description": "Assesses whether code, data, outputs, documentation, and generated assets support reuse.",
     "badges": [
-      "readiness: 0.705",
+      "stage: active",
+      "readiness: 0.722",
       "priority: medium",
       "active"
     ],
     "metrics": {
-      "content_score": 0.74,
-      "audience_score": 0.72,
-      "evidence_score": 0.68,
-      "repository_score": 0.86,
+      "content_score": 0.76,
+      "audience_score": 0.74,
+      "evidence_score": 0.7,
+      "repository_score": 0.88,
       "governance_pressure": 0.66,
       "ethical_risk": 0.2,
-      "readiness_score": 0.705
+      "readiness_score": 0.722
     },
     "governance": {
       "owner": "technical",
       "status": "active",
       "review_date": "2026-06-08",
       "review_priority": "medium",
-      "reasons": "evidence needs strengthening"
+      "reasons": "no immediate governance issue"
     }
   },
   {
     "card_id": "editorial-metadata-and-content-systems-governance_review",
     "type": "content_framework_canvas_dimension",
     "article_slug": "editorial-metadata-and-content-systems",
+    "article_stage": "active",
     "title": "Governance Review",
     "subtitle": "Editorial Metadata and Content Systems",
-    "description": "Flags metadata freshness link integrity evidence review and conceptual drift",
+    "description": "Flags metadata freshness, link integrity, evidence review, repository status, and conceptual drift.",
     "badges": [
-      "readiness: 0.656",
+      "stage: active",
+      "readiness: 0.681",
       "priority: medium",
       "review"
     ],
     "metrics": {
-      "content_score": 0.7,
-      "audience_score": 0.72,
-      "evidence_score": 0.76,
-      "repository_score": 0.7,
-      "governance_pressure": 0.88,
-      "ethical_risk": 0.36,
-      "readiness_score": 0.656
+      "content_score": 0.74,
+      "audience_score": 0.74,
+      "evidence_score": 0.78,
+      "repository_score": 0.72,
+      "governance_pressure": 0.86,
+      "ethical_risk": 0.34,
+      "readiness_score": 0.681
     },
     "governance": {
       "owner": "governance",

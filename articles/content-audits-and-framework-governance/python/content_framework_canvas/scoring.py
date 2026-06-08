@@ -1,10 +1,7 @@
-"""Scoring logic for generic Content Frameworks Catalyst Canvas readiness."""
 
 from __future__ import annotations
-
 from .models import AuditResult, CanvasRecord
 from .validation import validate_weights
-
 
 READINESS_WEIGHTS = {
     "content_value": 0.22,
@@ -14,54 +11,38 @@ READINESS_WEIGHTS = {
     "governance_inverse": 0.10,
     "ethical_inverse": 0.06,
 }
-
 validate_weights(READINESS_WEIGHTS)
-
 
 def round_score(value: float) -> float:
     return round(value, 3)
 
-
 def readiness_score(record: CanvasRecord) -> float:
-    governance_inverse = 1.0 - record.governance_need
-    ethical_inverse = 1.0 - record.ethical_risk
-
     return (
         record.content_value * READINESS_WEIGHTS["content_value"]
         + record.audience_value * READINESS_WEIGHTS["audience_value"]
         + record.evidence_strength * READINESS_WEIGHTS["evidence_strength"]
         + record.repository_support * READINESS_WEIGHTS["repository_support"]
-        + governance_inverse * READINESS_WEIGHTS["governance_inverse"]
-        + ethical_inverse * READINESS_WEIGHTS["ethical_inverse"]
+        + (1.0 - record.governance_need) * READINESS_WEIGHTS["governance_inverse"]
+        + (1.0 - record.ethical_risk) * READINESS_WEIGHTS["ethical_inverse"]
     )
-
 
 def governance_reasons(record: CanvasRecord) -> list[str]:
     reasons: list[str] = []
-
     if record.content_value < 0.65:
         reasons.append("weak content value")
-
     if record.audience_value < 0.65:
         reasons.append("weak audience value")
-
     if record.evidence_strength < 0.70:
         reasons.append("evidence needs strengthening")
-
     if record.repository_support < 0.70:
         reasons.append("repository support needs improvement")
-
     if record.governance_need >= 0.75:
         reasons.append("high governance need")
-
     if record.ethical_risk >= 0.50:
         reasons.append("ethical risk review")
-
     if record.status in {"review", "revise"}:
         reasons.append(f"status marked {record.status}")
-
     return reasons
-
 
 def review_priority(record: CanvasRecord, score: float) -> str:
     if record.status == "archive":
@@ -72,16 +53,15 @@ def review_priority(record: CanvasRecord, score: float) -> str:
         return "medium"
     return "standard"
 
-
 def score_record(record: CanvasRecord) -> AuditResult:
     score = readiness_score(record)
     reasons = governance_reasons(record)
-
     return AuditResult(
         record_id=record.record_id,
         article_slug=record.article_slug,
         article_title=record.article_title,
         module_kind=record.module_kind,
+        article_stage=record.article_stage,
         canvas_dimension=record.canvas_dimension,
         description=record.description,
         owner=record.owner,

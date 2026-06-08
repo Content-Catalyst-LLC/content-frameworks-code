@@ -7,10 +7,11 @@ Generated review queue for Canvas readiness across content value, audience value
 - Priority: medium
 - Owner: governance
 - Status: review
+- Article stage: active
 - Review date: 2026-06-08
-- Readiness score: 0.656
-- Governance pressure: 0.88
-- Ethical risk: 0.36
+- Readiness score: 0.681
+- Governance pressure: 0.86
+- Ethical risk: 0.34
 - Reasons: high governance need; status marked review
 - Recommended action: Review evidence, repository support, governance status, or ethical risk.
 
@@ -19,11 +20,12 @@ Generated review queue for Canvas readiness across content value, audience value
 - Priority: medium
 - Owner: technical
 - Status: active
+- Article stage: active
 - Review date: 2026-06-08
-- Readiness score: 0.705
+- Readiness score: 0.722
 - Governance pressure: 0.66
 - Ethical risk: 0.2
-- Reasons: evidence needs strengthening
+- Reasons: no immediate governance issue
 - Recommended action: Review evidence, repository support, governance status, or ethical risk.
 
 ## Evidence Architecture
@@ -31,8 +33,9 @@ Generated review queue for Canvas readiness across content value, audience value
 - Priority: medium
 - Owner: governance
 - Status: review
+- Article stage: active
 - Review date: 2026-06-08
-- Readiness score: 0.707
+- Readiness score: 0.73
 - Governance pressure: 0.7
 - Ethical risk: 0.22
 - Reasons: repository support needs improvement; status marked review
@@ -43,33 +46,10 @@ Generated review queue for Canvas readiness across content value, audience value
 - Priority: medium
 - Owner: editorial
 - Status: active
+- Article stage: active
 - Review date: 2026-06-08
-- Readiness score: 0.721
+- Readiness score: 0.737
 - Governance pressure: 0.6
-- Ethical risk: 0.26
-- Reasons: repository support needs improvement
-- Recommended action: Review evidence, repository support, governance status, or ethical risk.
-
-## Audience Need
-
-- Priority: medium
-- Owner: editorial
-- Status: active
-- Review date: 2026-06-08
-- Readiness score: 0.722
-- Governance pressure: 0.62
-- Ethical risk: 0.28
-- Reasons: repository support needs improvement
-- Recommended action: Review evidence, repository support, governance status, or ethical risk.
-
-## Orientation
-
-- Priority: medium
-- Owner: editorial
-- Status: active
-- Review date: 2026-06-08
-- Readiness score: 0.73
-- Governance pressure: 0.58
 - Ethical risk: 0.24
 - Reasons: repository support needs improvement
 - Recommended action: Review evidence, repository support, governance status, or ethical risk.

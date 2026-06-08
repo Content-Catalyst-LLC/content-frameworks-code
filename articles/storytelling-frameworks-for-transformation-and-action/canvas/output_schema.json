@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://thecontentcatalyst.net/schemas/storytelling-frameworks-for-transformation-and-action-canvas-output.schema.json",
+  "title": "Catalyst Canvas Output Schema: Storytelling Frameworks for Transformation and Action",
+  "description": "Output schema for Catalyst Canvas article-readiness audit results, UI cards, catalog records, and governance queues.",
+  "type": "object",
+  "required": [
+    "module",
+    "article_slug",
+    "generated_at",
+    "results",
+    "governance_queue",
+    "canvas_cards"
+  ],
+  "properties": {
+    "module": {
+      "type": "string",
+      "const": "storytelling_frameworks_for_transformation_and_action_canvas"
+    },
+    "article_slug": {
+      "type": "string",
+      "const": "storytelling-frameworks-for-transformation-and-action"
+    },
+    "generated_at": {
+      "type": "string"
+    },
+    "results": {
+      "type": "array"
+    },
+    "governance_queue": {
+      "type": "array"
+    },
+    "canvas_cards": {
+      "type": "array"
+    }
+  },
+  "additionalProperties": true
+}

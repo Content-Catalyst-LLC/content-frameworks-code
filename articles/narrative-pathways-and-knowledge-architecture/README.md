@@ -51,3 +51,7 @@ javac java/NarrativePathwayModel.java && java -cp java NarrativePathwayModel
 sqlite3 outputs/narrative_pathways.sqlite < sql/narrative_pathway_schema.sql
 sqlite3 -header -csv outputs/narrative_pathways.sqlite < sql/narrative_pathway_queries.sql > outputs/tables/sql_narrative_pathway_report.csv
 ```
+
+## Catalyst Canvas Readiness Layer
+
+This article folder includes `canvas/`, `python/content_framework_canvas/`, tests, JSON exports, and governance queue outputs for Catalyst Canvas integration.

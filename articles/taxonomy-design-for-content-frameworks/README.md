@@ -50,3 +50,7 @@ javac java/TaxonomyDesignModel.java && java -cp java TaxonomyDesignModel
 sqlite3 outputs/taxonomy_design.sqlite < sql/taxonomy_design_schema.sql
 sqlite3 -header -csv outputs/taxonomy_design.sqlite < sql/taxonomy_design_queries.sql > outputs/tables/sql_taxonomy_design_report.csv
 ```
+
+## Catalyst Canvas Readiness Layer
+
+This article folder includes `canvas/`, `python/content_framework_canvas/`, tests, JSON exports, and governance queue outputs for Catalyst Canvas integration.

@@ -28,3 +28,7 @@ javac java/CommunicationResponseAudit.java && java -cp java CommunicationRespons
 sqlite3 outputs/communication_response.sqlite < sql/communication_response_schema.sql
 sqlite3 -header -csv outputs/communication_response.sqlite < sql/communication_response_queries.sql > outputs/tables/sql_communication_response_report.csv
 ```
+
+## Catalyst Canvas Readiness Layer
+
+This article folder includes `canvas/`, `python/content_framework_canvas/`, tests, JSON exports, and governance queue outputs for Catalyst Canvas integration.

@@ -1,0 +1,25 @@
+{
+  "module": "5w1h_and_the_architecture_of_explanatory_completeness_canvas",
+  "version": "1.0.0",
+  "article_slug": "5w1h-and-the-architecture-of-explanatory-completeness",
+  "article_title": "5W1H and the Architecture of Explanatory Completeness",
+  "article_stage": "active",
+  "generated_at": "2026-06-08T23:24:16+00:00",
+  "record_count": 6,
+  "average_readiness_score": 0.727,
+  "metrics": [
+    "content_score",
+    "audience_score",
+    "evidence_score",
+    "repository_score",
+    "governance_pressure",
+    "ethical_risk",
+    "readiness_score"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/article_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/article_canvas_export.json"
+  }
+}

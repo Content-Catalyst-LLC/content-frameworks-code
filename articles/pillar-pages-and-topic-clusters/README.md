@@ -51,3 +51,7 @@ javac java/PillarClusterModel.java && java -cp java PillarClusterModel
 sqlite3 outputs/pillar_cluster.sqlite < sql/pillar_cluster_schema.sql
 sqlite3 -header -csv outputs/pillar_cluster.sqlite < sql/pillar_cluster_queries.sql > outputs/tables/sql_pillar_cluster_report.csv
 ```
+
+## Catalyst Canvas Readiness Layer
+
+This article folder includes `canvas/`, `python/content_framework_canvas/`, tests, JSON exports, and governance queue outputs for Catalyst Canvas integration.

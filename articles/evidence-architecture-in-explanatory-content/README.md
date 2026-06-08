@@ -28,3 +28,7 @@ javac java/EvidenceArchitectureAudit.java && java -cp java EvidenceArchitectureA
 sqlite3 outputs/evidence_architecture.sqlite < sql/evidence_architecture_schema.sql
 sqlite3 -header -csv outputs/evidence_architecture.sqlite < sql/evidence_architecture_queries.sql > outputs/tables/sql_evidence_architecture_report.csv
 ```
+
+## Catalyst Canvas Readiness Layer
+
+This article folder includes `canvas/`, `python/content_framework_canvas/`, tests, JSON exports, and governance queue outputs for Catalyst Canvas integration.

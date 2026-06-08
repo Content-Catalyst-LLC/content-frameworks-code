@@ -1,9 +1,6 @@
-"""Data models for generic Content Frameworks Canvas readiness audits."""
 
 from __future__ import annotations
-
 from dataclasses import asdict, dataclass
-
 
 @dataclass(frozen=True)
 class CanvasRecord:
@@ -11,6 +8,7 @@ class CanvasRecord:
     article_slug: str
     article_title: str
     module_kind: str
+    article_stage: str
     canvas_dimension: str
     description: str
     content_value: float
@@ -41,6 +39,7 @@ class CanvasRecord:
             article_slug=row["article_slug"],
             article_title=row["article_title"],
             module_kind=row["module_kind"],
+            article_stage=row["article_stage"],
             canvas_dimension=row["canvas_dimension"],
             description=row["description"],
             owner=row["owner"],
@@ -52,13 +51,13 @@ class CanvasRecord:
     def to_dict(self) -> dict[str, object]:
         return asdict(self)
 
-
 @dataclass(frozen=True)
 class AuditResult:
     record_id: str
     article_slug: str
     article_title: str
     module_kind: str
+    article_stage: str
     canvas_dimension: str
     description: str
     owner: str

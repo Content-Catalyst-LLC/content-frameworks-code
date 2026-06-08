@@ -28,3 +28,7 @@ javac java/InterdisciplinaryBridgeAudit.java && java -cp java InterdisciplinaryB
 sqlite3 outputs/interdisciplinary_bridges.sqlite < sql/interdisciplinary_bridge_schema.sql
 sqlite3 -header -csv outputs/interdisciplinary_bridges.sqlite < sql/interdisciplinary_bridge_queries.sql > outputs/tables/sql_interdisciplinary_bridge_report.csv
 ```
+
+## Catalyst Canvas Readiness Layer
+
+This article folder includes `canvas/`, `python/content_framework_canvas/`, tests, JSON exports, and governance queue outputs for Catalyst Canvas integration.

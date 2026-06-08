@@ -28,3 +28,7 @@ javac java/JTBDContentAudit.java && java -cp java JTBDContentAudit
 sqlite3 outputs/jtbd_content.sqlite < sql/jtbd_content_schema.sql
 sqlite3 -header -csv outputs/jtbd_content.sqlite < sql/jtbd_content_queries.sql > outputs/tables/sql_jtbd_content_report.csv
 ```
+
+## Catalyst Canvas Readiness Layer
+
+This article folder includes `canvas/`, `python/content_framework_canvas/`, tests, JSON exports, and governance queue outputs for Catalyst Canvas integration.

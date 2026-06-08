@@ -28,3 +28,7 @@ javac java/FiveWOneHAudit.java && java -cp java FiveWOneHAudit
 sqlite3 outputs/five_w_one_h.sqlite < sql/five_w_one_h_schema.sql
 sqlite3 -header -csv outputs/five_w_one_h.sqlite < sql/five_w_one_h_queries.sql > outputs/tables/sql_five_w_one_h_report.csv
 ```
+
+## Catalyst Canvas Readiness Layer
+
+This article folder includes `canvas/`, `python/content_framework_canvas/`, tests, JSON exports, and governance queue outputs for Catalyst Canvas integration.

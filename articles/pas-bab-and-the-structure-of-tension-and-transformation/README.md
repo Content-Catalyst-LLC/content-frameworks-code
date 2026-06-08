@@ -28,3 +28,7 @@ javac java/PasBabSequenceAudit.java && java -cp java PasBabSequenceAudit
 sqlite3 outputs/pas_bab_sequence.sqlite < sql/pas_bab_sequence_schema.sql
 sqlite3 -header -csv outputs/pas_bab_sequence.sqlite < sql/pas_bab_sequence_queries.sql > outputs/tables/sql_pas_bab_sequence_report.csv
 ```
+
+## Catalyst Canvas Readiness Layer
+
+This article folder includes `canvas/`, `python/content_framework_canvas/`, tests, JSON exports, and governance queue outputs for Catalyst Canvas integration.

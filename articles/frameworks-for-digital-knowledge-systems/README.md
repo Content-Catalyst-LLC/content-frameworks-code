@@ -50,3 +50,7 @@ javac java/DigitalKnowledgeSystemModel.java && java -cp java DigitalKnowledgeSys
 sqlite3 outputs/digital_knowledge_system.sqlite < sql/digital_knowledge_system_schema.sql
 sqlite3 -header -csv outputs/digital_knowledge_system.sqlite < sql/digital_knowledge_system_queries.sql > outputs/tables/sql_digital_knowledge_system_report.csv
 ```
+
+## Catalyst Canvas Readiness Layer
+
+This article folder includes `canvas/`, `python/content_framework_canvas/`, tests, JSON exports, and governance queue outputs for Catalyst Canvas integration.

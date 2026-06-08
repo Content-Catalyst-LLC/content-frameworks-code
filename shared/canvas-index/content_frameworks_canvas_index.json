@@ -1,0 +1,222 @@
+[
+  {
+    "article_slug": "pillar-pages-and-topic-clusters",
+    "article_title": "Pillar Pages and Topic Clusters",
+    "module_kind": "knowledge_architecture",
+    "article_stage": "active",
+    "manifest": "articles/pillar-pages-and-topic-clusters/canvas/canvas_manifest.json",
+    "cards": "articles/pillar-pages-and-topic-clusters/canvas/canvas_cards.json",
+    "governance_queue": "articles/pillar-pages-and-topic-clusters/canvas/governance_queue.json",
+    "summary": "Central explanatory pages, supporting articles, internal links, and scalable knowledge architecture."
+  },
+  {
+    "article_slug": "narrative-pathways-and-knowledge-architecture",
+    "article_title": "Narrative Pathways and Knowledge Architecture",
+    "module_kind": "knowledge_architecture",
+    "article_stage": "active",
+    "manifest": "articles/narrative-pathways-and-knowledge-architecture/canvas/canvas_manifest.json",
+    "cards": "articles/narrative-pathways-and-knowledge-architecture/canvas/canvas_cards.json",
+    "governance_queue": "articles/narrative-pathways-and-knowledge-architecture/canvas/governance_queue.json",
+    "summary": "How readers move through complex knowledge systems over time."
+  },
+  {
+    "article_slug": "frameworks-for-digital-knowledge-systems",
+    "article_title": "Frameworks for Digital Knowledge Systems",
+    "module_kind": "digital_knowledge_systems",
+    "article_stage": "active",
+    "manifest": "articles/frameworks-for-digital-knowledge-systems/canvas/canvas_manifest.json",
+    "cards": "articles/frameworks-for-digital-knowledge-systems/canvas/canvas_cards.json",
+    "governance_queue": "articles/frameworks-for-digital-knowledge-systems/canvas/governance_queue.json",
+    "summary": "Organizing large digital libraries, archives, publications, and educational platforms."
+  },
+  {
+    "article_slug": "taxonomy-design-for-content-frameworks",
+    "article_title": "Taxonomy Design for Content Frameworks",
+    "module_kind": "taxonomy_design",
+    "article_stage": "active",
+    "manifest": "articles/taxonomy-design-for-content-frameworks/canvas/canvas_manifest.json",
+    "cards": "articles/taxonomy-design-for-content-frameworks/canvas/canvas_cards.json",
+    "governance_queue": "articles/taxonomy-design-for-content-frameworks/canvas/governance_queue.json",
+    "summary": "Categories, tags, hierarchies, semantic relationships, and conceptual boundaries."
+  },
+  {
+    "article_slug": "internal-linking-as-framework-infrastructure",
+    "article_title": "Internal Linking as Framework Infrastructure",
+    "module_kind": "knowledge_architecture",
+    "article_stage": "active",
+    "manifest": "articles/internal-linking-as-framework-infrastructure/canvas/canvas_manifest.json",
+    "cards": "articles/internal-linking-as-framework-infrastructure/canvas/canvas_cards.json",
+    "governance_queue": "articles/internal-linking-as-framework-infrastructure/canvas/governance_queue.json",
+    "summary": "How links create navigational, semantic, and strategic relationships across a knowledge system."
+  },
+  {
+    "article_slug": "content-audits-and-framework-governance",
+    "article_title": "Content Audits and Framework Governance",
+    "module_kind": "governance",
+    "article_stage": "active",
+    "manifest": "articles/content-audits-and-framework-governance/canvas/canvas_manifest.json",
+    "cards": "articles/content-audits-and-framework-governance/canvas/canvas_cards.json",
+    "governance_queue": "articles/content-audits-and-framework-governance/canvas/governance_queue.json",
+    "summary": "Evaluating coverage, gaps, duplication, outdated content, and structural coherence."
+  },
+  {
+    "article_slug": "editorial-metadata-and-content-systems",
+    "article_title": "Editorial Metadata and Content Systems",
+    "module_kind": "metadata",
+    "article_stage": "active",
+    "manifest": "articles/editorial-metadata-and-content-systems/canvas/canvas_manifest.json",
+    "cards": "articles/editorial-metadata-and-content-systems/canvas/canvas_cards.json",
+    "governance_queue": "articles/editorial-metadata-and-content-systems/canvas/governance_queue.json",
+    "summary": "Metadata fields, status tracking, references, excerpts, image metadata, and repository links."
+  },
+  {
+    "article_slug": "educational-scaffolding-and-the-design-of-learning-systems",
+    "article_title": "Educational Scaffolding and the Design of Learning Systems",
+    "module_kind": "learning_systems",
+    "article_stage": "active",
+    "manifest": "articles/educational-scaffolding-and-the-design-of-learning-systems/canvas/canvas_manifest.json",
+    "cards": "articles/educational-scaffolding-and-the-design-of-learning-systems/canvas/canvas_cards.json",
+    "governance_queue": "articles/educational-scaffolding-and-the-design-of-learning-systems/canvas/governance_queue.json",
+    "summary": "Sequencing knowledge so learners can build understanding cumulatively."
+  },
+  {
+    "article_slug": "conceptual-models-in-communication",
+    "article_title": "Conceptual Models in Communication",
+    "module_kind": "communication_models",
+    "article_stage": "active",
+    "manifest": "articles/conceptual-models-in-communication/canvas/canvas_manifest.json",
+    "cards": "articles/conceptual-models-in-communication/canvas/canvas_cards.json",
+    "governance_queue": "articles/conceptual-models-in-communication/canvas/governance_queue.json",
+    "summary": "How simplified representations clarify relationships among variables, actors, ideas, and processes."
+  },
+  {
+    "article_slug": "frameworks-for-research-communication",
+    "article_title": "Frameworks for Research Communication",
+    "module_kind": "research_communication",
+    "article_stage": "active",
+    "manifest": "articles/frameworks-for-research-communication/canvas/canvas_manifest.json",
+    "cards": "articles/frameworks-for-research-communication/canvas/canvas_cards.json",
+    "governance_queue": "articles/frameworks-for-research-communication/canvas/governance_queue.json",
+    "summary": "Moving from evidence to interpretation, implication, public understanding, and scholarly synthesis."
+  },
+  {
+    "article_slug": "curriculum-pathways-and-framework-design",
+    "article_title": "Curriculum Pathways and Framework Design",
+    "module_kind": "curriculum_design",
+    "article_stage": "active",
+    "manifest": "articles/curriculum-pathways-and-framework-design/canvas/canvas_manifest.json",
+    "cards": "articles/curriculum-pathways-and-framework-design/canvas/canvas_cards.json",
+    "governance_queue": "articles/curriculum-pathways-and-framework-design/canvas/governance_queue.json",
+    "summary": "How frameworks structure learning progression, prerequisite knowledge, and conceptual depth."
+  },
+  {
+    "article_slug": "evidence-architecture-in-explanatory-content",
+    "article_title": "Evidence Architecture in Explanatory Content",
+    "module_kind": "evidence_architecture",
+    "article_stage": "active",
+    "manifest": "articles/evidence-architecture-in-explanatory-content/canvas/canvas_manifest.json",
+    "cards": "articles/evidence-architecture-in-explanatory-content/canvas/canvas_cards.json",
+    "governance_queue": "articles/evidence-architecture-in-explanatory-content/canvas/governance_queue.json",
+    "summary": "Claims, support, citations, examples, references, authority, and interpretive reliability."
+  },
+  {
+    "article_slug": "interdisciplinary-frameworks-and-knowledge-bridges",
+    "article_title": "Interdisciplinary Frameworks and Knowledge Bridges",
+    "module_kind": "interdisciplinary_bridges",
+    "article_stage": "active",
+    "manifest": "articles/interdisciplinary-frameworks-and-knowledge-bridges/canvas/canvas_manifest.json",
+    "cards": "articles/interdisciplinary-frameworks-and-knowledge-bridges/canvas/canvas_cards.json",
+    "governance_queue": "articles/interdisciplinary-frameworks-and-knowledge-bridges/canvas/governance_queue.json",
+    "summary": "Frameworks that connect fields without collapsing their differences."
+  },
+  {
+    "article_slug": "aida-and-the-logic-of-persuasive-sequence",
+    "article_title": "AIDA and the Logic of Persuasive Sequence",
+    "module_kind": "persuasive_sequence",
+    "article_stage": "active",
+    "manifest": "articles/aida-and-the-logic-of-persuasive-sequence/canvas/canvas_manifest.json",
+    "cards": "articles/aida-and-the-logic-of-persuasive-sequence/canvas/canvas_cards.json",
+    "governance_queue": "articles/aida-and-the-logic-of-persuasive-sequence/canvas/governance_queue.json",
+    "summary": "Attention, interest, desire, action, and the limits of linear persuasion models."
+  },
+  {
+    "article_slug": "pas-bab-and-the-structure-of-tension-and-transformation",
+    "article_title": "PAS, BAB, and the Structure of Tension and Transformation",
+    "module_kind": "persuasive_sequence",
+    "article_stage": "active",
+    "manifest": "articles/pas-bab-and-the-structure-of-tension-and-transformation/canvas/canvas_manifest.json",
+    "cards": "articles/pas-bab-and-the-structure-of-tension-and-transformation/canvas/canvas_cards.json",
+    "governance_queue": "articles/pas-bab-and-the-structure-of-tension-and-transformation/canvas/governance_queue.json",
+    "summary": "Problem-agitate-solution and before-after-bridge frameworks."
+  },
+  {
+    "article_slug": "5w1h-and-the-architecture-of-explanatory-completeness",
+    "article_title": "5W1H and the Architecture of Explanatory Completeness",
+    "module_kind": "explanatory_structure",
+    "article_stage": "active",
+    "manifest": "articles/5w1h-and-the-architecture-of-explanatory-completeness/canvas/canvas_manifest.json",
+    "cards": "articles/5w1h-and-the-architecture-of-explanatory-completeness/canvas/canvas_cards.json",
+    "governance_queue": "articles/5w1h-and-the-architecture-of-explanatory-completeness/canvas/governance_queue.json",
+    "summary": "Who, what, when, where, why, and how as a durable explanatory structure."
+  },
+  {
+    "article_slug": "hierarchy-of-effects-and-communication-response-models",
+    "article_title": "Hierarchy of Effects and Communication Response Models",
+    "module_kind": "communication_response_models",
+    "article_stage": "active",
+    "manifest": "articles/hierarchy-of-effects-and-communication-response-models/canvas/canvas_manifest.json",
+    "cards": "articles/hierarchy-of-effects-and-communication-response-models/canvas/canvas_cards.json",
+    "governance_queue": "articles/hierarchy-of-effects-and-communication-response-models/canvas/governance_queue.json",
+    "summary": "Staged models of awareness, attitude, preference, and action."
+  },
+  {
+    "article_slug": "storytelling-frameworks-for-transformation-and-action",
+    "article_title": "Storytelling Frameworks for Transformation and Action",
+    "module_kind": "storytelling_frameworks",
+    "article_stage": "active",
+    "manifest": "articles/storytelling-frameworks-for-transformation-and-action/canvas/canvas_manifest.json",
+    "cards": "articles/storytelling-frameworks-for-transformation-and-action/canvas/canvas_cards.json",
+    "governance_queue": "articles/storytelling-frameworks-for-transformation-and-action/canvas/governance_queue.json",
+    "summary": "How story frameworks structure change, stakes, conflict, and resolution."
+  },
+  {
+    "article_slug": "ethical-risks-in-persuasive-frameworks",
+    "article_title": "Ethical Risks in Persuasive Frameworks",
+    "module_kind": "ethics",
+    "article_stage": "active",
+    "manifest": "articles/ethical-risks-in-persuasive-frameworks/canvas/canvas_manifest.json",
+    "cards": "articles/ethical-risks-in-persuasive-frameworks/canvas/canvas_cards.json",
+    "governance_queue": "articles/ethical-risks-in-persuasive-frameworks/canvas/governance_queue.json",
+    "summary": "Manipulation, fear, urgency, simplification, and audience autonomy."
+  },
+  {
+    "article_slug": "jobs-to-be-done-and-the-problem-of-audience-need",
+    "article_title": "Jobs to Be Done and the Problem of Audience Need",
+    "module_kind": "audience_need",
+    "article_stage": "active",
+    "manifest": "articles/jobs-to-be-done-and-the-problem-of-audience-need/canvas/canvas_manifest.json",
+    "cards": "articles/jobs-to-be-done-and-the-problem-of-audience-need/canvas/canvas_cards.json",
+    "governance_queue": "articles/jobs-to-be-done-and-the-problem-of-audience-need/canvas/governance_queue.json",
+    "summary": "Moving beyond demographics toward progress, need, circumstance, and desired change."
+  },
+  {
+    "article_slug": "value-proposition-canvas-and-the-communication-of-relevance",
+    "article_title": "Value Proposition Canvas and the Communication of Relevance",
+    "module_kind": "audience_relevance",
+    "article_stage": "active",
+    "manifest": "articles/value-proposition-canvas-and-the-communication-of-relevance/canvas/canvas_manifest.json",
+    "cards": "articles/value-proposition-canvas-and-the-communication-of-relevance/canvas/canvas_cards.json",
+    "governance_queue": "articles/value-proposition-canvas-and-the-communication-of-relevance/canvas/governance_queue.json",
+    "summary": "Pains, gains, jobs, products, services, and value alignment."
+  },
+  {
+    "article_slug": "stp-segmentation-targeting-and-positioning",
+    "article_title": "STP: Segmentation, Targeting, and Positioning",
+    "module_kind": "audience_strategy",
+    "article_stage": "active",
+    "manifest": "articles/stp-segmentation-targeting-and-positioning/canvas/canvas_manifest.json",
+    "cards": "articles/stp-segmentation-targeting-and-positioning/canvas/canvas_cards.json",
+    "governance_queue": "articles/stp-segmentation-targeting-and-positioning/canvas/governance_queue.json",
+    "summary": "Segmentation, targeting, positioning, evidence fit, and ethical review."
+  }
+]

@@ -1,176 +1,188 @@
 [
   {
-    "card_id": "stp-segment-beginner-learners",
-    "type": "stp_segment_card",
+    "card_id": "stp-segmentation-targeting-and-positioning-orientation",
+    "type": "content_framework_canvas_dimension",
     "article_slug": "stp-segmentation-targeting-and-positioning",
-    "title": "Beginner learners",
-    "subtitle": "Introductory article pathway",
-    "description": "Readers who need orientation before comparing audience frameworks",
-    "primary_job": "Understand STP without marketing jargon",
+    "article_stage": "active",
+    "title": "Orientation",
+    "subtitle": "STP: Segmentation, Targeting, and Positioning",
+    "description": "Defines the article purpose and reader promise: Segmentation, targeting, positioning, evidence fit, and ethical review.",
     "badges": [
-      "strong secondary target",
-      "standard review",
-      "priority: medium"
+      "stage: active",
+      "readiness: 0.75",
+      "priority: standard",
+      "active"
     ],
     "metrics": {
-      "weighted_target_score": 0.831,
-      "positioning_score": 0.778,
-      "positioning_gap": 0.102,
-      "governance_score": 0.793,
-      "ethical_risk_score": 0.3
+      "content_score": 0.84,
+      "audience_score": 0.84,
+      "evidence_score": 0.74,
+      "repository_score": 0.7,
+      "governance_pressure": 0.58,
+      "ethical_risk": 0.22,
+      "readiness_score": 0.75
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue"
+    }
+  },
+  {
+    "card_id": "stp-segmentation-targeting-and-positioning-audience_need",
+    "type": "content_framework_canvas_dimension",
+    "article_slug": "stp-segmentation-targeting-and-positioning",
+    "article_stage": "active",
+    "title": "Audience Need",
+    "subtitle": "STP: Segmentation, Targeting, and Positioning",
+    "description": "Connects the article to reader jobs, pains, gains, questions, or decision needs.",
+    "badges": [
+      "stage: active",
+      "readiness: 0.741",
+      "priority: standard",
+      "active"
+    ],
+    "metrics": {
+      "content_score": 0.82,
+      "audience_score": 0.88,
+      "evidence_score": 0.72,
+      "repository_score": 0.68,
+      "governance_pressure": 0.62,
+      "ethical_risk": 0.26,
+      "readiness_score": 0.741
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "repository support needs improvement"
+    }
+  },
+  {
+    "card_id": "stp-segmentation-targeting-and-positioning-message_architecture",
+    "type": "content_framework_canvas_dimension",
+    "article_slug": "stp-segmentation-targeting-and-positioning",
+    "article_stage": "active",
+    "title": "Message Architecture",
+    "subtitle": "STP: Segmentation, Targeting, and Positioning",
+    "description": "Assesses title, opening, section sequence, examples, internal links, and next-step clarity.",
+    "badges": [
+      "stage: active",
+      "readiness: 0.737",
+      "priority: medium",
+      "active"
+    ],
+    "metrics": {
+      "content_score": 0.86,
+      "audience_score": 0.82,
+      "evidence_score": 0.74,
+      "repository_score": 0.64,
+      "governance_pressure": 0.6,
+      "ethical_risk": 0.24,
+      "readiness_score": 0.737
     },
     "governance": {
       "owner": "editorial",
       "status": "active",
       "review_date": "2026-06-08",
       "review_priority": "medium",
-      "reasons": "moderate positioning gap"
-    },
-    "recommended_action": "moderate positioning gap"
+      "reasons": "repository support needs improvement"
+    }
   },
   {
-    "card_id": "stp-segment-technical-practitioners",
-    "type": "stp_segment_card",
+    "card_id": "stp-segmentation-targeting-and-positioning-evidence_architecture",
+    "type": "content_framework_canvas_dimension",
     "article_slug": "stp-segmentation-targeting-and-positioning",
-    "title": "Technical practitioners",
-    "subtitle": "Technical workflow pathway",
-    "description": "Practitioners who need reusable scoring and governance workflows",
-    "primary_job": "Apply STP to structured content and product communication",
+    "article_stage": "active",
+    "title": "Evidence Architecture",
+    "subtitle": "STP: Segmentation, Targeting, and Positioning",
+    "description": "Checks whether claims, examples, references, caveats, and interpretive limits support the article.",
     "badges": [
-      "strong secondary target",
-      "standard review",
-      "priority: standard"
+      "stage: active",
+      "readiness: 0.73",
+      "priority: medium",
+      "review"
     ],
     "metrics": {
-      "weighted_target_score": 0.779,
-      "positioning_score": 0.832,
-      "positioning_gap": 0.0,
-      "governance_score": 0.784,
-      "ethical_risk_score": 0.28
+      "content_score": 0.8,
+      "audience_score": 0.78,
+      "evidence_score": 0.84,
+      "repository_score": 0.66,
+      "governance_pressure": 0.7,
+      "ethical_risk": 0.22,
+      "readiness_score": 0.73
+    },
+    "governance": {
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "repository support needs improvement; status marked review"
+    }
+  },
+  {
+    "card_id": "stp-segmentation-targeting-and-positioning-repository_integration",
+    "type": "content_framework_canvas_dimension",
+    "article_slug": "stp-segmentation-targeting-and-positioning",
+    "article_stage": "active",
+    "title": "Repository Integration",
+    "subtitle": "STP: Segmentation, Targeting, and Positioning",
+    "description": "Assesses whether code, data, outputs, documentation, and generated assets support reuse.",
+    "badges": [
+      "stage: active",
+      "readiness: 0.722",
+      "priority: medium",
+      "active"
+    ],
+    "metrics": {
+      "content_score": 0.76,
+      "audience_score": 0.74,
+      "evidence_score": 0.7,
+      "repository_score": 0.88,
+      "governance_pressure": 0.66,
+      "ethical_risk": 0.2,
+      "readiness_score": 0.722
     },
     "governance": {
       "owner": "technical",
       "status": "active",
       "review_date": "2026-06-08",
-      "review_priority": "standard",
+      "review_priority": "medium",
       "reasons": "no immediate governance issue"
-    },
-    "recommended_action": "no immediate governance issue"
+    }
   },
   {
-    "card_id": "stp-segment-public-policy-stakeholders",
-    "type": "stp_segment_card",
+    "card_id": "stp-segmentation-targeting-and-positioning-governance_review",
+    "type": "content_framework_canvas_dimension",
     "article_slug": "stp-segmentation-targeting-and-positioning",
-    "title": "Public policy stakeholders",
-    "subtitle": "Public reasoning pathway",
-    "description": "Policy and civic audiences needing responsible segmentation and positioning",
-    "primary_job": "Understand audience targeting without manipulation",
+    "article_stage": "active",
+    "title": "Governance Review",
+    "subtitle": "STP: Segmentation, Targeting, and Positioning",
+    "description": "Flags metadata freshness, link integrity, evidence review, repository status, and conceptual drift.",
     "badges": [
-      "strong secondary target",
-      "moderate ethical review",
-      "priority: medium"
+      "stage: active",
+      "readiness: 0.681",
+      "priority: medium",
+      "review"
     ],
     "metrics": {
-      "weighted_target_score": 0.773,
-      "positioning_score": 0.708,
-      "positioning_gap": 0.132,
-      "governance_score": 0.74,
-      "ethical_risk_score": 0.62
+      "content_score": 0.74,
+      "audience_score": 0.74,
+      "evidence_score": 0.78,
+      "repository_score": 0.72,
+      "governance_pressure": 0.86,
+      "ethical_risk": 0.34,
+      "readiness_score": 0.681
     },
     "governance": {
       "owner": "governance",
       "status": "review",
       "review_date": "2026-06-08",
       "review_priority": "medium",
-      "reasons": "moderate positioning gap; exclusion-risk review; status marked review"
-    },
-    "recommended_action": "moderate positioning gap; exclusion-risk review; status marked review"
-  },
-  {
-    "card_id": "stp-segment-affected-stakeholders",
-    "type": "stp_segment_card",
-    "article_slug": "stp-segmentation-targeting-and-positioning",
-    "title": "Affected stakeholders",
-    "subtitle": "Ethics pathway",
-    "description": "People indirectly affected by targeting or positioning decisions",
-    "primary_job": "Check whether targeting creates exclusion or burden",
-    "badges": [
-      "strong secondary target",
-      "high ethical review",
-      "priority: high"
-    ],
-    "metrics": {
-      "weighted_target_score": 0.729,
-      "positioning_score": 0.648,
-      "positioning_gap": 0.172,
-      "governance_score": 0.696,
-      "ethical_risk_score": 0.76
-    },
-    "governance": {
-      "owner": "governance",
-      "status": "review",
-      "review_date": "2026-06-08",
-      "review_priority": "high",
-      "reasons": "moderate positioning gap; weak differentiation; exclusion-risk review; status marked review"
-    },
-    "recommended_action": "moderate positioning gap; weak differentiation; exclusion-risk review; status marked review"
-  },
-  {
-    "card_id": "stp-segment-institutional-sponsors",
-    "type": "stp_segment_card",
-    "article_slug": "stp-segmentation-targeting-and-positioning",
-    "title": "Institutional sponsors",
-    "subtitle": "Strategy pathway",
-    "description": "Leaders evaluating whether the article supports strategic communication",
-    "primary_job": "Assess relevance to institutional message architecture",
-    "badges": [
-      "strong secondary target",
-      "standard review",
-      "priority: standard"
-    ],
-    "metrics": {
-      "weighted_target_score": 0.714,
-      "positioning_score": 0.724,
-      "positioning_gap": 0.0,
-      "governance_score": 0.695,
-      "ethical_risk_score": 0.4
-    },
-    "governance": {
-      "owner": "strategy",
-      "status": "active",
-      "review_date": "2026-06-08",
-      "review_priority": "standard",
-      "reasons": "no immediate governance issue"
-    },
-    "recommended_action": "no immediate governance issue"
-  },
-  {
-    "card_id": "stp-segment-generic-audience-label",
-    "type": "stp_segment_card",
-    "article_slug": "stp-segmentation-targeting-and-positioning",
-    "title": "Generic audience label",
-    "subtitle": "Revision pathway",
-    "description": "A weak broad audience label included to test validation and governance flags",
-    "primary_job": "Reveal why vague segmentation weakens communication",
-    "badges": [
-      "low current fit",
-      "moderate ethical review",
-      "priority: high"
-    ],
-    "metrics": {
-      "weighted_target_score": 0.493,
-      "positioning_score": 0.418,
-      "positioning_gap": 0.082,
-      "governance_score": 0.449,
-      "ethical_risk_score": 0.58
-    },
-    "governance": {
-      "owner": "editorial",
-      "status": "revise",
-      "review_date": "2026-06-08",
-      "review_priority": "high",
-      "reasons": "weak evidence fit; weak category clarity; weak differentiation; stereotype-risk review; exclusion-risk review; status marked revise"
-    },
-    "recommended_action": "weak evidence fit; weak category clarity; weak differentiation; stereotype-risk review; exclusion-risk review; status marked revise"
+      "reasons": "high governance need; status marked review"
+    }
   }
 ]

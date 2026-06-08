@@ -28,3 +28,7 @@ javac java/AidaSequenceAudit.java && java -cp java AidaSequenceAudit
 sqlite3 outputs/aida_sequence.sqlite < sql/aida_sequence_schema.sql
 sqlite3 -header -csv outputs/aida_sequence.sqlite < sql/aida_sequence_queries.sql > outputs/tables/sql_aida_sequence_report.csv
 ```
+
+## Catalyst Canvas Readiness Layer
+
+This article folder includes `canvas/`, `python/content_framework_canvas/`, tests, JSON exports, and governance queue outputs for Catalyst Canvas integration.

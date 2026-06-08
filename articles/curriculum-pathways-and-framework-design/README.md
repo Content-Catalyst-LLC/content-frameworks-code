@@ -28,3 +28,7 @@ javac java/CurriculumPathwayAudit.java && java -cp java CurriculumPathwayAudit
 sqlite3 outputs/curriculum_pathways.sqlite < sql/curriculum_pathway_schema.sql
 sqlite3 -header -csv outputs/curriculum_pathways.sqlite < sql/curriculum_pathway_queries.sql > outputs/tables/sql_curriculum_pathway_report.csv
 ```
+
+## Catalyst Canvas Readiness Layer
+
+This article folder includes `canvas/`, `python/content_framework_canvas/`, tests, JSON exports, and governance queue outputs for Catalyst Canvas integration.

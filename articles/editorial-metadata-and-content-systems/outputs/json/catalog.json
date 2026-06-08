@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "article_slug": "editorial-metadata-and-content-systems",
   "article_title": "Editorial Metadata and Content Systems",
-  "generated_at": "2026-06-08T23:18:54+00:00",
+  "article_stage": "active",
+  "generated_at": "2026-06-08T23:24:15+00:00",
   "record_count": 6,
-  "average_readiness_score": 0.707,
+  "average_readiness_score": 0.727,
   "metrics": [
     "content_score",
     "audience_score",
