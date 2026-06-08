@@ -1,0 +1,4 @@
+cluster,published_items,total_items,planned_or_unpublished_items,coverage_rate,coverage_status
+Foundations,4,4,0,1.0,ready
+Framework Composition Scaling and Editorial Governance,0,1,1,0.0,review required
+Knowledge Architecture,3,7,4,0.4286,developing

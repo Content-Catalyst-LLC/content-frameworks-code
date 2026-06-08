@@ -1,0 +1,9 @@
+rule_id,rule_name,description,severity,active
+DKR001,Published metadata complete,Published records should meet minimum metadata completion,medium,True
+DKR002,Published records connected,Published records should meet minimum internal-link degree,medium,True
+DKR003,Taxonomy category exists,Every content record should belong to an active taxonomy category,medium,True
+DKR004,Repository readiness,Technical articles should have repository support when reproducible examples are used,medium,True
+DKR005,Review currency,Published records should have current review status,medium,True
+DKR006,System health threshold,Records below the minimum system-health threshold require governance review,medium,True
+DKR007,Accessibility fields complete,Image alt text and accessible structures should be complete,medium,True
+DKR008,Governance owner assigned,Records should have a review owner,medium,True

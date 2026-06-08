@@ -1,0 +1,9 @@
+slug,repository_url,repository_score,missing_repository_fields,repository_status
+content-frameworks,https://github.com/Content-Catalyst-LLC/content-frameworks-code,1.0,none,ready
+pillar-pages-and-topic-clusters,https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/pillar-pages-and-topic-clusters,1.0,none,ready
+narrative-pathways-and-knowledge-architecture,https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/narrative-pathways-and-knowledge-architecture,1.0,none,ready
+frameworks-for-digital-knowledge-systems,https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/frameworks-for-digital-knowledge-systems,1.0,none,ready
+taxonomy-design-for-content-frameworks,https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/taxonomy-design-for-content-frameworks,0.0,repository_exists; readme_exists; python_workflow; r_workflow; sql_schema; workflow_outputs_exist; governance_docs,review required
+internal-linking-as-framework-infrastructure,https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/internal-linking-as-framework-infrastructure,0.0,repository_exists; readme_exists; python_workflow; r_workflow; sql_schema; workflow_outputs_exist; governance_docs,review required
+content-audits-and-framework-governance,https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/content-audits-and-framework-governance,0.0,repository_exists; readme_exists; python_workflow; r_workflow; sql_schema; workflow_outputs_exist; governance_docs,review required
+editorial-metadata-and-content-systems,https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/editorial-metadata-and-content-systems,0.0,repository_exists; readme_exists; python_workflow; r_workflow; sql_schema; workflow_outputs_exist; governance_docs,review required

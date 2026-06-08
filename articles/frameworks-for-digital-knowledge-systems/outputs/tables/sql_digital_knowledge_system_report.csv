@@ -1,0 +1,22 @@
+cluster_name,published_items,planned_items,total_items,coverage_rate
+"Knowledge Architecture",3,3,6,0.5
+content_type,content_count
+article,6
+article_role,article_count
+technical,2
+method,2
+pillar,1
+governance,1
+relationship_type,link_count
+next_article,2
+technical_bridge,1
+previous_article,1
+prerequisite,1
+metadata_bridge,1
+slug,title,status,cluster_name,content_type,article_role,metadata_completion,outgoing_links,incoming_links,total_link_degree,repository_readiness
+content-audits-and-framework-governance,"Content Audits and Framework Governance",planned,"Knowledge Architecture",article,governance,,0,0,0,
+internal-linking-as-framework-infrastructure,"Internal Linking as Framework Infrastructure",planned,"Knowledge Architecture",article,technical,,0,1,1,
+taxonomy-design-for-content-frameworks,"Taxonomy Design for Content Frameworks",planned,"Knowledge Architecture",article,method,0.0,0,1,1,0.0
+pillar-pages-and-topic-clusters,"Pillar Pages and Topic Clusters",published,"Knowledge Architecture",article,pillar,1.0,0,1,1,1.0
+narrative-pathways-and-knowledge-architecture,"Narrative Pathways and Knowledge Architecture",published,"Knowledge Architecture",article,method,1.0,1,1,2,1.0
+frameworks-for-digital-knowledge-systems,"Frameworks for Digital Knowledge Systems",published,"Knowledge Architecture",article,technical,1.0,5,1,6,1.0

@@ -1,0 +1,62 @@
+{
+  "product_context": "Catalyst Canvas",
+  "article": "Frameworks for Digital Knowledge Systems",
+  "series": "Content Frameworks",
+  "version": "1.0.0",
+  "minimum_metadata_completion": 0.85,
+  "minimum_link_degree": 2,
+  "minimum_repository_readiness": 0.75,
+  "minimum_system_health": 0.75,
+  "required_metadata_fields": [
+    "excerpt",
+    "tags",
+    "github_url",
+    "image_alt",
+    "references",
+    "last_reviewed",
+    "series_context",
+    "footer_navigation"
+  ],
+  "repository_fields": [
+    "repository_exists",
+    "readme_exists",
+    "python_workflow",
+    "r_workflow",
+    "sql_schema",
+    "workflow_outputs_exist",
+    "governance_docs"
+  ],
+  "content_types": [
+    "article",
+    "pillar",
+    "article_map",
+    "method",
+    "technical",
+    "governance",
+    "reference",
+    "repository",
+    "dataset"
+  ],
+  "relationship_types": [
+    "previous_article",
+    "next_article",
+    "article_map",
+    "pillar_to_cluster",
+    "cluster_to_pillar",
+    "cluster_to_cluster",
+    "prerequisite",
+    "technical_bridge",
+    "metadata_bridge",
+    "taxonomy_bridge",
+    "governance_bridge",
+    "evidence_link"
+  ],
+  "governance_review_triggers": {
+    "published_metadata_completion_below": 0.85,
+    "published_link_degree_below": 2,
+    "repository_readiness_below": 0.75,
+    "system_health_below": 0.75,
+    "taxonomy_missing": true,
+    "review_not_current": true
+  }
+}

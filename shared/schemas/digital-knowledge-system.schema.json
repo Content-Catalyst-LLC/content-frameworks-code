@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Digital Knowledge System Content Record",
+  "type": "object",
+  "required": [
+    "content_id",
+    "slug",
+    "title",
+    "cluster",
+    "status",
+    "content_type",
+    "article_role",
+    "review_owner"
+  ],
+  "properties": {
+    "content_id": { "type": "string" },
+    "slug": { "type": "string" },
+    "title": { "type": "string" },
+    "cluster": { "type": "string" },
+    "status": { "type": "string", "enum": ["published", "planned", "draft", "review", "retired"] },
+    "content_type": { "type": "string" },
+    "article_role": { "type": "string" },
+    "review_current": { "type": "string" },
+    "review_owner": { "type": "string" },
+    "public_use_level": { "type": "string" }
+  }
+}

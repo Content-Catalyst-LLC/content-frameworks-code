@@ -1,0 +1,16 @@
+source_slug,target_slug,relationship_type,link_purpose,priority
+frameworks-for-digital-knowledge-systems,narrative-pathways-and-knowledge-architecture,previous_article,series navigation,high
+frameworks-for-digital-knowledge-systems,taxonomy-design-for-content-frameworks,next_article,series navigation,high
+frameworks-for-digital-knowledge-systems,content-frameworks,article_map,restore series orientation,high
+frameworks-for-digital-knowledge-systems,pillar-pages-and-topic-clusters,prerequisite,connects digital systems to pillar-cluster architecture,high
+frameworks-for-digital-knowledge-systems,editorial-metadata-and-content-systems,metadata_bridge,connects digital knowledge systems to metadata systems,high
+frameworks-for-digital-knowledge-systems,internal-linking-as-framework-infrastructure,technical_bridge,connects system architecture to internal-link infrastructure,high
+frameworks-for-digital-knowledge-systems,content-audits-and-framework-governance,governance_bridge,connects system architecture to content audits,high
+frameworks-for-digital-knowledge-systems,framework-governance-and-editorial-maintenance,governance_bridge,connects digital systems to long-term governance,medium
+frameworks-for-digital-knowledge-systems,framework-literacy-and-the-structure-of-usable-knowledge,critical_bridge,connects system design to responsible framework use,medium
+narrative-pathways-and-knowledge-architecture,frameworks-for-digital-knowledge-systems,next_article,moves from reader pathways to digital system architecture,high
+taxonomy-design-for-content-frameworks,frameworks-for-digital-knowledge-systems,cluster_to_cluster,connects taxonomy design back to digital system architecture,medium
+editorial-metadata-and-content-systems,frameworks-for-digital-knowledge-systems,cluster_to_cluster,connects metadata systems back to digital system architecture,medium
+internal-linking-as-framework-infrastructure,frameworks-for-digital-knowledge-systems,cluster_to_cluster,connects internal linking back to digital system architecture,medium
+content-audits-and-framework-governance,frameworks-for-digital-knowledge-systems,governance_bridge,connects content audits back to system health,medium
+pillar-pages-and-topic-clusters,frameworks-for-digital-knowledge-systems,pillar_to_cluster,connects pillar-cluster article to digital systems,high

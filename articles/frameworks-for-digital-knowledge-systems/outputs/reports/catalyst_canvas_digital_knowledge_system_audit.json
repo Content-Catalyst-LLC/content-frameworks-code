@@ -1,0 +1,724 @@
+{
+  "article": "Frameworks for Digital Knowledge Systems",
+  "generated_at": "2026-06-08T13:28:58.498880+00:00",
+  "config": {
+    "product_context": "Catalyst Canvas",
+    "article": "Frameworks for Digital Knowledge Systems",
+    "series": "Content Frameworks",
+    "version": "1.0.0",
+    "minimum_metadata_completion": 0.85,
+    "minimum_link_degree": 2,
+    "minimum_repository_readiness": 0.75,
+    "minimum_system_health": 0.75,
+    "required_metadata_fields": [
+      "excerpt",
+      "tags",
+      "github_url",
+      "image_alt",
+      "references",
+      "last_reviewed",
+      "series_context",
+      "footer_navigation"
+    ],
+    "repository_fields": [
+      "repository_exists",
+      "readme_exists",
+      "python_workflow",
+      "r_workflow",
+      "sql_schema",
+      "workflow_outputs_exist",
+      "governance_docs"
+    ],
+    "content_types": [
+      "article",
+      "pillar",
+      "article_map",
+      "method",
+      "technical",
+      "governance",
+      "reference",
+      "repository",
+      "dataset"
+    ],
+    "relationship_types": [
+      "previous_article",
+      "next_article",
+      "article_map",
+      "pillar_to_cluster",
+      "cluster_to_pillar",
+      "cluster_to_cluster",
+      "prerequisite",
+      "technical_bridge",
+      "metadata_bridge",
+      "taxonomy_bridge",
+      "governance_bridge",
+      "evidence_link"
+    ],
+    "governance_review_triggers": {
+      "published_metadata_completion_below": 0.85,
+      "published_link_degree_below": 2,
+      "repository_readiness_below": 0.75,
+      "system_health_below": 0.75,
+      "taxonomy_missing": true,
+      "review_not_current": true
+    }
+  },
+  "counts": {
+    "content_items": 12,
+    "metadata_records": 12,
+    "taxonomy_categories": 8,
+    "internal_links": 15,
+    "repositories": 8,
+    "governance_queue": 14
+  },
+  "content_audit": [
+    {
+      "slug": "content-frameworks",
+      "title": "Content Frameworks",
+      "cluster": "Foundations",
+      "status": "published",
+      "content_type": "article_map",
+      "article_role": "pillar",
+      "public_use_level": "public",
+      "review_owner": "Series editor",
+      "metadata_completion": 1.0,
+      "missing_metadata": "none",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "taxonomy_ready": true,
+      "repository_readiness": 1.0,
+      "missing_repository_fields": "none",
+      "review_current": true,
+      "system_health_score": 0.9167,
+      "system_health_status": "ready"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "cluster": "Knowledge Architecture",
+      "status": "published",
+      "content_type": "article",
+      "article_role": "pillar",
+      "public_use_level": "public",
+      "review_owner": "Knowledge architect",
+      "metadata_completion": 1.0,
+      "missing_metadata": "none",
+      "outgoing_links": 1,
+      "incoming_links": 1,
+      "total_link_degree": 2,
+      "taxonomy_ready": true,
+      "repository_readiness": 1.0,
+      "missing_repository_fields": "none",
+      "review_current": true,
+      "system_health_score": 1.0,
+      "system_health_status": "ready"
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "title": "Narrative Pathways and Knowledge Architecture",
+      "cluster": "Knowledge Architecture",
+      "status": "published",
+      "content_type": "article",
+      "article_role": "method",
+      "public_use_level": "public",
+      "review_owner": "Knowledge architect",
+      "metadata_completion": 1.0,
+      "missing_metadata": "none",
+      "outgoing_links": 1,
+      "incoming_links": 1,
+      "total_link_degree": 2,
+      "taxonomy_ready": true,
+      "repository_readiness": 1.0,
+      "missing_repository_fields": "none",
+      "review_current": true,
+      "system_health_score": 1.0,
+      "system_health_status": "ready"
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "title": "Frameworks for Digital Knowledge Systems",
+      "cluster": "Knowledge Architecture",
+      "status": "published",
+      "content_type": "article",
+      "article_role": "technical",
+      "public_use_level": "public",
+      "review_owner": "Knowledge architect",
+      "metadata_completion": 1.0,
+      "missing_metadata": "none",
+      "outgoing_links": 9,
+      "incoming_links": 6,
+      "total_link_degree": 15,
+      "taxonomy_ready": true,
+      "repository_readiness": 1.0,
+      "missing_repository_fields": "none",
+      "review_current": true,
+      "system_health_score": 1.0,
+      "system_health_status": "ready"
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "title": "Taxonomy Design for Content Frameworks",
+      "cluster": "Knowledge Architecture",
+      "status": "planned",
+      "content_type": "article",
+      "article_role": "method",
+      "public_use_level": "public",
+      "review_owner": "Knowledge architect",
+      "metadata_completion": 0.0,
+      "missing_metadata": "excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation",
+      "outgoing_links": 1,
+      "incoming_links": 1,
+      "total_link_degree": 2,
+      "taxonomy_ready": true,
+      "repository_readiness": 0.0,
+      "missing_repository_fields": "repository_exists; readme_exists; python_workflow; r_workflow; sql_schema; workflow_outputs_exist; governance_docs",
+      "review_current": false,
+      "system_health_score": 0.4167,
+      "system_health_status": "review required"
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "title": "Internal Linking as Framework Infrastructure",
+      "cluster": "Knowledge Architecture",
+      "status": "planned",
+      "content_type": "article",
+      "article_role": "technical",
+      "public_use_level": "public",
+      "review_owner": "Knowledge architect",
+      "metadata_completion": 0.0,
+      "missing_metadata": "excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation",
+      "outgoing_links": 1,
+      "incoming_links": 1,
+      "total_link_degree": 2,
+      "taxonomy_ready": true,
+      "repository_readiness": 0.0,
+      "missing_repository_fields": "repository_exists; readme_exists; python_workflow; r_workflow; sql_schema; workflow_outputs_exist; governance_docs",
+      "review_current": false,
+      "system_health_score": 0.4167,
+      "system_health_status": "review required"
+    },
+    {
+      "slug": "content-audits-and-framework-governance",
+      "title": "Content Audits and Framework Governance",
+      "cluster": "Knowledge Architecture",
+      "status": "planned",
+      "content_type": "article",
+      "article_role": "governance",
+      "public_use_level": "editorial",
+      "review_owner": "Editorial governance lead",
+      "metadata_completion": 0.0,
+      "missing_metadata": "excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation",
+      "outgoing_links": 1,
+      "incoming_links": 1,
+      "total_link_degree": 2,
+      "taxonomy_ready": true,
+      "repository_readiness": 0.0,
+      "missing_repository_fields": "repository_exists; readme_exists; python_workflow; r_workflow; sql_schema; workflow_outputs_exist; governance_docs",
+      "review_current": false,
+      "system_health_score": 0.4167,
+      "system_health_status": "review required"
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "title": "Editorial Metadata and Content Systems",
+      "cluster": "Knowledge Architecture",
+      "status": "planned",
+      "content_type": "article",
+      "article_role": "technical",
+      "public_use_level": "editorial",
+      "review_owner": "Editorial systems lead",
+      "metadata_completion": 0.0,
+      "missing_metadata": "excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation",
+      "outgoing_links": 1,
+      "incoming_links": 1,
+      "total_link_degree": 2,
+      "taxonomy_ready": true,
+      "repository_readiness": 0.0,
+      "missing_repository_fields": "repository_exists; readme_exists; python_workflow; r_workflow; sql_schema; workflow_outputs_exist; governance_docs",
+      "review_current": false,
+      "system_health_score": 0.4167,
+      "system_health_status": "review required"
+    },
+    {
+      "slug": "framework-governance-and-editorial-maintenance",
+      "title": "Framework Governance and Editorial Maintenance",
+      "cluster": "Framework Composition Scaling and Editorial Governance",
+      "status": "planned",
+      "content_type": "article",
+      "article_role": "governance",
+      "public_use_level": "editorial",
+      "review_owner": "Editorial governance lead",
+      "metadata_completion": 0.0,
+      "missing_metadata": "excerpt; tags; github_url; image_alt; references; last_reviewed; series_context; footer_navigation",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "taxonomy_ready": true,
+      "repository_readiness": 0.0,
+      "missing_repository_fields": "repository_exists; readme_exists; python_workflow; r_workflow; sql_schema; workflow_outputs_exist; governance_docs",
+      "review_current": false,
+      "system_health_score": 0.3333,
+      "system_health_status": "review required"
+    },
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks",
+      "cluster": "Foundations",
+      "status": "published",
+      "content_type": "article",
+      "article_role": "definition",
+      "public_use_level": "public",
+      "review_owner": "Series editor",
+      "metadata_completion": 1.0,
+      "missing_metadata": "none",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "taxonomy_ready": true,
+      "repository_readiness": 0.0,
+      "missing_repository_fields": "repository_exists; readme_exists; python_workflow; r_workflow; sql_schema; workflow_outputs_exist; governance_docs",
+      "review_current": true,
+      "system_health_score": 0.6667,
+      "system_health_status": "developing"
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "cluster": "Foundations",
+      "status": "published",
+      "content_type": "article",
+      "article_role": "critique",
+      "public_use_level": "public",
+      "review_owner": "Series editor",
+      "metadata_completion": 1.0,
+      "missing_metadata": "none",
+      "outgoing_links": 0,
+      "incoming_links": 1,
+      "total_link_degree": 1,
+      "taxonomy_ready": true,
+      "repository_readiness": 0.0,
+      "missing_repository_fields": "repository_exists; readme_exists; python_workflow; r_workflow; sql_schema; workflow_outputs_exist; governance_docs",
+      "review_current": true,
+      "system_health_score": 0.75,
+      "system_health_status": "ready"
+    },
+    {
+      "slug": "frameworks-templates-and-models",
+      "title": "Frameworks Templates and Models",
+      "cluster": "Foundations",
+      "status": "published",
+      "content_type": "article",
+      "article_role": "comparison",
+      "public_use_level": "public",
+      "review_owner": "Series editor",
+      "metadata_completion": 1.0,
+      "missing_metadata": "none",
+      "outgoing_links": 0,
+      "incoming_links": 0,
+      "total_link_degree": 0,
+      "taxonomy_ready": true,
+      "repository_readiness": 0.0,
+      "missing_repository_fields": "repository_exists; readme_exists; python_workflow; r_workflow; sql_schema; workflow_outputs_exist; governance_docs",
+      "review_current": true,
+      "system_health_score": 0.6667,
+      "system_health_status": "developing"
+    }
+  ],
+  "cluster_coverage": [
+    {
+      "cluster": "Foundations",
+      "published_items": 4,
+      "total_items": 4,
+      "planned_or_unpublished_items": 0,
+      "coverage_rate": 1.0,
+      "coverage_status": "ready"
+    },
+    {
+      "cluster": "Framework Composition Scaling and Editorial Governance",
+      "published_items": 0,
+      "total_items": 1,
+      "planned_or_unpublished_items": 1,
+      "coverage_rate": 0.0,
+      "coverage_status": "review required"
+    },
+    {
+      "cluster": "Knowledge Architecture",
+      "published_items": 3,
+      "total_items": 7,
+      "planned_or_unpublished_items": 4,
+      "coverage_rate": 0.4286,
+      "coverage_status": "developing"
+    }
+  ],
+  "link_type_summary": [
+    {
+      "relationship_type": "article_map",
+      "link_count": 1
+    },
+    {
+      "relationship_type": "cluster_to_cluster",
+      "link_count": 3
+    },
+    {
+      "relationship_type": "critical_bridge",
+      "link_count": 1
+    },
+    {
+      "relationship_type": "governance_bridge",
+      "link_count": 3
+    },
+    {
+      "relationship_type": "metadata_bridge",
+      "link_count": 1
+    },
+    {
+      "relationship_type": "next_article",
+      "link_count": 2
+    },
+    {
+      "relationship_type": "pillar_to_cluster",
+      "link_count": 1
+    },
+    {
+      "relationship_type": "prerequisite",
+      "link_count": 1
+    },
+    {
+      "relationship_type": "previous_article",
+      "link_count": 1
+    },
+    {
+      "relationship_type": "technical_bridge",
+      "link_count": 1
+    }
+  ],
+  "repository_readiness": [
+    {
+      "slug": "content-frameworks",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code",
+      "repository_score": 1.0,
+      "missing_repository_fields": "none",
+      "repository_status": "ready"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/pillar-pages-and-topic-clusters",
+      "repository_score": 1.0,
+      "missing_repository_fields": "none",
+      "repository_status": "ready"
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/narrative-pathways-and-knowledge-architecture",
+      "repository_score": 1.0,
+      "missing_repository_fields": "none",
+      "repository_status": "ready"
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/frameworks-for-digital-knowledge-systems",
+      "repository_score": 1.0,
+      "missing_repository_fields": "none",
+      "repository_status": "ready"
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/taxonomy-design-for-content-frameworks",
+      "repository_score": 0.0,
+      "missing_repository_fields": "repository_exists; readme_exists; python_workflow; r_workflow; sql_schema; workflow_outputs_exist; governance_docs",
+      "repository_status": "review required"
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/internal-linking-as-framework-infrastructure",
+      "repository_score": 0.0,
+      "missing_repository_fields": "repository_exists; readme_exists; python_workflow; r_workflow; sql_schema; workflow_outputs_exist; governance_docs",
+      "repository_status": "review required"
+    },
+    {
+      "slug": "content-audits-and-framework-governance",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/content-audits-and-framework-governance",
+      "repository_score": 0.0,
+      "missing_repository_fields": "repository_exists; readme_exists; python_workflow; r_workflow; sql_schema; workflow_outputs_exist; governance_docs",
+      "repository_status": "review required"
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "repository_url": "https://github.com/Content-Catalyst-LLC/content-frameworks-code/tree/main/articles/editorial-metadata-and-content-systems",
+      "repository_score": 0.0,
+      "missing_repository_fields": "repository_exists; readme_exists; python_workflow; r_workflow; sql_schema; workflow_outputs_exist; governance_docs",
+      "repository_status": "review required"
+    }
+  ],
+  "taxonomy_coverage": [
+    {
+      "category": "Foundations",
+      "expected_role": "conceptual grounding",
+      "governance_owner": "Series editor",
+      "content_count_in_sample": 4,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Knowledge Architecture",
+      "expected_role": "structural publishing logic",
+      "governance_owner": "Knowledge architect",
+      "content_count_in_sample": 7,
+      "taxonomy_status": "active"
+    },
+    {
+      "category": "Educational Research and Conceptual Frameworks",
+      "expected_role": "learning and evidence design",
+      "governance_owner": "Research editor",
+      "content_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Classic Communication and Persuasive Sequence Frameworks",
+      "expected_role": "communication sequence",
+      "governance_owner": "Communication editor",
+      "content_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Audience Need Value Positioning and Message Architecture",
+      "expected_role": "audience relevance",
+      "governance_owner": "Strategy editor",
+      "content_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Strategic and Environmental Analysis Frameworks",
+      "expected_role": "strategic analysis",
+      "governance_owner": "Strategy editor",
+      "content_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Policy Governance Systems Explanation and Public Reasoning",
+      "expected_role": "public understanding",
+      "governance_owner": "Governance editor",
+      "content_count_in_sample": 0,
+      "taxonomy_status": "missing from sample"
+    },
+    {
+      "category": "Framework Composition Scaling and Editorial Governance",
+      "expected_role": "maintenance and critique",
+      "governance_owner": "Editorial governance lead",
+      "content_count_in_sample": 1,
+      "taxonomy_status": "active"
+    }
+  ],
+  "content_type_summary": [
+    {
+      "content_type": "article",
+      "content_count": 11
+    },
+    {
+      "content_type": "article_map",
+      "content_count": 1
+    }
+  ],
+  "article_role_summary": [
+    {
+      "article_role": "comparison",
+      "article_count": 1
+    },
+    {
+      "article_role": "critique",
+      "article_count": 1
+    },
+    {
+      "article_role": "definition",
+      "article_count": 1
+    },
+    {
+      "article_role": "governance",
+      "article_count": 2
+    },
+    {
+      "article_role": "method",
+      "article_count": 2
+    },
+    {
+      "article_role": "pillar",
+      "article_count": 2
+    },
+    {
+      "article_role": "technical",
+      "article_count": 3
+    }
+  ],
+  "quality_rules": [
+    {
+      "rule_id": "DKR001",
+      "rule_name": "Published metadata complete",
+      "description": "Published records should meet minimum metadata completion",
+      "severity": "medium",
+      "active": true
+    },
+    {
+      "rule_id": "DKR002",
+      "rule_name": "Published records connected",
+      "description": "Published records should meet minimum internal-link degree",
+      "severity": "medium",
+      "active": true
+    },
+    {
+      "rule_id": "DKR003",
+      "rule_name": "Taxonomy category exists",
+      "description": "Every content record should belong to an active taxonomy category",
+      "severity": "medium",
+      "active": true
+    },
+    {
+      "rule_id": "DKR004",
+      "rule_name": "Repository readiness",
+      "description": "Technical articles should have repository support when reproducible examples are used",
+      "severity": "medium",
+      "active": true
+    },
+    {
+      "rule_id": "DKR005",
+      "rule_name": "Review currency",
+      "description": "Published records should have current review status",
+      "severity": "medium",
+      "active": true
+    },
+    {
+      "rule_id": "DKR006",
+      "rule_name": "System health threshold",
+      "description": "Records below the minimum system-health threshold require governance review",
+      "severity": "medium",
+      "active": true
+    },
+    {
+      "rule_id": "DKR007",
+      "rule_name": "Accessibility fields complete",
+      "description": "Image alt text and accessible structures should be complete",
+      "severity": "medium",
+      "active": true
+    },
+    {
+      "rule_id": "DKR008",
+      "rule_name": "Governance owner assigned",
+      "description": "Records should have a review owner",
+      "severity": "medium",
+      "active": true
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "digital_knowledge_system_audit",
+      "severity": "medium",
+      "category": "internal_links",
+      "identifier": "content-frameworks",
+      "message": "Published content has link degree 1.",
+      "recommended_action": "Add meaningful internal links to strengthen relationship infrastructure."
+    },
+    {
+      "source": "digital_knowledge_system_audit",
+      "severity": "medium",
+      "category": "internal_links",
+      "identifier": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "message": "Published content has link degree 1.",
+      "recommended_action": "Add meaningful internal links to strengthen relationship infrastructure."
+    },
+    {
+      "source": "digital_knowledge_system_audit",
+      "severity": "medium",
+      "category": "internal_links",
+      "identifier": "frameworks-templates-and-models",
+      "message": "Published content has link degree 0.",
+      "recommended_action": "Add meaningful internal links to strengthen relationship infrastructure."
+    },
+    {
+      "source": "digital_knowledge_system_audit",
+      "severity": "medium",
+      "category": "internal_links",
+      "identifier": "what-are-content-frameworks",
+      "message": "Published content has link degree 0.",
+      "recommended_action": "Add meaningful internal links to strengthen relationship infrastructure."
+    },
+    {
+      "source": "digital_knowledge_system_audit",
+      "severity": "medium",
+      "category": "system_health",
+      "identifier": "content-audits-and-framework-governance",
+      "message": "System health score is 42%.",
+      "recommended_action": "Review metadata, links, taxonomy, repository readiness, and review status."
+    },
+    {
+      "source": "digital_knowledge_system_audit",
+      "severity": "medium",
+      "category": "system_health",
+      "identifier": "editorial-metadata-and-content-systems",
+      "message": "System health score is 42%.",
+      "recommended_action": "Review metadata, links, taxonomy, repository readiness, and review status."
+    },
+    {
+      "source": "digital_knowledge_system_audit",
+      "severity": "medium",
+      "category": "system_health",
+      "identifier": "framework-governance-and-editorial-maintenance",
+      "message": "System health score is 33%.",
+      "recommended_action": "Review metadata, links, taxonomy, repository readiness, and review status."
+    },
+    {
+      "source": "digital_knowledge_system_audit",
+      "severity": "medium",
+      "category": "system_health",
+      "identifier": "frameworks-templates-and-models",
+      "message": "System health score is 67%.",
+      "recommended_action": "Review metadata, links, taxonomy, repository readiness, and review status."
+    },
+    {
+      "source": "digital_knowledge_system_audit",
+      "severity": "medium",
+      "category": "system_health",
+      "identifier": "internal-linking-as-framework-infrastructure",
+      "message": "System health score is 42%.",
+      "recommended_action": "Review metadata, links, taxonomy, repository readiness, and review status."
+    },
+    {
+      "source": "digital_knowledge_system_audit",
+      "severity": "medium",
+      "category": "system_health",
+      "identifier": "taxonomy-design-for-content-frameworks",
+      "message": "System health score is 42%.",
+      "recommended_action": "Review metadata, links, taxonomy, repository readiness, and review status."
+    },
+    {
+      "source": "digital_knowledge_system_audit",
+      "severity": "medium",
+      "category": "system_health",
+      "identifier": "what-are-content-frameworks",
+      "message": "System health score is 67%.",
+      "recommended_action": "Review metadata, links, taxonomy, repository readiness, and review status."
+    },
+    {
+      "source": "digital_knowledge_system_audit",
+      "severity": "low",
+      "category": "repository",
+      "identifier": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "message": "Repository readiness is 0%.",
+      "recommended_action": "Add README, workflows, generated outputs, SQL schemas, and governance documentation where repository support is expected."
+    },
+    {
+      "source": "digital_knowledge_system_audit",
+      "severity": "low",
+      "category": "repository",
+      "identifier": "frameworks-templates-and-models",
+      "message": "Repository readiness is 0%.",
+      "recommended_action": "Add README, workflows, generated outputs, SQL schemas, and governance documentation where repository support is expected."
+    },
+    {
+      "source": "digital_knowledge_system_audit",
+      "severity": "low",
+      "category": "repository",
+      "identifier": "what-are-content-frameworks",
+      "message": "Repository readiness is 0%.",
+      "recommended_action": "Add README, workflows, generated outputs, SQL schemas, and governance documentation where repository support is expected."
+    }
+  ]
+}

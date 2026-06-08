@@ -1,0 +1,100 @@
+[
+  {
+    "severity": "medium",
+    "category": "internal_links",
+    "identifier": "content-frameworks",
+    "message": "Published content has link degree 1.",
+    "recommended_action": "Add meaningful internal links to strengthen relationship infrastructure."
+  },
+  {
+    "severity": "medium",
+    "category": "system_health",
+    "identifier": "taxonomy-design-for-content-frameworks",
+    "message": "System health score is 42%.",
+    "recommended_action": "Review metadata, links, taxonomy, repository readiness, and review status."
+  },
+  {
+    "severity": "medium",
+    "category": "system_health",
+    "identifier": "internal-linking-as-framework-infrastructure",
+    "message": "System health score is 42%.",
+    "recommended_action": "Review metadata, links, taxonomy, repository readiness, and review status."
+  },
+  {
+    "severity": "medium",
+    "category": "system_health",
+    "identifier": "content-audits-and-framework-governance",
+    "message": "System health score is 42%.",
+    "recommended_action": "Review metadata, links, taxonomy, repository readiness, and review status."
+  },
+  {
+    "severity": "medium",
+    "category": "system_health",
+    "identifier": "editorial-metadata-and-content-systems",
+    "message": "System health score is 42%.",
+    "recommended_action": "Review metadata, links, taxonomy, repository readiness, and review status."
+  },
+  {
+    "severity": "medium",
+    "category": "system_health",
+    "identifier": "framework-governance-and-editorial-maintenance",
+    "message": "System health score is 33%.",
+    "recommended_action": "Review metadata, links, taxonomy, repository readiness, and review status."
+  },
+  {
+    "severity": "medium",
+    "category": "internal_links",
+    "identifier": "what-are-content-frameworks",
+    "message": "Published content has link degree 0.",
+    "recommended_action": "Add meaningful internal links to strengthen relationship infrastructure."
+  },
+  {
+    "severity": "low",
+    "category": "repository",
+    "identifier": "what-are-content-frameworks",
+    "message": "Repository readiness is 0%.",
+    "recommended_action": "Add README, workflows, generated outputs, SQL schemas, and governance documentation where repository support is expected."
+  },
+  {
+    "severity": "medium",
+    "category": "system_health",
+    "identifier": "what-are-content-frameworks",
+    "message": "System health score is 67%.",
+    "recommended_action": "Review metadata, links, taxonomy, repository readiness, and review status."
+  },
+  {
+    "severity": "medium",
+    "category": "internal_links",
+    "identifier": "framework-literacy-and-the-structure-of-usable-knowledge",
+    "message": "Published content has link degree 1.",
+    "recommended_action": "Add meaningful internal links to strengthen relationship infrastructure."
+  },
+  {
+    "severity": "low",
+    "category": "repository",
+    "identifier": "framework-literacy-and-the-structure-of-usable-knowledge",
+    "message": "Repository readiness is 0%.",
+    "recommended_action": "Add README, workflows, generated outputs, SQL schemas, and governance documentation where repository support is expected."
+  },
+  {
+    "severity": "medium",
+    "category": "internal_links",
+    "identifier": "frameworks-templates-and-models",
+    "message": "Published content has link degree 0.",
+    "recommended_action": "Add meaningful internal links to strengthen relationship infrastructure."
+  },
+  {
+    "severity": "low",
+    "category": "repository",
+    "identifier": "frameworks-templates-and-models",
+    "message": "Repository readiness is 0%.",
+    "recommended_action": "Add README, workflows, generated outputs, SQL schemas, and governance documentation where repository support is expected."
+  },
+  {
+    "severity": "medium",
+    "category": "system_health",
+    "identifier": "frameworks-templates-and-models",
+    "message": "System health score is 67%.",
+    "recommended_action": "Review metadata, links, taxonomy, repository readiness, and review status."
+  }
+]

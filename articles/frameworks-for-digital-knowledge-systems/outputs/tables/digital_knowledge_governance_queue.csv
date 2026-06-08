@@ -1,0 +1,15 @@
+source,severity,category,identifier,message,recommended_action
+digital_knowledge_system_audit,medium,internal_links,content-frameworks,Published content has link degree 1.,Add meaningful internal links to strengthen relationship infrastructure.
+digital_knowledge_system_audit,medium,internal_links,framework-literacy-and-the-structure-of-usable-knowledge,Published content has link degree 1.,Add meaningful internal links to strengthen relationship infrastructure.
+digital_knowledge_system_audit,medium,internal_links,frameworks-templates-and-models,Published content has link degree 0.,Add meaningful internal links to strengthen relationship infrastructure.
+digital_knowledge_system_audit,medium,internal_links,what-are-content-frameworks,Published content has link degree 0.,Add meaningful internal links to strengthen relationship infrastructure.
+digital_knowledge_system_audit,medium,system_health,content-audits-and-framework-governance,System health score is 42%.,"Review metadata, links, taxonomy, repository readiness, and review status."
+digital_knowledge_system_audit,medium,system_health,editorial-metadata-and-content-systems,System health score is 42%.,"Review metadata, links, taxonomy, repository readiness, and review status."
+digital_knowledge_system_audit,medium,system_health,framework-governance-and-editorial-maintenance,System health score is 33%.,"Review metadata, links, taxonomy, repository readiness, and review status."
+digital_knowledge_system_audit,medium,system_health,frameworks-templates-and-models,System health score is 67%.,"Review metadata, links, taxonomy, repository readiness, and review status."
+digital_knowledge_system_audit,medium,system_health,internal-linking-as-framework-infrastructure,System health score is 42%.,"Review metadata, links, taxonomy, repository readiness, and review status."
+digital_knowledge_system_audit,medium,system_health,taxonomy-design-for-content-frameworks,System health score is 42%.,"Review metadata, links, taxonomy, repository readiness, and review status."
+digital_knowledge_system_audit,medium,system_health,what-are-content-frameworks,System health score is 67%.,"Review metadata, links, taxonomy, repository readiness, and review status."
+digital_knowledge_system_audit,low,repository,framework-literacy-and-the-structure-of-usable-knowledge,Repository readiness is 0%.,"Add README, workflows, generated outputs, SQL schemas, and governance documentation where repository support is expected."
+digital_knowledge_system_audit,low,repository,frameworks-templates-and-models,Repository readiness is 0%.,"Add README, workflows, generated outputs, SQL schemas, and governance documentation where repository support is expected."
+digital_knowledge_system_audit,low,repository,what-are-content-frameworks,Repository readiness is 0%.,"Add README, workflows, generated outputs, SQL schemas, and governance documentation where repository support is expected."

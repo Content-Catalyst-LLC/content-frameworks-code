@@ -1,0 +1,13 @@
+content_id,slug,title,cluster,status,content_type,article_role,review_current,review_owner,public_use_level
+DKS001,content-frameworks,Content Frameworks,Foundations,published,article_map,pillar,yes,Series editor,public
+DKS002,pillar-pages-and-topic-clusters,Pillar Pages and Topic Clusters,Knowledge Architecture,published,article,pillar,yes,Knowledge architect,public
+DKS003,narrative-pathways-and-knowledge-architecture,Narrative Pathways and Knowledge Architecture,Knowledge Architecture,published,article,method,yes,Knowledge architect,public
+DKS004,frameworks-for-digital-knowledge-systems,Frameworks for Digital Knowledge Systems,Knowledge Architecture,published,article,technical,yes,Knowledge architect,public
+DKS005,taxonomy-design-for-content-frameworks,Taxonomy Design for Content Frameworks,Knowledge Architecture,planned,article,method,no,Knowledge architect,public
+DKS006,internal-linking-as-framework-infrastructure,Internal Linking as Framework Infrastructure,Knowledge Architecture,planned,article,technical,no,Knowledge architect,public
+DKS007,content-audits-and-framework-governance,Content Audits and Framework Governance,Knowledge Architecture,planned,article,governance,no,Editorial governance lead,editorial
+DKS008,editorial-metadata-and-content-systems,Editorial Metadata and Content Systems,Knowledge Architecture,planned,article,technical,no,Editorial systems lead,editorial
+DKS009,framework-governance-and-editorial-maintenance,Framework Governance and Editorial Maintenance,Framework Composition Scaling and Editorial Governance,planned,article,governance,no,Editorial governance lead,editorial
+DKS010,what-are-content-frameworks,What Are Content Frameworks,Foundations,published,article,definition,yes,Series editor,public
+DKS011,framework-literacy-and-the-structure-of-usable-knowledge,Framework Literacy and the Structure of Usable Knowledge,Foundations,published,article,critique,yes,Series editor,public
+DKS012,frameworks-templates-and-models,Frameworks Templates and Models,Foundations,published,article,comparison,yes,Series editor,public
