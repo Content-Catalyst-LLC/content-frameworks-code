@@ -1,0 +1,6 @@
+article_slug,title,status,research_domain,audience,claim_support_score,method_clarity_score,uncertainty_visibility_score,audience_context_score,visual_accessibility_score,research_communication_readiness,readiness_status
+frameworks-for-research-communication,Frameworks for Research Communication,published,science communication,general and editorial,1.0,1.0,1.0,1.0,1.0,1.0,ready
+conceptual-models-in-communication,Conceptual Models in Communication,published,communication theory,general and educational,1.0,1.0,1.0,1.0,1.0,1.0,ready
+evidence-architecture-in-explanatory-content,Evidence Architecture in Explanatory Content,planned,evidence communication,editorial and research,0.35,0.0,1.0,0.5,0.0,0.403,governance review
+frameworks-for-technology-and-scientific-communication,Frameworks for Technology and Scientific Communication,planned,science and technology communication,general public,0.35,0.0,1.0,0.5,0.0,0.403,governance review
+public-reasoning-and-framework-design,Public Reasoning and Framework Design,planned,public reasoning,civic and institutional,0.35,0.0,1.0,0.5,0.0,0.403,governance review

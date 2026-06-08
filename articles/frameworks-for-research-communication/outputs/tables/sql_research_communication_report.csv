@@ -1,0 +1,23 @@
+research_domain,status,article_count
+"communication theory",published,1
+"evidence communication",planned,1
+"public reasoning",planned,1
+"science and technology communication",planned,1
+"science communication",published,1
+source_type,authority_level,source_count
+expert_review,medium,3
+institutional_guidance,high,1
+official_report,high,2
+peer_reviewed,high,2
+article_slug,claim_count,supported_claims
+evidence-architecture-in-explanatory-content,1,0
+frameworks-for-technology-and-scientific-communication,1,0
+public-reasoning-and-framework-design,1,0
+conceptual-models-in-communication,1,1
+frameworks-for-research-communication,4,4
+article_slug,title,readiness_features_present
+evidence-architecture-in-explanatory-content,"Evidence Architecture in Explanatory Content",6
+frameworks-for-technology-and-scientific-communication,"Frameworks for Technology and Scientific Communication",6
+public-reasoning-and-framework-design,"Public Reasoning and Framework Design",6
+conceptual-models-in-communication,"Conceptual Models in Communication",12
+frameworks-for-research-communication,"Frameworks for Research Communication",12

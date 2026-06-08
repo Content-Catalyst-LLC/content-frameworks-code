@@ -1,0 +1,131 @@
+{
+  "article": "Frameworks for Research Communication",
+  "generated_at": "2026-06-08T20:10:24.757146+00:00",
+  "counts": {
+    "articles": 5,
+    "claims": 8,
+    "sources": 8,
+    "findings": 2,
+    "governance_queue": 6
+  },
+  "readiness": [
+    {
+      "article_slug": "frameworks-for-research-communication",
+      "title": "Frameworks for Research Communication",
+      "status": "published",
+      "research_domain": "science communication",
+      "audience": "general and editorial",
+      "claim_support_score": 1.0,
+      "method_clarity_score": 1.0,
+      "uncertainty_visibility_score": 1.0,
+      "audience_context_score": 1.0,
+      "visual_accessibility_score": 1.0,
+      "research_communication_readiness": 1.0,
+      "readiness_status": "ready"
+    },
+    {
+      "article_slug": "conceptual-models-in-communication",
+      "title": "Conceptual Models in Communication",
+      "status": "published",
+      "research_domain": "communication theory",
+      "audience": "general and educational",
+      "claim_support_score": 1.0,
+      "method_clarity_score": 1.0,
+      "uncertainty_visibility_score": 1.0,
+      "audience_context_score": 1.0,
+      "visual_accessibility_score": 1.0,
+      "research_communication_readiness": 1.0,
+      "readiness_status": "ready"
+    },
+    {
+      "article_slug": "evidence-architecture-in-explanatory-content",
+      "title": "Evidence Architecture in Explanatory Content",
+      "status": "planned",
+      "research_domain": "evidence communication",
+      "audience": "editorial and research",
+      "claim_support_score": 0.35,
+      "method_clarity_score": 0.0,
+      "uncertainty_visibility_score": 1.0,
+      "audience_context_score": 0.5,
+      "visual_accessibility_score": 0.0,
+      "research_communication_readiness": 0.403,
+      "readiness_status": "governance review"
+    },
+    {
+      "article_slug": "frameworks-for-technology-and-scientific-communication",
+      "title": "Frameworks for Technology and Scientific Communication",
+      "status": "planned",
+      "research_domain": "science and technology communication",
+      "audience": "general public",
+      "claim_support_score": 0.35,
+      "method_clarity_score": 0.0,
+      "uncertainty_visibility_score": 1.0,
+      "audience_context_score": 0.5,
+      "visual_accessibility_score": 0.0,
+      "research_communication_readiness": 0.403,
+      "readiness_status": "governance review"
+    },
+    {
+      "article_slug": "public-reasoning-and-framework-design",
+      "title": "Public Reasoning and Framework Design",
+      "status": "planned",
+      "research_domain": "public reasoning",
+      "audience": "civic and institutional",
+      "claim_support_score": 0.35,
+      "method_clarity_score": 0.0,
+      "uncertainty_visibility_score": 1.0,
+      "audience_context_score": 0.5,
+      "visual_accessibility_score": 0.0,
+      "research_communication_readiness": 0.403,
+      "readiness_status": "governance review"
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "manual_review_queue",
+      "severity": "high",
+      "category": "claim_support",
+      "identifier": "C006",
+      "message": "Planned evidence architecture claim needs a ready source before publication",
+      "recommended_action": "Resolve through editorial research-communication review."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "claim_support",
+      "identifier": "C007",
+      "message": "Technology and scientific communication article needs stronger source mapping",
+      "recommended_action": "Resolve through editorial research-communication review."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "claim_support",
+      "identifier": "C008",
+      "message": "Public reasoning article needs source support and bounded implications",
+      "recommended_action": "Resolve through editorial research-communication review."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "low",
+      "category": "publication",
+      "identifier": "frameworks-for-research-communication",
+      "message": "Confirm final image attachment ID and repository URL after publication",
+      "recommended_action": "Resolve through editorial research-communication review."
+    },
+    {
+      "severity": "high",
+      "category": "claim_support",
+      "identifier": "C006",
+      "message": "Strong or causal claim has insufficient source support.",
+      "recommended_action": "Review claim language, source quality, and evidence strength."
+    },
+    {
+      "severity": "high",
+      "category": "claim_support",
+      "identifier": "C008",
+      "message": "Strong or causal claim has insufficient source support.",
+      "recommended_action": "Review claim language, source quality, and evidence strength."
+    }
+  ]
+}

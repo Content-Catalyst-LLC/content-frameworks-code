@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Research Communication Record",
+  "type": "object",
+  "required": [
+    "article_slug",
+    "title",
+    "status",
+    "research_domain",
+    "audience",
+    "method_explained",
+    "limitations_visible",
+    "uncertainty_visible",
+    "audience_defined"
+  ]
+}

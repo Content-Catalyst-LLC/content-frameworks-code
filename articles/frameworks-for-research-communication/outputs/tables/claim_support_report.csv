@@ -1,0 +1,9 @@
+claim_id,article_slug,claim_type,claim_strength,source_id,source_present,authority_level,source_review_status,claim_support_score
+C001,frameworks-for-research-communication,framework_definition,moderate,S001,True,high,ready,1.0
+C002,frameworks-for-research-communication,uncertainty_importance,strong,S002,True,high,ready,1.0
+C003,frameworks-for-research-communication,audience_translation,strong,S003,True,high,ready,1.0
+C004,frameworks-for-research-communication,visual_accessibility,moderate,S004,True,high,ready,1.0
+C005,conceptual-models-in-communication,model_limitations,moderate,S005,True,high,ready,1.0
+C006,evidence-architecture-in-explanatory-content,evidence_structure,strong,S006,True,medium,review,0.35
+C007,frameworks-for-technology-and-scientific-communication,science_public_understanding,moderate,S007,True,medium,review,0.35
+C008,public-reasoning-and-framework-design,research_public_reasoning,strong,S008,True,medium,review,0.35

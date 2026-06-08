@@ -1,0 +1,7 @@
+source,severity,category,identifier,message,recommended_action
+manual_review_queue,high,claim_support,C006,Planned evidence architecture claim needs a ready source before publication,Resolve through editorial research-communication review.
+manual_review_queue,medium,claim_support,C007,Technology and scientific communication article needs stronger source mapping,Resolve through editorial research-communication review.
+manual_review_queue,medium,claim_support,C008,Public reasoning article needs source support and bounded implications,Resolve through editorial research-communication review.
+manual_review_queue,low,publication,frameworks-for-research-communication,Confirm final image attachment ID and repository URL after publication,Resolve through editorial research-communication review.
+,high,claim_support,C006,Strong or causal claim has insufficient source support.,"Review claim language, source quality, and evidence strength."
+,high,claim_support,C008,Strong or causal claim has insufficient source support.,"Review claim language, source quality, and evidence strength."

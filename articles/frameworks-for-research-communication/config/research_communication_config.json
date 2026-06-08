@@ -1,0 +1,15 @@
+{
+  "article": "Frameworks for Research Communication",
+  "series": "Content Frameworks",
+  "readiness_threshold": 0.78,
+  "weights": {
+    "claim_support": 0.28,
+    "method_clarity": 0.18,
+    "uncertainty_visibility": 0.22,
+    "audience_context": 0.17,
+    "visual_accessibility": 0.15
+  },
+  "controlled_claim_strength": ["exploratory", "moderate", "strong", "causal"],
+  "controlled_authority_levels": ["low", "medium", "high"],
+  "controlled_source_types": ["peer_reviewed", "official_report", "book", "technical_documentation", "dataset", "expert_review", "institutional_guidance"]
+}

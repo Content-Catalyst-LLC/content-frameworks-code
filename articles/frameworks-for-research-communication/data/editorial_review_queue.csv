@@ -1,0 +1,5 @@
+review_id,record_id,issue_type,severity,review_note
+R001,C006,claim_support,high,Planned evidence architecture claim needs a ready source before publication
+R002,C007,claim_support,medium,Technology and scientific communication article needs stronger source mapping
+R003,C008,claim_support,medium,Public reasoning article needs source support and bounded implications
+R004,frameworks-for-research-communication,publication,low,Confirm final image attachment ID and repository URL after publication

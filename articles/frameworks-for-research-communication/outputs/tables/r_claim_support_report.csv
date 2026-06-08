@@ -1,0 +1,9 @@
+"claim_id","article_slug","claim_type","claim_strength","source_id","source_type","authority_level","claim_supported","claim_support_score"
+"C001","frameworks-for-research-communication","framework_definition","moderate","S001","official_report","high","yes",1
+"C002","frameworks-for-research-communication","uncertainty_importance","strong","S002","peer_reviewed","high","yes",1
+"C003","frameworks-for-research-communication","audience_translation","strong","S003","official_report","high","yes",1
+"C004","frameworks-for-research-communication","visual_accessibility","moderate","S004","institutional_guidance","high","yes",1
+"C005","conceptual-models-in-communication","model_limitations","moderate","S005","peer_reviewed","high","yes",1
+"C006","evidence-architecture-in-explanatory-content","evidence_structure","strong","S006","expert_review","medium","no",0.35
+"C007","frameworks-for-technology-and-scientific-communication","science_public_understanding","moderate","S007","expert_review","medium","no",0.35
+"C008","public-reasoning-and-framework-design","research_public_reasoning","strong","S008","expert_review","medium","no",0.35
