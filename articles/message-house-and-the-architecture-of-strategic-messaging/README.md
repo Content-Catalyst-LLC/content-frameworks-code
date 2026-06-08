@@ -2,7 +2,7 @@
 
 Companion code for the Content Frameworks article **“Message House and the Architecture of Strategic Messaging.”**
 
-This scaffold is Catalyst Canvas-ready. It includes package-style Python, JSON schemas, Canvas manifest metadata, UI-card exports, governance queue exports, tests, SQL views, synthetic data, and generated outputs.
+This scaffold is Catalyst Canvas-ready. It includes html, css, php, java, python, r, sql, docs, data, outputs, notebooks, shared, and canvas layers, with package-style Python, JSON schemas, Canvas manifest metadata, UI-card exports, governance queue exports, tests, SQL views, synthetic data, and generated outputs.
 
 ## Run the Catalyst Canvas audit
 
