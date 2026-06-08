@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Educational Scaffolding Record",
+  "type": "object",
+  "required": [
+    "article_order",
+    "slug",
+    "title",
+    "status",
+    "concept_cluster",
+    "learning_stage",
+    "orientation_support",
+    "worked_examples",
+    "feedback_prompts",
+    "transfer_support",
+    "cognitive_load_risk",
+    "alt_text",
+    "clear_headings",
+    "descriptive_links",
+    "summary_support"
+  ],
+  "properties": {
+    "article_order": { "type": "integer" },
+    "slug": { "type": "string" },
+    "title": { "type": "string" },
+    "status": { "type": "string" },
+    "concept_cluster": { "type": "string" },
+    "learning_stage": {
+      "type": "string",
+      "enum": ["orientation", "foundation", "method", "guided_practice", "application", "critique", "transfer"]
+    },
+    "orientation_support": { "type": "string" },
+    "worked_examples": { "type": "string" },
+    "feedback_prompts": { "type": "string" },
+    "transfer_support": { "type": "string" },
+    "cognitive_load_risk": {
+      "type": "string",
+      "enum": ["low", "medium", "high"]
+    },
+    "alt_text": { "type": "string" },
+    "clear_headings": { "type": "string" },
+    "descriptive_links": { "type": "string" },
+    "summary_support": { "type": "string" }
+  }
+}

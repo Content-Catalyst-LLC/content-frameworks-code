@@ -1,0 +1,6 @@
+review_id,slug,issue_type,severity,review_note
+R001,frameworks-for-digital-knowledge-systems,cognitive_load,medium,Technical article has high cognitive-load risk and should receive more summaries or guided examples
+R002,taxonomy-design-for-content-frameworks,status,medium,Planned prerequisite article should be prioritized before advanced internal-linking material is expanded
+R003,curriculum-pathways-and-framework-design,coverage,medium,Planned transfer article should be completed to strengthen educational framework cluster
+R004,evidence-architecture-in-explanatory-content,coverage,medium,Planned critique article should be completed to connect scaffolding with evidence review
+R005,educational-scaffolding-and-the-design-of-learning-systems,publication,low,Confirm final WordPress attachment ID and repository URL after publication

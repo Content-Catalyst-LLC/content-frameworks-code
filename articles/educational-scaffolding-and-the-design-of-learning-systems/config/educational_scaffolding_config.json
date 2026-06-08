@@ -1,0 +1,41 @@
+{
+  "article": "Educational Scaffolding and the Design of Learning Systems",
+  "series": "Content Frameworks",
+  "version": "1.0.0",
+  "article_map_url": "/content-frameworks/",
+  "valid_learning_stages": [
+    "orientation",
+    "foundation",
+    "method",
+    "guided_practice",
+    "application",
+    "critique",
+    "transfer"
+  ],
+  "scaffold_weights": {
+    "orientation": 0.18,
+    "prerequisites": 0.20,
+    "examples": 0.18,
+    "feedback": 0.16,
+    "transfer": 0.18,
+    "accessibility": 0.10
+  },
+  "thresholds": {
+    "scaffold_readiness_minimum": 0.78,
+    "prerequisite_readiness_minimum": 0.80,
+    "accessibility_readiness_minimum": 0.75,
+    "concept_coverage_minimum": 0.60
+  },
+  "cognitive_load_penalties": {
+    "low": 0.00,
+    "medium": 0.10,
+    "high": 0.25
+  },
+  "governance_review_triggers": {
+    "published_low_scaffold_readiness": true,
+    "published_missing_prerequisites": true,
+    "published_high_cognitive_load": true,
+    "published_low_accessibility_support": true,
+    "concept_cluster_underdeveloped": true
+  }
+}

@@ -1,0 +1,8 @@
+feature,description,governance_use
+orientation_support,Helps learners understand where they are in the knowledge system,Required for article maps pillar pages and learning pathways
+prerequisite_links,Connects advanced articles to needed prior concepts,Required for complex topics
+worked_examples,Shows how a concept or method works step by step,Supports practice and transfer
+feedback_prompts,Helps learners check understanding,Supports learning loops and revision
+transfer_support,Shows how a framework can be adapted responsibly,Supports independent use
+cognitive_load_review,Flags articles that may overwhelm readers,Supports editorial revision
+accessibility_support,Ensures headings alt text links and summaries support diverse learners,Supports inclusive learning design

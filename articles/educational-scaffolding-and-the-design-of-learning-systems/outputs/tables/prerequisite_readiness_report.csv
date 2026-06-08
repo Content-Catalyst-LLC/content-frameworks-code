@@ -1,0 +1,17 @@
+slug,title,learning_stage,status,required_prerequisites,known_prerequisites,published_prerequisites,prerequisite_readiness,supports_downstream_articles,prerequisite_status
+what-are-content-frameworks,What Are Content Frameworks?,orientation,published,0,0,0,1.0,5,ready
+why-frameworks-matter-in-research-education-and-strategic-communication,Why Frameworks Matter in Research Education and Strategic Communication,foundation,published,1,1,1,1.0,0,ready
+what-makes-a-powerful-content-framework,What Makes a Powerful Content Framework?,foundation,published,1,1,1,1.0,0,ready
+framework-literacy-and-the-structure-of-usable-knowledge,Framework Literacy and the Structure of Usable Knowledge,foundation,planned,1,1,1,1.0,0,ready
+pillar-pages-and-topic-clusters,Pillar Pages and Topic Clusters,method,published,1,1,1,1.0,2,ready
+narrative-pathways-and-knowledge-architecture,Narrative Pathways and Knowledge Architecture,method,published,1,1,1,1.0,0,ready
+frameworks-for-digital-knowledge-systems,Frameworks for Digital Knowledge Systems,application,published,1,1,1,1.0,1,ready
+taxonomy-design-for-content-frameworks,Taxonomy Design for Content Frameworks,method,planned,1,1,1,1.0,1,ready
+internal-linking-as-framework-infrastructure,Internal Linking as Framework Infrastructure,guided_practice,published,1,1,0,0.0,1,needs prerequisite support
+content-audits-and-framework-governance,Content Audits and Framework Governance,critique,published,2,2,2,1.0,1,ready
+editorial-metadata-and-content-systems,Editorial Metadata and Content Systems,method,published,1,1,1,1.0,2,ready
+educational-scaffolding-and-the-design-of-learning-systems,Educational Scaffolding and the Design of Learning Systems,method,published,2,2,2,1.0,2,ready
+conceptual-models-in-communication,Conceptual Models in Communication,foundation,published,1,1,1,1.0,1,ready
+frameworks-for-research-communication,Frameworks for Research Communication,application,published,1,1,1,1.0,1,ready
+curriculum-pathways-and-framework-design,Curriculum Pathways and Framework Design,transfer,planned,1,1,1,1.0,0,ready
+evidence-architecture-in-explanatory-content,Evidence Architecture in Explanatory Content,critique,planned,1,1,1,1.0,0,ready

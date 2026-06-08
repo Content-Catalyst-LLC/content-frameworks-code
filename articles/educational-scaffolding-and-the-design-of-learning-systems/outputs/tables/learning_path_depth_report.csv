@@ -1,0 +1,17 @@
+slug,title,learning_stage,path_depth_from_foundation,reachable_from_foundation
+conceptual-models-in-communication,Conceptual Models in Communication,foundation,0,True
+framework-literacy-and-the-structure-of-usable-knowledge,Framework Literacy and the Structure of Usable Knowledge,foundation,0,True
+what-are-content-frameworks,What Are Content Frameworks?,orientation,0,True
+what-makes-a-powerful-content-framework,What Makes a Powerful Content Framework?,foundation,0,True
+why-frameworks-matter-in-research-education-and-strategic-communication,Why Frameworks Matter in Research Education and Strategic Communication,foundation,0,True
+educational-scaffolding-and-the-design-of-learning-systems,Educational Scaffolding and the Design of Learning Systems,method,1,True
+frameworks-for-research-communication,Frameworks for Research Communication,application,1,True
+pillar-pages-and-topic-clusters,Pillar Pages and Topic Clusters,method,1,True
+curriculum-pathways-and-framework-design,Curriculum Pathways and Framework Design,transfer,2,True
+evidence-architecture-in-explanatory-content,Evidence Architecture in Explanatory Content,critique,2,True
+frameworks-for-digital-knowledge-systems,Frameworks for Digital Knowledge Systems,application,2,True
+narrative-pathways-and-knowledge-architecture,Narrative Pathways and Knowledge Architecture,method,2,True
+taxonomy-design-for-content-frameworks,Taxonomy Design for Content Frameworks,method,3,True
+internal-linking-as-framework-infrastructure,Internal Linking as Framework Infrastructure,guided_practice,4,True
+content-audits-and-framework-governance,Content Audits and Framework Governance,critique,5,True
+editorial-metadata-and-content-systems,Editorial Metadata and Content Systems,method,6,True

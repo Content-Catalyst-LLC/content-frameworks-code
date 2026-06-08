@@ -1,0 +1,28 @@
+concept_cluster,status,article_count
+"Educational Research and Conceptual Frameworks",planned,1
+"Educational Research and Conceptual Frameworks",published,2
+Foundations,published,2
+"Knowledge Architecture",published,1
+learning_stage,article_count
+foundation,2
+method,2
+orientation,1
+transfer,1
+slug,title,status,learning_stage,required_prerequisites,published_prerequisites,prerequisite_readiness
+editorial-metadata-and-content-systems,"Editorial Metadata and Content Systems",published,method,1,0,0.0
+conceptual-models-in-communication,"Conceptual Models in Communication",published,foundation,1,1,1.0
+curriculum-pathways-and-framework-design,"Curriculum Pathways and Framework Design",planned,transfer,1,1,1.0
+educational-scaffolding-and-the-design-of-learning-systems,"Educational Scaffolding and the Design of Learning Systems",published,method,2,2,1.0
+what-are-content-frameworks,"What Are Content Frameworks?",published,orientation,0,0,1.0
+why-frameworks-matter-in-research-education-and-strategic-communication,"Why Frameworks Matter in Research Education and Strategic Communication",published,foundation,1,1,1.0
+slug,title,status,learning_stage,partial_scaffold_score_without_prereq_component
+curriculum-pathways-and-framework-design,"Curriculum Pathways and Framework Design",planned,transfer,0.31
+conceptual-models-in-communication,"Conceptual Models in Communication",published,foundation,0.7
+editorial-metadata-and-content-systems,"Editorial Metadata and Content Systems",published,method,0.7
+educational-scaffolding-and-the-design-of-learning-systems,"Educational Scaffolding and the Design of Learning Systems",published,method,0.8
+what-are-content-frameworks,"What Are Content Frameworks?",published,orientation,0.8
+why-frameworks-matter-in-research-education-and-strategic-communication,"Why Frameworks Matter in Research Education and Strategic Communication",published,foundation,0.8
+severity,issue_type,queue_count
+low,publication,1
+medium,cognitive_load,1
+medium,coverage,1

@@ -1,0 +1,65 @@
+[
+  {
+    "severity": "medium",
+    "category": "prerequisites",
+    "identifier": "internal-linking-as-framework-infrastructure",
+    "message": "Prerequisite readiness is 0%.",
+    "recommended_action": "Add, publish, or link prerequisite articles before promoting advanced learning content."
+  },
+  {
+    "severity": "low",
+    "category": "sequence",
+    "identifier": "internal-linking-as-framework-infrastructure",
+    "message": "Learning stage appears earlier than the preceding published stage.",
+    "recommended_action": "Review whether article-map order supports the intended learning pathway."
+  },
+  {
+    "severity": "low",
+    "category": "sequence",
+    "identifier": "editorial-metadata-and-content-systems",
+    "message": "Learning stage appears earlier than the preceding published stage.",
+    "recommended_action": "Review whether article-map order supports the intended learning pathway."
+  },
+  {
+    "severity": "low",
+    "category": "sequence",
+    "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+    "message": "Learning stage appears earlier than the preceding published stage.",
+    "recommended_action": "Review whether article-map order supports the intended learning pathway."
+  },
+  {
+    "severity": "low",
+    "category": "sequence",
+    "identifier": "conceptual-models-in-communication",
+    "message": "Learning stage appears earlier than the preceding published stage.",
+    "recommended_action": "Review whether article-map order supports the intended learning pathway."
+  },
+  {
+    "severity": "low",
+    "category": "sequence",
+    "identifier": "frameworks-for-research-communication",
+    "message": "Learning stage appears earlier than the preceding published stage.",
+    "recommended_action": "Review whether article-map order supports the intended learning pathway."
+  },
+  {
+    "severity": "medium",
+    "category": "cognitive_load",
+    "identifier": "frameworks-for-digital-knowledge-systems",
+    "message": "Published article has high cognitive-load risk.",
+    "recommended_action": "Add summaries, examples, prerequisite links, tables, staged explanation, or stronger orientation support."
+  },
+  {
+    "severity": "medium",
+    "category": "scaffold_readiness",
+    "identifier": "frameworks-for-digital-knowledge-systems",
+    "message": "Scaffold-readiness score is 0.56, below threshold 0.78.",
+    "recommended_action": "Review orientation, prerequisites, examples, feedback, transfer support, accessibility, and cognitive-load risk."
+  },
+  {
+    "severity": "medium",
+    "category": "scaffold_readiness",
+    "identifier": "internal-linking-as-framework-infrastructure",
+    "message": "Scaffold-readiness score is 0.70, below threshold 0.78.",
+    "recommended_action": "Review orientation, prerequisites, examples, feedback, transfer support, accessibility, and cognitive-load risk."
+  }
+]

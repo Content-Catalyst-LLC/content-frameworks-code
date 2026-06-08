@@ -1,0 +1,17 @@
+slug,title,learning_stage,orientation_score,example_score,feedback_score,transfer_score,accessibility_score,cognitive_load_risk,load_penalty
+what-are-content-frameworks,What Are Content Frameworks?,orientation,1.0,1.0,1.0,1.0,1.0,low,0.0
+why-frameworks-matter-in-research-education-and-strategic-communication,Why Frameworks Matter in Research Education and Strategic Communication,foundation,1.0,1.0,1.0,1.0,1.0,low,0.0
+what-makes-a-powerful-content-framework,What Makes a Powerful Content Framework?,foundation,1.0,1.0,1.0,1.0,1.0,medium,0.1
+framework-literacy-and-the-structure-of-usable-knowledge,Framework Literacy and the Structure of Usable Knowledge,foundation,1.0,0.0,0.0,1.0,0.5,medium,0.1
+pillar-pages-and-topic-clusters,Pillar Pages and Topic Clusters,method,1.0,1.0,1.0,1.0,1.0,medium,0.1
+narrative-pathways-and-knowledge-architecture,Narrative Pathways and Knowledge Architecture,method,1.0,1.0,1.0,1.0,1.0,medium,0.1
+frameworks-for-digital-knowledge-systems,Frameworks for Digital Knowledge Systems,application,1.0,1.0,0.0,1.0,0.75,high,0.25
+taxonomy-design-for-content-frameworks,Taxonomy Design for Content Frameworks,method,1.0,0.0,0.0,1.0,0.5,medium,0.1
+internal-linking-as-framework-infrastructure,Internal Linking as Framework Infrastructure,guided_practice,1.0,1.0,1.0,1.0,1.0,medium,0.1
+content-audits-and-framework-governance,Content Audits and Framework Governance,critique,1.0,1.0,1.0,1.0,1.0,medium,0.1
+editorial-metadata-and-content-systems,Editorial Metadata and Content Systems,method,1.0,1.0,1.0,1.0,1.0,medium,0.1
+educational-scaffolding-and-the-design-of-learning-systems,Educational Scaffolding and the Design of Learning Systems,method,1.0,1.0,1.0,1.0,1.0,low,0.0
+conceptual-models-in-communication,Conceptual Models in Communication,foundation,1.0,1.0,1.0,1.0,1.0,medium,0.1
+frameworks-for-research-communication,Frameworks for Research Communication,application,1.0,1.0,1.0,1.0,1.0,medium,0.1
+curriculum-pathways-and-framework-design,Curriculum Pathways and Framework Design,transfer,1.0,0.0,0.0,1.0,0.5,medium,0.1
+evidence-architecture-in-explanatory-content,Evidence Architecture in Explanatory Content,critique,1.0,0.0,0.0,1.0,0.5,medium,0.1

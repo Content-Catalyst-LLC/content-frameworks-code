@@ -1,0 +1,1144 @@
+{
+  "article": "Educational Scaffolding and the Design of Learning Systems",
+  "generated_at": "2026-06-08T14:59:05.590683+00:00",
+  "counts": {
+    "articles": 16,
+    "prerequisite_relationships": 17,
+    "scaffold_features": 7,
+    "findings": 9,
+    "governance_queue": 14
+  },
+  "prerequisite_readiness": [
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "learning_stage": "orientation",
+      "status": "published",
+      "required_prerequisites": 0,
+      "known_prerequisites": 0,
+      "published_prerequisites": 0,
+      "prerequisite_readiness": 1.0,
+      "supports_downstream_articles": 5,
+      "prerequisite_status": "ready"
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "learning_stage": "foundation",
+      "status": "published",
+      "required_prerequisites": 1,
+      "known_prerequisites": 1,
+      "published_prerequisites": 1,
+      "prerequisite_readiness": 1.0,
+      "supports_downstream_articles": 0,
+      "prerequisite_status": "ready"
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "learning_stage": "foundation",
+      "status": "published",
+      "required_prerequisites": 1,
+      "known_prerequisites": 1,
+      "published_prerequisites": 1,
+      "prerequisite_readiness": 1.0,
+      "supports_downstream_articles": 0,
+      "prerequisite_status": "ready"
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "learning_stage": "foundation",
+      "status": "planned",
+      "required_prerequisites": 1,
+      "known_prerequisites": 1,
+      "published_prerequisites": 1,
+      "prerequisite_readiness": 1.0,
+      "supports_downstream_articles": 0,
+      "prerequisite_status": "ready"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "learning_stage": "method",
+      "status": "published",
+      "required_prerequisites": 1,
+      "known_prerequisites": 1,
+      "published_prerequisites": 1,
+      "prerequisite_readiness": 1.0,
+      "supports_downstream_articles": 2,
+      "prerequisite_status": "ready"
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "title": "Narrative Pathways and Knowledge Architecture",
+      "learning_stage": "method",
+      "status": "published",
+      "required_prerequisites": 1,
+      "known_prerequisites": 1,
+      "published_prerequisites": 1,
+      "prerequisite_readiness": 1.0,
+      "supports_downstream_articles": 0,
+      "prerequisite_status": "ready"
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "title": "Frameworks for Digital Knowledge Systems",
+      "learning_stage": "application",
+      "status": "published",
+      "required_prerequisites": 1,
+      "known_prerequisites": 1,
+      "published_prerequisites": 1,
+      "prerequisite_readiness": 1.0,
+      "supports_downstream_articles": 1,
+      "prerequisite_status": "ready"
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "title": "Taxonomy Design for Content Frameworks",
+      "learning_stage": "method",
+      "status": "planned",
+      "required_prerequisites": 1,
+      "known_prerequisites": 1,
+      "published_prerequisites": 1,
+      "prerequisite_readiness": 1.0,
+      "supports_downstream_articles": 1,
+      "prerequisite_status": "ready"
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "title": "Internal Linking as Framework Infrastructure",
+      "learning_stage": "guided_practice",
+      "status": "published",
+      "required_prerequisites": 1,
+      "known_prerequisites": 1,
+      "published_prerequisites": 0,
+      "prerequisite_readiness": 0.0,
+      "supports_downstream_articles": 1,
+      "prerequisite_status": "needs prerequisite support"
+    },
+    {
+      "slug": "content-audits-and-framework-governance",
+      "title": "Content Audits and Framework Governance",
+      "learning_stage": "critique",
+      "status": "published",
+      "required_prerequisites": 2,
+      "known_prerequisites": 2,
+      "published_prerequisites": 2,
+      "prerequisite_readiness": 1.0,
+      "supports_downstream_articles": 1,
+      "prerequisite_status": "ready"
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "title": "Editorial Metadata and Content Systems",
+      "learning_stage": "method",
+      "status": "published",
+      "required_prerequisites": 1,
+      "known_prerequisites": 1,
+      "published_prerequisites": 1,
+      "prerequisite_readiness": 1.0,
+      "supports_downstream_articles": 2,
+      "prerequisite_status": "ready"
+    },
+    {
+      "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "title": "Educational Scaffolding and the Design of Learning Systems",
+      "learning_stage": "method",
+      "status": "published",
+      "required_prerequisites": 2,
+      "known_prerequisites": 2,
+      "published_prerequisites": 2,
+      "prerequisite_readiness": 1.0,
+      "supports_downstream_articles": 2,
+      "prerequisite_status": "ready"
+    },
+    {
+      "slug": "conceptual-models-in-communication",
+      "title": "Conceptual Models in Communication",
+      "learning_stage": "foundation",
+      "status": "published",
+      "required_prerequisites": 1,
+      "known_prerequisites": 1,
+      "published_prerequisites": 1,
+      "prerequisite_readiness": 1.0,
+      "supports_downstream_articles": 1,
+      "prerequisite_status": "ready"
+    },
+    {
+      "slug": "frameworks-for-research-communication",
+      "title": "Frameworks for Research Communication",
+      "learning_stage": "application",
+      "status": "published",
+      "required_prerequisites": 1,
+      "known_prerequisites": 1,
+      "published_prerequisites": 1,
+      "prerequisite_readiness": 1.0,
+      "supports_downstream_articles": 1,
+      "prerequisite_status": "ready"
+    },
+    {
+      "slug": "curriculum-pathways-and-framework-design",
+      "title": "Curriculum Pathways and Framework Design",
+      "learning_stage": "transfer",
+      "status": "planned",
+      "required_prerequisites": 1,
+      "known_prerequisites": 1,
+      "published_prerequisites": 1,
+      "prerequisite_readiness": 1.0,
+      "supports_downstream_articles": 0,
+      "prerequisite_status": "ready"
+    },
+    {
+      "slug": "evidence-architecture-in-explanatory-content",
+      "title": "Evidence Architecture in Explanatory Content",
+      "learning_stage": "critique",
+      "status": "planned",
+      "required_prerequisites": 1,
+      "known_prerequisites": 1,
+      "published_prerequisites": 1,
+      "prerequisite_readiness": 1.0,
+      "supports_downstream_articles": 0,
+      "prerequisite_status": "ready"
+    }
+  ],
+  "sequence": [
+    {
+      "article_order": "1",
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "learning_stage": "orientation",
+      "stage_rank": 1,
+      "stage_valid": true,
+      "sequence_regression": false
+    },
+    {
+      "article_order": "2",
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "learning_stage": "foundation",
+      "stage_rank": 2,
+      "stage_valid": true,
+      "sequence_regression": false
+    },
+    {
+      "article_order": "3",
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "learning_stage": "foundation",
+      "stage_rank": 2,
+      "stage_valid": true,
+      "sequence_regression": false
+    },
+    {
+      "article_order": "4",
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "learning_stage": "foundation",
+      "stage_rank": 2,
+      "stage_valid": true,
+      "sequence_regression": false
+    },
+    {
+      "article_order": "7",
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "learning_stage": "method",
+      "stage_rank": 3,
+      "stage_valid": true,
+      "sequence_regression": false
+    },
+    {
+      "article_order": "8",
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "title": "Narrative Pathways and Knowledge Architecture",
+      "learning_stage": "method",
+      "stage_rank": 3,
+      "stage_valid": true,
+      "sequence_regression": false
+    },
+    {
+      "article_order": "9",
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "title": "Frameworks for Digital Knowledge Systems",
+      "learning_stage": "application",
+      "stage_rank": 5,
+      "stage_valid": true,
+      "sequence_regression": false
+    },
+    {
+      "article_order": "10",
+      "slug": "taxonomy-design-for-content-frameworks",
+      "title": "Taxonomy Design for Content Frameworks",
+      "learning_stage": "method",
+      "stage_rank": 3,
+      "stage_valid": true,
+      "sequence_regression": false
+    },
+    {
+      "article_order": "11",
+      "slug": "internal-linking-as-framework-infrastructure",
+      "title": "Internal Linking as Framework Infrastructure",
+      "learning_stage": "guided_practice",
+      "stage_rank": 4,
+      "stage_valid": true,
+      "sequence_regression": true
+    },
+    {
+      "article_order": "12",
+      "slug": "content-audits-and-framework-governance",
+      "title": "Content Audits and Framework Governance",
+      "learning_stage": "critique",
+      "stage_rank": 6,
+      "stage_valid": true,
+      "sequence_regression": false
+    },
+    {
+      "article_order": "13",
+      "slug": "editorial-metadata-and-content-systems",
+      "title": "Editorial Metadata and Content Systems",
+      "learning_stage": "method",
+      "stage_rank": 3,
+      "stage_valid": true,
+      "sequence_regression": true
+    },
+    {
+      "article_order": "14",
+      "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "title": "Educational Scaffolding and the Design of Learning Systems",
+      "learning_stage": "method",
+      "stage_rank": 3,
+      "stage_valid": true,
+      "sequence_regression": true
+    },
+    {
+      "article_order": "15",
+      "slug": "conceptual-models-in-communication",
+      "title": "Conceptual Models in Communication",
+      "learning_stage": "foundation",
+      "stage_rank": 2,
+      "stage_valid": true,
+      "sequence_regression": true
+    },
+    {
+      "article_order": "16",
+      "slug": "frameworks-for-research-communication",
+      "title": "Frameworks for Research Communication",
+      "learning_stage": "application",
+      "stage_rank": 5,
+      "stage_valid": true,
+      "sequence_regression": true
+    },
+    {
+      "article_order": "17",
+      "slug": "curriculum-pathways-and-framework-design",
+      "title": "Curriculum Pathways and Framework Design",
+      "learning_stage": "transfer",
+      "stage_rank": 7,
+      "stage_valid": true,
+      "sequence_regression": false
+    },
+    {
+      "article_order": "18",
+      "slug": "evidence-architecture-in-explanatory-content",
+      "title": "Evidence Architecture in Explanatory Content",
+      "learning_stage": "critique",
+      "stage_rank": 6,
+      "stage_valid": true,
+      "sequence_regression": false
+    }
+  ],
+  "scaffold_features": [
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "learning_stage": "orientation",
+      "orientation_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "cognitive_load_risk": "low",
+      "load_penalty": 0.0
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "learning_stage": "foundation",
+      "orientation_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "cognitive_load_risk": "low",
+      "load_penalty": 0.0
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "learning_stage": "foundation",
+      "orientation_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "cognitive_load_risk": "medium",
+      "load_penalty": 0.1
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "learning_stage": "foundation",
+      "orientation_score": 1.0,
+      "example_score": 0.0,
+      "feedback_score": 0.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 0.5,
+      "cognitive_load_risk": "medium",
+      "load_penalty": 0.1
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "learning_stage": "method",
+      "orientation_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "cognitive_load_risk": "medium",
+      "load_penalty": 0.1
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "title": "Narrative Pathways and Knowledge Architecture",
+      "learning_stage": "method",
+      "orientation_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "cognitive_load_risk": "medium",
+      "load_penalty": 0.1
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "title": "Frameworks for Digital Knowledge Systems",
+      "learning_stage": "application",
+      "orientation_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 0.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 0.75,
+      "cognitive_load_risk": "high",
+      "load_penalty": 0.25
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "title": "Taxonomy Design for Content Frameworks",
+      "learning_stage": "method",
+      "orientation_score": 1.0,
+      "example_score": 0.0,
+      "feedback_score": 0.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 0.5,
+      "cognitive_load_risk": "medium",
+      "load_penalty": 0.1
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "title": "Internal Linking as Framework Infrastructure",
+      "learning_stage": "guided_practice",
+      "orientation_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "cognitive_load_risk": "medium",
+      "load_penalty": 0.1
+    },
+    {
+      "slug": "content-audits-and-framework-governance",
+      "title": "Content Audits and Framework Governance",
+      "learning_stage": "critique",
+      "orientation_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "cognitive_load_risk": "medium",
+      "load_penalty": 0.1
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "title": "Editorial Metadata and Content Systems",
+      "learning_stage": "method",
+      "orientation_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "cognitive_load_risk": "medium",
+      "load_penalty": 0.1
+    },
+    {
+      "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "title": "Educational Scaffolding and the Design of Learning Systems",
+      "learning_stage": "method",
+      "orientation_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "cognitive_load_risk": "low",
+      "load_penalty": 0.0
+    },
+    {
+      "slug": "conceptual-models-in-communication",
+      "title": "Conceptual Models in Communication",
+      "learning_stage": "foundation",
+      "orientation_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "cognitive_load_risk": "medium",
+      "load_penalty": 0.1
+    },
+    {
+      "slug": "frameworks-for-research-communication",
+      "title": "Frameworks for Research Communication",
+      "learning_stage": "application",
+      "orientation_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "cognitive_load_risk": "medium",
+      "load_penalty": 0.1
+    },
+    {
+      "slug": "curriculum-pathways-and-framework-design",
+      "title": "Curriculum Pathways and Framework Design",
+      "learning_stage": "transfer",
+      "orientation_score": 1.0,
+      "example_score": 0.0,
+      "feedback_score": 0.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 0.5,
+      "cognitive_load_risk": "medium",
+      "load_penalty": 0.1
+    },
+    {
+      "slug": "evidence-architecture-in-explanatory-content",
+      "title": "Evidence Architecture in Explanatory Content",
+      "learning_stage": "critique",
+      "orientation_score": 1.0,
+      "example_score": 0.0,
+      "feedback_score": 0.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 0.5,
+      "cognitive_load_risk": "medium",
+      "load_penalty": 0.1
+    }
+  ],
+  "scaffold_readiness": [
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "status": "published",
+      "concept_cluster": "Foundations",
+      "learning_stage": "orientation",
+      "orientation_score": 1.0,
+      "prerequisite_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "load_penalty": 0.0,
+      "scaffold_readiness_score": 1.0,
+      "scaffold_status": "ready"
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "status": "published",
+      "concept_cluster": "Foundations",
+      "learning_stage": "foundation",
+      "orientation_score": 1.0,
+      "prerequisite_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "load_penalty": 0.0,
+      "scaffold_readiness_score": 1.0,
+      "scaffold_status": "ready"
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "status": "published",
+      "concept_cluster": "Foundations",
+      "learning_stage": "foundation",
+      "orientation_score": 1.0,
+      "prerequisite_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "load_penalty": 0.1,
+      "scaffold_readiness_score": 0.9,
+      "scaffold_status": "ready"
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "status": "planned",
+      "concept_cluster": "Foundations",
+      "learning_stage": "foundation",
+      "orientation_score": 1.0,
+      "prerequisite_score": 1.0,
+      "example_score": 0.0,
+      "feedback_score": 0.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 0.5,
+      "load_penalty": 0.1,
+      "scaffold_readiness_score": 0.51,
+      "scaffold_status": "governance review"
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "status": "published",
+      "concept_cluster": "Knowledge Architecture",
+      "learning_stage": "method",
+      "orientation_score": 1.0,
+      "prerequisite_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "load_penalty": 0.1,
+      "scaffold_readiness_score": 0.9,
+      "scaffold_status": "ready"
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "title": "Narrative Pathways and Knowledge Architecture",
+      "status": "published",
+      "concept_cluster": "Knowledge Architecture",
+      "learning_stage": "method",
+      "orientation_score": 1.0,
+      "prerequisite_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "load_penalty": 0.1,
+      "scaffold_readiness_score": 0.9,
+      "scaffold_status": "ready"
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "title": "Frameworks for Digital Knowledge Systems",
+      "status": "published",
+      "concept_cluster": "Knowledge Architecture",
+      "learning_stage": "application",
+      "orientation_score": 1.0,
+      "prerequisite_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 0.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 0.75,
+      "load_penalty": 0.25,
+      "scaffold_readiness_score": 0.565,
+      "scaffold_status": "governance review"
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "title": "Taxonomy Design for Content Frameworks",
+      "status": "planned",
+      "concept_cluster": "Knowledge Architecture",
+      "learning_stage": "method",
+      "orientation_score": 1.0,
+      "prerequisite_score": 1.0,
+      "example_score": 0.0,
+      "feedback_score": 0.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 0.5,
+      "load_penalty": 0.1,
+      "scaffold_readiness_score": 0.51,
+      "scaffold_status": "governance review"
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "title": "Internal Linking as Framework Infrastructure",
+      "status": "published",
+      "concept_cluster": "Knowledge Architecture",
+      "learning_stage": "guided_practice",
+      "orientation_score": 1.0,
+      "prerequisite_score": 0.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "load_penalty": 0.1,
+      "scaffold_readiness_score": 0.7,
+      "scaffold_status": "governance review"
+    },
+    {
+      "slug": "content-audits-and-framework-governance",
+      "title": "Content Audits and Framework Governance",
+      "status": "published",
+      "concept_cluster": "Knowledge Architecture",
+      "learning_stage": "critique",
+      "orientation_score": 1.0,
+      "prerequisite_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "load_penalty": 0.1,
+      "scaffold_readiness_score": 0.9,
+      "scaffold_status": "ready"
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "title": "Editorial Metadata and Content Systems",
+      "status": "published",
+      "concept_cluster": "Knowledge Architecture",
+      "learning_stage": "method",
+      "orientation_score": 1.0,
+      "prerequisite_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "load_penalty": 0.1,
+      "scaffold_readiness_score": 0.9,
+      "scaffold_status": "ready"
+    },
+    {
+      "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "title": "Educational Scaffolding and the Design of Learning Systems",
+      "status": "published",
+      "concept_cluster": "Educational Research and Conceptual Frameworks",
+      "learning_stage": "method",
+      "orientation_score": 1.0,
+      "prerequisite_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "load_penalty": 0.0,
+      "scaffold_readiness_score": 1.0,
+      "scaffold_status": "ready"
+    },
+    {
+      "slug": "conceptual-models-in-communication",
+      "title": "Conceptual Models in Communication",
+      "status": "published",
+      "concept_cluster": "Educational Research and Conceptual Frameworks",
+      "learning_stage": "foundation",
+      "orientation_score": 1.0,
+      "prerequisite_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "load_penalty": 0.1,
+      "scaffold_readiness_score": 0.9,
+      "scaffold_status": "ready"
+    },
+    {
+      "slug": "frameworks-for-research-communication",
+      "title": "Frameworks for Research Communication",
+      "status": "published",
+      "concept_cluster": "Educational Research and Conceptual Frameworks",
+      "learning_stage": "application",
+      "orientation_score": 1.0,
+      "prerequisite_score": 1.0,
+      "example_score": 1.0,
+      "feedback_score": 1.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 1.0,
+      "load_penalty": 0.1,
+      "scaffold_readiness_score": 0.9,
+      "scaffold_status": "ready"
+    },
+    {
+      "slug": "curriculum-pathways-and-framework-design",
+      "title": "Curriculum Pathways and Framework Design",
+      "status": "planned",
+      "concept_cluster": "Educational Research and Conceptual Frameworks",
+      "learning_stage": "transfer",
+      "orientation_score": 1.0,
+      "prerequisite_score": 1.0,
+      "example_score": 0.0,
+      "feedback_score": 0.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 0.5,
+      "load_penalty": 0.1,
+      "scaffold_readiness_score": 0.51,
+      "scaffold_status": "governance review"
+    },
+    {
+      "slug": "evidence-architecture-in-explanatory-content",
+      "title": "Evidence Architecture in Explanatory Content",
+      "status": "planned",
+      "concept_cluster": "Educational Research and Conceptual Frameworks",
+      "learning_stage": "critique",
+      "orientation_score": 1.0,
+      "prerequisite_score": 1.0,
+      "example_score": 0.0,
+      "feedback_score": 0.0,
+      "transfer_score": 1.0,
+      "accessibility_score": 0.5,
+      "load_penalty": 0.1,
+      "scaffold_readiness_score": 0.51,
+      "scaffold_status": "governance review"
+    }
+  ],
+  "learning_path_depth": [
+    {
+      "slug": "conceptual-models-in-communication",
+      "title": "Conceptual Models in Communication",
+      "learning_stage": "foundation",
+      "path_depth_from_foundation": 0,
+      "reachable_from_foundation": true
+    },
+    {
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "learning_stage": "foundation",
+      "path_depth_from_foundation": 0,
+      "reachable_from_foundation": true
+    },
+    {
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "learning_stage": "orientation",
+      "path_depth_from_foundation": 0,
+      "reachable_from_foundation": true
+    },
+    {
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "learning_stage": "foundation",
+      "path_depth_from_foundation": 0,
+      "reachable_from_foundation": true
+    },
+    {
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "learning_stage": "foundation",
+      "path_depth_from_foundation": 0,
+      "reachable_from_foundation": true
+    },
+    {
+      "slug": "educational-scaffolding-and-the-design-of-learning-systems",
+      "title": "Educational Scaffolding and the Design of Learning Systems",
+      "learning_stage": "method",
+      "path_depth_from_foundation": 1,
+      "reachable_from_foundation": true
+    },
+    {
+      "slug": "frameworks-for-research-communication",
+      "title": "Frameworks for Research Communication",
+      "learning_stage": "application",
+      "path_depth_from_foundation": 1,
+      "reachable_from_foundation": true
+    },
+    {
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "learning_stage": "method",
+      "path_depth_from_foundation": 1,
+      "reachable_from_foundation": true
+    },
+    {
+      "slug": "curriculum-pathways-and-framework-design",
+      "title": "Curriculum Pathways and Framework Design",
+      "learning_stage": "transfer",
+      "path_depth_from_foundation": 2,
+      "reachable_from_foundation": true
+    },
+    {
+      "slug": "evidence-architecture-in-explanatory-content",
+      "title": "Evidence Architecture in Explanatory Content",
+      "learning_stage": "critique",
+      "path_depth_from_foundation": 2,
+      "reachable_from_foundation": true
+    },
+    {
+      "slug": "frameworks-for-digital-knowledge-systems",
+      "title": "Frameworks for Digital Knowledge Systems",
+      "learning_stage": "application",
+      "path_depth_from_foundation": 2,
+      "reachable_from_foundation": true
+    },
+    {
+      "slug": "narrative-pathways-and-knowledge-architecture",
+      "title": "Narrative Pathways and Knowledge Architecture",
+      "learning_stage": "method",
+      "path_depth_from_foundation": 2,
+      "reachable_from_foundation": true
+    },
+    {
+      "slug": "taxonomy-design-for-content-frameworks",
+      "title": "Taxonomy Design for Content Frameworks",
+      "learning_stage": "method",
+      "path_depth_from_foundation": 3,
+      "reachable_from_foundation": true
+    },
+    {
+      "slug": "internal-linking-as-framework-infrastructure",
+      "title": "Internal Linking as Framework Infrastructure",
+      "learning_stage": "guided_practice",
+      "path_depth_from_foundation": 4,
+      "reachable_from_foundation": true
+    },
+    {
+      "slug": "content-audits-and-framework-governance",
+      "title": "Content Audits and Framework Governance",
+      "learning_stage": "critique",
+      "path_depth_from_foundation": 5,
+      "reachable_from_foundation": true
+    },
+    {
+      "slug": "editorial-metadata-and-content-systems",
+      "title": "Editorial Metadata and Content Systems",
+      "learning_stage": "method",
+      "path_depth_from_foundation": 6,
+      "reachable_from_foundation": true
+    }
+  ],
+  "concept_coverage": [
+    {
+      "concept_cluster": "Educational Research and Conceptual Frameworks",
+      "published": 3,
+      "planned": 2,
+      "total": 5,
+      "published_coverage_rate": 0.6,
+      "coverage_status": "healthy"
+    },
+    {
+      "concept_cluster": "Foundations",
+      "published": 3,
+      "planned": 1,
+      "total": 4,
+      "published_coverage_rate": 0.75,
+      "coverage_status": "healthy"
+    },
+    {
+      "concept_cluster": "Knowledge Architecture",
+      "published": 6,
+      "planned": 1,
+      "total": 7,
+      "published_coverage_rate": 0.8571,
+      "coverage_status": "healthy"
+    }
+  ],
+  "relationship_type_summary": [
+    {
+      "relationship_type": "foundation",
+      "relationship_count": 5
+    },
+    {
+      "relationship_type": "prerequisite",
+      "relationship_count": 10
+    },
+    {
+      "relationship_type": "related_governance",
+      "relationship_count": 1
+    },
+    {
+      "relationship_type": "system_support",
+      "relationship_count": 1
+    },
+    {
+      "relationship_type": "importance:high",
+      "relationship_count": 10
+    },
+    {
+      "relationship_type": "importance:low",
+      "relationship_count": 1
+    },
+    {
+      "relationship_type": "importance:medium",
+      "relationship_count": 6
+    }
+  ],
+  "governance_queue": [
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "cognitive_load",
+      "identifier": "frameworks-for-digital-knowledge-systems",
+      "message": "Technical article has high cognitive-load risk and should receive more summaries or guided examples",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "automated_scaffold_audit",
+      "severity": "medium",
+      "category": "cognitive_load",
+      "identifier": "frameworks-for-digital-knowledge-systems",
+      "message": "Published article has high cognitive-load risk.",
+      "recommended_action": "Add summaries, examples, prerequisite links, tables, staged explanation, or stronger orientation support."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "coverage",
+      "identifier": "curriculum-pathways-and-framework-design",
+      "message": "Planned transfer article should be completed to strengthen educational framework cluster",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "coverage",
+      "identifier": "evidence-architecture-in-explanatory-content",
+      "message": "Planned critique article should be completed to connect scaffolding with evidence review",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "automated_scaffold_audit",
+      "severity": "medium",
+      "category": "prerequisites",
+      "identifier": "internal-linking-as-framework-infrastructure",
+      "message": "Prerequisite readiness is 0%.",
+      "recommended_action": "Add, publish, or link prerequisite articles before promoting advanced learning content."
+    },
+    {
+      "source": "automated_scaffold_audit",
+      "severity": "medium",
+      "category": "scaffold_readiness",
+      "identifier": "frameworks-for-digital-knowledge-systems",
+      "message": "Scaffold-readiness score is 0.56, below threshold 0.78.",
+      "recommended_action": "Review orientation, prerequisites, examples, feedback, transfer support, accessibility, and cognitive-load risk."
+    },
+    {
+      "source": "automated_scaffold_audit",
+      "severity": "medium",
+      "category": "scaffold_readiness",
+      "identifier": "internal-linking-as-framework-infrastructure",
+      "message": "Scaffold-readiness score is 0.70, below threshold 0.78.",
+      "recommended_action": "Review orientation, prerequisites, examples, feedback, transfer support, accessibility, and cognitive-load risk."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "medium",
+      "category": "status",
+      "identifier": "taxonomy-design-for-content-frameworks",
+      "message": "Planned prerequisite article should be prioritized before advanced internal-linking material is expanded",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "manual_review_queue",
+      "severity": "low",
+      "category": "publication",
+      "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+      "message": "Confirm final WordPress attachment ID and repository URL after publication",
+      "recommended_action": "Resolve through editorial governance workflow."
+    },
+    {
+      "source": "automated_scaffold_audit",
+      "severity": "low",
+      "category": "sequence",
+      "identifier": "conceptual-models-in-communication",
+      "message": "Learning stage appears earlier than the preceding published stage.",
+      "recommended_action": "Review whether article-map order supports the intended learning pathway."
+    },
+    {
+      "source": "automated_scaffold_audit",
+      "severity": "low",
+      "category": "sequence",
+      "identifier": "editorial-metadata-and-content-systems",
+      "message": "Learning stage appears earlier than the preceding published stage.",
+      "recommended_action": "Review whether article-map order supports the intended learning pathway."
+    },
+    {
+      "source": "automated_scaffold_audit",
+      "severity": "low",
+      "category": "sequence",
+      "identifier": "educational-scaffolding-and-the-design-of-learning-systems",
+      "message": "Learning stage appears earlier than the preceding published stage.",
+      "recommended_action": "Review whether article-map order supports the intended learning pathway."
+    },
+    {
+      "source": "automated_scaffold_audit",
+      "severity": "low",
+      "category": "sequence",
+      "identifier": "frameworks-for-research-communication",
+      "message": "Learning stage appears earlier than the preceding published stage.",
+      "recommended_action": "Review whether article-map order supports the intended learning pathway."
+    },
+    {
+      "source": "automated_scaffold_audit",
+      "severity": "low",
+      "category": "sequence",
+      "identifier": "internal-linking-as-framework-infrastructure",
+      "message": "Learning stage appears earlier than the preceding published stage.",
+      "recommended_action": "Review whether article-map order supports the intended learning pathway."
+    }
+  ],
+  "catalog_export_preview": [
+    {
+      "series": "Content Frameworks",
+      "slug": "what-are-content-frameworks",
+      "title": "What Are Content Frameworks?",
+      "status": "published",
+      "concept_cluster": "Foundations",
+      "learning_stage": "orientation",
+      "scaffold_readiness_score": 1.0,
+      "scaffold_status": "ready",
+      "github_path": "articles/what-are-content-frameworks/"
+    },
+    {
+      "series": "Content Frameworks",
+      "slug": "why-frameworks-matter-in-research-education-and-strategic-communication",
+      "title": "Why Frameworks Matter in Research Education and Strategic Communication",
+      "status": "published",
+      "concept_cluster": "Foundations",
+      "learning_stage": "foundation",
+      "scaffold_readiness_score": 1.0,
+      "scaffold_status": "ready",
+      "github_path": "articles/why-frameworks-matter-in-research-education-and-strategic-communication/"
+    },
+    {
+      "series": "Content Frameworks",
+      "slug": "what-makes-a-powerful-content-framework",
+      "title": "What Makes a Powerful Content Framework?",
+      "status": "published",
+      "concept_cluster": "Foundations",
+      "learning_stage": "foundation",
+      "scaffold_readiness_score": 0.9,
+      "scaffold_status": "ready",
+      "github_path": "articles/what-makes-a-powerful-content-framework/"
+    },
+    {
+      "series": "Content Frameworks",
+      "slug": "framework-literacy-and-the-structure-of-usable-knowledge",
+      "title": "Framework Literacy and the Structure of Usable Knowledge",
+      "status": "planned",
+      "concept_cluster": "Foundations",
+      "learning_stage": "foundation",
+      "scaffold_readiness_score": 0.51,
+      "scaffold_status": "governance review",
+      "github_path": "articles/framework-literacy-and-the-structure-of-usable-knowledge/"
+    },
+    {
+      "series": "Content Frameworks",
+      "slug": "pillar-pages-and-topic-clusters",
+      "title": "Pillar Pages and Topic Clusters",
+      "status": "published",
+      "concept_cluster": "Knowledge Architecture",
+      "learning_stage": "method",
+      "scaffold_readiness_score": 0.9,
+      "scaffold_status": "ready",
+      "github_path": "articles/pillar-pages-and-topic-clusters/"
+    }
+  ]
+}

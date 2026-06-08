@@ -1,0 +1,17 @@
+article_order,slug,title,learning_stage,stage_rank,stage_valid,sequence_regression
+1,what-are-content-frameworks,What Are Content Frameworks?,orientation,1,True,False
+2,why-frameworks-matter-in-research-education-and-strategic-communication,Why Frameworks Matter in Research Education and Strategic Communication,foundation,2,True,False
+3,what-makes-a-powerful-content-framework,What Makes a Powerful Content Framework?,foundation,2,True,False
+4,framework-literacy-and-the-structure-of-usable-knowledge,Framework Literacy and the Structure of Usable Knowledge,foundation,2,True,False
+7,pillar-pages-and-topic-clusters,Pillar Pages and Topic Clusters,method,3,True,False
+8,narrative-pathways-and-knowledge-architecture,Narrative Pathways and Knowledge Architecture,method,3,True,False
+9,frameworks-for-digital-knowledge-systems,Frameworks for Digital Knowledge Systems,application,5,True,False
+10,taxonomy-design-for-content-frameworks,Taxonomy Design for Content Frameworks,method,3,True,False
+11,internal-linking-as-framework-infrastructure,Internal Linking as Framework Infrastructure,guided_practice,4,True,True
+12,content-audits-and-framework-governance,Content Audits and Framework Governance,critique,6,True,False
+13,editorial-metadata-and-content-systems,Editorial Metadata and Content Systems,method,3,True,True
+14,educational-scaffolding-and-the-design-of-learning-systems,Educational Scaffolding and the Design of Learning Systems,method,3,True,True
+15,conceptual-models-in-communication,Conceptual Models in Communication,foundation,2,True,True
+16,frameworks-for-research-communication,Frameworks for Research Communication,application,5,True,True
+17,curriculum-pathways-and-framework-design,Curriculum Pathways and Framework Design,transfer,7,True,False
+18,evidence-architecture-in-explanatory-content,Evidence Architecture in Explanatory Content,critique,6,True,False

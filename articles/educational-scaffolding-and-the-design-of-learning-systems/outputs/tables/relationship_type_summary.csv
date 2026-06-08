@@ -1,0 +1,8 @@
+relationship_type,relationship_count
+foundation,5
+prerequisite,10
+related_governance,1
+system_support,1
+importance:high,10
+importance:low,1
+importance:medium,6

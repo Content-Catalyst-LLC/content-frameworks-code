@@ -1,0 +1,17 @@
+article_order,slug,title,status,concept_cluster,learning_stage,orientation_support,worked_examples,feedback_prompts,transfer_support,cognitive_load_risk,alt_text,clear_headings,descriptive_links,summary_support
+1,what-are-content-frameworks,What Are Content Frameworks?,published,Foundations,orientation,yes,yes,yes,yes,low,yes,yes,yes,yes
+2,why-frameworks-matter-in-research-education-and-strategic-communication,Why Frameworks Matter in Research Education and Strategic Communication,published,Foundations,foundation,yes,yes,yes,yes,low,yes,yes,yes,yes
+3,what-makes-a-powerful-content-framework,What Makes a Powerful Content Framework?,published,Foundations,foundation,yes,yes,yes,yes,medium,yes,yes,yes,yes
+4,framework-literacy-and-the-structure-of-usable-knowledge,Framework Literacy and the Structure of Usable Knowledge,planned,Foundations,foundation,yes,no,no,yes,medium,no,yes,yes,no
+7,pillar-pages-and-topic-clusters,Pillar Pages and Topic Clusters,published,Knowledge Architecture,method,yes,yes,yes,yes,medium,yes,yes,yes,yes
+8,narrative-pathways-and-knowledge-architecture,Narrative Pathways and Knowledge Architecture,published,Knowledge Architecture,method,yes,yes,yes,yes,medium,yes,yes,yes,yes
+9,frameworks-for-digital-knowledge-systems,Frameworks for Digital Knowledge Systems,published,Knowledge Architecture,application,yes,yes,no,yes,high,yes,yes,yes,no
+10,taxonomy-design-for-content-frameworks,Taxonomy Design for Content Frameworks,planned,Knowledge Architecture,method,yes,no,no,yes,medium,no,yes,yes,no
+11,internal-linking-as-framework-infrastructure,Internal Linking as Framework Infrastructure,published,Knowledge Architecture,guided_practice,yes,yes,yes,yes,medium,yes,yes,yes,yes
+12,content-audits-and-framework-governance,Content Audits and Framework Governance,published,Knowledge Architecture,critique,yes,yes,yes,yes,medium,yes,yes,yes,yes
+13,editorial-metadata-and-content-systems,Editorial Metadata and Content Systems,published,Knowledge Architecture,method,yes,yes,yes,yes,medium,yes,yes,yes,yes
+14,educational-scaffolding-and-the-design-of-learning-systems,Educational Scaffolding and the Design of Learning Systems,published,Educational Research and Conceptual Frameworks,method,yes,yes,yes,yes,low,yes,yes,yes,yes
+15,conceptual-models-in-communication,Conceptual Models in Communication,published,Educational Research and Conceptual Frameworks,foundation,yes,yes,yes,yes,medium,yes,yes,yes,yes
+16,frameworks-for-research-communication,Frameworks for Research Communication,published,Educational Research and Conceptual Frameworks,application,yes,yes,yes,yes,medium,yes,yes,yes,yes
+17,curriculum-pathways-and-framework-design,Curriculum Pathways and Framework Design,planned,Educational Research and Conceptual Frameworks,transfer,yes,no,no,yes,medium,no,yes,yes,no
+18,evidence-architecture-in-explanatory-content,Evidence Architecture in Explanatory Content,planned,Educational Research and Conceptual Frameworks,critique,yes,no,no,yes,medium,no,yes,yes,no
