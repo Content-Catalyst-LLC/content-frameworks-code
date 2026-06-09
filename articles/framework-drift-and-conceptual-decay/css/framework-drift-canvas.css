@@ -1,0 +1,27 @@
+/*
+  Framework Drift and Conceptual Decay Catalyst Canvas styles.
+  Scoped classes are intentionally prefixed for safe WordPress/Astra embedding.
+*/
+
+.cc-canvas-card {
+  border: 1px solid #111111;
+  background: #f7f1e4;
+  padding: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.cc-canvas-card-header {
+  border-bottom: 2px solid #111111;
+  margin-bottom: 1rem;
+}
+
+.cc-canvas-kicker {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.78rem;
+  margin: 0 0 0.35rem 0;
+}
+
+.framework-drift-card code {
+  font-size: 0.92em;
+}

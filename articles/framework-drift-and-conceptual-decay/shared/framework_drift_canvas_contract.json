@@ -1,0 +1,29 @@
+{
+  "module": "framework_drift_canvas",
+  "article_slug": "framework-drift-and-conceptual-decay",
+  "shared_contract_version": "1.0.0",
+  "required_directories": [
+    "html",
+    "css",
+    "php",
+    "java",
+    "python",
+    "r",
+    "sql",
+    "docs",
+    "data",
+    "outputs",
+    "notebooks",
+    "shared",
+    "canvas"
+  ],
+  "required_canvas_outputs": [
+    "canvas/canvas_manifest.json",
+    "canvas/input_schema.json",
+    "canvas/output_schema.json",
+    "canvas/canvas_cards.json",
+    "canvas/governance_queue.json",
+    "outputs/json/framework_drift_canvas_export.json",
+    "outputs/markdown/repair_queue.md"
+  ]
+}

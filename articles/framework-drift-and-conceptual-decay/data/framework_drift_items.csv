@@ -1,0 +1,7 @@
+item,item_type,description,definition_consistency,boundary_clarity,evidence_currency,metadata_consistency,link_health,governance_maturity,reuse_pressure,stale_evidence_risk,dependency_complexity,platform_alignment,audience_impact,owner,status,review_date
+Framework definition,definition,Core definition of framework across the Content Frameworks series,0.78,0.74,0.72,0.80,0.76,0.74,0.62,0.28,0.42,0.72,0.84,editorial,active,2026-06-09
+Content governance taxonomy,taxonomy,Tags categories and article types used for governance and discovery,0.70,0.68,0.66,0.72,0.74,0.70,0.58,0.32,0.50,0.68,0.78,governance,review,2026-06-09
+Legacy message framework,framework,Older message model reused across multiple pages without current scope notes,0.46,0.42,0.38,0.44,0.48,0.36,0.82,0.70,0.68,0.40,0.66,editorial,revise,2026-06-09
+Canvas-ready repository pattern,repository,Reusable repository structure with schemas tests outputs and governance queues,0.80,0.78,0.74,0.84,0.76,0.78,0.64,0.24,0.52,0.86,0.72,platform,active,2026-06-09
+Article map footer sequence,navigation,Series footer path and article map sequence across late-series governance pages,0.76,0.78,0.70,0.80,0.88,0.76,0.56,0.22,0.46,0.74,0.80,editorial,active,2026-06-09
+AI-assisted article template,template,Reusable assisted drafting template requiring controlled definitions evidence checks and article-specific review,0.72,0.70,0.68,0.76,0.72,0.72,0.78,0.36,0.60,0.70,0.76,platform,review,2026-06-09

@@ -1,0 +1,58 @@
+{
+  "module": "framework_drift_canvas",
+  "version": "1.0.0",
+  "article_slug": "framework-drift-and-conceptual-decay",
+  "article_title": "Framework Drift and Conceptual Decay",
+  "series": "Content Frameworks",
+  "repository_path": "articles/framework-drift-and-conceptual-decay/",
+  "entrypoint": "python -m framework_drift_canvas.cli",
+  "default_input": "data/framework_drift_items.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/framework_drift_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "repair_markdown": "outputs/markdown/repair_queue.md",
+    "full_export": "outputs/json/framework_drift_canvas_export.json"
+  },
+  "metrics": [
+    "conceptual_integrity",
+    "drift_risk",
+    "repair_priority_score",
+    "repair_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "framework_drift_item_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "drift_risk_grid"
+    },
+    {
+      "type": "framework_drift_repair_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "repair_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": [
+      "weak_definition_consistency",
+      "weak_boundary_clarity",
+      "weak_evidence_currency",
+      "weak_metadata_consistency",
+      "weak_link_health",
+      "weak_governance_maturity",
+      "high_reuse_pressure",
+      "high_stale_evidence_risk",
+      "high_dependency_complexity",
+      "weak_platform_alignment",
+      "high_audience_impact",
+      "high_drift_risk",
+      "repair_priority"
+    ]
+  }
+}

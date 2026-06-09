@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://thecontentcatalyst.net/schemas/framework-drift-canvas-output.schema.json",
+  "title": "Framework Drift and Conceptual Decay Catalyst Canvas Output Schema",
+  "description": "Output schema for framework drift audit results, Canvas cards, catalog records, and repair queues.",
+  "type": "object",
+  "required": ["module", "article_slug", "generated_at", "results", "governance_queue", "canvas_cards"],
+  "properties": {
+    "module": { "type": "string", "const": "framework_drift_canvas" },
+    "article_slug": { "type": "string", "const": "framework-drift-and-conceptual-decay" },
+    "generated_at": { "type": "string" },
+    "results": { "type": "array" },
+    "governance_queue": { "type": "array" },
+    "canvas_cards": { "type": "array" }
+  },
+  "additionalProperties": true
+}

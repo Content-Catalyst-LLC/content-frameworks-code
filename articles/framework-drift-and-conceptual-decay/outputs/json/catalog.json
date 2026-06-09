@@ -1,0 +1,27 @@
+{
+  "module": "framework_drift_canvas",
+  "version": "1.0.0",
+  "article_slug": "framework-drift-and-conceptual-decay",
+  "article_title": "Framework Drift and Conceptual Decay",
+  "generated_at": "2026-06-09T07:00:34+00:00",
+  "record_count": 6,
+  "item_type_counts": {
+    "framework": 1,
+    "template": 1,
+    "taxonomy": 1,
+    "definition": 1,
+    "navigation": 1,
+    "repository": 1
+  },
+  "metrics": [
+    "conceptual_integrity",
+    "drift_risk",
+    "repair_priority_score"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/framework_drift_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/framework_drift_canvas_export.json"
+  }
+}

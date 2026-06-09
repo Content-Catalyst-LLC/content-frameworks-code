@@ -1,0 +1,248 @@
+[
+  {
+    "card_id": "framework-drift-item-legacy-message-framework",
+    "type": "framework_drift_item_card",
+    "article_slug": "framework-drift-and-conceptual-decay",
+    "title": "Legacy message framework",
+    "subtitle": "framework",
+    "description": "Older message model reused across multiple pages without current scope notes",
+    "badges": [
+      "priority: high",
+      "integrity: 0.423",
+      "drift risk: 0.667",
+      "revise"
+    ],
+    "metrics": {
+      "conceptual_integrity": 0.423,
+      "drift_risk": 0.667,
+      "repair_priority_score": 0.665,
+      "definition_consistency": 0.46,
+      "boundary_clarity": 0.42,
+      "evidence_currency": 0.38,
+      "metadata_consistency": 0.44,
+      "link_health": 0.48,
+      "governance_maturity": 0.36
+    },
+    "risk_profile": {
+      "item_type": "framework",
+      "reuse_pressure": 0.82,
+      "stale_evidence_risk": 0.7,
+      "dependency_complexity": 0.68,
+      "platform_alignment": 0.4,
+      "audience_impact": 0.66
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "revise",
+      "review_date": "2026-06-09",
+      "repair_priority": "high",
+      "reasons": "weak definition consistency; weak boundary clarity; weak evidence currency; weak metadata consistency; weak link health; weak governance maturity; high reuse pressure; high stale evidence risk; high dependency complexity; weak platform alignment; high drift risk; repair priority threshold reached; status marked revise",
+      "recommended_action": "Repair this framework asset by restoring definition consistency boundary clarity evidence currency metadata link health governance maturity and platform alignment."
+    }
+  },
+  {
+    "card_id": "framework-drift-item-ai-assisted-article-template",
+    "type": "framework_drift_item_card",
+    "article_slug": "framework-drift-and-conceptual-decay",
+    "title": "AI-assisted article template",
+    "subtitle": "template",
+    "description": "Reusable assisted drafting template requiring controlled definitions evidence checks and article-specific review",
+    "badges": [
+      "priority: medium",
+      "integrity: 0.717",
+      "drift risk: 0.449",
+      "review"
+    ],
+    "metrics": {
+      "conceptual_integrity": 0.717,
+      "drift_risk": 0.449,
+      "repair_priority_score": 0.543,
+      "definition_consistency": 0.72,
+      "boundary_clarity": 0.7,
+      "evidence_currency": 0.68,
+      "metadata_consistency": 0.76,
+      "link_health": 0.72,
+      "governance_maturity": 0.72
+    },
+    "risk_profile": {
+      "item_type": "template",
+      "reuse_pressure": 0.78,
+      "stale_evidence_risk": 0.36,
+      "dependency_complexity": 0.6,
+      "platform_alignment": 0.7,
+      "audience_impact": 0.76
+    },
+    "governance": {
+      "owner": "platform",
+      "status": "review",
+      "review_date": "2026-06-09",
+      "repair_priority": "medium",
+      "reasons": "high reuse pressure; high dependency complexity; high audience impact; high drift risk; status marked review",
+      "recommended_action": "Review drift risk reuse pressure stale evidence dependency complexity platform alignment and audience impact during the next governance cycle."
+    }
+  },
+  {
+    "card_id": "framework-drift-item-content-governance-taxonomy",
+    "type": "framework_drift_item_card",
+    "article_slug": "framework-drift-and-conceptual-decay",
+    "title": "Content governance taxonomy",
+    "subtitle": "taxonomy",
+    "description": "Tags categories and article types used for governance and discovery",
+    "badges": [
+      "priority: medium",
+      "integrity: 0.7",
+      "drift risk: 0.394",
+      "review"
+    ],
+    "metrics": {
+      "conceptual_integrity": 0.7,
+      "drift_risk": 0.394,
+      "repair_priority_score": 0.51,
+      "definition_consistency": 0.7,
+      "boundary_clarity": 0.68,
+      "evidence_currency": 0.66,
+      "metadata_consistency": 0.72,
+      "link_health": 0.74,
+      "governance_maturity": 0.7
+    },
+    "risk_profile": {
+      "item_type": "taxonomy",
+      "reuse_pressure": 0.58,
+      "stale_evidence_risk": 0.32,
+      "dependency_complexity": 0.5,
+      "platform_alignment": 0.68,
+      "audience_impact": 0.78
+    },
+    "governance": {
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-09",
+      "repair_priority": "medium",
+      "reasons": "high audience impact; status marked review",
+      "recommended_action": "Review drift risk reuse pressure stale evidence dependency complexity platform alignment and audience impact during the next governance cycle."
+    }
+  },
+  {
+    "card_id": "framework-drift-item-framework-definition",
+    "type": "framework_drift_item_card",
+    "article_slug": "framework-drift-and-conceptual-decay",
+    "title": "Framework definition",
+    "subtitle": "definition",
+    "description": "Core definition of framework across the Content Frameworks series",
+    "badges": [
+      "priority: medium",
+      "integrity: 0.757",
+      "drift risk: 0.359",
+      "active"
+    ],
+    "metrics": {
+      "conceptual_integrity": 0.757,
+      "drift_risk": 0.359,
+      "repair_priority_score": 0.503,
+      "definition_consistency": 0.78,
+      "boundary_clarity": 0.74,
+      "evidence_currency": 0.72,
+      "metadata_consistency": 0.8,
+      "link_health": 0.76,
+      "governance_maturity": 0.74
+    },
+    "risk_profile": {
+      "item_type": "definition",
+      "reuse_pressure": 0.62,
+      "stale_evidence_risk": 0.28,
+      "dependency_complexity": 0.42,
+      "platform_alignment": 0.72,
+      "audience_impact": 0.84
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-09",
+      "repair_priority": "medium",
+      "reasons": "high audience impact",
+      "recommended_action": "Keep active and review during the next framework drift governance cycle."
+    }
+  },
+  {
+    "card_id": "framework-drift-item-article-map-footer-sequence",
+    "type": "framework_drift_item_card",
+    "article_slug": "framework-drift-and-conceptual-decay",
+    "title": "Article map footer sequence",
+    "subtitle": "navigation",
+    "description": "Series footer path and article map sequence across late-series governance pages",
+    "badges": [
+      "priority: medium",
+      "integrity: 0.78",
+      "drift risk: 0.332",
+      "active"
+    ],
+    "metrics": {
+      "conceptual_integrity": 0.78,
+      "drift_risk": 0.332,
+      "repair_priority_score": 0.472,
+      "definition_consistency": 0.76,
+      "boundary_clarity": 0.78,
+      "evidence_currency": 0.7,
+      "metadata_consistency": 0.8,
+      "link_health": 0.88,
+      "governance_maturity": 0.76
+    },
+    "risk_profile": {
+      "item_type": "navigation",
+      "reuse_pressure": 0.56,
+      "stale_evidence_risk": 0.22,
+      "dependency_complexity": 0.46,
+      "platform_alignment": 0.74,
+      "audience_impact": 0.8
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-09",
+      "repair_priority": "medium",
+      "reasons": "high audience impact",
+      "recommended_action": "Keep active and review during the next framework drift governance cycle."
+    }
+  },
+  {
+    "card_id": "framework-drift-item-canvas-ready-repository-pattern",
+    "type": "framework_drift_item_card",
+    "article_slug": "framework-drift-and-conceptual-decay",
+    "title": "Canvas-ready repository pattern",
+    "subtitle": "repository",
+    "description": "Reusable repository structure with schemas tests outputs and governance queues",
+    "badges": [
+      "priority: medium",
+      "integrity: 0.783",
+      "drift risk: 0.343",
+      "active"
+    ],
+    "metrics": {
+      "conceptual_integrity": 0.783,
+      "drift_risk": 0.343,
+      "repair_priority_score": 0.456,
+      "definition_consistency": 0.8,
+      "boundary_clarity": 0.78,
+      "evidence_currency": 0.74,
+      "metadata_consistency": 0.84,
+      "link_health": 0.76,
+      "governance_maturity": 0.78
+    },
+    "risk_profile": {
+      "item_type": "repository",
+      "reuse_pressure": 0.64,
+      "stale_evidence_risk": 0.24,
+      "dependency_complexity": 0.52,
+      "platform_alignment": 0.86,
+      "audience_impact": 0.72
+    },
+    "governance": {
+      "owner": "platform",
+      "status": "active",
+      "review_date": "2026-06-09",
+      "repair_priority": "medium",
+      "reasons": "no immediate drift issue",
+      "recommended_action": "Keep active and review during the next framework drift governance cycle."
+    }
+  }
+]
