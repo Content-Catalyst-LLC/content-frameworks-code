@@ -1,0 +1,457 @@
+{
+  "module": "persona_canvas",
+  "version": "1.0.0",
+  "article_slug": "persona-frameworks-and-their-limits",
+  "article_title": "Persona Frameworks and Their Limits",
+  "generated_at": "2026-06-09T00:19:19+00:00",
+  "results": [
+    {
+      "persona": "Beginner learner",
+      "segment": "Learning pathway",
+      "description": "Reader who needs orientation definitions and examples",
+      "content_pathway": "introductory_pathway",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "evidence_strength": 0.82,
+      "specificity": 0.78,
+      "content_fit": 0.88,
+      "segment_alignment": 0.84,
+      "governance_readiness": 0.76,
+      "stereotype_risk": 0.18,
+      "exclusion_risk": 0.24,
+      "weak_evidence_risk": 0.2,
+      "overgeneralization_risk": 0.26,
+      "risk_score": 0.26,
+      "readiness_score": 0.816,
+      "weighted_readiness": 0.819,
+      "revision_pressure": 0.0,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue"
+    },
+    {
+      "persona": "Technical practitioner",
+      "segment": "Implementation pathway",
+      "description": "User who needs reproducible workflows schemas and outputs",
+      "content_pathway": "technical_pathway",
+      "owner": "technical",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "evidence_strength": 0.78,
+      "specificity": 0.82,
+      "content_fit": 0.86,
+      "segment_alignment": 0.8,
+      "governance_readiness": 0.8,
+      "stereotype_risk": 0.16,
+      "exclusion_risk": 0.22,
+      "weak_evidence_risk": 0.24,
+      "overgeneralization_risk": 0.28,
+      "risk_score": 0.28,
+      "readiness_score": 0.812,
+      "weighted_readiness": 0.81,
+      "revision_pressure": 0.0,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue"
+    },
+    {
+      "persona": "Strategic decision-maker",
+      "segment": "Strategy pathway",
+      "description": "Leader evaluating value risk and resource implications",
+      "content_pathway": "strategy_pathway",
+      "owner": "strategy",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "evidence_strength": 0.76,
+      "specificity": 0.74,
+      "content_fit": 0.8,
+      "segment_alignment": 0.78,
+      "governance_readiness": 0.74,
+      "stereotype_risk": 0.24,
+      "exclusion_risk": 0.36,
+      "weak_evidence_risk": 0.28,
+      "overgeneralization_risk": 0.42,
+      "risk_score": 0.42,
+      "readiness_score": 0.764,
+      "weighted_readiness": 0.765,
+      "revision_pressure": 0.0,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue"
+    },
+    {
+      "persona": "Accessibility-focused reader",
+      "segment": "Accessibility pathway",
+      "description": "Reader with access needs assistive technology constraints or format barriers",
+      "content_pathway": "inclusive_design_pathway",
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "evidence_strength": 0.72,
+      "specificity": 0.7,
+      "content_fit": 0.78,
+      "segment_alignment": 0.74,
+      "governance_readiness": 0.84,
+      "stereotype_risk": 0.28,
+      "exclusion_risk": 0.58,
+      "weak_evidence_risk": 0.34,
+      "overgeneralization_risk": 0.44,
+      "risk_score": 0.58,
+      "readiness_score": 0.756,
+      "weighted_readiness": 0.751,
+      "revision_pressure": 0.0,
+      "review_priority": "medium",
+      "governance_reasons": "exclusion risk review; status marked review"
+    },
+    {
+      "persona": "Public stakeholder",
+      "segment": "Accountability pathway",
+      "description": "Reader affected by policy platform or institutional decisions",
+      "content_pathway": "public_reasoning_pathway",
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "evidence_strength": 0.7,
+      "specificity": 0.68,
+      "content_fit": 0.76,
+      "segment_alignment": 0.72,
+      "governance_readiness": 0.82,
+      "stereotype_risk": 0.36,
+      "exclusion_risk": 0.54,
+      "weak_evidence_risk": 0.3,
+      "overgeneralization_risk": 0.46,
+      "risk_score": 0.54,
+      "readiness_score": 0.736,
+      "weighted_readiness": 0.731,
+      "revision_pressure": 0.0,
+      "review_priority": "medium",
+      "governance_reasons": "exclusion risk review; status marked review"
+    },
+    {
+      "persona": "Generic user",
+      "segment": "Unclear segment",
+      "description": "Weak persona included to test unsupported assumptions and overgeneralization",
+      "content_pathway": "revision_pathway",
+      "owner": "editorial",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "evidence_strength": 0.34,
+      "specificity": 0.38,
+      "content_fit": 0.42,
+      "segment_alignment": 0.4,
+      "governance_readiness": 0.36,
+      "stereotype_risk": 0.52,
+      "exclusion_risk": 0.48,
+      "weak_evidence_risk": 0.72,
+      "overgeneralization_risk": 0.66,
+      "risk_score": 0.72,
+      "readiness_score": 0.38,
+      "weighted_readiness": 0.377,
+      "revision_pressure": 0.343,
+      "review_priority": "high",
+      "governance_reasons": "weak evidence strength; weak persona specificity; weak content fit; weak segment alignment; weak governance readiness; stereotype risk review; weak evidence risk review; overgeneralization risk review; high persona risk; revision pressure; status marked revise"
+    }
+  ],
+  "governance_queue": [
+    {
+      "queue_id": "persona-review-generic-user",
+      "article_slug": "persona-frameworks-and-their-limits",
+      "persona": "Generic user",
+      "segment": "Unclear segment",
+      "content_pathway": "revision_pathway",
+      "owner": "editorial",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "risk_score": 0.72,
+      "revision_pressure": 0.343,
+      "evidence_strength": 0.34,
+      "governance_reasons": "weak evidence strength; weak persona specificity; weak content fit; weak segment alignment; weak governance readiness; stereotype risk review; weak evidence risk review; overgeneralization risk review; high persona risk; revision pressure; status marked revise",
+      "recommended_action": "Revise persona before reuse and strengthen evidence scope representation or governance."
+    },
+    {
+      "queue_id": "persona-review-accessibility-focused-reader",
+      "article_slug": "persona-frameworks-and-their-limits",
+      "persona": "Accessibility-focused reader",
+      "segment": "Accessibility pathway",
+      "content_pathway": "inclusive_design_pathway",
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "risk_score": 0.58,
+      "revision_pressure": 0.0,
+      "evidence_strength": 0.72,
+      "governance_reasons": "exclusion risk review; status marked review",
+      "recommended_action": "Review evidence strength segment alignment stereotype risk exclusion risk or governance readiness."
+    },
+    {
+      "queue_id": "persona-review-public-stakeholder",
+      "article_slug": "persona-frameworks-and-their-limits",
+      "persona": "Public stakeholder",
+      "segment": "Accountability pathway",
+      "content_pathway": "public_reasoning_pathway",
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "risk_score": 0.54,
+      "revision_pressure": 0.0,
+      "evidence_strength": 0.7,
+      "governance_reasons": "exclusion risk review; status marked review",
+      "recommended_action": "Review evidence strength segment alignment stereotype risk exclusion risk or governance readiness."
+    }
+  ],
+  "canvas_cards": [
+    {
+      "card_id": "persona-record-beginner-learner",
+      "type": "persona_framework_card",
+      "article_slug": "persona-frameworks-and-their-limits",
+      "title": "Beginner learner",
+      "subtitle": "Learning pathway",
+      "description": "Reader who needs orientation definitions and examples",
+      "badges": [
+        "priority: standard",
+        "readiness: 0.819",
+        "active"
+      ],
+      "metrics": {
+        "readiness_score": 0.816,
+        "weighted_readiness": 0.819,
+        "risk_score": 0.26,
+        "revision_pressure": 0.0,
+        "evidence_strength": 0.82
+      },
+      "persona": {
+        "segment": "Learning pathway",
+        "content_pathway": "introductory_pathway",
+        "specificity": 0.78,
+        "content_fit": 0.88,
+        "segment_alignment": 0.84,
+        "governance_readiness": 0.76
+      },
+      "risk": {
+        "stereotype_risk": 0.18,
+        "exclusion_risk": 0.24,
+        "weak_evidence_risk": 0.2,
+        "overgeneralization_risk": 0.26
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue"
+      },
+      "recommended_action": "Keep active and review during the next governance cycle."
+    },
+    {
+      "card_id": "persona-record-technical-practitioner",
+      "type": "persona_framework_card",
+      "article_slug": "persona-frameworks-and-their-limits",
+      "title": "Technical practitioner",
+      "subtitle": "Implementation pathway",
+      "description": "User who needs reproducible workflows schemas and outputs",
+      "badges": [
+        "priority: standard",
+        "readiness: 0.81",
+        "active"
+      ],
+      "metrics": {
+        "readiness_score": 0.812,
+        "weighted_readiness": 0.81,
+        "risk_score": 0.28,
+        "revision_pressure": 0.0,
+        "evidence_strength": 0.78
+      },
+      "persona": {
+        "segment": "Implementation pathway",
+        "content_pathway": "technical_pathway",
+        "specificity": 0.82,
+        "content_fit": 0.86,
+        "segment_alignment": 0.8,
+        "governance_readiness": 0.8
+      },
+      "risk": {
+        "stereotype_risk": 0.16,
+        "exclusion_risk": 0.22,
+        "weak_evidence_risk": 0.24,
+        "overgeneralization_risk": 0.28
+      },
+      "governance": {
+        "owner": "technical",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue"
+      },
+      "recommended_action": "Keep active and review during the next governance cycle."
+    },
+    {
+      "card_id": "persona-record-strategic-decision-maker",
+      "type": "persona_framework_card",
+      "article_slug": "persona-frameworks-and-their-limits",
+      "title": "Strategic decision-maker",
+      "subtitle": "Strategy pathway",
+      "description": "Leader evaluating value risk and resource implications",
+      "badges": [
+        "priority: standard",
+        "readiness: 0.765",
+        "active"
+      ],
+      "metrics": {
+        "readiness_score": 0.764,
+        "weighted_readiness": 0.765,
+        "risk_score": 0.42,
+        "revision_pressure": 0.0,
+        "evidence_strength": 0.76
+      },
+      "persona": {
+        "segment": "Strategy pathway",
+        "content_pathway": "strategy_pathway",
+        "specificity": 0.74,
+        "content_fit": 0.8,
+        "segment_alignment": 0.78,
+        "governance_readiness": 0.74
+      },
+      "risk": {
+        "stereotype_risk": 0.24,
+        "exclusion_risk": 0.36,
+        "weak_evidence_risk": 0.28,
+        "overgeneralization_risk": 0.42
+      },
+      "governance": {
+        "owner": "strategy",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue"
+      },
+      "recommended_action": "Keep active and review during the next governance cycle."
+    },
+    {
+      "card_id": "persona-record-accessibility-focused-reader",
+      "type": "persona_framework_card",
+      "article_slug": "persona-frameworks-and-their-limits",
+      "title": "Accessibility-focused reader",
+      "subtitle": "Accessibility pathway",
+      "description": "Reader with access needs assistive technology constraints or format barriers",
+      "badges": [
+        "priority: medium",
+        "readiness: 0.751",
+        "review"
+      ],
+      "metrics": {
+        "readiness_score": 0.756,
+        "weighted_readiness": 0.751,
+        "risk_score": 0.58,
+        "revision_pressure": 0.0,
+        "evidence_strength": 0.72
+      },
+      "persona": {
+        "segment": "Accessibility pathway",
+        "content_pathway": "inclusive_design_pathway",
+        "specificity": 0.7,
+        "content_fit": 0.78,
+        "segment_alignment": 0.74,
+        "governance_readiness": 0.84
+      },
+      "risk": {
+        "stereotype_risk": 0.28,
+        "exclusion_risk": 0.58,
+        "weak_evidence_risk": 0.34,
+        "overgeneralization_risk": 0.44
+      },
+      "governance": {
+        "owner": "governance",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "exclusion risk review; status marked review"
+      },
+      "recommended_action": "Review evidence strength segment alignment stereotype risk exclusion risk or governance readiness."
+    },
+    {
+      "card_id": "persona-record-public-stakeholder",
+      "type": "persona_framework_card",
+      "article_slug": "persona-frameworks-and-their-limits",
+      "title": "Public stakeholder",
+      "subtitle": "Accountability pathway",
+      "description": "Reader affected by policy platform or institutional decisions",
+      "badges": [
+        "priority: medium",
+        "readiness: 0.731",
+        "review"
+      ],
+      "metrics": {
+        "readiness_score": 0.736,
+        "weighted_readiness": 0.731,
+        "risk_score": 0.54,
+        "revision_pressure": 0.0,
+        "evidence_strength": 0.7
+      },
+      "persona": {
+        "segment": "Accountability pathway",
+        "content_pathway": "public_reasoning_pathway",
+        "specificity": 0.68,
+        "content_fit": 0.76,
+        "segment_alignment": 0.72,
+        "governance_readiness": 0.82
+      },
+      "risk": {
+        "stereotype_risk": 0.36,
+        "exclusion_risk": 0.54,
+        "weak_evidence_risk": 0.3,
+        "overgeneralization_risk": 0.46
+      },
+      "governance": {
+        "owner": "governance",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "exclusion risk review; status marked review"
+      },
+      "recommended_action": "Review evidence strength segment alignment stereotype risk exclusion risk or governance readiness."
+    },
+    {
+      "card_id": "persona-record-generic-user",
+      "type": "persona_framework_card",
+      "article_slug": "persona-frameworks-and-their-limits",
+      "title": "Generic user",
+      "subtitle": "Unclear segment",
+      "description": "Weak persona included to test unsupported assumptions and overgeneralization",
+      "badges": [
+        "priority: high",
+        "readiness: 0.377",
+        "revise"
+      ],
+      "metrics": {
+        "readiness_score": 0.38,
+        "weighted_readiness": 0.377,
+        "risk_score": 0.72,
+        "revision_pressure": 0.343,
+        "evidence_strength": 0.34
+      },
+      "persona": {
+        "segment": "Unclear segment",
+        "content_pathway": "revision_pathway",
+        "specificity": 0.38,
+        "content_fit": 0.42,
+        "segment_alignment": 0.4,
+        "governance_readiness": 0.36
+      },
+      "risk": {
+        "stereotype_risk": 0.52,
+        "exclusion_risk": 0.48,
+        "weak_evidence_risk": 0.72,
+        "overgeneralization_risk": 0.66
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "revise",
+        "review_date": "2026-06-08",
+        "review_priority": "high",
+        "reasons": "weak evidence strength; weak persona specificity; weak content fit; weak segment alignment; weak governance readiness; stereotype risk review; weak evidence risk review; overgeneralization risk review; high persona risk; revision pressure; status marked revise"
+      },
+      "recommended_action": "Revise persona before reuse and strengthen evidence scope representation or governance."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "module": "persona_canvas",
+  "version": "1.0.0",
+  "article_slug": "persona-frameworks-and-their-limits",
+  "article_title": "Persona Frameworks and Their Limits",
+  "series": "Content Frameworks",
+  "repository_path": "articles/persona-frameworks-and-their-limits/",
+  "entrypoint": "python -m persona_canvas.cli",
+  "default_input": "data/persona_records.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/persona_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/persona_canvas_export.json"
+  },
+  "metrics": [
+    "readiness_score",
+    "weighted_readiness",
+    "risk_score",
+    "revision_pressure",
+    "evidence_strength",
+    "review_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "persona_record_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "card_grid"
+    },
+    {
+      "type": "persona_governance_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": ["weak_evidence", "stereotype_risk", "exclusion_risk", "overgeneralization_risk", "low_governance_readiness"]
+  }
+}

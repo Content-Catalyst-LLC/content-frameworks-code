@@ -1,0 +1,21 @@
+{
+  "module": "persona_canvas",
+  "version": "1.0.0",
+  "article_slug": "persona-frameworks-and-their-limits",
+  "article_title": "Persona Frameworks and Their Limits",
+  "generated_at": "2026-06-09T00:19:19+00:00",
+  "record_count": 6,
+  "metrics": [
+    "readiness_score",
+    "weighted_readiness",
+    "risk_score",
+    "revision_pressure",
+    "evidence_strength"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/persona_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/persona_canvas_export.json"
+  }
+}
