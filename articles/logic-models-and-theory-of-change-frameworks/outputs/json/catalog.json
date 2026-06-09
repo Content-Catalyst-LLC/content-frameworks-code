@@ -1,0 +1,27 @@
+{
+  "module": "logic_model_canvas",
+  "version": "1.0.0",
+  "article_slug": "logic-models-and-theory-of-change-frameworks",
+  "article_title": "Logic Models and Theory of Change Frameworks",
+  "generated_at": "2026-06-09T03:14:46+00:00",
+  "record_count": 6,
+  "model_layer_counts": {
+    "impact": 1,
+    "assumption": 1,
+    "outcome": 1,
+    "output": 2,
+    "activity": 1
+  },
+  "metrics": [
+    "assumption_risk",
+    "evidence_gap",
+    "pathway_quality",
+    "governance_priority"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/logic_model_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/logic_model_canvas_export.json"
+  }
+}

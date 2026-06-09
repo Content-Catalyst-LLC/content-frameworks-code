@@ -1,0 +1,425 @@
+{
+  "module": "logic_model_canvas",
+  "version": "1.0.0",
+  "article_slug": "logic-models-and-theory-of-change-frameworks",
+  "article_title": "Logic Models and Theory of Change Frameworks",
+  "generated_at": "2026-06-09T03:14:46+00:00",
+  "results": [
+    {
+      "element": "Public reasoning impact",
+      "model_layer": "impact",
+      "description": "Structured frameworks may support more careful public reasoning over time",
+      "owner": "strategy",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "evidence_strength": 0.42,
+      "assumption_importance": 0.9,
+      "assumption_evidence": 0.36,
+      "measurement_coverage": 0.34,
+      "outcome_clarity": 0.52,
+      "claim_strength": 0.78,
+      "assumption_risk": 0.576,
+      "evidence_gap": 0.36,
+      "pathway_quality": 0.41,
+      "governance_priority": 0.508,
+      "review_priority": "high",
+      "governance_reasons": "weak evidence strength; weak assumption evidence; weak measurement coverage; unclear outcome or impact claim; high assumption risk; evidence gap; unsupported impact claim; governance review needed; status marked revise",
+      "recommended_action": "Revise this causal claim before reuse and strengthen evidence assumptions measurement coverage and outcome clarity."
+    },
+    {
+      "element": "Reader comprehension assumption",
+      "model_layer": "assumption",
+      "description": "Readers understand framework language when examples definitions and pathway context are clear",
+      "owner": "editorial",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "evidence_strength": 0.58,
+      "assumption_importance": 0.86,
+      "assumption_evidence": 0.48,
+      "measurement_coverage": 0.56,
+      "outcome_clarity": 0.68,
+      "claim_strength": 0.82,
+      "assumption_risk": 0.447,
+      "evidence_gap": 0.24,
+      "pathway_quality": 0.575,
+      "governance_priority": 0.361,
+      "review_priority": "medium",
+      "governance_reasons": "weak evidence strength; weak assumption evidence; weak measurement coverage; high assumption risk; evidence gap; status marked review",
+      "recommended_action": "Review assumptions evidence indicators stakeholders and failure points before using this pathway in communication."
+    },
+    {
+      "element": "Improved reader navigation",
+      "model_layer": "outcome",
+      "description": "Readers move through related framework articles with fewer dead ends",
+      "owner": "editorial",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "evidence_strength": 0.66,
+      "assumption_importance": 0.82,
+      "assumption_evidence": 0.54,
+      "measurement_coverage": 0.62,
+      "outcome_clarity": 0.76,
+      "claim_strength": 0.84,
+      "assumption_risk": 0.377,
+      "evidence_gap": 0.18,
+      "pathway_quality": 0.645,
+      "governance_priority": 0.295,
+      "review_priority": "medium",
+      "governance_reasons": "weak assumption evidence; evidence gap; status marked review",
+      "recommended_action": "Keep active and review during the next causal-framework governance cycle."
+    },
+    {
+      "element": "Companion repositories",
+      "model_layer": "output",
+      "description": "Canvas ready repositories provide reusable workflows schemas and generated outputs",
+      "owner": "platform",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "evidence_strength": 0.74,
+      "assumption_importance": 0.7,
+      "assumption_evidence": 0.58,
+      "measurement_coverage": 0.78,
+      "outcome_clarity": 0.72,
+      "claim_strength": 0.82,
+      "assumption_risk": 0.294,
+      "evidence_gap": 0.08,
+      "pathway_quality": 0.705,
+      "governance_priority": 0.203,
+      "review_priority": "medium",
+      "governance_reasons": "weak assumption evidence; status marked review",
+      "recommended_action": "Keep active and review during the next causal-framework governance cycle."
+    },
+    {
+      "element": "Article maps",
+      "model_layer": "output",
+      "description": "Structured article maps organize topic pathways and series navigation",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "evidence_strength": 0.78,
+      "assumption_importance": 0.72,
+      "assumption_evidence": 0.66,
+      "measurement_coverage": 0.8,
+      "outcome_clarity": 0.82,
+      "claim_strength": 0.82,
+      "assumption_risk": 0.245,
+      "evidence_gap": 0.04,
+      "pathway_quality": 0.765,
+      "governance_priority": 0.158,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next causal-framework governance cycle."
+    },
+    {
+      "element": "Governance queue resolution",
+      "model_layer": "activity",
+      "description": "Review and resolve high priority evidence and maintenance issues",
+      "owner": "governance",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "evidence_strength": 0.76,
+      "assumption_importance": 0.68,
+      "assumption_evidence": 0.7,
+      "measurement_coverage": 0.86,
+      "outcome_clarity": 0.8,
+      "claim_strength": 0.8,
+      "assumption_risk": 0.204,
+      "evidence_gap": 0.04,
+      "pathway_quality": 0.78,
+      "governance_priority": 0.133,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next causal-framework governance cycle."
+    }
+  ],
+  "governance_queue": [
+    {
+      "queue_id": "logic-model-review-public-reasoning-impact",
+      "article_slug": "logic-models-and-theory-of-change-frameworks",
+      "element": "Public reasoning impact",
+      "model_layer": "impact",
+      "owner": "strategy",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "assumption_risk": 0.576,
+      "evidence_gap": 0.36,
+      "pathway_quality": 0.41,
+      "governance_priority": 0.508,
+      "governance_reasons": "weak evidence strength; weak assumption evidence; weak measurement coverage; unclear outcome or impact claim; high assumption risk; evidence gap; unsupported impact claim; governance review needed; status marked revise",
+      "recommended_action": "Revise this causal claim before reuse and strengthen evidence assumptions measurement coverage and outcome clarity."
+    },
+    {
+      "queue_id": "logic-model-review-reader-comprehension-assumption",
+      "article_slug": "logic-models-and-theory-of-change-frameworks",
+      "element": "Reader comprehension assumption",
+      "model_layer": "assumption",
+      "owner": "editorial",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "assumption_risk": 0.447,
+      "evidence_gap": 0.24,
+      "pathway_quality": 0.575,
+      "governance_priority": 0.361,
+      "governance_reasons": "weak evidence strength; weak assumption evidence; weak measurement coverage; high assumption risk; evidence gap; status marked review",
+      "recommended_action": "Review assumptions evidence indicators stakeholders and failure points before using this pathway in communication."
+    },
+    {
+      "queue_id": "logic-model-review-improved-reader-navigation",
+      "article_slug": "logic-models-and-theory-of-change-frameworks",
+      "element": "Improved reader navigation",
+      "model_layer": "outcome",
+      "owner": "editorial",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "assumption_risk": 0.377,
+      "evidence_gap": 0.18,
+      "pathway_quality": 0.645,
+      "governance_priority": 0.295,
+      "governance_reasons": "weak assumption evidence; evidence gap; status marked review",
+      "recommended_action": "Keep active and review during the next causal-framework governance cycle."
+    },
+    {
+      "queue_id": "logic-model-review-companion-repositories",
+      "article_slug": "logic-models-and-theory-of-change-frameworks",
+      "element": "Companion repositories",
+      "model_layer": "output",
+      "owner": "platform",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "assumption_risk": 0.294,
+      "evidence_gap": 0.08,
+      "pathway_quality": 0.705,
+      "governance_priority": 0.203,
+      "governance_reasons": "weak assumption evidence; status marked review",
+      "recommended_action": "Keep active and review during the next causal-framework governance cycle."
+    }
+  ],
+  "canvas_cards": [
+    {
+      "card_id": "logic-model-element-public-reasoning-impact",
+      "type": "logic_model_element_card",
+      "article_slug": "logic-models-and-theory-of-change-frameworks",
+      "title": "Public reasoning impact",
+      "subtitle": "impact",
+      "description": "Structured frameworks may support more careful public reasoning over time",
+      "badges": [
+        "priority: high",
+        "quality: 0.41",
+        "assumption risk: 0.576",
+        "revise"
+      ],
+      "metrics": {
+        "assumption_risk": 0.576,
+        "evidence_gap": 0.36,
+        "pathway_quality": 0.41,
+        "governance_priority": 0.508,
+        "evidence_strength": 0.42,
+        "measurement_coverage": 0.34,
+        "outcome_clarity": 0.52
+      },
+      "logic_model": {
+        "model_layer": "impact",
+        "assumption_importance": 0.9,
+        "assumption_evidence": 0.36,
+        "claim_strength": 0.78
+      },
+      "governance": {
+        "owner": "strategy",
+        "status": "revise",
+        "review_date": "2026-06-08",
+        "review_priority": "high",
+        "reasons": "weak evidence strength; weak assumption evidence; weak measurement coverage; unclear outcome or impact claim; high assumption risk; evidence gap; unsupported impact claim; governance review needed; status marked revise",
+        "recommended_action": "Revise this causal claim before reuse and strengthen evidence assumptions measurement coverage and outcome clarity."
+      }
+    },
+    {
+      "card_id": "logic-model-element-reader-comprehension-assumption",
+      "type": "logic_model_element_card",
+      "article_slug": "logic-models-and-theory-of-change-frameworks",
+      "title": "Reader comprehension assumption",
+      "subtitle": "assumption",
+      "description": "Readers understand framework language when examples definitions and pathway context are clear",
+      "badges": [
+        "priority: medium",
+        "quality: 0.575",
+        "assumption risk: 0.447",
+        "review"
+      ],
+      "metrics": {
+        "assumption_risk": 0.447,
+        "evidence_gap": 0.24,
+        "pathway_quality": 0.575,
+        "governance_priority": 0.361,
+        "evidence_strength": 0.58,
+        "measurement_coverage": 0.56,
+        "outcome_clarity": 0.68
+      },
+      "logic_model": {
+        "model_layer": "assumption",
+        "assumption_importance": 0.86,
+        "assumption_evidence": 0.48,
+        "claim_strength": 0.82
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "weak evidence strength; weak assumption evidence; weak measurement coverage; high assumption risk; evidence gap; status marked review",
+        "recommended_action": "Review assumptions evidence indicators stakeholders and failure points before using this pathway in communication."
+      }
+    },
+    {
+      "card_id": "logic-model-element-improved-reader-navigation",
+      "type": "logic_model_element_card",
+      "article_slug": "logic-models-and-theory-of-change-frameworks",
+      "title": "Improved reader navigation",
+      "subtitle": "outcome",
+      "description": "Readers move through related framework articles with fewer dead ends",
+      "badges": [
+        "priority: medium",
+        "quality: 0.645",
+        "assumption risk: 0.377",
+        "review"
+      ],
+      "metrics": {
+        "assumption_risk": 0.377,
+        "evidence_gap": 0.18,
+        "pathway_quality": 0.645,
+        "governance_priority": 0.295,
+        "evidence_strength": 0.66,
+        "measurement_coverage": 0.62,
+        "outcome_clarity": 0.76
+      },
+      "logic_model": {
+        "model_layer": "outcome",
+        "assumption_importance": 0.82,
+        "assumption_evidence": 0.54,
+        "claim_strength": 0.84
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "weak assumption evidence; evidence gap; status marked review",
+        "recommended_action": "Keep active and review during the next causal-framework governance cycle."
+      }
+    },
+    {
+      "card_id": "logic-model-element-companion-repositories",
+      "type": "logic_model_element_card",
+      "article_slug": "logic-models-and-theory-of-change-frameworks",
+      "title": "Companion repositories",
+      "subtitle": "output",
+      "description": "Canvas ready repositories provide reusable workflows schemas and generated outputs",
+      "badges": [
+        "priority: medium",
+        "quality: 0.705",
+        "assumption risk: 0.294",
+        "review"
+      ],
+      "metrics": {
+        "assumption_risk": 0.294,
+        "evidence_gap": 0.08,
+        "pathway_quality": 0.705,
+        "governance_priority": 0.203,
+        "evidence_strength": 0.74,
+        "measurement_coverage": 0.78,
+        "outcome_clarity": 0.72
+      },
+      "logic_model": {
+        "model_layer": "output",
+        "assumption_importance": 0.7,
+        "assumption_evidence": 0.58,
+        "claim_strength": 0.82
+      },
+      "governance": {
+        "owner": "platform",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "weak assumption evidence; status marked review",
+        "recommended_action": "Keep active and review during the next causal-framework governance cycle."
+      }
+    },
+    {
+      "card_id": "logic-model-element-article-maps",
+      "type": "logic_model_element_card",
+      "article_slug": "logic-models-and-theory-of-change-frameworks",
+      "title": "Article maps",
+      "subtitle": "output",
+      "description": "Structured article maps organize topic pathways and series navigation",
+      "badges": [
+        "priority: standard",
+        "quality: 0.765",
+        "assumption risk: 0.245",
+        "active"
+      ],
+      "metrics": {
+        "assumption_risk": 0.245,
+        "evidence_gap": 0.04,
+        "pathway_quality": 0.765,
+        "governance_priority": 0.158,
+        "evidence_strength": 0.78,
+        "measurement_coverage": 0.8,
+        "outcome_clarity": 0.82
+      },
+      "logic_model": {
+        "model_layer": "output",
+        "assumption_importance": 0.72,
+        "assumption_evidence": 0.66,
+        "claim_strength": 0.82
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next causal-framework governance cycle."
+      }
+    },
+    {
+      "card_id": "logic-model-element-governance-queue-resolution",
+      "type": "logic_model_element_card",
+      "article_slug": "logic-models-and-theory-of-change-frameworks",
+      "title": "Governance queue resolution",
+      "subtitle": "activity",
+      "description": "Review and resolve high priority evidence and maintenance issues",
+      "badges": [
+        "priority: standard",
+        "quality: 0.78",
+        "assumption risk: 0.204",
+        "active"
+      ],
+      "metrics": {
+        "assumption_risk": 0.204,
+        "evidence_gap": 0.04,
+        "pathway_quality": 0.78,
+        "governance_priority": 0.133,
+        "evidence_strength": 0.76,
+        "measurement_coverage": 0.86,
+        "outcome_clarity": 0.8
+      },
+      "logic_model": {
+        "model_layer": "activity",
+        "assumption_importance": 0.68,
+        "assumption_evidence": 0.7,
+        "claim_strength": 0.8
+      },
+      "governance": {
+        "owner": "governance",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next causal-framework governance cycle."
+      }
+    }
+  ]
+}

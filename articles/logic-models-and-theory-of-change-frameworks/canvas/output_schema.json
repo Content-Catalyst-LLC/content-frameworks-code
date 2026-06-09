@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://thecontentcatalyst.net/schemas/logic-model-theory-of-change-canvas-output.schema.json",
+  "title": "Logic Models and Theory of Change Catalyst Canvas Output Schema",
+  "description": "Output schema for causal pathway audit results Canvas cards catalog records and governance queues.",
+  "type": "object",
+  "required": [
+    "module",
+    "article_slug",
+    "generated_at",
+    "results",
+    "governance_queue",
+    "canvas_cards"
+  ],
+  "properties": {
+    "module": {
+      "type": "string",
+      "const": "logic_model_canvas"
+    },
+    "article_slug": {
+      "type": "string",
+      "const": "logic-models-and-theory-of-change-frameworks"
+    },
+    "generated_at": {
+      "type": "string"
+    },
+    "results": {
+      "type": "array"
+    },
+    "governance_queue": {
+      "type": "array"
+    },
+    "canvas_cards": {
+      "type": "array"
+    }
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,5 @@
+"element","model_layer","description","evidence_strength","assumption_importance","assumption_evidence","measurement_coverage","outcome_clarity","claim_strength","owner","status","review_date","assumption_risk","evidence_gap","pathway_quality","governance_priority","review_priority"
+"Public reasoning impact","impact","Structured frameworks may support more careful public reasoning over time",0.42,0.9,0.36,0.34,0.52,0.78,"strategy","revise","2026-06-08",0.576,0.36,0.41,0.5076,"high"
+"Reader comprehension assumption","assumption","Readers understand framework language when examples definitions and pathway context are clear",0.58,0.86,0.48,0.56,0.68,0.82,"editorial","review","2026-06-08",0.4472,0.24,0.575,0.36052,"medium"
+"Improved reader navigation","outcome","Readers move through related framework articles with fewer dead ends",0.66,0.82,0.54,0.62,0.76,0.84,"editorial","review","2026-06-08",0.3772,0.18,0.645,0.29502,"medium"
+"Companion repositories","output","Canvas ready repositories provide reusable workflows schemas and generated outputs",0.74,0.7,0.58,0.78,0.72,0.82,"platform","review","2026-06-08",0.294,0.08,0.705,0.2029,"medium"

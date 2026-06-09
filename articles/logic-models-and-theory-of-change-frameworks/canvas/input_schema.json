@@ -1,0 +1,115 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://thecontentcatalyst.net/schemas/logic-model-theory-of-change-canvas-input.schema.json",
+  "title": "Logic Models and Theory of Change Catalyst Canvas Input Schema",
+  "description": "Input schema for logic-model and Theory of Change auditing.",
+  "type": "object",
+  "required": [
+    "module",
+    "article_slug",
+    "elements"
+  ],
+  "properties": {
+    "module": {
+      "type": "string",
+      "const": "logic_model_canvas"
+    },
+    "article_slug": {
+      "type": "string",
+      "const": "logic-models-and-theory-of-change-frameworks"
+    },
+    "elements": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "element",
+          "model_layer",
+          "description",
+          "evidence_strength",
+          "assumption_importance",
+          "assumption_evidence",
+          "measurement_coverage",
+          "outcome_clarity",
+          "claim_strength",
+          "owner",
+          "status",
+          "review_date"
+        ],
+        "properties": {
+          "element": {
+            "type": "string",
+            "minLength": 2
+          },
+          "model_layer": {
+            "type": "string",
+            "enum": [
+              "input",
+              "activity",
+              "output",
+              "outcome",
+              "impact",
+              "assumption",
+              "causal link",
+              "indicator"
+            ]
+          },
+          "description": {
+            "type": "string",
+            "minLength": 5
+          },
+          "evidence_strength": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "assumption_importance": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "assumption_evidence": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "measurement_coverage": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "outcome_clarity": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "claim_strength": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "owner": {
+            "type": "string",
+            "minLength": 2
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "active",
+              "review",
+              "revise",
+              "archive"
+            ]
+          },
+          "review_date": {
+            "type": "string",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
