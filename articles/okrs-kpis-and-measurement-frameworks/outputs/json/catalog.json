@@ -1,0 +1,26 @@
+{
+  "module": "measurement_canvas",
+  "version": "1.0.0",
+  "article_slug": "okrs-kpis-and-measurement-frameworks",
+  "article_title": "OKRs, KPIs, and Measurement Frameworks",
+  "generated_at": "2026-06-09T02:59:01+00:00",
+  "record_count": 6,
+  "measurement_type_counts": {
+    "key result": 2,
+    "metric": 1,
+    "OKR objective": 1,
+    "KPI": 2
+  },
+  "metrics": [
+    "quality_score",
+    "measurement_risk",
+    "evidence_gap",
+    "governance_priority"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/measurement_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/measurement_canvas_export.json"
+  }
+}
