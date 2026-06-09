@@ -1,0 +1,33 @@
+{
+  "module": "five_forces_canvas",
+  "version": "1.0.0",
+  "article_slug": "porters-five-forces-and-competitive-framing",
+  "article_title": "Porter’s Five Forces and Competitive Framing",
+  "generated_at": "2026-06-09T01:38:11+00:00",
+  "record_count": 6,
+  "force_counts": {
+    "substitutes": 1,
+    "rivalry": 1,
+    "buyer power": 1,
+    "new entrants": 1,
+    "supplier power": 1,
+    "competition": 1
+  },
+  "market_boundary_counts": {
+    "structured knowledge platforms": 5,
+    "unclear": 1
+  },
+  "metrics": [
+    "readiness_score",
+    "weighted_priority",
+    "evidence_gap",
+    "governance_priority",
+    "intensity"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/five_forces_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/five_forces_canvas_export.json"
+  }
+}

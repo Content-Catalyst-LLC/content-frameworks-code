@@ -1,0 +1,7 @@
+force,market_boundary,description,intensity,evidence_strength,uncertainty,strategic_relevance,actionability,claim_strength,owner,status,review_date
+rivalry,structured knowledge platforms,Search and publishing competition is high for strategic frameworks and educational explainers,0.82,0.74,0.52,0.88,0.76,0.84,strategy,review,2026-06-08
+new entrants,structured knowledge platforms,Surface-level content entry is easy but governed systems with repositories are harder to replicate,0.76,0.70,0.56,0.82,0.72,0.80,strategy,review,2026-06-08
+substitutes,structured knowledge platforms,AI summaries videos courses forums and internal systems can satisfy parts of the same audience need,0.86,0.68,0.62,0.90,0.74,0.84,editorial,review,2026-06-08
+supplier power,structured knowledge platforms,Search CMS hosting analytics and AI-tool dependencies create supplier power and platform risk,0.72,0.70,0.50,0.78,0.66,0.76,technical,active,2026-06-08
+buyer power,structured knowledge platforms,Readers can compare alternatives and switch instantly which increases trust and value pressure,0.84,0.76,0.48,0.88,0.82,0.82,editorial,active,2026-06-08
+competition,unclear,Vague example included to test weak specificity market-boundary evidence and governance review,0.58,0.30,0.70,0.52,0.42,0.78,strategy,revise,2026-06-08

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://thecontentcatalyst.net/schemas/five-forces-canvas-output.schema.json",
+  "title": "Porter Five Forces Catalyst Canvas Output Schema",
+  "description": "Output schema for competitive force audit results UI cards catalog records and governance queues.",
+  "type": "object",
+  "required": ["module", "article_slug", "generated_at", "results", "governance_queue", "canvas_cards"],
+  "properties": {
+    "module": { "type": "string", "const": "five_forces_canvas" },
+    "article_slug": { "type": "string", "const": "porters-five-forces-and-competitive-framing" },
+    "generated_at": { "type": "string" },
+    "results": { "type": "array" },
+    "governance_queue": { "type": "array" },
+    "canvas_cards": { "type": "array" }
+  },
+  "additionalProperties": true
+}

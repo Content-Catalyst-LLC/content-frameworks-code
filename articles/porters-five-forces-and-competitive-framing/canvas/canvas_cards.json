@@ -1,0 +1,230 @@
+[
+  {
+    "card_id": "five-forces-record-substitutes-structured-knowledge-platforms",
+    "type": "five_forces_record_card",
+    "article_slug": "porters-five-forces-and-competitive-framing",
+    "title": "substitutes",
+    "subtitle": "structured knowledge platforms",
+    "description": "AI summaries videos courses forums and internal systems can satisfy parts of the same audience need",
+    "badges": [
+      "priority: medium",
+      "governance: 0.864",
+      "review"
+    ],
+    "metrics": {
+      "readiness_score": 0.795,
+      "weighted_priority": 0.792,
+      "evidence_gap": 0.16,
+      "governance_priority": 0.864,
+      "intensity": 0.86
+    },
+    "five_forces": {
+      "force": "substitutes",
+      "market_boundary": "structured knowledge platforms",
+      "intensity": 0.86,
+      "evidence_strength": 0.68,
+      "uncertainty": 0.62,
+      "strategic_relevance": 0.9,
+      "actionability": 0.74,
+      "claim_strength": 0.84
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "high uncertainty; evidence gap; high governance priority; status marked review"
+    },
+    "recommended_action": "Review evidence support market boundary uncertainty actionability and competitive framing implications."
+  },
+  {
+    "card_id": "five-forces-record-rivalry-structured-knowledge-platforms",
+    "type": "five_forces_record_card",
+    "article_slug": "porters-five-forces-and-competitive-framing",
+    "title": "rivalry",
+    "subtitle": "structured knowledge platforms",
+    "description": "Search and publishing competition is high for strategic frameworks and educational explainers",
+    "badges": [
+      "priority: medium",
+      "governance: 0.822",
+      "review"
+    ],
+    "metrics": {
+      "readiness_score": 0.8,
+      "weighted_priority": 0.777,
+      "evidence_gap": 0.1,
+      "governance_priority": 0.822,
+      "intensity": 0.82
+    },
+    "five_forces": {
+      "force": "rivalry",
+      "market_boundary": "structured knowledge platforms",
+      "intensity": 0.82,
+      "evidence_strength": 0.74,
+      "uncertainty": 0.52,
+      "strategic_relevance": 0.88,
+      "actionability": 0.76,
+      "claim_strength": 0.84
+    },
+    "governance": {
+      "owner": "strategy",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "high governance priority; status marked review"
+    },
+    "recommended_action": "Review evidence support market boundary uncertainty actionability and competitive framing implications."
+  },
+  {
+    "card_id": "five-forces-record-buyer-power-structured-knowledge-platforms",
+    "type": "five_forces_record_card",
+    "article_slug": "porters-five-forces-and-competitive-framing",
+    "title": "buyer power",
+    "subtitle": "structured knowledge platforms",
+    "description": "Readers can compare alternatives and switch instantly which increases trust and value pressure",
+    "badges": [
+      "priority: medium",
+      "governance: 0.817",
+      "active"
+    ],
+    "metrics": {
+      "readiness_score": 0.825,
+      "weighted_priority": 0.79,
+      "evidence_gap": 0.06,
+      "governance_priority": 0.817,
+      "intensity": 0.84
+    },
+    "five_forces": {
+      "force": "buyer power",
+      "market_boundary": "structured knowledge platforms",
+      "intensity": 0.84,
+      "evidence_strength": 0.76,
+      "uncertainty": 0.48,
+      "strategic_relevance": 0.88,
+      "actionability": 0.82,
+      "claim_strength": 0.82
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "high governance priority"
+    },
+    "recommended_action": "Review evidence support market boundary uncertainty actionability and competitive framing implications."
+  },
+  {
+    "card_id": "five-forces-record-new-entrants-structured-knowledge-platforms",
+    "type": "five_forces_record_card",
+    "article_slug": "porters-five-forces-and-competitive-framing",
+    "title": "new entrants",
+    "subtitle": "structured knowledge platforms",
+    "description": "Surface-level content entry is easy but governed systems with repositories are harder to replicate",
+    "badges": [
+      "priority: medium",
+      "governance: 0.78",
+      "review"
+    ],
+    "metrics": {
+      "readiness_score": 0.75,
+      "weighted_priority": 0.735,
+      "evidence_gap": 0.1,
+      "governance_priority": 0.78,
+      "intensity": 0.76
+    },
+    "five_forces": {
+      "force": "new entrants",
+      "market_boundary": "structured knowledge platforms",
+      "intensity": 0.76,
+      "evidence_strength": 0.7,
+      "uncertainty": 0.56,
+      "strategic_relevance": 0.82,
+      "actionability": 0.72,
+      "claim_strength": 0.8
+    },
+    "governance": {
+      "owner": "strategy",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "high governance priority; status marked review"
+    },
+    "recommended_action": "Review evidence support market boundary uncertainty actionability and competitive framing implications."
+  },
+  {
+    "card_id": "five-forces-record-supplier-power-structured-knowledge-platforms",
+    "type": "five_forces_record_card",
+    "article_slug": "porters-five-forces-and-competitive-framing",
+    "title": "supplier power",
+    "subtitle": "structured knowledge platforms",
+    "description": "Search CMS hosting analytics and AI-tool dependencies create supplier power and platform risk",
+    "badges": [
+      "priority: standard",
+      "governance: 0.724",
+      "active"
+    ],
+    "metrics": {
+      "readiness_score": 0.715,
+      "weighted_priority": 0.697,
+      "evidence_gap": 0.06,
+      "governance_priority": 0.724,
+      "intensity": 0.72
+    },
+    "five_forces": {
+      "force": "supplier power",
+      "market_boundary": "structured knowledge platforms",
+      "intensity": 0.72,
+      "evidence_strength": 0.7,
+      "uncertainty": 0.5,
+      "strategic_relevance": 0.78,
+      "actionability": 0.66,
+      "claim_strength": 0.76
+    },
+    "governance": {
+      "owner": "technical",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue"
+    },
+    "recommended_action": "Keep active and review during the next competitive-environment scan."
+  },
+  {
+    "card_id": "five-forces-record-competition-unclear",
+    "type": "five_forces_record_card",
+    "article_slug": "porters-five-forces-and-competitive-framing",
+    "title": "competition",
+    "subtitle": "unclear",
+    "description": "Vague example included to test weak specificity market-boundary evidence and governance review",
+    "badges": [
+      "priority: high",
+      "governance: 0.722",
+      "revise"
+    ],
+    "metrics": {
+      "readiness_score": 0.455,
+      "weighted_priority": 0.506,
+      "evidence_gap": 0.48,
+      "governance_priority": 0.722,
+      "intensity": 0.58
+    },
+    "five_forces": {
+      "force": "competition",
+      "market_boundary": "unclear",
+      "intensity": 0.58,
+      "evidence_strength": 0.3,
+      "uncertainty": 0.7,
+      "strategic_relevance": 0.52,
+      "actionability": 0.42,
+      "claim_strength": 0.78
+    },
+    "governance": {
+      "owner": "strategy",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "reasons": "unclear market boundary; weak evidence strength; weak strategic relevance; low actionability; high uncertainty; evidence gap; status marked revise"
+    },
+    "recommended_action": "Revise this competitive-force record before reuse and strengthen market boundary evidence or specificity."
+  }
+]
