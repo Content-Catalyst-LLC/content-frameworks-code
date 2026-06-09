@@ -1,0 +1,7 @@
+item,communication_type,description,claim_clarity,evidence_strength,method_transparency,uncertainty_disclosure,audience_fit,risk_visibility,stakeholder_visibility,promotional_intensity,claim_breadth,owner,status,review_date
+Research finding summary,science,Explains finding method uncertainty and implication for public readers,0.82,0.78,0.76,0.70,0.74,0.66,0.62,0.30,0.72,research,active,2026-06-08
+Prototype capability claim,technology,Claims broad readiness from an early prototype demonstration,0.58,0.42,0.50,0.36,0.62,0.40,0.44,0.78,0.88,product,revise,2026-06-08
+Risk guidance note,risk,Explains hazard exposure likelihood severity uncertainty and mitigation actions,0.80,0.74,0.70,0.76,0.78,0.86,0.72,0.26,0.70,public,active,2026-06-08
+Benchmark explainer,technical,Explains benchmark scope limitations comparison group and real world constraints,0.76,0.70,0.74,0.66,0.72,0.62,0.58,0.42,0.78,engineering,review,2026-06-08
+Public engagement page,engagement,Explains community questions participation route and response process,0.78,0.66,0.62,0.64,0.82,0.68,0.86,0.28,0.68,communications,active,2026-06-08
+Method note,science,Documents study design data source assumptions limitations and reproducibility route,0.86,0.82,0.88,0.74,0.70,0.60,0.58,0.24,0.70,research,active,2026-06-08

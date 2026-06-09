@@ -1,0 +1,57 @@
+{
+  "module": "technology_science_canvas",
+  "version": "1.0.0",
+  "article_slug": "frameworks-for-technology-and-scientific-communication",
+  "article_title": "Frameworks for Technology and Scientific Communication",
+  "series": "Content Frameworks",
+  "repository_path": "articles/frameworks-for-technology-and-scientific-communication/",
+  "entrypoint": "python -m technology_science_canvas.cli",
+  "default_input": "data/technology_science_communication_items.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/technology_science_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/technology_science_canvas_export.json"
+  },
+  "metrics": [
+    "quality_score",
+    "evidence_gap",
+    "hype_risk",
+    "review_priority_score",
+    "review_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "technology_science_item_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "claim_evidence_grid"
+    },
+    {
+      "type": "technology_science_governance_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": [
+      "weak_claim_clarity",
+      "weak_evidence_strength",
+      "weak_method_transparency",
+      "weak_uncertainty_disclosure",
+      "weak_audience_fit",
+      "weak_risk_visibility",
+      "weak_stakeholder_visibility",
+      "high_promotional_intensity",
+      "broad_claim",
+      "evidence_gap",
+      "hype_risk"
+    ]
+  }
+}

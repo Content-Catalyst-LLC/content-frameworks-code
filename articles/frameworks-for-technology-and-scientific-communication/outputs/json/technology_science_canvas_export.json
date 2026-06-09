@@ -1,0 +1,429 @@
+{
+  "module": "technology_science_canvas",
+  "version": "1.0.0",
+  "article_slug": "frameworks-for-technology-and-scientific-communication",
+  "article_title": "Frameworks for Technology and Scientific Communication",
+  "generated_at": "2026-06-09T04:27:07+00:00",
+  "results": [
+    {
+      "item": "Prototype capability claim",
+      "communication_type": "technology",
+      "description": "Claims broad readiness from an early prototype demonstration",
+      "owner": "product",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "claim_clarity": 0.58,
+      "evidence_strength": 0.42,
+      "method_transparency": 0.5,
+      "uncertainty_disclosure": 0.36,
+      "audience_fit": 0.62,
+      "risk_visibility": 0.4,
+      "stakeholder_visibility": 0.44,
+      "promotional_intensity": 0.78,
+      "claim_breadth": 0.88,
+      "quality_score": 0.474,
+      "evidence_gap": 0.46,
+      "hype_risk": 0.72,
+      "review_priority_score": 0.566,
+      "review_priority": "high",
+      "governance_reasons": "weak claim clarity; weak evidence strength; weak method transparency; weak uncertainty disclosure; weak risk visibility; weak stakeholder visibility; high promotional intensity; broad claim; evidence gap; hype risk; review priority threshold reached; status marked revise",
+      "recommended_action": "Revise this communication before publication and strengthen evidence method transparency uncertainty disclosure risk visibility and claim boundaries."
+    },
+    {
+      "item": "Benchmark explainer",
+      "communication_type": "technical",
+      "description": "Explains benchmark scope limitations comparison group and real world constraints",
+      "owner": "engineering",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "claim_clarity": 0.76,
+      "evidence_strength": 0.7,
+      "method_transparency": 0.74,
+      "uncertainty_disclosure": 0.66,
+      "audience_fit": 0.72,
+      "risk_visibility": 0.62,
+      "stakeholder_visibility": 0.58,
+      "promotional_intensity": 0.42,
+      "claim_breadth": 0.78,
+      "quality_score": 0.683,
+      "evidence_gap": 0.08,
+      "hype_risk": 0.46,
+      "review_priority_score": 0.292,
+      "review_priority": "medium",
+      "governance_reasons": "weak stakeholder visibility; status marked review",
+      "recommended_action": "Keep active and review during the next technology and scientific communication governance cycle."
+    },
+    {
+      "item": "Public engagement page",
+      "communication_type": "engagement",
+      "description": "Explains community questions participation route and response process",
+      "owner": "communications",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "claim_clarity": 0.78,
+      "evidence_strength": 0.66,
+      "method_transparency": 0.62,
+      "uncertainty_disclosure": 0.64,
+      "audience_fit": 0.82,
+      "risk_visibility": 0.68,
+      "stakeholder_visibility": 0.86,
+      "promotional_intensity": 0.28,
+      "claim_breadth": 0.68,
+      "quality_score": 0.723,
+      "evidence_gap": 0.02,
+      "hype_risk": 0.415,
+      "review_priority_score": 0.232,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next technology and scientific communication governance cycle."
+    },
+    {
+      "item": "Research finding summary",
+      "communication_type": "science",
+      "description": "Explains finding method uncertainty and implication for public readers",
+      "owner": "research",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "claim_clarity": 0.82,
+      "evidence_strength": 0.78,
+      "method_transparency": 0.76,
+      "uncertainty_disclosure": 0.7,
+      "audience_fit": 0.74,
+      "risk_visibility": 0.66,
+      "stakeholder_visibility": 0.62,
+      "promotional_intensity": 0.3,
+      "claim_breadth": 0.72,
+      "quality_score": 0.726,
+      "evidence_gap": 0.0,
+      "hype_risk": 0.385,
+      "review_priority_score": 0.227,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next technology and scientific communication governance cycle."
+    },
+    {
+      "item": "Method note",
+      "communication_type": "science",
+      "description": "Documents study design data source assumptions limitations and reproducibility route",
+      "owner": "research",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "claim_clarity": 0.86,
+      "evidence_strength": 0.82,
+      "method_transparency": 0.88,
+      "uncertainty_disclosure": 0.74,
+      "audience_fit": 0.7,
+      "risk_visibility": 0.6,
+      "stakeholder_visibility": 0.58,
+      "promotional_intensity": 0.24,
+      "claim_breadth": 0.7,
+      "quality_score": 0.74,
+      "evidence_gap": 0.0,
+      "hype_risk": 0.345,
+      "review_priority_score": 0.223,
+      "review_priority": "standard",
+      "governance_reasons": "weak stakeholder visibility",
+      "recommended_action": "Keep active and review during the next technology and scientific communication governance cycle."
+    },
+    {
+      "item": "Risk guidance note",
+      "communication_type": "risk",
+      "description": "Explains hazard exposure likelihood severity uncertainty and mitigation actions",
+      "owner": "public",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "claim_clarity": 0.8,
+      "evidence_strength": 0.74,
+      "method_transparency": 0.7,
+      "uncertainty_disclosure": 0.76,
+      "audience_fit": 0.78,
+      "risk_visibility": 0.86,
+      "stakeholder_visibility": 0.72,
+      "promotional_intensity": 0.26,
+      "claim_breadth": 0.7,
+      "quality_score": 0.766,
+      "evidence_gap": 0.0,
+      "hype_risk": 0.365,
+      "review_priority_score": 0.193,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next technology and scientific communication governance cycle."
+    }
+  ],
+  "governance_queue": [
+    {
+      "queue_id": "technology-science-review-prototype-capability-claim",
+      "article_slug": "frameworks-for-technology-and-scientific-communication",
+      "item": "Prototype capability claim",
+      "communication_type": "technology",
+      "owner": "product",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "quality_score": 0.474,
+      "evidence_gap": 0.46,
+      "hype_risk": 0.72,
+      "review_priority_score": 0.566,
+      "governance_reasons": "weak claim clarity; weak evidence strength; weak method transparency; weak uncertainty disclosure; weak risk visibility; weak stakeholder visibility; high promotional intensity; broad claim; evidence gap; hype risk; review priority threshold reached; status marked revise",
+      "recommended_action": "Revise this communication before publication and strengthen evidence method transparency uncertainty disclosure risk visibility and claim boundaries."
+    },
+    {
+      "queue_id": "technology-science-review-benchmark-explainer",
+      "article_slug": "frameworks-for-technology-and-scientific-communication",
+      "item": "Benchmark explainer",
+      "communication_type": "technical",
+      "owner": "engineering",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "quality_score": 0.683,
+      "evidence_gap": 0.08,
+      "hype_risk": 0.46,
+      "review_priority_score": 0.292,
+      "governance_reasons": "weak stakeholder visibility; status marked review",
+      "recommended_action": "Keep active and review during the next technology and scientific communication governance cycle."
+    }
+  ],
+  "canvas_cards": [
+    {
+      "card_id": "technology-science-item-prototype-capability-claim",
+      "type": "technology_science_item_card",
+      "article_slug": "frameworks-for-technology-and-scientific-communication",
+      "title": "Prototype capability claim",
+      "subtitle": "technology",
+      "description": "Claims broad readiness from an early prototype demonstration",
+      "badges": [
+        "priority: high",
+        "quality: 0.474",
+        "hype risk: 0.72",
+        "revise"
+      ],
+      "metrics": {
+        "quality_score": 0.474,
+        "evidence_gap": 0.46,
+        "hype_risk": 0.72,
+        "review_priority_score": 0.566,
+        "claim_clarity": 0.58,
+        "evidence_strength": 0.42,
+        "method_transparency": 0.5,
+        "uncertainty_disclosure": 0.36,
+        "risk_visibility": 0.4
+      },
+      "communication": {
+        "communication_type": "technology",
+        "audience_fit": 0.62,
+        "stakeholder_visibility": 0.44,
+        "promotional_intensity": 0.78,
+        "claim_breadth": 0.88
+      },
+      "governance": {
+        "owner": "product",
+        "status": "revise",
+        "review_date": "2026-06-08",
+        "review_priority": "high",
+        "reasons": "weak claim clarity; weak evidence strength; weak method transparency; weak uncertainty disclosure; weak risk visibility; weak stakeholder visibility; high promotional intensity; broad claim; evidence gap; hype risk; review priority threshold reached; status marked revise",
+        "recommended_action": "Revise this communication before publication and strengthen evidence method transparency uncertainty disclosure risk visibility and claim boundaries."
+      }
+    },
+    {
+      "card_id": "technology-science-item-benchmark-explainer",
+      "type": "technology_science_item_card",
+      "article_slug": "frameworks-for-technology-and-scientific-communication",
+      "title": "Benchmark explainer",
+      "subtitle": "technical",
+      "description": "Explains benchmark scope limitations comparison group and real world constraints",
+      "badges": [
+        "priority: medium",
+        "quality: 0.683",
+        "hype risk: 0.46",
+        "review"
+      ],
+      "metrics": {
+        "quality_score": 0.683,
+        "evidence_gap": 0.08,
+        "hype_risk": 0.46,
+        "review_priority_score": 0.292,
+        "claim_clarity": 0.76,
+        "evidence_strength": 0.7,
+        "method_transparency": 0.74,
+        "uncertainty_disclosure": 0.66,
+        "risk_visibility": 0.62
+      },
+      "communication": {
+        "communication_type": "technical",
+        "audience_fit": 0.72,
+        "stakeholder_visibility": 0.58,
+        "promotional_intensity": 0.42,
+        "claim_breadth": 0.78
+      },
+      "governance": {
+        "owner": "engineering",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "weak stakeholder visibility; status marked review",
+        "recommended_action": "Keep active and review during the next technology and scientific communication governance cycle."
+      }
+    },
+    {
+      "card_id": "technology-science-item-public-engagement-page",
+      "type": "technology_science_item_card",
+      "article_slug": "frameworks-for-technology-and-scientific-communication",
+      "title": "Public engagement page",
+      "subtitle": "engagement",
+      "description": "Explains community questions participation route and response process",
+      "badges": [
+        "priority: standard",
+        "quality: 0.723",
+        "hype risk: 0.415",
+        "active"
+      ],
+      "metrics": {
+        "quality_score": 0.723,
+        "evidence_gap": 0.02,
+        "hype_risk": 0.415,
+        "review_priority_score": 0.232,
+        "claim_clarity": 0.78,
+        "evidence_strength": 0.66,
+        "method_transparency": 0.62,
+        "uncertainty_disclosure": 0.64,
+        "risk_visibility": 0.68
+      },
+      "communication": {
+        "communication_type": "engagement",
+        "audience_fit": 0.82,
+        "stakeholder_visibility": 0.86,
+        "promotional_intensity": 0.28,
+        "claim_breadth": 0.68
+      },
+      "governance": {
+        "owner": "communications",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next technology and scientific communication governance cycle."
+      }
+    },
+    {
+      "card_id": "technology-science-item-research-finding-summary",
+      "type": "technology_science_item_card",
+      "article_slug": "frameworks-for-technology-and-scientific-communication",
+      "title": "Research finding summary",
+      "subtitle": "science",
+      "description": "Explains finding method uncertainty and implication for public readers",
+      "badges": [
+        "priority: standard",
+        "quality: 0.726",
+        "hype risk: 0.385",
+        "active"
+      ],
+      "metrics": {
+        "quality_score": 0.726,
+        "evidence_gap": 0.0,
+        "hype_risk": 0.385,
+        "review_priority_score": 0.227,
+        "claim_clarity": 0.82,
+        "evidence_strength": 0.78,
+        "method_transparency": 0.76,
+        "uncertainty_disclosure": 0.7,
+        "risk_visibility": 0.66
+      },
+      "communication": {
+        "communication_type": "science",
+        "audience_fit": 0.74,
+        "stakeholder_visibility": 0.62,
+        "promotional_intensity": 0.3,
+        "claim_breadth": 0.72
+      },
+      "governance": {
+        "owner": "research",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next technology and scientific communication governance cycle."
+      }
+    },
+    {
+      "card_id": "technology-science-item-method-note",
+      "type": "technology_science_item_card",
+      "article_slug": "frameworks-for-technology-and-scientific-communication",
+      "title": "Method note",
+      "subtitle": "science",
+      "description": "Documents study design data source assumptions limitations and reproducibility route",
+      "badges": [
+        "priority: standard",
+        "quality: 0.74",
+        "hype risk: 0.345",
+        "active"
+      ],
+      "metrics": {
+        "quality_score": 0.74,
+        "evidence_gap": 0.0,
+        "hype_risk": 0.345,
+        "review_priority_score": 0.223,
+        "claim_clarity": 0.86,
+        "evidence_strength": 0.82,
+        "method_transparency": 0.88,
+        "uncertainty_disclosure": 0.74,
+        "risk_visibility": 0.6
+      },
+      "communication": {
+        "communication_type": "science",
+        "audience_fit": 0.7,
+        "stakeholder_visibility": 0.58,
+        "promotional_intensity": 0.24,
+        "claim_breadth": 0.7
+      },
+      "governance": {
+        "owner": "research",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "weak stakeholder visibility",
+        "recommended_action": "Keep active and review during the next technology and scientific communication governance cycle."
+      }
+    },
+    {
+      "card_id": "technology-science-item-risk-guidance-note",
+      "type": "technology_science_item_card",
+      "article_slug": "frameworks-for-technology-and-scientific-communication",
+      "title": "Risk guidance note",
+      "subtitle": "risk",
+      "description": "Explains hazard exposure likelihood severity uncertainty and mitigation actions",
+      "badges": [
+        "priority: standard",
+        "quality: 0.766",
+        "hype risk: 0.365",
+        "active"
+      ],
+      "metrics": {
+        "quality_score": 0.766,
+        "evidence_gap": 0.0,
+        "hype_risk": 0.365,
+        "review_priority_score": 0.193,
+        "claim_clarity": 0.8,
+        "evidence_strength": 0.74,
+        "method_transparency": 0.7,
+        "uncertainty_disclosure": 0.76,
+        "risk_visibility": 0.86
+      },
+      "communication": {
+        "communication_type": "risk",
+        "audience_fit": 0.78,
+        "stakeholder_visibility": 0.72,
+        "promotional_intensity": 0.26,
+        "claim_breadth": 0.7
+      },
+      "governance": {
+        "owner": "public",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next technology and scientific communication governance cycle."
+      }
+    }
+  ]
+}

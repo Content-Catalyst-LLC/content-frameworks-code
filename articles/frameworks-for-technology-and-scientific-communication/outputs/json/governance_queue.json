@@ -1,0 +1,34 @@
+[
+  {
+    "queue_id": "technology-science-review-prototype-capability-claim",
+    "article_slug": "frameworks-for-technology-and-scientific-communication",
+    "item": "Prototype capability claim",
+    "communication_type": "technology",
+    "owner": "product",
+    "status": "revise",
+    "review_date": "2026-06-08",
+    "review_priority": "high",
+    "quality_score": 0.474,
+    "evidence_gap": 0.46,
+    "hype_risk": 0.72,
+    "review_priority_score": 0.566,
+    "governance_reasons": "weak claim clarity; weak evidence strength; weak method transparency; weak uncertainty disclosure; weak risk visibility; weak stakeholder visibility; high promotional intensity; broad claim; evidence gap; hype risk; review priority threshold reached; status marked revise",
+    "recommended_action": "Revise this communication before publication and strengthen evidence method transparency uncertainty disclosure risk visibility and claim boundaries."
+  },
+  {
+    "queue_id": "technology-science-review-benchmark-explainer",
+    "article_slug": "frameworks-for-technology-and-scientific-communication",
+    "item": "Benchmark explainer",
+    "communication_type": "technical",
+    "owner": "engineering",
+    "status": "review",
+    "review_date": "2026-06-08",
+    "review_priority": "medium",
+    "quality_score": 0.683,
+    "evidence_gap": 0.08,
+    "hype_risk": 0.46,
+    "review_priority_score": 0.292,
+    "governance_reasons": "weak stakeholder visibility; status marked review",
+    "recommended_action": "Keep active and review during the next technology and scientific communication governance cycle."
+  }
+]

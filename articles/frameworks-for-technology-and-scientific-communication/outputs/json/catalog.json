@@ -1,0 +1,27 @@
+{
+  "module": "technology_science_canvas",
+  "version": "1.0.0",
+  "article_slug": "frameworks-for-technology-and-scientific-communication",
+  "article_title": "Frameworks for Technology and Scientific Communication",
+  "generated_at": "2026-06-09T04:27:07+00:00",
+  "record_count": 6,
+  "communication_type_counts": {
+    "technology": 1,
+    "technical": 1,
+    "engagement": 1,
+    "science": 2,
+    "risk": 1
+  },
+  "metrics": [
+    "quality_score",
+    "evidence_gap",
+    "hype_risk",
+    "review_priority_score"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/technology_science_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/technology_science_canvas_export.json"
+  }
+}
