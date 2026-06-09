@@ -1,0 +1,5 @@
+"item","portfolio_area","description","growth_score","relative_share_score","evidence_strength","strategic_fit","maintenance_burden","claim_strength","owner","status","review_date","quadrant","evidence_gap","portfolio_priority","review_priority"
+"AI assisted framework tools","platform module","Promising Canvas ready tools in a fast growing category but still building share",0.88,0.42,0.62,0.84,0.76,0.82,"platform","review","2026-06-08","question_mark",0.2,0.679,"medium"
+"Experimental portfolio templates","content tools","Early template assets with potential use but weak validation and limited adoption",0.66,0.38,0.46,0.7,0.66,0.78,"platform","review","2026-06-08","question_mark",0.32,0.646,"high"
+"Research library navigation","platform infrastructure","Stable navigation layer that supports discovery across the library",0.52,0.7,0.74,0.88,0.64,0.78,"platform","review","2026-06-08","cash_cow",0.04,0.578,"medium"
+"Legacy short posts","archive","Older short posts with weak traffic limited evidence and unclear strategic fit",0.28,0.3,0.34,0.42,0.7,0.76,"editorial","revise","2026-06-08","review_quadrant",0.42,0.56,"high"

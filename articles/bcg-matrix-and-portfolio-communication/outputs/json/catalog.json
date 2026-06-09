@@ -1,0 +1,33 @@
+{
+  "module": "bcg_canvas",
+  "version": "1.0.0",
+  "article_slug": "bcg-matrix-and-portfolio-communication",
+  "article_title": "BCG Matrix and Portfolio Communication",
+  "generated_at": "2026-06-09T02:06:23+00:00",
+  "record_count": 6,
+  "quadrant_counts": {
+    "question_mark": 2,
+    "star": 1,
+    "cash_cow": 2,
+    "review_quadrant": 1
+  },
+  "portfolio_area_counts": {
+    "platform module": 1,
+    "knowledge series": 2,
+    "content tools": 1,
+    "platform infrastructure": 1,
+    "archive": 1
+  },
+  "metrics": [
+    "growth_score",
+    "relative_share_score",
+    "evidence_gap",
+    "portfolio_priority"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/bcg_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/bcg_canvas_export.json"
+  }
+}

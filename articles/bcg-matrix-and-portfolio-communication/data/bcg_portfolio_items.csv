@@ -1,0 +1,7 @@
+item,portfolio_area,description,growth_score,relative_share_score,evidence_strength,strategic_fit,maintenance_burden,claim_strength,owner,status,review_date
+Content Frameworks core articles,knowledge series,High demand framework articles with strong internal link value and repository support,0.82,0.74,0.76,0.90,0.62,0.82,editorial,active,2026-06-08
+Evergreen systems thinking pillar,knowledge series,Mature article map with stable authority and cross series value,0.44,0.82,0.78,0.86,0.58,0.80,editorial,active,2026-06-08
+AI assisted framework tools,platform module,Promising Canvas ready tools in a fast growing category but still building share,0.88,0.42,0.62,0.84,0.76,0.82,platform,review,2026-06-08
+Legacy short posts,archive,Older short posts with weak traffic limited evidence and unclear strategic fit,0.28,0.30,0.34,0.42,0.70,0.76,editorial,revise,2026-06-08
+Research library navigation,platform infrastructure,Stable navigation layer that supports discovery across the library,0.52,0.70,0.74,0.88,0.64,0.78,platform,review,2026-06-08
+Experimental portfolio templates,content tools,Early template assets with potential use but weak validation and limited adoption,0.66,0.38,0.46,0.70,0.66,0.78,platform,review,2026-06-08

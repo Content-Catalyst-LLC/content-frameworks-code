@@ -1,0 +1,411 @@
+{
+  "module": "bcg_canvas",
+  "version": "1.0.0",
+  "article_slug": "bcg-matrix-and-portfolio-communication",
+  "article_title": "BCG Matrix and Portfolio Communication",
+  "generated_at": "2026-06-09T02:06:23+00:00",
+  "results": [
+    {
+      "item": "AI assisted framework tools",
+      "portfolio_area": "platform module",
+      "description": "Promising Canvas ready tools in a fast growing category but still building share",
+      "owner": "platform",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "growth_score": 0.88,
+      "relative_share_score": 0.42,
+      "evidence_strength": 0.62,
+      "strategic_fit": 0.84,
+      "maintenance_burden": 0.76,
+      "claim_strength": 0.82,
+      "quadrant": "question_mark",
+      "evidence_gap": 0.2,
+      "portfolio_priority": 0.679,
+      "review_priority": "medium",
+      "recommended_action": "test with explicit evidence thresholds before major investment",
+      "governance_reasons": "high maintenance burden; evidence gap; status marked review"
+    },
+    {
+      "item": "Content Frameworks core articles",
+      "portfolio_area": "knowledge series",
+      "description": "High demand framework articles with strong internal link value and repository support",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "growth_score": 0.82,
+      "relative_share_score": 0.74,
+      "evidence_strength": 0.76,
+      "strategic_fit": 0.9,
+      "maintenance_burden": 0.62,
+      "claim_strength": 0.82,
+      "quadrant": "star",
+      "evidence_gap": 0.06,
+      "portfolio_priority": 0.672,
+      "review_priority": "standard",
+      "recommended_action": "invest and defend position with evidence updates and governance support",
+      "governance_reasons": "no immediate governance issue"
+    },
+    {
+      "item": "Experimental portfolio templates",
+      "portfolio_area": "content tools",
+      "description": "Early template assets with potential use but weak validation and limited adoption",
+      "owner": "platform",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "growth_score": 0.66,
+      "relative_share_score": 0.38,
+      "evidence_strength": 0.46,
+      "strategic_fit": 0.7,
+      "maintenance_burden": 0.66,
+      "claim_strength": 0.78,
+      "quadrant": "question_mark",
+      "evidence_gap": 0.32,
+      "portfolio_priority": 0.646,
+      "review_priority": "high",
+      "recommended_action": "test with explicit evidence thresholds before major investment",
+      "governance_reasons": "weak evidence strength; high maintenance burden; evidence gap; status marked review"
+    },
+    {
+      "item": "Research library navigation",
+      "portfolio_area": "platform infrastructure",
+      "description": "Stable navigation layer that supports discovery across the library",
+      "owner": "platform",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "growth_score": 0.52,
+      "relative_share_score": 0.7,
+      "evidence_strength": 0.74,
+      "strategic_fit": 0.88,
+      "maintenance_burden": 0.64,
+      "claim_strength": 0.78,
+      "quadrant": "cash_cow",
+      "evidence_gap": 0.04,
+      "portfolio_priority": 0.578,
+      "review_priority": "medium",
+      "recommended_action": "maintain stable value with scheduled review and selective refresh",
+      "governance_reasons": "status marked review"
+    },
+    {
+      "item": "Legacy short posts",
+      "portfolio_area": "archive",
+      "description": "Older short posts with weak traffic limited evidence and unclear strategic fit",
+      "owner": "editorial",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "growth_score": 0.28,
+      "relative_share_score": 0.3,
+      "evidence_strength": 0.34,
+      "strategic_fit": 0.42,
+      "maintenance_burden": 0.7,
+      "claim_strength": 0.76,
+      "quadrant": "review_quadrant",
+      "evidence_gap": 0.42,
+      "portfolio_priority": 0.56,
+      "review_priority": "high",
+      "recommended_action": "review for consolidation repositioning preservation or retirement",
+      "governance_reasons": "review quadrant; weak evidence strength; low strategic fit; high maintenance burden; evidence gap; status marked revise"
+    },
+    {
+      "item": "Evergreen systems thinking pillar",
+      "portfolio_area": "knowledge series",
+      "description": "Mature article map with stable authority and cross series value",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "growth_score": 0.44,
+      "relative_share_score": 0.82,
+      "evidence_strength": 0.78,
+      "strategic_fit": 0.86,
+      "maintenance_burden": 0.58,
+      "claim_strength": 0.8,
+      "quadrant": "cash_cow",
+      "evidence_gap": 0.02,
+      "portfolio_priority": 0.559,
+      "review_priority": "standard",
+      "recommended_action": "maintain stable value with scheduled review and selective refresh",
+      "governance_reasons": "no immediate governance issue"
+    }
+  ],
+  "governance_queue": [
+    {
+      "queue_id": "bcg-review-experimental-portfolio-templates",
+      "article_slug": "bcg-matrix-and-portfolio-communication",
+      "item": "Experimental portfolio templates",
+      "portfolio_area": "content tools",
+      "quadrant": "question_mark",
+      "owner": "platform",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "growth_score": 0.66,
+      "relative_share_score": 0.38,
+      "evidence_gap": 0.32,
+      "portfolio_priority": 0.646,
+      "governance_reasons": "weak evidence strength; high maintenance burden; evidence gap; status marked review",
+      "recommended_action": "test with explicit evidence thresholds before major investment"
+    },
+    {
+      "queue_id": "bcg-review-legacy-short-posts",
+      "article_slug": "bcg-matrix-and-portfolio-communication",
+      "item": "Legacy short posts",
+      "portfolio_area": "archive",
+      "quadrant": "review_quadrant",
+      "owner": "editorial",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "growth_score": 0.28,
+      "relative_share_score": 0.3,
+      "evidence_gap": 0.42,
+      "portfolio_priority": 0.56,
+      "governance_reasons": "review quadrant; weak evidence strength; low strategic fit; high maintenance burden; evidence gap; status marked revise",
+      "recommended_action": "review for consolidation repositioning preservation or retirement"
+    },
+    {
+      "queue_id": "bcg-review-ai-assisted-framework-tools",
+      "article_slug": "bcg-matrix-and-portfolio-communication",
+      "item": "AI assisted framework tools",
+      "portfolio_area": "platform module",
+      "quadrant": "question_mark",
+      "owner": "platform",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "growth_score": 0.88,
+      "relative_share_score": 0.42,
+      "evidence_gap": 0.2,
+      "portfolio_priority": 0.679,
+      "governance_reasons": "high maintenance burden; evidence gap; status marked review",
+      "recommended_action": "test with explicit evidence thresholds before major investment"
+    },
+    {
+      "queue_id": "bcg-review-research-library-navigation",
+      "article_slug": "bcg-matrix-and-portfolio-communication",
+      "item": "Research library navigation",
+      "portfolio_area": "platform infrastructure",
+      "quadrant": "cash_cow",
+      "owner": "platform",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "growth_score": 0.52,
+      "relative_share_score": 0.7,
+      "evidence_gap": 0.04,
+      "portfolio_priority": 0.578,
+      "governance_reasons": "status marked review",
+      "recommended_action": "maintain stable value with scheduled review and selective refresh"
+    }
+  ],
+  "canvas_cards": [
+    {
+      "card_id": "bcg-item-ai-assisted-framework-tools",
+      "type": "bcg_portfolio_item_card",
+      "article_slug": "bcg-matrix-and-portfolio-communication",
+      "title": "AI assisted framework tools",
+      "subtitle": "question_mark / platform module",
+      "description": "Promising Canvas ready tools in a fast growing category but still building share",
+      "badges": [
+        "priority: medium",
+        "quadrant: question_mark",
+        "portfolio priority: 0.679",
+        "review"
+      ],
+      "metrics": {
+        "growth_score": 0.88,
+        "relative_share_score": 0.42,
+        "evidence_strength": 0.62,
+        "strategic_fit": 0.84,
+        "maintenance_burden": 0.76,
+        "evidence_gap": 0.2,
+        "portfolio_priority": 0.679
+      },
+      "bcg": {
+        "portfolio_area": "platform module",
+        "quadrant": "question_mark",
+        "recommended_action": "test with explicit evidence thresholds before major investment"
+      },
+      "governance": {
+        "owner": "platform",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "high maintenance burden; evidence gap; status marked review"
+      }
+    },
+    {
+      "card_id": "bcg-item-content-frameworks-core-articles",
+      "type": "bcg_portfolio_item_card",
+      "article_slug": "bcg-matrix-and-portfolio-communication",
+      "title": "Content Frameworks core articles",
+      "subtitle": "star / knowledge series",
+      "description": "High demand framework articles with strong internal link value and repository support",
+      "badges": [
+        "priority: standard",
+        "quadrant: star",
+        "portfolio priority: 0.672",
+        "active"
+      ],
+      "metrics": {
+        "growth_score": 0.82,
+        "relative_share_score": 0.74,
+        "evidence_strength": 0.76,
+        "strategic_fit": 0.9,
+        "maintenance_burden": 0.62,
+        "evidence_gap": 0.06,
+        "portfolio_priority": 0.672
+      },
+      "bcg": {
+        "portfolio_area": "knowledge series",
+        "quadrant": "star",
+        "recommended_action": "invest and defend position with evidence updates and governance support"
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue"
+      }
+    },
+    {
+      "card_id": "bcg-item-experimental-portfolio-templates",
+      "type": "bcg_portfolio_item_card",
+      "article_slug": "bcg-matrix-and-portfolio-communication",
+      "title": "Experimental portfolio templates",
+      "subtitle": "question_mark / content tools",
+      "description": "Early template assets with potential use but weak validation and limited adoption",
+      "badges": [
+        "priority: high",
+        "quadrant: question_mark",
+        "portfolio priority: 0.646",
+        "review"
+      ],
+      "metrics": {
+        "growth_score": 0.66,
+        "relative_share_score": 0.38,
+        "evidence_strength": 0.46,
+        "strategic_fit": 0.7,
+        "maintenance_burden": 0.66,
+        "evidence_gap": 0.32,
+        "portfolio_priority": 0.646
+      },
+      "bcg": {
+        "portfolio_area": "content tools",
+        "quadrant": "question_mark",
+        "recommended_action": "test with explicit evidence thresholds before major investment"
+      },
+      "governance": {
+        "owner": "platform",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "high",
+        "reasons": "weak evidence strength; high maintenance burden; evidence gap; status marked review"
+      }
+    },
+    {
+      "card_id": "bcg-item-research-library-navigation",
+      "type": "bcg_portfolio_item_card",
+      "article_slug": "bcg-matrix-and-portfolio-communication",
+      "title": "Research library navigation",
+      "subtitle": "cash_cow / platform infrastructure",
+      "description": "Stable navigation layer that supports discovery across the library",
+      "badges": [
+        "priority: medium",
+        "quadrant: cash_cow",
+        "portfolio priority: 0.578",
+        "review"
+      ],
+      "metrics": {
+        "growth_score": 0.52,
+        "relative_share_score": 0.7,
+        "evidence_strength": 0.74,
+        "strategic_fit": 0.88,
+        "maintenance_burden": 0.64,
+        "evidence_gap": 0.04,
+        "portfolio_priority": 0.578
+      },
+      "bcg": {
+        "portfolio_area": "platform infrastructure",
+        "quadrant": "cash_cow",
+        "recommended_action": "maintain stable value with scheduled review and selective refresh"
+      },
+      "governance": {
+        "owner": "platform",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "status marked review"
+      }
+    },
+    {
+      "card_id": "bcg-item-legacy-short-posts",
+      "type": "bcg_portfolio_item_card",
+      "article_slug": "bcg-matrix-and-portfolio-communication",
+      "title": "Legacy short posts",
+      "subtitle": "review_quadrant / archive",
+      "description": "Older short posts with weak traffic limited evidence and unclear strategic fit",
+      "badges": [
+        "priority: high",
+        "quadrant: review_quadrant",
+        "portfolio priority: 0.56",
+        "revise"
+      ],
+      "metrics": {
+        "growth_score": 0.28,
+        "relative_share_score": 0.3,
+        "evidence_strength": 0.34,
+        "strategic_fit": 0.42,
+        "maintenance_burden": 0.7,
+        "evidence_gap": 0.42,
+        "portfolio_priority": 0.56
+      },
+      "bcg": {
+        "portfolio_area": "archive",
+        "quadrant": "review_quadrant",
+        "recommended_action": "review for consolidation repositioning preservation or retirement"
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "revise",
+        "review_date": "2026-06-08",
+        "review_priority": "high",
+        "reasons": "review quadrant; weak evidence strength; low strategic fit; high maintenance burden; evidence gap; status marked revise"
+      }
+    },
+    {
+      "card_id": "bcg-item-evergreen-systems-thinking-pillar",
+      "type": "bcg_portfolio_item_card",
+      "article_slug": "bcg-matrix-and-portfolio-communication",
+      "title": "Evergreen systems thinking pillar",
+      "subtitle": "cash_cow / knowledge series",
+      "description": "Mature article map with stable authority and cross series value",
+      "badges": [
+        "priority: standard",
+        "quadrant: cash_cow",
+        "portfolio priority: 0.559",
+        "active"
+      ],
+      "metrics": {
+        "growth_score": 0.44,
+        "relative_share_score": 0.82,
+        "evidence_strength": 0.78,
+        "strategic_fit": 0.86,
+        "maintenance_burden": 0.58,
+        "evidence_gap": 0.02,
+        "portfolio_priority": 0.559
+      },
+      "bcg": {
+        "portfolio_area": "knowledge series",
+        "quadrant": "cash_cow",
+        "recommended_action": "maintain stable value with scheduled review and selective refresh"
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue"
+      }
+    }
+  ]
+}

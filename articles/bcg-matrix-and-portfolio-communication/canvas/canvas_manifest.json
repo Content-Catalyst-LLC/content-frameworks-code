@@ -1,0 +1,52 @@
+{
+  "module": "bcg_canvas",
+  "version": "1.0.0",
+  "article_slug": "bcg-matrix-and-portfolio-communication",
+  "article_title": "BCG Matrix and Portfolio Communication",
+  "series": "Content Frameworks",
+  "repository_path": "articles/bcg-matrix-and-portfolio-communication/",
+  "entrypoint": "python -m bcg_canvas.cli",
+  "default_input": "data/bcg_portfolio_items.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/bcg_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/bcg_canvas_export.json"
+  },
+  "metrics": [
+    "quadrant",
+    "evidence_gap",
+    "portfolio_priority",
+    "review_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "bcg_portfolio_item_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "growth_share_grid"
+    },
+    {
+      "type": "bcg_governance_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": [
+      "evidence_gap",
+      "weak_growth_metric",
+      "weak_relative_share_metric",
+      "high_maintenance_burden",
+      "low_strategic_fit",
+      "portfolio_label_misuse",
+      "review_quadrant"
+    ]
+  }
+}
