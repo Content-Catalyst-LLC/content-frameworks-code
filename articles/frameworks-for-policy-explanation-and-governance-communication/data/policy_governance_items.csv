@@ -1,0 +1,7 @@
+item,policy_area,description,problem_clarity,authority_clarity,evidence_strength,stakeholder_visibility,implementation_detail,accountability_coverage,participation_clarity,ambiguity,claim_strength,owner,status,review_date
+Problem statement,public governance,Explains why public action is needed and who is affected,0.84,0.70,0.78,0.76,0.66,0.64,0.58,0.30,0.82,policy,review,2026-06-08
+Authority map,public governance,Identifies decision rights implementation roles and oversight bodies,0.72,0.88,0.76,0.68,0.74,0.82,0.62,0.24,0.78,governance,active,2026-06-08
+Stakeholder impact note,equity,Differentiates affected groups benefits burdens access needs and participation channels,0.80,0.66,0.70,0.86,0.64,0.68,0.74,0.28,0.78,editorial,active,2026-06-08
+Implementation pathway,administration,Shows responsible agencies timeline resources guidance risks and correction channels,0.78,0.82,0.72,0.70,0.86,0.76,0.60,0.22,0.80,operations,active,2026-06-08
+Public trust claim,communication,Claims policy communication will increase public trust without enough evidence or accountability detail,0.58,0.54,0.38,0.46,0.42,0.36,0.40,0.72,0.82,communications,revise,2026-06-08
+Participation summary,public participation,Summarizes public input consultation themes influence on policy design and remaining response channels,0.76,0.68,0.70,0.82,0.66,0.72,0.86,0.26,0.76,engagement,active,2026-06-08

@@ -1,0 +1,429 @@
+{
+  "module": "policy_governance_canvas",
+  "version": "1.0.0",
+  "article_slug": "frameworks-for-policy-explanation-and-governance-communication",
+  "article_title": "Frameworks for Policy Explanation and Governance Communication",
+  "generated_at": "2026-06-09T03:38:14+00:00",
+  "results": [
+    {
+      "item": "Public trust claim",
+      "policy_area": "communication",
+      "description": "Claims policy communication will increase public trust without enough evidence or accountability detail",
+      "owner": "communications",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "problem_clarity": 0.58,
+      "authority_clarity": 0.54,
+      "evidence_strength": 0.38,
+      "stakeholder_visibility": 0.46,
+      "implementation_detail": 0.42,
+      "accountability_coverage": 0.36,
+      "participation_clarity": 0.4,
+      "ambiguity": 0.72,
+      "claim_strength": 0.82,
+      "completeness_score": 0.449,
+      "evidence_gap": 0.44,
+      "governance_risk": 0.623,
+      "review_priority_score": 0.541,
+      "review_priority": "high",
+      "governance_reasons": "weak problem clarity; weak authority clarity; weak evidence strength; weak stakeholder visibility; weak implementation detail; weak accountability coverage; weak participation clarity; high ambiguity; evidence gap; high governance communication risk; review priority threshold reached; status marked revise",
+      "recommended_action": "Revise this item before publication and strengthen evidence accountability stakeholder visibility and implementation detail."
+    },
+    {
+      "item": "Stakeholder impact note",
+      "policy_area": "equity",
+      "description": "Differentiates affected groups benefits burdens access needs and participation channels",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "problem_clarity": 0.8,
+      "authority_clarity": 0.66,
+      "evidence_strength": 0.7,
+      "stakeholder_visibility": 0.86,
+      "implementation_detail": 0.64,
+      "accountability_coverage": 0.68,
+      "participation_clarity": 0.74,
+      "ambiguity": 0.28,
+      "claim_strength": 0.78,
+      "completeness_score": 0.726,
+      "evidence_gap": 0.08,
+      "governance_risk": 0.278,
+      "review_priority_score": 0.208,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next policy communication governance cycle."
+    },
+    {
+      "item": "Problem statement",
+      "policy_area": "public governance",
+      "description": "Explains why public action is needed and who is affected",
+      "owner": "policy",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "problem_clarity": 0.84,
+      "authority_clarity": 0.7,
+      "evidence_strength": 0.78,
+      "stakeholder_visibility": 0.76,
+      "implementation_detail": 0.66,
+      "accountability_coverage": 0.64,
+      "participation_clarity": 0.58,
+      "ambiguity": 0.3,
+      "claim_strength": 0.82,
+      "completeness_score": 0.709,
+      "evidence_gap": 0.04,
+      "governance_risk": 0.293,
+      "review_priority_score": 0.204,
+      "review_priority": "medium",
+      "governance_reasons": "weak participation clarity; status marked review",
+      "recommended_action": "Keep active and review during the next policy communication governance cycle."
+    },
+    {
+      "item": "Participation summary",
+      "policy_area": "public participation",
+      "description": "Summarizes public input consultation themes influence on policy design and remaining response channels",
+      "owner": "engagement",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "problem_clarity": 0.76,
+      "authority_clarity": 0.68,
+      "evidence_strength": 0.7,
+      "stakeholder_visibility": 0.82,
+      "implementation_detail": 0.66,
+      "accountability_coverage": 0.72,
+      "participation_clarity": 0.86,
+      "ambiguity": 0.26,
+      "claim_strength": 0.76,
+      "completeness_score": 0.743,
+      "evidence_gap": 0.06,
+      "governance_risk": 0.269,
+      "review_priority_score": 0.193,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next policy communication governance cycle."
+    },
+    {
+      "item": "Implementation pathway",
+      "policy_area": "administration",
+      "description": "Shows responsible agencies timeline resources guidance risks and correction channels",
+      "owner": "operations",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "problem_clarity": 0.78,
+      "authority_clarity": 0.82,
+      "evidence_strength": 0.72,
+      "stakeholder_visibility": 0.7,
+      "implementation_detail": 0.86,
+      "accountability_coverage": 0.76,
+      "participation_clarity": 0.6,
+      "ambiguity": 0.22,
+      "claim_strength": 0.8,
+      "completeness_score": 0.749,
+      "evidence_gap": 0.08,
+      "governance_risk": 0.241,
+      "review_priority_score": 0.187,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next policy communication governance cycle."
+    },
+    {
+      "item": "Authority map",
+      "policy_area": "public governance",
+      "description": "Identifies decision rights implementation roles and oversight bodies",
+      "owner": "governance",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "problem_clarity": 0.72,
+      "authority_clarity": 0.88,
+      "evidence_strength": 0.76,
+      "stakeholder_visibility": 0.68,
+      "implementation_detail": 0.74,
+      "accountability_coverage": 0.82,
+      "participation_clarity": 0.62,
+      "ambiguity": 0.24,
+      "claim_strength": 0.78,
+      "completeness_score": 0.746,
+      "evidence_gap": 0.02,
+      "governance_risk": 0.244,
+      "review_priority_score": 0.168,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next policy communication governance cycle."
+    }
+  ],
+  "governance_queue": [
+    {
+      "queue_id": "policy-governance-review-public-trust-claim",
+      "article_slug": "frameworks-for-policy-explanation-and-governance-communication",
+      "item": "Public trust claim",
+      "policy_area": "communication",
+      "owner": "communications",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "completeness_score": 0.449,
+      "evidence_gap": 0.44,
+      "governance_risk": 0.623,
+      "review_priority_score": 0.541,
+      "governance_reasons": "weak problem clarity; weak authority clarity; weak evidence strength; weak stakeholder visibility; weak implementation detail; weak accountability coverage; weak participation clarity; high ambiguity; evidence gap; high governance communication risk; review priority threshold reached; status marked revise",
+      "recommended_action": "Revise this item before publication and strengthen evidence accountability stakeholder visibility and implementation detail."
+    },
+    {
+      "queue_id": "policy-governance-review-problem-statement",
+      "article_slug": "frameworks-for-policy-explanation-and-governance-communication",
+      "item": "Problem statement",
+      "policy_area": "public governance",
+      "owner": "policy",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "completeness_score": 0.709,
+      "evidence_gap": 0.04,
+      "governance_risk": 0.293,
+      "review_priority_score": 0.204,
+      "governance_reasons": "weak participation clarity; status marked review",
+      "recommended_action": "Keep active and review during the next policy communication governance cycle."
+    }
+  ],
+  "canvas_cards": [
+    {
+      "card_id": "policy-governance-item-public-trust-claim",
+      "type": "policy_governance_item_card",
+      "article_slug": "frameworks-for-policy-explanation-and-governance-communication",
+      "title": "Public trust claim",
+      "subtitle": "communication",
+      "description": "Claims policy communication will increase public trust without enough evidence or accountability detail",
+      "badges": [
+        "priority: high",
+        "completeness: 0.449",
+        "risk: 0.623",
+        "revise"
+      ],
+      "metrics": {
+        "completeness_score": 0.449,
+        "evidence_gap": 0.44,
+        "governance_risk": 0.623,
+        "review_priority_score": 0.541,
+        "problem_clarity": 0.58,
+        "authority_clarity": 0.54,
+        "stakeholder_visibility": 0.46,
+        "accountability_coverage": 0.36
+      },
+      "policy_governance": {
+        "policy_area": "communication",
+        "evidence_strength": 0.38,
+        "implementation_detail": 0.42,
+        "participation_clarity": 0.4,
+        "ambiguity": 0.72,
+        "claim_strength": 0.82
+      },
+      "governance": {
+        "owner": "communications",
+        "status": "revise",
+        "review_date": "2026-06-08",
+        "review_priority": "high",
+        "reasons": "weak problem clarity; weak authority clarity; weak evidence strength; weak stakeholder visibility; weak implementation detail; weak accountability coverage; weak participation clarity; high ambiguity; evidence gap; high governance communication risk; review priority threshold reached; status marked revise",
+        "recommended_action": "Revise this item before publication and strengthen evidence accountability stakeholder visibility and implementation detail."
+      }
+    },
+    {
+      "card_id": "policy-governance-item-stakeholder-impact-note",
+      "type": "policy_governance_item_card",
+      "article_slug": "frameworks-for-policy-explanation-and-governance-communication",
+      "title": "Stakeholder impact note",
+      "subtitle": "equity",
+      "description": "Differentiates affected groups benefits burdens access needs and participation channels",
+      "badges": [
+        "priority: standard",
+        "completeness: 0.726",
+        "risk: 0.278",
+        "active"
+      ],
+      "metrics": {
+        "completeness_score": 0.726,
+        "evidence_gap": 0.08,
+        "governance_risk": 0.278,
+        "review_priority_score": 0.208,
+        "problem_clarity": 0.8,
+        "authority_clarity": 0.66,
+        "stakeholder_visibility": 0.86,
+        "accountability_coverage": 0.68
+      },
+      "policy_governance": {
+        "policy_area": "equity",
+        "evidence_strength": 0.7,
+        "implementation_detail": 0.64,
+        "participation_clarity": 0.74,
+        "ambiguity": 0.28,
+        "claim_strength": 0.78
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next policy communication governance cycle."
+      }
+    },
+    {
+      "card_id": "policy-governance-item-problem-statement",
+      "type": "policy_governance_item_card",
+      "article_slug": "frameworks-for-policy-explanation-and-governance-communication",
+      "title": "Problem statement",
+      "subtitle": "public governance",
+      "description": "Explains why public action is needed and who is affected",
+      "badges": [
+        "priority: medium",
+        "completeness: 0.709",
+        "risk: 0.293",
+        "review"
+      ],
+      "metrics": {
+        "completeness_score": 0.709,
+        "evidence_gap": 0.04,
+        "governance_risk": 0.293,
+        "review_priority_score": 0.204,
+        "problem_clarity": 0.84,
+        "authority_clarity": 0.7,
+        "stakeholder_visibility": 0.76,
+        "accountability_coverage": 0.64
+      },
+      "policy_governance": {
+        "policy_area": "public governance",
+        "evidence_strength": 0.78,
+        "implementation_detail": 0.66,
+        "participation_clarity": 0.58,
+        "ambiguity": 0.3,
+        "claim_strength": 0.82
+      },
+      "governance": {
+        "owner": "policy",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "weak participation clarity; status marked review",
+        "recommended_action": "Keep active and review during the next policy communication governance cycle."
+      }
+    },
+    {
+      "card_id": "policy-governance-item-participation-summary",
+      "type": "policy_governance_item_card",
+      "article_slug": "frameworks-for-policy-explanation-and-governance-communication",
+      "title": "Participation summary",
+      "subtitle": "public participation",
+      "description": "Summarizes public input consultation themes influence on policy design and remaining response channels",
+      "badges": [
+        "priority: standard",
+        "completeness: 0.743",
+        "risk: 0.269",
+        "active"
+      ],
+      "metrics": {
+        "completeness_score": 0.743,
+        "evidence_gap": 0.06,
+        "governance_risk": 0.269,
+        "review_priority_score": 0.193,
+        "problem_clarity": 0.76,
+        "authority_clarity": 0.68,
+        "stakeholder_visibility": 0.82,
+        "accountability_coverage": 0.72
+      },
+      "policy_governance": {
+        "policy_area": "public participation",
+        "evidence_strength": 0.7,
+        "implementation_detail": 0.66,
+        "participation_clarity": 0.86,
+        "ambiguity": 0.26,
+        "claim_strength": 0.76
+      },
+      "governance": {
+        "owner": "engagement",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next policy communication governance cycle."
+      }
+    },
+    {
+      "card_id": "policy-governance-item-implementation-pathway",
+      "type": "policy_governance_item_card",
+      "article_slug": "frameworks-for-policy-explanation-and-governance-communication",
+      "title": "Implementation pathway",
+      "subtitle": "administration",
+      "description": "Shows responsible agencies timeline resources guidance risks and correction channels",
+      "badges": [
+        "priority: standard",
+        "completeness: 0.749",
+        "risk: 0.241",
+        "active"
+      ],
+      "metrics": {
+        "completeness_score": 0.749,
+        "evidence_gap": 0.08,
+        "governance_risk": 0.241,
+        "review_priority_score": 0.187,
+        "problem_clarity": 0.78,
+        "authority_clarity": 0.82,
+        "stakeholder_visibility": 0.7,
+        "accountability_coverage": 0.76
+      },
+      "policy_governance": {
+        "policy_area": "administration",
+        "evidence_strength": 0.72,
+        "implementation_detail": 0.86,
+        "participation_clarity": 0.6,
+        "ambiguity": 0.22,
+        "claim_strength": 0.8
+      },
+      "governance": {
+        "owner": "operations",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next policy communication governance cycle."
+      }
+    },
+    {
+      "card_id": "policy-governance-item-authority-map",
+      "type": "policy_governance_item_card",
+      "article_slug": "frameworks-for-policy-explanation-and-governance-communication",
+      "title": "Authority map",
+      "subtitle": "public governance",
+      "description": "Identifies decision rights implementation roles and oversight bodies",
+      "badges": [
+        "priority: standard",
+        "completeness: 0.746",
+        "risk: 0.244",
+        "active"
+      ],
+      "metrics": {
+        "completeness_score": 0.746,
+        "evidence_gap": 0.02,
+        "governance_risk": 0.244,
+        "review_priority_score": 0.168,
+        "problem_clarity": 0.72,
+        "authority_clarity": 0.88,
+        "stakeholder_visibility": 0.68,
+        "accountability_coverage": 0.82
+      },
+      "policy_governance": {
+        "policy_area": "public governance",
+        "evidence_strength": 0.76,
+        "implementation_detail": 0.74,
+        "participation_clarity": 0.62,
+        "ambiguity": 0.24,
+        "claim_strength": 0.78
+      },
+      "governance": {
+        "owner": "governance",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next policy communication governance cycle."
+      }
+    }
+  ]
+}

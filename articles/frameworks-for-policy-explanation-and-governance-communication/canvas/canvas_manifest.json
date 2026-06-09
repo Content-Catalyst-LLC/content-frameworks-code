@@ -1,0 +1,54 @@
+{
+  "module": "policy_governance_canvas",
+  "version": "1.0.0",
+  "article_slug": "frameworks-for-policy-explanation-and-governance-communication",
+  "article_title": "Frameworks for Policy Explanation and Governance Communication",
+  "series": "Content Frameworks",
+  "repository_path": "articles/frameworks-for-policy-explanation-and-governance-communication/",
+  "entrypoint": "python -m policy_governance_canvas.cli",
+  "default_input": "data/policy_governance_items.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/policy_governance_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/policy_governance_canvas_export.json"
+  },
+  "metrics": [
+    "completeness_score",
+    "evidence_gap",
+    "governance_risk",
+    "review_priority_score",
+    "review_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "policy_governance_item_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "governance_coverage_grid"
+    },
+    {
+      "type": "policy_governance_review_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": [
+      "evidence_gap",
+      "weak_authority_clarity",
+      "weak_stakeholder_visibility",
+      "weak_accountability_coverage",
+      "weak_participation_clarity",
+      "unclear_implementation_pathway",
+      "high_ambiguity",
+      "unsupported_trust_claim"
+    ]
+  }
+}

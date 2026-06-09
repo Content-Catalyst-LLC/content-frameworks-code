@@ -1,0 +1,34 @@
+[
+  {
+    "queue_id": "policy-governance-review-public-trust-claim",
+    "article_slug": "frameworks-for-policy-explanation-and-governance-communication",
+    "item": "Public trust claim",
+    "policy_area": "communication",
+    "owner": "communications",
+    "status": "revise",
+    "review_date": "2026-06-08",
+    "review_priority": "high",
+    "completeness_score": 0.449,
+    "evidence_gap": 0.44,
+    "governance_risk": 0.623,
+    "review_priority_score": 0.541,
+    "governance_reasons": "weak problem clarity; weak authority clarity; weak evidence strength; weak stakeholder visibility; weak implementation detail; weak accountability coverage; weak participation clarity; high ambiguity; evidence gap; high governance communication risk; review priority threshold reached; status marked revise",
+    "recommended_action": "Revise this item before publication and strengthen evidence accountability stakeholder visibility and implementation detail."
+  },
+  {
+    "queue_id": "policy-governance-review-problem-statement",
+    "article_slug": "frameworks-for-policy-explanation-and-governance-communication",
+    "item": "Problem statement",
+    "policy_area": "public governance",
+    "owner": "policy",
+    "status": "review",
+    "review_date": "2026-06-08",
+    "review_priority": "medium",
+    "completeness_score": 0.709,
+    "evidence_gap": 0.04,
+    "governance_risk": 0.293,
+    "review_priority_score": 0.204,
+    "governance_reasons": "weak participation clarity; status marked review",
+    "recommended_action": "Keep active and review during the next policy communication governance cycle."
+  }
+]

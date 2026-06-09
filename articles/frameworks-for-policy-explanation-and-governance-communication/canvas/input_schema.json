@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://thecontentcatalyst.net/schemas/policy-governance-canvas-input.schema.json",
+  "title": "Policy Explanation and Governance Communication Catalyst Canvas Input Schema",
+  "description": "Input schema for auditing policy explanation and governance communication including problem clarity authority clarity evidence strength stakeholder visibility implementation detail accountability coverage participation clarity ambiguity claim strength and governance status.",
+  "type": "object",
+  "required": ["module", "article_slug", "items"],
+  "properties": {
+    "module": { "type": "string", "const": "policy_governance_canvas" },
+    "article_slug": { "type": "string", "const": "frameworks-for-policy-explanation-and-governance-communication" },
+    "items": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "item",
+          "policy_area",
+          "description",
+          "problem_clarity",
+          "authority_clarity",
+          "evidence_strength",
+          "stakeholder_visibility",
+          "implementation_detail",
+          "accountability_coverage",
+          "participation_clarity",
+          "ambiguity",
+          "claim_strength",
+          "owner",
+          "status",
+          "review_date"
+        ],
+        "properties": {
+          "item": { "type": "string", "minLength": 2 },
+          "policy_area": { "type": "string", "minLength": 2 },
+          "description": { "type": "string", "minLength": 5 },
+          "problem_clarity": { "type": "number", "minimum": 0, "maximum": 1 },
+          "authority_clarity": { "type": "number", "minimum": 0, "maximum": 1 },
+          "evidence_strength": { "type": "number", "minimum": 0, "maximum": 1 },
+          "stakeholder_visibility": { "type": "number", "minimum": 0, "maximum": 1 },
+          "implementation_detail": { "type": "number", "minimum": 0, "maximum": 1 },
+          "accountability_coverage": { "type": "number", "minimum": 0, "maximum": 1 },
+          "participation_clarity": { "type": "number", "minimum": 0, "maximum": 1 },
+          "ambiguity": { "type": "number", "minimum": 0, "maximum": 1 },
+          "claim_strength": { "type": "number", "minimum": 0, "maximum": 1 },
+          "owner": { "type": "string", "minLength": 2 },
+          "status": { "type": "string", "enum": ["active", "review", "revise", "archive"] },
+          "review_date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

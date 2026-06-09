@@ -1,0 +1,27 @@
+{
+  "module": "policy_governance_canvas",
+  "version": "1.0.0",
+  "article_slug": "frameworks-for-policy-explanation-and-governance-communication",
+  "article_title": "Frameworks for Policy Explanation and Governance Communication",
+  "generated_at": "2026-06-09T03:38:14+00:00",
+  "record_count": 6,
+  "policy_area_counts": {
+    "communication": 1,
+    "equity": 1,
+    "public governance": 2,
+    "public participation": 1,
+    "administration": 1
+  },
+  "metrics": [
+    "completeness_score",
+    "evidence_gap",
+    "governance_risk",
+    "review_priority_score"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/policy_governance_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/policy_governance_canvas_export.json"
+  }
+}
