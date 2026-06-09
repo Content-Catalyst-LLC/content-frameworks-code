@@ -1,0 +1,236 @@
+[
+  {
+    "card_id": "framework-composition-item-overloaded-content-model",
+    "type": "framework_composition_item_card",
+    "article_slug": "framework-composition-how-to-combine-models-without-confusion",
+    "title": "Overloaded content model",
+    "subtitle": "stack",
+    "description": "Combines too many frameworks without clear sequence audience pathway or governance owner",
+    "badges": [
+      "priority: high",
+      "quality: 0.411",
+      "confusion risk: 0.72",
+      "revise"
+    ],
+    "metrics": {
+      "quality_score": 0.411,
+      "confusion_risk": 0.72,
+      "review_priority_score": 0.654,
+      "purpose_fit": 0.48,
+      "role_clarity": 0.38,
+      "boundary_clarity": 0.44,
+      "sequence_clarity": 0.36,
+      "translation_quality": 0.32
+    },
+    "composition": {
+      "composition_type": "stack",
+      "evidence_alignment": 0.5,
+      "governance_readiness": 0.4,
+      "audience_burden": 0.82,
+      "conflict_risk": 0.76
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "reasons": "weak purpose fit; weak role clarity; weak boundary clarity; weak sequence clarity; weak translation quality; weak evidence alignment; weak governance readiness; high audience burden; high framework conflict risk; high confusion risk; review priority threshold reached; status marked revise",
+      "recommended_action": "Revise this composition before publication and strengthen purpose role boundaries sequence translation evidence governance and audience pathway."
+    }
+  },
+  {
+    "card_id": "framework-composition-item-systems-to-message-pathway",
+    "type": "framework_composition_item_card",
+    "article_slug": "framework-composition-how-to-combine-models-without-confusion",
+    "title": "Systems to message pathway",
+    "subtitle": "translation",
+    "description": "Uses systems map outputs to define public explanation priorities and message boundaries",
+    "badges": [
+      "priority: standard",
+      "quality: 0.74",
+      "confusion risk: 0.265",
+      "active"
+    ],
+    "metrics": {
+      "quality_score": 0.74,
+      "confusion_risk": 0.265,
+      "review_priority_score": 0.263,
+      "purpose_fit": 0.78,
+      "role_clarity": 0.76,
+      "boundary_clarity": 0.8,
+      "sequence_clarity": 0.72,
+      "translation_quality": 0.74
+    },
+    "composition": {
+      "composition_type": "translation",
+      "evidence_alignment": 0.7,
+      "governance_readiness": 0.68,
+      "audience_burden": 0.36,
+      "conflict_risk": 0.2
+    },
+    "governance": {
+      "owner": "communication",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next framework composition governance cycle."
+    }
+  },
+  {
+    "card_id": "framework-composition-item-scenario-decision-bridge",
+    "type": "framework_composition_item_card",
+    "article_slug": "framework-composition-how-to-combine-models-without-confusion",
+    "title": "Scenario decision bridge",
+    "subtitle": "translation",
+    "description": "Translates scenario drivers into decision criteria signposts and robust options",
+    "badges": [
+      "priority: medium",
+      "quality: 0.749",
+      "confusion risk: 0.26",
+      "review"
+    ],
+    "metrics": {
+      "quality_score": 0.749,
+      "confusion_risk": 0.26,
+      "review_priority_score": 0.256,
+      "purpose_fit": 0.8,
+      "role_clarity": 0.74,
+      "boundary_clarity": 0.72,
+      "sequence_clarity": 0.76,
+      "translation_quality": 0.84
+    },
+    "composition": {
+      "composition_type": "translation",
+      "evidence_alignment": 0.7,
+      "governance_readiness": 0.68,
+      "audience_burden": 0.38,
+      "conflict_risk": 0.24
+    },
+    "governance": {
+      "owner": "foresight",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "status marked review",
+      "recommended_action": "Review composition risk translation interfaces model conflicts audience burden and governance dependencies during the next review cycle."
+    }
+  },
+  {
+    "card_id": "framework-composition-item-public-reasoning-composite",
+    "type": "framework_composition_item_card",
+    "article_slug": "framework-composition-how-to-combine-models-without-confusion",
+    "title": "Public reasoning composite",
+    "subtitle": "governed hybrid",
+    "description": "Combines claims evidence values tradeoffs stakeholder visibility participation and accountability",
+    "badges": [
+      "priority: standard",
+      "quality: 0.777",
+      "confusion risk: 0.265",
+      "active"
+    ],
+    "metrics": {
+      "quality_score": 0.777,
+      "confusion_risk": 0.265,
+      "review_priority_score": 0.244,
+      "purpose_fit": 0.82,
+      "role_clarity": 0.78,
+      "boundary_clarity": 0.76,
+      "sequence_clarity": 0.74,
+      "translation_quality": 0.8
+    },
+    "composition": {
+      "composition_type": "governed hybrid",
+      "evidence_alignment": 0.78,
+      "governance_readiness": 0.76,
+      "audience_burden": 0.42,
+      "conflict_risk": 0.22
+    },
+    "governance": {
+      "owner": "governance",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next framework composition governance cycle."
+    }
+  },
+  {
+    "card_id": "framework-composition-item-evidence-governance-hybrid",
+    "type": "framework_composition_item_card",
+    "article_slug": "framework-composition-how-to-combine-models-without-confusion",
+    "title": "Evidence governance hybrid",
+    "subtitle": "governed hybrid",
+    "description": "Combines claim source confidence review owner and correction status into one workflow",
+    "badges": [
+      "priority: standard",
+      "quality: 0.789",
+      "confusion risk: 0.27",
+      "active"
+    ],
+    "metrics": {
+      "quality_score": 0.789,
+      "confusion_risk": 0.27,
+      "review_priority_score": 0.241,
+      "purpose_fit": 0.8,
+      "role_clarity": 0.78,
+      "boundary_clarity": 0.82,
+      "sequence_clarity": 0.74,
+      "translation_quality": 0.72
+    },
+    "composition": {
+      "composition_type": "governed hybrid",
+      "evidence_alignment": 0.86,
+      "governance_readiness": 0.8,
+      "audience_burden": 0.4,
+      "conflict_risk": 0.18
+    },
+    "governance": {
+      "owner": "research",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next framework composition governance cycle."
+    }
+  },
+  {
+    "card_id": "framework-composition-item-strategy-diagnosis-sequence",
+    "type": "framework_composition_item_card",
+    "article_slug": "framework-composition-how-to-combine-models-without-confusion",
+    "title": "Strategy diagnosis sequence",
+    "subtitle": "sequence",
+    "description": "Uses PESTLE for external context SWOT for synthesis and OKRs for execution",
+    "badges": [
+      "priority: standard",
+      "quality: 0.783",
+      "confusion risk: 0.235",
+      "active"
+    ],
+    "metrics": {
+      "quality_score": 0.783,
+      "confusion_risk": 0.235,
+      "review_priority_score": 0.226,
+      "purpose_fit": 0.84,
+      "role_clarity": 0.82,
+      "boundary_clarity": 0.78,
+      "sequence_clarity": 0.86,
+      "translation_quality": 0.76
+    },
+    "composition": {
+      "composition_type": "sequence",
+      "evidence_alignment": 0.72,
+      "governance_readiness": 0.7,
+      "audience_burden": 0.34,
+      "conflict_risk": 0.18
+    },
+    "governance": {
+      "owner": "strategy",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next framework composition governance cycle."
+    }
+  }
+]

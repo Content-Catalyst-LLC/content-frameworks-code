@@ -1,0 +1,7 @@
+item,composition_type,description,purpose_fit,role_clarity,boundary_clarity,sequence_clarity,translation_quality,evidence_alignment,governance_readiness,audience_burden,conflict_risk,owner,status,review_date
+Strategy diagnosis sequence,sequence,Uses PESTLE for external context SWOT for synthesis and OKRs for execution,0.84,0.82,0.78,0.86,0.76,0.72,0.70,0.34,0.18,strategy,active,2026-06-08
+Public reasoning composite,governed hybrid,Combines claims evidence values tradeoffs stakeholder visibility participation and accountability,0.82,0.78,0.76,0.74,0.80,0.78,0.76,0.42,0.22,governance,active,2026-06-08
+Scenario decision bridge,translation,Translates scenario drivers into decision criteria signposts and robust options,0.80,0.74,0.72,0.76,0.84,0.70,0.68,0.38,0.24,foresight,review,2026-06-08
+Overloaded content model,stack,Combines too many frameworks without clear sequence audience pathway or governance owner,0.48,0.38,0.44,0.36,0.32,0.50,0.40,0.82,0.76,editorial,revise,2026-06-08
+Systems to message pathway,translation,Uses systems map outputs to define public explanation priorities and message boundaries,0.78,0.76,0.80,0.72,0.74,0.70,0.68,0.36,0.20,communication,active,2026-06-08
+Evidence governance hybrid,governed hybrid,Combines claim source confidence review owner and correction status into one workflow,0.80,0.78,0.82,0.74,0.72,0.86,0.80,0.40,0.18,research,active,2026-06-08

@@ -1,0 +1,32 @@
+[
+  {
+    "queue_id": "framework-composition-review-overloaded-content-model",
+    "article_slug": "framework-composition-how-to-combine-models-without-confusion",
+    "item": "Overloaded content model",
+    "composition_type": "stack",
+    "owner": "editorial",
+    "status": "revise",
+    "review_date": "2026-06-08",
+    "review_priority": "high",
+    "quality_score": 0.411,
+    "confusion_risk": 0.72,
+    "review_priority_score": 0.654,
+    "governance_reasons": "weak purpose fit; weak role clarity; weak boundary clarity; weak sequence clarity; weak translation quality; weak evidence alignment; weak governance readiness; high audience burden; high framework conflict risk; high confusion risk; review priority threshold reached; status marked revise",
+    "recommended_action": "Revise this composition before publication and strengthen purpose role boundaries sequence translation evidence governance and audience pathway."
+  },
+  {
+    "queue_id": "framework-composition-review-scenario-decision-bridge",
+    "article_slug": "framework-composition-how-to-combine-models-without-confusion",
+    "item": "Scenario decision bridge",
+    "composition_type": "translation",
+    "owner": "foresight",
+    "status": "review",
+    "review_date": "2026-06-08",
+    "review_priority": "medium",
+    "quality_score": 0.749,
+    "confusion_risk": 0.26,
+    "review_priority_score": 0.256,
+    "governance_reasons": "status marked review",
+    "recommended_action": "Review composition risk translation interfaces model conflicts audience burden and governance dependencies during the next review cycle."
+  }
+]
