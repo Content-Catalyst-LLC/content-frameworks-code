@@ -1,0 +1,59 @@
+{
+  "module": "ai_assisted_framework_design_canvas",
+  "version": "1.0.0",
+  "article_slug": "ai-assisted-framework-design",
+  "article_title": "AI-Assisted Framework Design",
+  "series": "Content Frameworks",
+  "repository_path": "articles/ai-assisted-framework-design/",
+  "entrypoint": "python -m ai_assisted_framework_design_canvas.cli",
+  "default_input": "data/ai_assisted_framework_design_items.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/ai_assisted_framework_design_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/ai_assisted_framework_design_canvas_export.json"
+  },
+  "metrics": [
+    "readiness_score",
+    "ai_framework_risk",
+    "governance_priority_score",
+    "governance_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "ai_assisted_framework_design_item_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "ai_framework_readiness_grid"
+    },
+    {
+      "type": "ai_assisted_framework_design_governance_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": [
+      "weak_conceptual_clarity",
+      "weak_evidence_grounding",
+      "weak_metadata_consistency",
+      "weak_human_review_strength",
+      "weak_bias_review",
+      "weak_governance_maturity",
+      "weak_platform_readiness",
+      "weak_drift_control",
+      "high_unsupported_claim_risk",
+      "high_generic_structure_risk",
+      "weak_output_validation",
+      "high_audience_impact",
+      "high_ai_framework_risk",
+      "governance_priority"
+    ]
+  }
+}

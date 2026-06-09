@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://thecontentcatalyst.net/schemas/ai-assisted-framework-design-canvas-output.schema.json",
+  "title": "AI-Assisted Framework Design Catalyst Canvas Output Schema",
+  "description": "Output schema for AI-assisted framework design audit results, Canvas cards, catalog records, and governance queues.",
+  "type": "object",
+  "required": ["module", "article_slug", "generated_at", "results", "governance_queue", "canvas_cards"],
+  "properties": {
+    "module": { "type": "string", "const": "ai_assisted_framework_design_canvas" },
+    "article_slug": { "type": "string", "const": "ai-assisted-framework-design" },
+    "generated_at": { "type": "string" },
+    "results": { "type": "array" },
+    "governance_queue": { "type": "array" },
+    "canvas_cards": { "type": "array" }
+  },
+  "additionalProperties": true
+}

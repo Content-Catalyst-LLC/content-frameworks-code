@@ -1,0 +1,27 @@
+{
+  "module": "ai_assisted_framework_design_canvas",
+  "version": "1.0.0",
+  "article_slug": "ai-assisted-framework-design",
+  "article_title": "AI-Assisted Framework Design",
+  "generated_at": "2026-06-09T07:18:20+00:00",
+  "record_count": 6,
+  "item_type_counts": {
+    "draft": 1,
+    "article map": 1,
+    "evidence system": 1,
+    "metadata": 1,
+    "repository": 1,
+    "governance workflow": 1
+  },
+  "metrics": [
+    "readiness_score",
+    "ai_framework_risk",
+    "governance_priority_score"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/ai_assisted_framework_design_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/ai_assisted_framework_design_canvas_export.json"
+  }
+}
