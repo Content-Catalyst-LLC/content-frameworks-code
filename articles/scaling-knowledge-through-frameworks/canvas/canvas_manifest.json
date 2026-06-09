@@ -1,0 +1,57 @@
+{
+  "module": "knowledge_scaling_canvas",
+  "version": "1.0.0",
+  "article_slug": "scaling-knowledge-through-frameworks",
+  "article_title": "Scaling Knowledge Through Frameworks",
+  "series": "Content Frameworks",
+  "repository_path": "articles/scaling-knowledge-through-frameworks/",
+  "entrypoint": "python -m knowledge_scaling_canvas.cli",
+  "default_input": "data/knowledge_scaling_items.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/knowledge_scaling_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/knowledge_scaling_canvas_export.json"
+  },
+  "metrics": [
+    "scalability_score",
+    "maintenance_risk",
+    "review_priority_score",
+    "review_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "knowledge_scaling_item_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "knowledge_scaling_grid"
+    },
+    {
+      "type": "knowledge_scaling_governance_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": [
+      "weak_modularity",
+      "weak_taxonomy_quality",
+      "weak_metadata_completeness",
+      "weak_link_coverage",
+      "weak_evidence_alignment",
+      "weak_reuse_readiness",
+      "weak_governance_maturity",
+      "weak_platform_readiness",
+      "weak_audience_pathway_clarity",
+      "high_dependency_complexity",
+      "high_maintenance_risk",
+      "review_priority"
+    ]
+  }
+}

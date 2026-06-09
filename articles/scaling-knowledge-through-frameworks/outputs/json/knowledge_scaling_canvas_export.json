@@ -1,0 +1,427 @@
+{
+  "module": "knowledge_scaling_canvas",
+  "version": "1.0.0",
+  "article_slug": "scaling-knowledge-through-frameworks",
+  "article_title": "Scaling Knowledge Through Frameworks",
+  "generated_at": "2026-06-09T05:52:16+00:00",
+  "results": [
+    {
+      "item": "Legacy topic cluster",
+      "asset_type": "topic cluster",
+      "description": "Older cluster has weak metadata stale links inconsistent tags and unclear review ownership",
+      "owner": "editorial",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "modularity": 0.46,
+      "taxonomy_quality": 0.42,
+      "metadata_completeness": 0.38,
+      "link_coverage": 0.34,
+      "evidence_alignment": 0.4,
+      "reuse_readiness": 0.44,
+      "governance_maturity": 0.3,
+      "platform_readiness": 0.36,
+      "audience_pathway_clarity": 0.48,
+      "dependency_complexity": 0.74,
+      "scalability_score": 0.398,
+      "maintenance_risk": 0.677,
+      "review_priority_score": 0.64,
+      "review_priority": "high",
+      "governance_reasons": "weak modularity; weak taxonomy quality; weak metadata completeness; weak link coverage; weak evidence alignment; weak reuse readiness; weak governance maturity; weak platform readiness; weak audience pathway clarity; high dependency complexity; high maintenance risk; review priority threshold reached; status marked revise",
+      "recommended_action": "Revise this knowledge asset before further scaling and strengthen metadata links evidence reuse governance platform readiness and audience pathway clarity."
+    },
+    {
+      "item": "Repository scaffold",
+      "asset_type": "code repository",
+      "description": "Provides schemas tests outputs markdown queues and reusable multi-language workflows",
+      "owner": "platform",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "modularity": 0.88,
+      "taxonomy_quality": 0.72,
+      "metadata_completeness": 0.78,
+      "link_coverage": 0.66,
+      "evidence_alignment": 0.72,
+      "reuse_readiness": 0.86,
+      "governance_maturity": 0.78,
+      "platform_readiness": 0.88,
+      "audience_pathway_clarity": 0.7,
+      "dependency_complexity": 0.52,
+      "scalability_score": 0.776,
+      "maintenance_risk": 0.334,
+      "review_priority_score": 0.279,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next knowledge scaling governance cycle."
+    },
+    {
+      "item": "Evidence architecture table",
+      "asset_type": "evidence system",
+      "description": "Connects claims sources methods confidence limits review dates and governance owners",
+      "owner": "research",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "modularity": 0.76,
+      "taxonomy_quality": 0.74,
+      "metadata_completeness": 0.8,
+      "link_coverage": 0.68,
+      "evidence_alignment": 0.86,
+      "reuse_readiness": 0.74,
+      "governance_maturity": 0.78,
+      "platform_readiness": 0.72,
+      "audience_pathway_clarity": 0.7,
+      "dependency_complexity": 0.46,
+      "scalability_score": 0.753,
+      "maintenance_risk": 0.28,
+      "review_priority_score": 0.263,
+      "review_priority": "medium",
+      "governance_reasons": "status marked review",
+      "recommended_action": "Review maintenance risk evidence alignment link coverage dependency complexity and governance maturity during the next review cycle."
+    },
+    {
+      "item": "Framework metadata schema",
+      "asset_type": "metadata schema",
+      "description": "Standardizes title SEO slug tags excerpt image metadata repository and status fields",
+      "owner": "governance",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "modularity": 0.82,
+      "taxonomy_quality": 0.78,
+      "metadata_completeness": 0.88,
+      "link_coverage": 0.7,
+      "evidence_alignment": 0.74,
+      "reuse_readiness": 0.8,
+      "governance_maturity": 0.76,
+      "platform_readiness": 0.82,
+      "audience_pathway_clarity": 0.72,
+      "dependency_complexity": 0.42,
+      "scalability_score": 0.78,
+      "maintenance_risk": 0.302,
+      "review_priority_score": 0.261,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next knowledge scaling governance cycle."
+    },
+    {
+      "item": "Learning pathway scaffold",
+      "asset_type": "learning pathway",
+      "description": "Connects foundation comparison method application practice and governance articles",
+      "owner": "education",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "modularity": 0.8,
+      "taxonomy_quality": 0.76,
+      "metadata_completeness": 0.78,
+      "link_coverage": 0.82,
+      "evidence_alignment": 0.7,
+      "reuse_readiness": 0.78,
+      "governance_maturity": 0.72,
+      "platform_readiness": 0.74,
+      "audience_pathway_clarity": 0.88,
+      "dependency_complexity": 0.38,
+      "scalability_score": 0.776,
+      "maintenance_risk": 0.29,
+      "review_priority_score": 0.257,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next knowledge scaling governance cycle."
+    },
+    {
+      "item": "Content Frameworks article map",
+      "asset_type": "article map",
+      "description": "Series map connecting foundational method applied ethics and governance articles",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "modularity": 0.78,
+      "taxonomy_quality": 0.84,
+      "metadata_completeness": 0.8,
+      "link_coverage": 0.82,
+      "evidence_alignment": 0.76,
+      "reuse_readiness": 0.72,
+      "governance_maturity": 0.74,
+      "platform_readiness": 0.7,
+      "audience_pathway_clarity": 0.86,
+      "dependency_complexity": 0.34,
+      "scalability_score": 0.78,
+      "maintenance_risk": 0.259,
+      "review_priority_score": 0.239,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next knowledge scaling governance cycle."
+    }
+  ],
+  "governance_queue": [
+    {
+      "queue_id": "knowledge-scaling-review-legacy-topic-cluster",
+      "article_slug": "scaling-knowledge-through-frameworks",
+      "item": "Legacy topic cluster",
+      "asset_type": "topic cluster",
+      "owner": "editorial",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "scalability_score": 0.398,
+      "maintenance_risk": 0.677,
+      "review_priority_score": 0.64,
+      "governance_reasons": "weak modularity; weak taxonomy quality; weak metadata completeness; weak link coverage; weak evidence alignment; weak reuse readiness; weak governance maturity; weak platform readiness; weak audience pathway clarity; high dependency complexity; high maintenance risk; review priority threshold reached; status marked revise",
+      "recommended_action": "Revise this knowledge asset before further scaling and strengthen metadata links evidence reuse governance platform readiness and audience pathway clarity."
+    },
+    {
+      "queue_id": "knowledge-scaling-review-evidence-architecture-table",
+      "article_slug": "scaling-knowledge-through-frameworks",
+      "item": "Evidence architecture table",
+      "asset_type": "evidence system",
+      "owner": "research",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "scalability_score": 0.753,
+      "maintenance_risk": 0.28,
+      "review_priority_score": 0.263,
+      "governance_reasons": "status marked review",
+      "recommended_action": "Review maintenance risk evidence alignment link coverage dependency complexity and governance maturity during the next review cycle."
+    }
+  ],
+  "canvas_cards": [
+    {
+      "card_id": "knowledge-scaling-item-legacy-topic-cluster",
+      "type": "knowledge_scaling_item_card",
+      "article_slug": "scaling-knowledge-through-frameworks",
+      "title": "Legacy topic cluster",
+      "subtitle": "topic cluster",
+      "description": "Older cluster has weak metadata stale links inconsistent tags and unclear review ownership",
+      "badges": [
+        "priority: high",
+        "scalability: 0.398",
+        "maintenance risk: 0.677",
+        "revise"
+      ],
+      "metrics": {
+        "scalability_score": 0.398,
+        "maintenance_risk": 0.677,
+        "review_priority_score": 0.64,
+        "modularity": 0.46,
+        "taxonomy_quality": 0.42,
+        "metadata_completeness": 0.38,
+        "link_coverage": 0.34,
+        "evidence_alignment": 0.4,
+        "reuse_readiness": 0.44
+      },
+      "knowledge_system": {
+        "asset_type": "topic cluster",
+        "governance_maturity": 0.3,
+        "platform_readiness": 0.36,
+        "audience_pathway_clarity": 0.48,
+        "dependency_complexity": 0.74
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "revise",
+        "review_date": "2026-06-08",
+        "review_priority": "high",
+        "reasons": "weak modularity; weak taxonomy quality; weak metadata completeness; weak link coverage; weak evidence alignment; weak reuse readiness; weak governance maturity; weak platform readiness; weak audience pathway clarity; high dependency complexity; high maintenance risk; review priority threshold reached; status marked revise",
+        "recommended_action": "Revise this knowledge asset before further scaling and strengthen metadata links evidence reuse governance platform readiness and audience pathway clarity."
+      }
+    },
+    {
+      "card_id": "knowledge-scaling-item-repository-scaffold",
+      "type": "knowledge_scaling_item_card",
+      "article_slug": "scaling-knowledge-through-frameworks",
+      "title": "Repository scaffold",
+      "subtitle": "code repository",
+      "description": "Provides schemas tests outputs markdown queues and reusable multi-language workflows",
+      "badges": [
+        "priority: standard",
+        "scalability: 0.776",
+        "maintenance risk: 0.334",
+        "active"
+      ],
+      "metrics": {
+        "scalability_score": 0.776,
+        "maintenance_risk": 0.334,
+        "review_priority_score": 0.279,
+        "modularity": 0.88,
+        "taxonomy_quality": 0.72,
+        "metadata_completeness": 0.78,
+        "link_coverage": 0.66,
+        "evidence_alignment": 0.72,
+        "reuse_readiness": 0.86
+      },
+      "knowledge_system": {
+        "asset_type": "code repository",
+        "governance_maturity": 0.78,
+        "platform_readiness": 0.88,
+        "audience_pathway_clarity": 0.7,
+        "dependency_complexity": 0.52
+      },
+      "governance": {
+        "owner": "platform",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next knowledge scaling governance cycle."
+      }
+    },
+    {
+      "card_id": "knowledge-scaling-item-evidence-architecture-table",
+      "type": "knowledge_scaling_item_card",
+      "article_slug": "scaling-knowledge-through-frameworks",
+      "title": "Evidence architecture table",
+      "subtitle": "evidence system",
+      "description": "Connects claims sources methods confidence limits review dates and governance owners",
+      "badges": [
+        "priority: medium",
+        "scalability: 0.753",
+        "maintenance risk: 0.28",
+        "review"
+      ],
+      "metrics": {
+        "scalability_score": 0.753,
+        "maintenance_risk": 0.28,
+        "review_priority_score": 0.263,
+        "modularity": 0.76,
+        "taxonomy_quality": 0.74,
+        "metadata_completeness": 0.8,
+        "link_coverage": 0.68,
+        "evidence_alignment": 0.86,
+        "reuse_readiness": 0.74
+      },
+      "knowledge_system": {
+        "asset_type": "evidence system",
+        "governance_maturity": 0.78,
+        "platform_readiness": 0.72,
+        "audience_pathway_clarity": 0.7,
+        "dependency_complexity": 0.46
+      },
+      "governance": {
+        "owner": "research",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "status marked review",
+        "recommended_action": "Review maintenance risk evidence alignment link coverage dependency complexity and governance maturity during the next review cycle."
+      }
+    },
+    {
+      "card_id": "knowledge-scaling-item-framework-metadata-schema",
+      "type": "knowledge_scaling_item_card",
+      "article_slug": "scaling-knowledge-through-frameworks",
+      "title": "Framework metadata schema",
+      "subtitle": "metadata schema",
+      "description": "Standardizes title SEO slug tags excerpt image metadata repository and status fields",
+      "badges": [
+        "priority: standard",
+        "scalability: 0.78",
+        "maintenance risk: 0.302",
+        "active"
+      ],
+      "metrics": {
+        "scalability_score": 0.78,
+        "maintenance_risk": 0.302,
+        "review_priority_score": 0.261,
+        "modularity": 0.82,
+        "taxonomy_quality": 0.78,
+        "metadata_completeness": 0.88,
+        "link_coverage": 0.7,
+        "evidence_alignment": 0.74,
+        "reuse_readiness": 0.8
+      },
+      "knowledge_system": {
+        "asset_type": "metadata schema",
+        "governance_maturity": 0.76,
+        "platform_readiness": 0.82,
+        "audience_pathway_clarity": 0.72,
+        "dependency_complexity": 0.42
+      },
+      "governance": {
+        "owner": "governance",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next knowledge scaling governance cycle."
+      }
+    },
+    {
+      "card_id": "knowledge-scaling-item-learning-pathway-scaffold",
+      "type": "knowledge_scaling_item_card",
+      "article_slug": "scaling-knowledge-through-frameworks",
+      "title": "Learning pathway scaffold",
+      "subtitle": "learning pathway",
+      "description": "Connects foundation comparison method application practice and governance articles",
+      "badges": [
+        "priority: standard",
+        "scalability: 0.776",
+        "maintenance risk: 0.29",
+        "active"
+      ],
+      "metrics": {
+        "scalability_score": 0.776,
+        "maintenance_risk": 0.29,
+        "review_priority_score": 0.257,
+        "modularity": 0.8,
+        "taxonomy_quality": 0.76,
+        "metadata_completeness": 0.78,
+        "link_coverage": 0.82,
+        "evidence_alignment": 0.7,
+        "reuse_readiness": 0.78
+      },
+      "knowledge_system": {
+        "asset_type": "learning pathway",
+        "governance_maturity": 0.72,
+        "platform_readiness": 0.74,
+        "audience_pathway_clarity": 0.88,
+        "dependency_complexity": 0.38
+      },
+      "governance": {
+        "owner": "education",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next knowledge scaling governance cycle."
+      }
+    },
+    {
+      "card_id": "knowledge-scaling-item-content-frameworks-article-map",
+      "type": "knowledge_scaling_item_card",
+      "article_slug": "scaling-knowledge-through-frameworks",
+      "title": "Content Frameworks article map",
+      "subtitle": "article map",
+      "description": "Series map connecting foundational method applied ethics and governance articles",
+      "badges": [
+        "priority: standard",
+        "scalability: 0.78",
+        "maintenance risk: 0.259",
+        "active"
+      ],
+      "metrics": {
+        "scalability_score": 0.78,
+        "maintenance_risk": 0.259,
+        "review_priority_score": 0.239,
+        "modularity": 0.78,
+        "taxonomy_quality": 0.84,
+        "metadata_completeness": 0.8,
+        "link_coverage": 0.82,
+        "evidence_alignment": 0.76,
+        "reuse_readiness": 0.72
+      },
+      "knowledge_system": {
+        "asset_type": "article map",
+        "governance_maturity": 0.74,
+        "platform_readiness": 0.7,
+        "audience_pathway_clarity": 0.86,
+        "dependency_complexity": 0.34
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next knowledge scaling governance cycle."
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "queue_id": "knowledge-scaling-review-legacy-topic-cluster",
+    "article_slug": "scaling-knowledge-through-frameworks",
+    "item": "Legacy topic cluster",
+    "asset_type": "topic cluster",
+    "owner": "editorial",
+    "status": "revise",
+    "review_date": "2026-06-08",
+    "review_priority": "high",
+    "scalability_score": 0.398,
+    "maintenance_risk": 0.677,
+    "review_priority_score": 0.64,
+    "governance_reasons": "weak modularity; weak taxonomy quality; weak metadata completeness; weak link coverage; weak evidence alignment; weak reuse readiness; weak governance maturity; weak platform readiness; weak audience pathway clarity; high dependency complexity; high maintenance risk; review priority threshold reached; status marked revise",
+    "recommended_action": "Revise this knowledge asset before further scaling and strengthen metadata links evidence reuse governance platform readiness and audience pathway clarity."
+  },
+  {
+    "queue_id": "knowledge-scaling-review-evidence-architecture-table",
+    "article_slug": "scaling-knowledge-through-frameworks",
+    "item": "Evidence architecture table",
+    "asset_type": "evidence system",
+    "owner": "research",
+    "status": "review",
+    "review_date": "2026-06-08",
+    "review_priority": "medium",
+    "scalability_score": 0.753,
+    "maintenance_risk": 0.28,
+    "review_priority_score": 0.263,
+    "governance_reasons": "status marked review",
+    "recommended_action": "Review maintenance risk evidence alignment link coverage dependency complexity and governance maturity during the next review cycle."
+  }
+]

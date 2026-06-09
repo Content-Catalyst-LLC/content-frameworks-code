@@ -1,0 +1,7 @@
+item,asset_type,description,modularity,taxonomy_quality,metadata_completeness,link_coverage,evidence_alignment,reuse_readiness,governance_maturity,platform_readiness,audience_pathway_clarity,dependency_complexity,owner,status,review_date
+Content Frameworks article map,article map,Series map connecting foundational method applied ethics and governance articles,0.78,0.84,0.80,0.82,0.76,0.72,0.74,0.70,0.86,0.34,editorial,active,2026-06-08
+Framework metadata schema,metadata schema,Standardizes title SEO slug tags excerpt image metadata repository and status fields,0.82,0.78,0.88,0.70,0.74,0.80,0.76,0.82,0.72,0.42,governance,active,2026-06-08
+Evidence architecture table,evidence system,Connects claims sources methods confidence limits review dates and governance owners,0.76,0.74,0.80,0.68,0.86,0.74,0.78,0.72,0.70,0.46,research,review,2026-06-08
+Repository scaffold,code repository,Provides schemas tests outputs markdown queues and reusable multi-language workflows,0.88,0.72,0.78,0.66,0.72,0.86,0.78,0.88,0.70,0.52,platform,active,2026-06-08
+Legacy topic cluster,topic cluster,Older cluster has weak metadata stale links inconsistent tags and unclear review ownership,0.46,0.42,0.38,0.34,0.40,0.44,0.30,0.36,0.48,0.74,editorial,revise,2026-06-08
+Learning pathway scaffold,learning pathway,Connects foundation comparison method application practice and governance articles,0.80,0.76,0.78,0.82,0.70,0.78,0.72,0.74,0.88,0.38,education,active,2026-06-08

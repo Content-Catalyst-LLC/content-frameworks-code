@@ -1,0 +1,27 @@
+{
+  "module": "knowledge_scaling_canvas",
+  "version": "1.0.0",
+  "article_slug": "scaling-knowledge-through-frameworks",
+  "article_title": "Scaling Knowledge Through Frameworks",
+  "generated_at": "2026-06-09T05:52:16+00:00",
+  "record_count": 6,
+  "asset_type_counts": {
+    "topic cluster": 1,
+    "code repository": 1,
+    "evidence system": 1,
+    "metadata schema": 1,
+    "learning pathway": 1,
+    "article map": 1
+  },
+  "metrics": [
+    "scalability_score",
+    "maintenance_risk",
+    "review_priority_score"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/knowledge_scaling_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/knowledge_scaling_canvas_export.json"
+  }
+}
