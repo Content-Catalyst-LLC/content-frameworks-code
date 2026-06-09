@@ -1,0 +1,8 @@
+factor,category,signal_type,description,impact,urgency,evidence_strength,uncertainty,strategic_relevance,actionability,claim_strength,owner,status,review_date
+AI governance expectations,technological,driver,AI-assisted publishing raises demand for evidence review traceability and accountability,0.88,0.82,0.74,0.64,0.90,0.78,0.84,governance,review,2026-06-08
+Privacy constraints on analytics,legal,constraint,Privacy obligations limit audience tracking personalization and assumption-heavy journey modeling,0.78,0.70,0.76,0.48,0.82,0.66,0.80,legal,review,2026-06-08
+Audience trust pressure,social,driver,Skepticism toward generic content increases demand for visible sources author context and reproducible support,0.84,0.76,0.70,0.58,0.88,0.74,0.82,editorial,review,2026-06-08
+Budget pressure on content teams,economic,pressure,Organizations seek efficient content governance reusable frameworks and automation-supported maintenance,0.80,0.74,0.72,0.42,0.84,0.76,0.78,strategy,active,2026-06-08
+Climate adaptation demand,environmental,driver,Climate risk increases demand for systems-oriented explainers on resilience infrastructure and governance,0.82,0.68,0.66,0.62,0.78,0.60,0.82,research,review,2026-06-08
+Public-sector AI oversight,political,driver,Government and institutional oversight priorities increase demand for accountable AI governance communication,0.76,0.72,0.68,0.56,0.80,0.64,0.76,policy,review,2026-06-08
+Government policy change,political,weak_signal,Vague example included to test weak specificity evidence and governance review,0.58,0.54,0.32,0.70,0.52,0.42,0.78,strategy,revise,2026-06-08

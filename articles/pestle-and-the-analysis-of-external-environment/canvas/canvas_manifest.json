@@ -1,0 +1,53 @@
+{
+  "module": "pestle_canvas",
+  "version": "1.0.0",
+  "article_slug": "pestle-and-the-analysis-of-external-environment",
+  "article_title": "PESTLE and the Analysis of External Environment",
+  "series": "Content Frameworks",
+  "repository_path": "articles/pestle-and-the-analysis-of-external-environment/",
+  "entrypoint": "python -m pestle_canvas.cli",
+  "default_input": "data/pestle_factors.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/pestle_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/pestle_canvas_export.json"
+  },
+  "metrics": [
+    "readiness_score",
+    "weighted_priority",
+    "evidence_gap",
+    "monitoring_priority",
+    "governance_priority",
+    "review_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "pestle_factor_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "category_grid"
+    },
+    {
+      "type": "pestle_governance_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": [
+      "evidence_gap",
+      "high_uncertainty",
+      "weak_relevance",
+      "low_actionability",
+      "monitoring_needed",
+      "stale_external_signal"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "module": "pestle_canvas",
+  "version": "1.0.0",
+  "article_slug": "pestle-and-the-analysis-of-external-environment",
+  "article_title": "PESTLE and the Analysis of External Environment",
+  "generated_at": "2026-06-09T01:23:51+00:00",
+  "record_count": 7,
+  "category_counts": {
+    "technological": 1,
+    "social": 1,
+    "environmental": 1,
+    "economic": 1,
+    "political": 2,
+    "legal": 1
+  },
+  "signal_counts": {
+    "driver": 4,
+    "pressure": 1,
+    "constraint": 1,
+    "weak_signal": 1
+  },
+  "metrics": [
+    "readiness_score",
+    "weighted_priority",
+    "evidence_gap",
+    "monitoring_priority",
+    "governance_priority"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/pestle_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/pestle_canvas_export.json"
+  }
+}
