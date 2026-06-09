@@ -1,0 +1,7 @@
+item,communication_type,description,clarity,authority_coverage,evidence_strength,stakeholder_visibility,feedback_quality,channel_fit,cultural_alignment,governance_coverage,ambiguity,claim_strength,owner,status,review_date
+Strategy update,leadership,Explains annual priorities owners review points and decision rationale,0.82,0.78,0.72,0.70,0.62,0.76,0.74,0.70,0.28,0.80,leadership,active,2026-06-08
+Values statement,culture,States organizational values but needs stronger examples governance and behavioral evidence,0.72,0.56,0.48,0.60,0.50,0.70,0.62,0.46,0.58,0.82,people,review,2026-06-08
+Decision record,institutional memory,Documents decision rationale evidence alternatives owner and review trigger,0.86,0.88,0.82,0.68,0.70,0.74,0.76,0.84,0.20,0.78,governance,active,2026-06-08
+Change announcement,change,Announces process change but lacks stakeholder impact and feedback pathway,0.66,0.62,0.58,0.42,0.36,0.68,0.54,0.50,0.66,0.78,operations,revise,2026-06-08
+Public accountability page,external,Explains commitments evidence ownership review dates and correction routes,0.80,0.76,0.74,0.72,0.68,0.78,0.70,0.82,0.24,0.76,communications,active,2026-06-08
+Onboarding knowledge map,internal,Connects new employees to roles systems decisions channels and durable knowledge assets,0.78,0.72,0.70,0.74,0.66,0.82,0.76,0.72,0.26,0.74,knowledge,active,2026-06-08

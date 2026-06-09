@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://thecontentcatalyst.net/schemas/institutional-communication-canvas-output.schema.json",
+  "title": "Institutional and Organizational Communication Catalyst Canvas Output Schema",
+  "description": "Output schema for institutional communication audit results Canvas cards catalog records and governance queues.",
+  "type": "object",
+  "required": ["module", "article_slug", "generated_at", "results", "governance_queue", "canvas_cards"],
+  "properties": {
+    "module": { "type": "string", "const": "institutional_communication_canvas" },
+    "article_slug": { "type": "string", "const": "frameworks-for-institutional-and-organizational-communication" },
+    "generated_at": { "type": "string" },
+    "results": { "type": "array" },
+    "governance_queue": { "type": "array" },
+    "canvas_cards": { "type": "array" }
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,28 @@
+{
+  "module": "institutional_communication_canvas",
+  "version": "1.0.0",
+  "article_slug": "frameworks-for-institutional-and-organizational-communication",
+  "article_title": "Frameworks for Institutional and Organizational Communication",
+  "generated_at": "2026-06-09T04:09:52+00:00",
+  "record_count": 6,
+  "communication_type_counts": {
+    "culture": 1,
+    "change": 1,
+    "leadership": 1,
+    "internal": 1,
+    "external": 1,
+    "institutional memory": 1
+  },
+  "metrics": [
+    "quality_score",
+    "evidence_gap",
+    "trust_risk",
+    "review_priority_score"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/institutional_communication_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/institutional_communication_canvas_export.json"
+  }
+}

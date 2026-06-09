@@ -1,0 +1,57 @@
+{
+  "module": "institutional_communication_canvas",
+  "version": "1.0.0",
+  "article_slug": "frameworks-for-institutional-and-organizational-communication",
+  "article_title": "Frameworks for Institutional and Organizational Communication",
+  "series": "Content Frameworks",
+  "repository_path": "articles/frameworks-for-institutional-and-organizational-communication/",
+  "entrypoint": "python -m institutional_communication_canvas.cli",
+  "default_input": "data/institutional_communication_items.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/institutional_communication_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/institutional_communication_canvas_export.json"
+  },
+  "metrics": [
+    "quality_score",
+    "evidence_gap",
+    "trust_risk",
+    "review_priority_score",
+    "review_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "institutional_communication_item_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "communication_governance_grid"
+    },
+    {
+      "type": "institutional_communication_governance_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": [
+      "weak_clarity",
+      "weak_authority_coverage",
+      "weak_evidence_strength",
+      "weak_stakeholder_visibility",
+      "weak_feedback_quality",
+      "weak_channel_fit",
+      "weak_cultural_alignment",
+      "weak_governance_coverage",
+      "high_ambiguity",
+      "evidence_gap",
+      "trust_risk"
+    ]
+  }
+}
