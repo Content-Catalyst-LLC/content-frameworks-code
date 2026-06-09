@@ -1,0 +1,26 @@
+{
+  "module": "swot_canvas",
+  "version": "1.0.0",
+  "article_slug": "swot-analysis-strengths-uses-and-limits",
+  "article_title": "SWOT Analysis: Strengths, Uses, and Limits",
+  "generated_at": "2026-06-09T01:03:01+00:00",
+  "record_count": 6,
+  "quadrant_counts": {
+    "opportunity": 1,
+    "weakness": 1,
+    "threat": 2,
+    "strength": 2
+  },
+  "metrics": [
+    "priority_score",
+    "weighted_priority",
+    "evidence_gap",
+    "governance_priority"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/swot_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/swot_canvas_export.json"
+  }
+}

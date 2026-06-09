@@ -1,0 +1,469 @@
+{
+  "module": "swot_canvas",
+  "version": "1.0.0",
+  "article_slug": "swot-analysis-strengths-uses-and-limits",
+  "article_title": "SWOT Analysis: Strengths, Uses, and Limits",
+  "generated_at": "2026-06-09T01:03:01+00:00",
+  "results": [
+    {
+      "item": "Demand for auditable content systems",
+      "quadrant": "opportunity",
+      "orientation": "external",
+      "description": "Organizations need structured evidence-aware knowledge systems",
+      "owner": "strategy",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "impact": 0.88,
+      "confidence": 0.7,
+      "urgency": 0.76,
+      "feasibility": 0.64,
+      "strategic_fit": 0.9,
+      "evidence_strength": 0.66,
+      "claim_strength": 0.84,
+      "priority_score": 0.776,
+      "weighted_priority": 0.788,
+      "evidence_gap": 0.18,
+      "governance_priority": 0.878,
+      "review_priority": "medium",
+      "governance_reasons": "evidence gap; high governance priority; status marked review"
+    },
+    {
+      "item": "Limited maintenance capacity",
+      "quadrant": "weakness",
+      "orientation": "internal",
+      "description": "Publishing scope may exceed review and governance capacity",
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "impact": 0.82,
+      "confidence": 0.78,
+      "urgency": 0.84,
+      "feasibility": 0.68,
+      "strategic_fit": 0.88,
+      "evidence_strength": 0.74,
+      "claim_strength": 0.82,
+      "priority_score": 0.8,
+      "weighted_priority": 0.805,
+      "evidence_gap": 0.08,
+      "governance_priority": 0.845,
+      "review_priority": "medium",
+      "governance_reasons": "high governance priority; status marked review"
+    },
+    {
+      "item": "Generic content saturation",
+      "quadrant": "threat",
+      "orientation": "external",
+      "description": "High-volume generic publishing can reduce visibility and trust",
+      "owner": "strategy",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "impact": 0.8,
+      "confidence": 0.72,
+      "urgency": 0.78,
+      "feasibility": 0.62,
+      "strategic_fit": 0.84,
+      "evidence_strength": 0.68,
+      "claim_strength": 0.82,
+      "priority_score": 0.752,
+      "weighted_priority": 0.76,
+      "evidence_gap": 0.14,
+      "governance_priority": 0.83,
+      "review_priority": "medium",
+      "governance_reasons": "high governance priority; status marked review"
+    },
+    {
+      "item": "Structured article architecture",
+      "quadrant": "strength",
+      "orientation": "internal",
+      "description": "Consistent article maps metadata navigation internal links and repository support",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "impact": 0.86,
+      "confidence": 0.82,
+      "urgency": 0.72,
+      "feasibility": 0.78,
+      "strategic_fit": 0.9,
+      "evidence_strength": 0.82,
+      "claim_strength": 0.78,
+      "priority_score": 0.816,
+      "weighted_priority": 0.822,
+      "evidence_gap": 0.0,
+      "governance_priority": 0.822,
+      "review_priority": "medium",
+      "governance_reasons": "high governance priority"
+    },
+    {
+      "item": "Search volatility",
+      "quadrant": "threat",
+      "orientation": "external",
+      "description": "Algorithm changes may disrupt discovery for long-form educational content",
+      "owner": "strategy",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "impact": 0.76,
+      "confidence": 0.7,
+      "urgency": 0.74,
+      "feasibility": 0.58,
+      "strategic_fit": 0.82,
+      "evidence_strength": 0.7,
+      "claim_strength": 0.78,
+      "priority_score": 0.72,
+      "weighted_priority": 0.728,
+      "evidence_gap": 0.08,
+      "governance_priority": 0.768,
+      "review_priority": "medium",
+      "governance_reasons": "low feasibility; high governance priority; status marked review"
+    },
+    {
+      "item": "Strong brand",
+      "quadrant": "strength",
+      "orientation": "internal",
+      "description": "Vague example included to test weak specificity and evidence",
+      "owner": "editorial",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "impact": 0.54,
+      "confidence": 0.42,
+      "urgency": 0.4,
+      "feasibility": 0.52,
+      "strategic_fit": 0.5,
+      "evidence_strength": 0.3,
+      "claim_strength": 0.76,
+      "priority_score": 0.476,
+      "weighted_priority": 0.48,
+      "evidence_gap": 0.46,
+      "governance_priority": 0.71,
+      "review_priority": "high",
+      "governance_reasons": "low confidence; low feasibility; weak evidence strength; evidence gap; status marked revise"
+    }
+  ],
+  "governance_queue": [
+    {
+      "queue_id": "swot-review-strong-brand",
+      "article_slug": "swot-analysis-strengths-uses-and-limits",
+      "item": "Strong brand",
+      "quadrant": "strength",
+      "orientation": "internal",
+      "owner": "editorial",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "weighted_priority": 0.48,
+      "evidence_gap": 0.46,
+      "governance_priority": 0.71,
+      "governance_reasons": "low confidence; low feasibility; weak evidence strength; evidence gap; status marked revise",
+      "recommended_action": "Revise this SWOT item before reuse and strengthen evidence specificity or action logic."
+    },
+    {
+      "queue_id": "swot-review-demand-for-auditable-content-systems",
+      "article_slug": "swot-analysis-strengths-uses-and-limits",
+      "item": "Demand for auditable content systems",
+      "quadrant": "opportunity",
+      "orientation": "external",
+      "owner": "strategy",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "weighted_priority": 0.788,
+      "evidence_gap": 0.18,
+      "governance_priority": 0.878,
+      "governance_reasons": "evidence gap; high governance priority; status marked review",
+      "recommended_action": "Review evidence support confidence feasibility and strategic action implications."
+    },
+    {
+      "queue_id": "swot-review-limited-maintenance-capacity",
+      "article_slug": "swot-analysis-strengths-uses-and-limits",
+      "item": "Limited maintenance capacity",
+      "quadrant": "weakness",
+      "orientation": "internal",
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "weighted_priority": 0.805,
+      "evidence_gap": 0.08,
+      "governance_priority": 0.845,
+      "governance_reasons": "high governance priority; status marked review",
+      "recommended_action": "Review evidence support confidence feasibility and strategic action implications."
+    },
+    {
+      "queue_id": "swot-review-generic-content-saturation",
+      "article_slug": "swot-analysis-strengths-uses-and-limits",
+      "item": "Generic content saturation",
+      "quadrant": "threat",
+      "orientation": "external",
+      "owner": "strategy",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "weighted_priority": 0.76,
+      "evidence_gap": 0.14,
+      "governance_priority": 0.83,
+      "governance_reasons": "high governance priority; status marked review",
+      "recommended_action": "Review evidence support confidence feasibility and strategic action implications."
+    },
+    {
+      "queue_id": "swot-review-structured-article-architecture",
+      "article_slug": "swot-analysis-strengths-uses-and-limits",
+      "item": "Structured article architecture",
+      "quadrant": "strength",
+      "orientation": "internal",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "weighted_priority": 0.822,
+      "evidence_gap": 0.0,
+      "governance_priority": 0.822,
+      "governance_reasons": "high governance priority",
+      "recommended_action": "Review evidence support confidence feasibility and strategic action implications."
+    },
+    {
+      "queue_id": "swot-review-search-volatility",
+      "article_slug": "swot-analysis-strengths-uses-and-limits",
+      "item": "Search volatility",
+      "quadrant": "threat",
+      "orientation": "external",
+      "owner": "strategy",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "weighted_priority": 0.728,
+      "evidence_gap": 0.08,
+      "governance_priority": 0.768,
+      "governance_reasons": "low feasibility; high governance priority; status marked review",
+      "recommended_action": "Review evidence support confidence feasibility and strategic action implications."
+    }
+  ],
+  "canvas_cards": [
+    {
+      "card_id": "swot-item-demand-for-auditable-content-systems",
+      "type": "swot_item_card",
+      "article_slug": "swot-analysis-strengths-uses-and-limits",
+      "title": "Demand for auditable content systems",
+      "subtitle": "opportunity / external",
+      "description": "Organizations need structured evidence-aware knowledge systems",
+      "badges": [
+        "priority: medium",
+        "governance: 0.878",
+        "review"
+      ],
+      "metrics": {
+        "priority_score": 0.776,
+        "weighted_priority": 0.788,
+        "evidence_gap": 0.18,
+        "governance_priority": 0.878,
+        "evidence_strength": 0.66
+      },
+      "swot": {
+        "quadrant": "opportunity",
+        "orientation": "external",
+        "impact": 0.88,
+        "confidence": 0.7,
+        "urgency": 0.76,
+        "feasibility": 0.64,
+        "strategic_fit": 0.9,
+        "claim_strength": 0.84
+      },
+      "governance": {
+        "owner": "strategy",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "evidence gap; high governance priority; status marked review"
+      },
+      "recommended_action": "Review evidence support confidence feasibility and strategic action implications."
+    },
+    {
+      "card_id": "swot-item-limited-maintenance-capacity",
+      "type": "swot_item_card",
+      "article_slug": "swot-analysis-strengths-uses-and-limits",
+      "title": "Limited maintenance capacity",
+      "subtitle": "weakness / internal",
+      "description": "Publishing scope may exceed review and governance capacity",
+      "badges": [
+        "priority: medium",
+        "governance: 0.845",
+        "review"
+      ],
+      "metrics": {
+        "priority_score": 0.8,
+        "weighted_priority": 0.805,
+        "evidence_gap": 0.08,
+        "governance_priority": 0.845,
+        "evidence_strength": 0.74
+      },
+      "swot": {
+        "quadrant": "weakness",
+        "orientation": "internal",
+        "impact": 0.82,
+        "confidence": 0.78,
+        "urgency": 0.84,
+        "feasibility": 0.68,
+        "strategic_fit": 0.88,
+        "claim_strength": 0.82
+      },
+      "governance": {
+        "owner": "governance",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "high governance priority; status marked review"
+      },
+      "recommended_action": "Review evidence support confidence feasibility and strategic action implications."
+    },
+    {
+      "card_id": "swot-item-generic-content-saturation",
+      "type": "swot_item_card",
+      "article_slug": "swot-analysis-strengths-uses-and-limits",
+      "title": "Generic content saturation",
+      "subtitle": "threat / external",
+      "description": "High-volume generic publishing can reduce visibility and trust",
+      "badges": [
+        "priority: medium",
+        "governance: 0.83",
+        "review"
+      ],
+      "metrics": {
+        "priority_score": 0.752,
+        "weighted_priority": 0.76,
+        "evidence_gap": 0.14,
+        "governance_priority": 0.83,
+        "evidence_strength": 0.68
+      },
+      "swot": {
+        "quadrant": "threat",
+        "orientation": "external",
+        "impact": 0.8,
+        "confidence": 0.72,
+        "urgency": 0.78,
+        "feasibility": 0.62,
+        "strategic_fit": 0.84,
+        "claim_strength": 0.82
+      },
+      "governance": {
+        "owner": "strategy",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "high governance priority; status marked review"
+      },
+      "recommended_action": "Review evidence support confidence feasibility and strategic action implications."
+    },
+    {
+      "card_id": "swot-item-structured-article-architecture",
+      "type": "swot_item_card",
+      "article_slug": "swot-analysis-strengths-uses-and-limits",
+      "title": "Structured article architecture",
+      "subtitle": "strength / internal",
+      "description": "Consistent article maps metadata navigation internal links and repository support",
+      "badges": [
+        "priority: medium",
+        "governance: 0.822",
+        "active"
+      ],
+      "metrics": {
+        "priority_score": 0.816,
+        "weighted_priority": 0.822,
+        "evidence_gap": 0.0,
+        "governance_priority": 0.822,
+        "evidence_strength": 0.82
+      },
+      "swot": {
+        "quadrant": "strength",
+        "orientation": "internal",
+        "impact": 0.86,
+        "confidence": 0.82,
+        "urgency": 0.72,
+        "feasibility": 0.78,
+        "strategic_fit": 0.9,
+        "claim_strength": 0.78
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "high governance priority"
+      },
+      "recommended_action": "Review evidence support confidence feasibility and strategic action implications."
+    },
+    {
+      "card_id": "swot-item-search-volatility",
+      "type": "swot_item_card",
+      "article_slug": "swot-analysis-strengths-uses-and-limits",
+      "title": "Search volatility",
+      "subtitle": "threat / external",
+      "description": "Algorithm changes may disrupt discovery for long-form educational content",
+      "badges": [
+        "priority: medium",
+        "governance: 0.768",
+        "review"
+      ],
+      "metrics": {
+        "priority_score": 0.72,
+        "weighted_priority": 0.728,
+        "evidence_gap": 0.08,
+        "governance_priority": 0.768,
+        "evidence_strength": 0.7
+      },
+      "swot": {
+        "quadrant": "threat",
+        "orientation": "external",
+        "impact": 0.76,
+        "confidence": 0.7,
+        "urgency": 0.74,
+        "feasibility": 0.58,
+        "strategic_fit": 0.82,
+        "claim_strength": 0.78
+      },
+      "governance": {
+        "owner": "strategy",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "low feasibility; high governance priority; status marked review"
+      },
+      "recommended_action": "Review evidence support confidence feasibility and strategic action implications."
+    },
+    {
+      "card_id": "swot-item-strong-brand",
+      "type": "swot_item_card",
+      "article_slug": "swot-analysis-strengths-uses-and-limits",
+      "title": "Strong brand",
+      "subtitle": "strength / internal",
+      "description": "Vague example included to test weak specificity and evidence",
+      "badges": [
+        "priority: high",
+        "governance: 0.71",
+        "revise"
+      ],
+      "metrics": {
+        "priority_score": 0.476,
+        "weighted_priority": 0.48,
+        "evidence_gap": 0.46,
+        "governance_priority": 0.71,
+        "evidence_strength": 0.3
+      },
+      "swot": {
+        "quadrant": "strength",
+        "orientation": "internal",
+        "impact": 0.54,
+        "confidence": 0.42,
+        "urgency": 0.4,
+        "feasibility": 0.52,
+        "strategic_fit": 0.5,
+        "claim_strength": 0.76
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "revise",
+        "review_date": "2026-06-08",
+        "review_priority": "high",
+        "reasons": "low confidence; low feasibility; weak evidence strength; evidence gap; status marked revise"
+      },
+      "recommended_action": "Revise this SWOT item before reuse and strengthen evidence specificity or action logic."
+    }
+  ]
+}
