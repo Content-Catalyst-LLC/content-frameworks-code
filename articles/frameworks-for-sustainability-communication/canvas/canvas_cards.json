@@ -1,0 +1,242 @@
+[
+  {
+    "card_id": "sustainability-claim-eco-friendly-product",
+    "type": "sustainability_claim_card",
+    "article_slug": "frameworks-for-sustainability-communication",
+    "title": "Eco-friendly product",
+    "subtitle": "product",
+    "description": "Broad product level claim without enough lifecycle boundary or evidence",
+    "badges": [
+      "priority: high",
+      "quality: 0.383",
+      "greenwashing risk: 0.673",
+      "revise"
+    ],
+    "metrics": {
+      "quality_score": 0.383,
+      "evidence_gap": 0.48,
+      "greenwashing_risk": 0.673,
+      "review_priority_score": 0.593,
+      "claim_specificity": 0.34,
+      "boundary_clarity": 0.3,
+      "evidence_strength": 0.38,
+      "stakeholder_visibility": 0.4,
+      "accountability_coverage": 0.36
+    },
+    "sustainability_claim": {
+      "claim_type": "product",
+      "materiality_relevance": 0.52,
+      "uncertainty_disclosure": 0.34,
+      "promotional_intensity": 0.78,
+      "claim_strength": 0.86
+    },
+    "governance": {
+      "owner": "marketing",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "reasons": "vague claim; weak boundary clarity; weak evidence strength; weak materiality relevance; weak stakeholder visibility; weak accountability coverage; weak uncertainty disclosure; high promotional intensity; evidence gap; greenwashing risk; review priority threshold reached; status marked revise",
+      "recommended_action": "Revise this claim before publication and strengthen boundary evidence stakeholder visibility accountability and uncertainty disclosure."
+    }
+  },
+  {
+    "card_id": "sustainability-claim-net-zero-pathway",
+    "type": "sustainability_claim_card",
+    "article_slug": "frameworks-for-sustainability-communication",
+    "title": "Net-zero pathway",
+    "subtitle": "climate",
+    "description": "States climate target but needs clearer emissions boundary and offset policy",
+    "badges": [
+      "priority: medium",
+      "quality: 0.633",
+      "greenwashing risk: 0.404",
+      "review"
+    ],
+    "metrics": {
+      "quality_score": 0.633,
+      "evidence_gap": 0.28,
+      "greenwashing_risk": 0.404,
+      "review_priority_score": 0.374,
+      "claim_specificity": 0.7,
+      "boundary_clarity": 0.54,
+      "evidence_strength": 0.58,
+      "stakeholder_visibility": 0.56,
+      "accountability_coverage": 0.6
+    },
+    "sustainability_claim": {
+      "claim_type": "climate",
+      "materiality_relevance": 0.82,
+      "uncertainty_disclosure": 0.52,
+      "promotional_intensity": 0.48,
+      "claim_strength": 0.86
+    },
+    "governance": {
+      "owner": "sustainability",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "weak boundary clarity; weak evidence strength; weak stakeholder visibility; weak uncertainty disclosure; evidence gap; status marked review",
+      "recommended_action": "Keep active and review during the next sustainability communication governance cycle."
+    }
+  },
+  {
+    "card_id": "sustainability-claim-lifecycle-packaging-claim",
+    "type": "sustainability_claim_card",
+    "article_slug": "frameworks-for-sustainability-communication",
+    "title": "Lifecycle packaging claim",
+    "subtitle": "product",
+    "description": "Explains recycled packaging materials but excludes production and disposal impacts from the current boundary",
+    "badges": [
+      "priority: medium",
+      "quality: 0.647",
+      "greenwashing risk: 0.352",
+      "review"
+    ],
+    "metrics": {
+      "quality_score": 0.647,
+      "evidence_gap": 0.14,
+      "greenwashing_risk": 0.352,
+      "review_priority_score": 0.306,
+      "claim_specificity": 0.76,
+      "boundary_clarity": 0.58,
+      "evidence_strength": 0.66,
+      "stakeholder_visibility": 0.52,
+      "accountability_coverage": 0.62
+    },
+    "sustainability_claim": {
+      "claim_type": "product",
+      "materiality_relevance": 0.74,
+      "uncertainty_disclosure": 0.56,
+      "promotional_intensity": 0.44,
+      "claim_strength": 0.8
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "weak boundary clarity; weak stakeholder visibility; weak uncertainty disclosure; status marked review",
+      "recommended_action": "Keep active and review during the next sustainability communication governance cycle."
+    }
+  },
+  {
+    "card_id": "sustainability-claim-sdg-alignment",
+    "type": "sustainability_claim_card",
+    "article_slug": "frameworks-for-sustainability-communication",
+    "title": "SDG alignment",
+    "subtitle": "global goals",
+    "description": "Maps program activities to selected SDG targets and annual indicators",
+    "badges": [
+      "priority: medium",
+      "quality: 0.687",
+      "greenwashing risk: 0.348",
+      "review"
+    ],
+    "metrics": {
+      "quality_score": 0.687,
+      "evidence_gap": 0.14,
+      "greenwashing_risk": 0.348,
+      "review_priority_score": 0.275,
+      "claim_specificity": 0.72,
+      "boundary_clarity": 0.64,
+      "evidence_strength": 0.62,
+      "stakeholder_visibility": 0.7,
+      "accountability_coverage": 0.66
+    },
+    "sustainability_claim": {
+      "claim_type": "global goals",
+      "materiality_relevance": 0.78,
+      "uncertainty_disclosure": 0.58,
+      "promotional_intensity": 0.4,
+      "claim_strength": 0.76
+    },
+    "governance": {
+      "owner": "strategy",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "weak uncertainty disclosure; status marked review",
+      "recommended_action": "Keep active and review during the next sustainability communication governance cycle."
+    }
+  },
+  {
+    "card_id": "sustainability-claim-community-benefit",
+    "type": "sustainability_claim_card",
+    "article_slug": "frameworks-for-sustainability-communication",
+    "title": "Community benefit",
+    "subtitle": "social impact",
+    "description": "Describes community consultation outcomes public reporting and grievance channels",
+    "badges": [
+      "priority: standard",
+      "quality: 0.77",
+      "greenwashing risk: 0.279",
+      "active"
+    ],
+    "metrics": {
+      "quality_score": 0.77,
+      "evidence_gap": 0.1,
+      "greenwashing_risk": 0.279,
+      "review_priority_score": 0.201,
+      "claim_specificity": 0.78,
+      "boundary_clarity": 0.7,
+      "evidence_strength": 0.68,
+      "stakeholder_visibility": 0.88,
+      "accountability_coverage": 0.76
+    },
+    "sustainability_claim": {
+      "claim_type": "social impact",
+      "materiality_relevance": 0.82,
+      "uncertainty_disclosure": 0.64,
+      "promotional_intensity": 0.32,
+      "claim_strength": 0.78
+    },
+    "governance": {
+      "owner": "engagement",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next sustainability communication governance cycle."
+    }
+  },
+  {
+    "card_id": "sustainability-claim-reduced-operational-energy-use",
+    "type": "sustainability_claim_card",
+    "article_slug": "frameworks-for-sustainability-communication",
+    "title": "Reduced operational energy use",
+    "subtitle": "performance",
+    "description": "Reports energy reduction against a stated operational baseline",
+    "badges": [
+      "priority: standard",
+      "quality: 0.753",
+      "greenwashing risk: 0.218",
+      "active"
+    ],
+    "metrics": {
+      "quality_score": 0.753,
+      "evidence_gap": 0.04,
+      "greenwashing_risk": 0.218,
+      "review_priority_score": 0.192,
+      "claim_specificity": 0.84,
+      "boundary_clarity": 0.82,
+      "evidence_strength": 0.78,
+      "stakeholder_visibility": 0.62,
+      "accountability_coverage": 0.7
+    },
+    "sustainability_claim": {
+      "claim_type": "performance",
+      "materiality_relevance": 0.76,
+      "uncertainty_disclosure": 0.66,
+      "promotional_intensity": 0.28,
+      "claim_strength": 0.82
+    },
+    "governance": {
+      "owner": "operations",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next sustainability communication governance cycle."
+    }
+  }
+]

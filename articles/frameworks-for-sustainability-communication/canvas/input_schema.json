@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://thecontentcatalyst.net/schemas/sustainability-communication-canvas-input.schema.json",
+  "title": "Sustainability Communication Catalyst Canvas Input Schema",
+  "description": "Input schema for sustainability claim governance including claim specificity boundary clarity evidence strength materiality relevance stakeholder visibility accountability coverage uncertainty disclosure promotional intensity claim strength and governance status.",
+  "type": "object",
+  "required": ["module", "article_slug", "claims"],
+  "properties": {
+    "module": { "type": "string", "const": "sustainability_canvas" },
+    "article_slug": { "type": "string", "const": "frameworks-for-sustainability-communication" },
+    "claims": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "claim",
+          "claim_type",
+          "description",
+          "claim_specificity",
+          "boundary_clarity",
+          "evidence_strength",
+          "materiality_relevance",
+          "stakeholder_visibility",
+          "accountability_coverage",
+          "uncertainty_disclosure",
+          "promotional_intensity",
+          "claim_strength",
+          "owner",
+          "status",
+          "review_date"
+        ],
+        "properties": {
+          "claim": { "type": "string", "minLength": 2 },
+          "claim_type": { "type": "string", "minLength": 2 },
+          "description": { "type": "string", "minLength": 5 },
+          "claim_specificity": { "type": "number", "minimum": 0, "maximum": 1 },
+          "boundary_clarity": { "type": "number", "minimum": 0, "maximum": 1 },
+          "evidence_strength": { "type": "number", "minimum": 0, "maximum": 1 },
+          "materiality_relevance": { "type": "number", "minimum": 0, "maximum": 1 },
+          "stakeholder_visibility": { "type": "number", "minimum": 0, "maximum": 1 },
+          "accountability_coverage": { "type": "number", "minimum": 0, "maximum": 1 },
+          "uncertainty_disclosure": { "type": "number", "minimum": 0, "maximum": 1 },
+          "promotional_intensity": { "type": "number", "minimum": 0, "maximum": 1 },
+          "claim_strength": { "type": "number", "minimum": 0, "maximum": 1 },
+          "owner": { "type": "string", "minLength": 2 },
+          "status": { "type": "string", "enum": ["active", "review", "revise", "archive"] },
+          "review_date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

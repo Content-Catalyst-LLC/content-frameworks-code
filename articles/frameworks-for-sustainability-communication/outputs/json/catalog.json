@@ -1,0 +1,27 @@
+{
+  "module": "sustainability_canvas",
+  "version": "1.0.0",
+  "article_slug": "frameworks-for-sustainability-communication",
+  "article_title": "Frameworks for Sustainability Communication",
+  "generated_at": "2026-06-09T03:53:57+00:00",
+  "record_count": 6,
+  "claim_type_counts": {
+    "product": 2,
+    "climate": 1,
+    "global goals": 1,
+    "social impact": 1,
+    "performance": 1
+  },
+  "metrics": [
+    "quality_score",
+    "evidence_gap",
+    "greenwashing_risk",
+    "review_priority_score"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/sustainability_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/sustainability_canvas_export.json"
+  }
+}

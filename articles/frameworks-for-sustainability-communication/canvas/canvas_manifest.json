@@ -1,0 +1,56 @@
+{
+  "module": "sustainability_canvas",
+  "version": "1.0.0",
+  "article_slug": "frameworks-for-sustainability-communication",
+  "article_title": "Frameworks for Sustainability Communication",
+  "series": "Content Frameworks",
+  "repository_path": "articles/frameworks-for-sustainability-communication/",
+  "entrypoint": "python -m sustainability_canvas.cli",
+  "default_input": "data/sustainability_claims.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/sustainability_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/sustainability_canvas_export.json"
+  },
+  "metrics": [
+    "quality_score",
+    "evidence_gap",
+    "greenwashing_risk",
+    "review_priority_score",
+    "review_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "sustainability_claim_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "claim_quality_grid"
+    },
+    {
+      "type": "sustainability_claim_governance_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": [
+      "vague_claim",
+      "missing_boundary",
+      "weak_evidence",
+      "weak_materiality",
+      "weak_stakeholder_visibility",
+      "weak_accountability",
+      "weak_uncertainty_disclosure",
+      "high_promotional_intensity",
+      "evidence_gap",
+      "greenwashing_risk"
+    ]
+  }
+}
