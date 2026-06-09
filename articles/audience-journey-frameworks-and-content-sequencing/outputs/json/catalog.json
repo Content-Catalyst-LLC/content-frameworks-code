@@ -1,0 +1,21 @@
+{
+  "module": "audience_journey_canvas",
+  "version": "1.0.0",
+  "article_slug": "audience-journey-frameworks-and-content-sequencing",
+  "article_title": "Audience Journey Frameworks and Content Sequencing",
+  "generated_at": "2026-06-09T00:29:17+00:00",
+  "record_count": 7,
+  "metrics": [
+    "readiness_score",
+    "weighted_readiness",
+    "link_gap",
+    "journey_risk",
+    "persona_mismatch"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/audience_journey_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/audience_journey_canvas_export.json"
+  }
+}

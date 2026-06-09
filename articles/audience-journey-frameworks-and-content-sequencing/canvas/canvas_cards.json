@@ -1,0 +1,261 @@
+[
+  {
+    "card_id": "audience-journey-stage-orientation",
+    "type": "audience_journey_stage_card",
+    "article_slug": "audience-journey-frameworks-and-content-sequencing",
+    "title": "Orientation",
+    "subtitle": "learning_journey",
+    "description": "Understand category context and article map",
+    "badges": [
+      "priority: medium",
+      "readiness: 0.807",
+      "active"
+    ],
+    "metrics": {
+      "readiness_score": 0.808,
+      "weighted_readiness": 0.807,
+      "link_gap": 1,
+      "journey_risk": 0.333,
+      "persona_mismatch": 0.16
+    },
+    "journey": {
+      "stage_clarity": 0.88,
+      "content_coverage": 0.82,
+      "transition_quality": 0.8,
+      "evidence_readiness": 0.78,
+      "governance_readiness": 0.76,
+      "required_links": 3,
+      "available_links": 2
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "missing journey links"
+    },
+    "recommended_action": "Review missing links evidence readiness transition quality persona fit or staleness risk."
+  },
+  {
+    "card_id": "audience-journey-stage-awareness",
+    "type": "audience_journey_stage_card",
+    "article_slug": "audience-journey-frameworks-and-content-sequencing",
+    "title": "Awareness",
+    "subtitle": "learning_journey",
+    "description": "Recognize topic relevance and entry point",
+    "badges": [
+      "priority: standard",
+      "readiness: 0.787",
+      "active"
+    ],
+    "metrics": {
+      "readiness_score": 0.788,
+      "weighted_readiness": 0.787,
+      "link_gap": 0,
+      "journey_risk": 0.22,
+      "persona_mismatch": 0.18
+    },
+    "journey": {
+      "stage_clarity": 0.86,
+      "content_coverage": 0.84,
+      "transition_quality": 0.78,
+      "evidence_readiness": 0.72,
+      "governance_readiness": 0.74,
+      "required_links": 2,
+      "available_links": 2
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue"
+    },
+    "recommended_action": "Keep active and review during the next governance cycle."
+  },
+  {
+    "card_id": "audience-journey-stage-understanding",
+    "type": "audience_journey_stage_card",
+    "article_slug": "audience-journey-frameworks-and-content-sequencing",
+    "title": "Understanding",
+    "subtitle": "learning_journey",
+    "description": "Build conceptual structure and examples",
+    "badges": [
+      "priority: standard",
+      "readiness: 0.78",
+      "active"
+    ],
+    "metrics": {
+      "readiness_score": 0.78,
+      "weighted_readiness": 0.78,
+      "link_gap": 0,
+      "journey_risk": 0.26,
+      "persona_mismatch": 0.18
+    },
+    "journey": {
+      "stage_clarity": 0.84,
+      "content_coverage": 0.8,
+      "transition_quality": 0.78,
+      "evidence_readiness": 0.76,
+      "governance_readiness": 0.72,
+      "required_links": 3,
+      "available_links": 3
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue"
+    },
+    "recommended_action": "Keep active and review during the next governance cycle."
+  },
+  {
+    "card_id": "audience-journey-stage-application",
+    "type": "audience_journey_stage_card",
+    "article_slug": "audience-journey-frameworks-and-content-sequencing",
+    "title": "Application",
+    "subtitle": "implementation_journey",
+    "description": "Use workflow code examples or diagnostic tools",
+    "badges": [
+      "priority: standard",
+      "readiness: 0.746",
+      "active"
+    ],
+    "metrics": {
+      "readiness_score": 0.744,
+      "weighted_readiness": 0.746,
+      "link_gap": 0,
+      "journey_risk": 0.3,
+      "persona_mismatch": 0.22
+    },
+    "journey": {
+      "stage_clarity": 0.74,
+      "content_coverage": 0.76,
+      "transition_quality": 0.72,
+      "evidence_readiness": 0.8,
+      "governance_readiness": 0.7,
+      "required_links": 3,
+      "available_links": 3
+    },
+    "governance": {
+      "owner": "technical",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue"
+    },
+    "recommended_action": "Keep active and review during the next governance cycle."
+  },
+  {
+    "card_id": "audience-journey-stage-comparison",
+    "type": "audience_journey_stage_card",
+    "article_slug": "audience-journey-frameworks-and-content-sequencing",
+    "title": "Comparison",
+    "subtitle": "decision_journey",
+    "description": "Compare adjacent concepts alternatives and boundaries",
+    "badges": [
+      "priority: medium",
+      "readiness: 0.734",
+      "active"
+    ],
+    "metrics": {
+      "readiness_score": 0.736,
+      "weighted_readiness": 0.734,
+      "link_gap": 1,
+      "journey_risk": 0.32,
+      "persona_mismatch": 0.22
+    },
+    "journey": {
+      "stage_clarity": 0.8,
+      "content_coverage": 0.74,
+      "transition_quality": 0.72,
+      "evidence_readiness": 0.7,
+      "governance_readiness": 0.72,
+      "required_links": 4,
+      "available_links": 3
+    },
+    "governance": {
+      "owner": "strategy",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "missing journey links"
+    },
+    "recommended_action": "Review missing links evidence readiness transition quality persona fit or staleness risk."
+  },
+  {
+    "card_id": "audience-journey-stage-trust-building",
+    "type": "audience_journey_stage_card",
+    "article_slug": "audience-journey-frameworks-and-content-sequencing",
+    "title": "Trust-building",
+    "subtitle": "trust_journey",
+    "description": "Evaluate evidence references limits and proof",
+    "badges": [
+      "priority: medium",
+      "readiness: 0.696",
+      "review"
+    ],
+    "metrics": {
+      "readiness_score": 0.7,
+      "weighted_readiness": 0.696,
+      "link_gap": 2,
+      "journey_risk": 0.5,
+      "persona_mismatch": 0.24
+    },
+    "journey": {
+      "stage_clarity": 0.78,
+      "content_coverage": 0.7,
+      "transition_quality": 0.68,
+      "evidence_readiness": 0.62,
+      "governance_readiness": 0.72,
+      "required_links": 4,
+      "available_links": 2
+    },
+    "governance": {
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "weak evidence readiness; missing journey links; status marked review"
+    },
+    "recommended_action": "Review missing links evidence readiness transition quality persona fit or staleness risk."
+  },
+  {
+    "card_id": "audience-journey-stage-return",
+    "type": "audience_journey_stage_card",
+    "article_slug": "audience-journey-frameworks-and-content-sequencing",
+    "title": "Return",
+    "subtitle": "return_journey",
+    "description": "Review updates deeper pathways and governance changes",
+    "badges": [
+      "priority: high",
+      "readiness: 0.481",
+      "revise"
+    ],
+    "metrics": {
+      "readiness_score": 0.48,
+      "weighted_readiness": 0.481,
+      "link_gap": 2,
+      "journey_risk": 0.667,
+      "persona_mismatch": 0.42
+    },
+    "journey": {
+      "stage_clarity": 0.56,
+      "content_coverage": 0.48,
+      "transition_quality": 0.44,
+      "evidence_readiness": 0.52,
+      "governance_readiness": 0.4,
+      "required_links": 3,
+      "available_links": 1
+    },
+    "governance": {
+      "owner": "governance",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "reasons": "weak stage clarity; weak content coverage; weak transition quality; weak evidence readiness; weak governance readiness; missing journey links; persona mismatch risk; stale pathway risk; status marked revise"
+    },
+    "recommended_action": "Revise this journey stage before reuse and repair content coverage links evidence or governance."
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "module": "audience_journey_canvas",
+  "version": "1.0.0",
+  "article_slug": "audience-journey-frameworks-and-content-sequencing",
+  "article_title": "Audience Journey Frameworks and Content Sequencing",
+  "series": "Content Frameworks",
+  "repository_path": "articles/audience-journey-frameworks-and-content-sequencing/",
+  "entrypoint": "python -m audience_journey_canvas.cli",
+  "default_input": "data/audience_journey_stages.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/audience_journey_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/audience_journey_canvas_export.json"
+  },
+  "metrics": [
+    "readiness_score",
+    "weighted_readiness",
+    "link_gap",
+    "journey_risk",
+    "persona_mismatch",
+    "review_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "audience_journey_stage_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "stage_timeline"
+    },
+    {
+      "type": "audience_journey_governance_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": ["link_gap", "weak_transition", "weak_evidence", "persona_mismatch", "stale_pathway", "low_governance_readiness"]
+  }
+}

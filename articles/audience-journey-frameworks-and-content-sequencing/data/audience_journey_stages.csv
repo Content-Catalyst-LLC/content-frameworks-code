@@ -1,0 +1,8 @@
+stage,audience_need,journey_type,stage_clarity,content_coverage,transition_quality,evidence_readiness,governance_readiness,required_links,available_links,persona_fit,staleness_risk,owner,status,review_date
+Awareness,Recognize topic relevance and entry point,learning_journey,0.86,0.84,0.78,0.72,0.74,2,2,0.82,0.22,editorial,active,2026-06-08
+Orientation,Understand category context and article map,learning_journey,0.88,0.82,0.80,0.78,0.76,3,2,0.84,0.24,editorial,active,2026-06-08
+Understanding,Build conceptual structure and examples,learning_journey,0.84,0.80,0.78,0.76,0.72,3,3,0.82,0.26,editorial,active,2026-06-08
+Comparison,Compare adjacent concepts alternatives and boundaries,decision_journey,0.80,0.74,0.72,0.70,0.72,4,3,0.78,0.32,strategy,active,2026-06-08
+Trust-building,Evaluate evidence references limits and proof,trust_journey,0.78,0.70,0.68,0.62,0.72,4,2,0.76,0.34,governance,review,2026-06-08
+Application,Use workflow code examples or diagnostic tools,implementation_journey,0.74,0.76,0.72,0.80,0.70,3,3,0.78,0.30,technical,active,2026-06-08
+Return,Review updates deeper pathways and governance changes,return_journey,0.56,0.48,0.44,0.52,0.40,3,1,0.58,0.66,governance,revise,2026-06-08

@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://thecontentcatalyst.net/schemas/audience-journey-canvas-input.schema.json",
+  "title": "Audience Journey Catalyst Canvas Input Schema",
+  "description": "Input schema for journey stages content sequencing transition quality evidence readiness link gaps persona fit and governance status.",
+  "type": "object",
+  "required": ["module", "article_slug", "stages"],
+  "properties": {
+    "module": { "type": "string", "const": "audience_journey_canvas" },
+    "article_slug": { "type": "string", "const": "audience-journey-frameworks-and-content-sequencing" },
+    "stages": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "stage",
+          "audience_need",
+          "journey_type",
+          "stage_clarity",
+          "content_coverage",
+          "transition_quality",
+          "evidence_readiness",
+          "governance_readiness",
+          "required_links",
+          "available_links",
+          "persona_fit",
+          "staleness_risk",
+          "owner",
+          "status",
+          "review_date"
+        ],
+        "properties": {
+          "stage": { "type": "string", "minLength": 2 },
+          "audience_need": { "type": "string", "minLength": 5 },
+          "journey_type": { "type": "string", "minLength": 2 },
+          "stage_clarity": { "type": "number", "minimum": 0, "maximum": 1 },
+          "content_coverage": { "type": "number", "minimum": 0, "maximum": 1 },
+          "transition_quality": { "type": "number", "minimum": 0, "maximum": 1 },
+          "evidence_readiness": { "type": "number", "minimum": 0, "maximum": 1 },
+          "governance_readiness": { "type": "number", "minimum": 0, "maximum": 1 },
+          "required_links": { "type": "integer", "minimum": 0 },
+          "available_links": { "type": "integer", "minimum": 0 },
+          "persona_fit": { "type": "number", "minimum": 0, "maximum": 1 },
+          "staleness_risk": { "type": "number", "minimum": 0, "maximum": 1 },
+          "owner": { "type": "string", "minLength": 2 },
+          "status": { "type": "string", "enum": ["active", "review", "revise", "archive"] },
+          "review_date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
