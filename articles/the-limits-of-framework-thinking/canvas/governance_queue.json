@@ -1,0 +1,47 @@
+[
+  {
+    "queue_id": "framework-limits-review-legacy-quadrant-model",
+    "article_slug": "the-limits-of-framework-thinking",
+    "item": "Legacy quadrant model",
+    "framework_type": "conceptual model",
+    "owner": "governance",
+    "status": "revise",
+    "review_date": "2026-06-08",
+    "review_priority": "high",
+    "usefulness_score": 0.4,
+    "distortion_risk": 0.664,
+    "review_priority_score": 0.632,
+    "governance_reasons": "weak clarity; weak framework fit; weak evidence alignment; weak assumption transparency; weak governance readiness; high oversimplification risk; high false precision risk; high context loss; high value opacity; high distortion risk; review priority threshold reached; status marked revise",
+    "recommended_action": "Revise this framework before reuse and strengthen fit evidence assumptions context notes governance and limits disclosure."
+  },
+  {
+    "queue_id": "framework-limits-review-decision-scoring-matrix",
+    "article_slug": "the-limits-of-framework-thinking",
+    "item": "Decision scoring matrix",
+    "framework_type": "decision framework",
+    "owner": "decision",
+    "status": "review",
+    "review_date": "2026-06-08",
+    "review_priority": "medium",
+    "usefulness_score": 0.7,
+    "distortion_risk": 0.51,
+    "review_priority_score": 0.405,
+    "governance_reasons": "high false precision risk; high distortion risk; status marked review",
+    "recommended_action": "Review distortion risk false precision assumptions context loss audience burden and governance readiness during the next review cycle."
+  },
+  {
+    "queue_id": "framework-limits-review-knowledge-scaling-template",
+    "article_slug": "the-limits-of-framework-thinking",
+    "item": "Knowledge scaling template",
+    "framework_type": "knowledge framework",
+    "owner": "platform",
+    "status": "active",
+    "review_date": "2026-06-08",
+    "review_priority": "medium",
+    "usefulness_score": 0.72,
+    "distortion_risk": 0.409,
+    "review_priority_score": 0.344,
+    "governance_reasons": "high distortion risk",
+    "recommended_action": "Review distortion risk false precision assumptions context loss audience burden and governance readiness during the next review cycle."
+  }
+]

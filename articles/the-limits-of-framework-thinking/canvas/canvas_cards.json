@@ -1,0 +1,242 @@
+[
+  {
+    "card_id": "framework-limits-item-legacy-quadrant-model",
+    "type": "framework_limits_item_card",
+    "article_slug": "the-limits-of-framework-thinking",
+    "title": "Legacy quadrant model",
+    "subtitle": "conceptual model",
+    "description": "Older model has weak context notes high category compression and little evidence alignment",
+    "badges": [
+      "priority: high",
+      "usefulness: 0.4",
+      "distortion risk: 0.664",
+      "revise"
+    ],
+    "metrics": {
+      "usefulness_score": 0.4,
+      "distortion_risk": 0.664,
+      "review_priority_score": 0.632,
+      "clarity": 0.56,
+      "fit": 0.44,
+      "evidence_alignment": 0.38,
+      "assumption_transparency": 0.32,
+      "governance_readiness": 0.3
+    },
+    "limits": {
+      "framework_type": "conceptual model",
+      "oversimplification_risk": 0.76,
+      "false_precision_risk": 0.64,
+      "context_loss": 0.7,
+      "audience_burden": 0.58,
+      "value_opacity": 0.62
+    },
+    "governance": {
+      "owner": "governance",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "reasons": "weak clarity; weak framework fit; weak evidence alignment; weak assumption transparency; weak governance readiness; high oversimplification risk; high false precision risk; high context loss; high value opacity; high distortion risk; review priority threshold reached; status marked revise",
+      "recommended_action": "Revise this framework before reuse and strengthen fit evidence assumptions context notes governance and limits disclosure."
+    }
+  },
+  {
+    "card_id": "framework-limits-item-decision-scoring-matrix",
+    "type": "framework_limits_item_card",
+    "article_slug": "the-limits-of-framework-thinking",
+    "title": "Decision scoring matrix",
+    "subtitle": "decision framework",
+    "description": "Useful comparison tool but may imply false precision if criteria and weights are hidden",
+    "badges": [
+      "priority: medium",
+      "usefulness: 0.7",
+      "distortion risk: 0.51",
+      "review"
+    ],
+    "metrics": {
+      "usefulness_score": 0.7,
+      "distortion_risk": 0.51,
+      "review_priority_score": 0.405,
+      "clarity": 0.78,
+      "fit": 0.72,
+      "evidence_alignment": 0.7,
+      "assumption_transparency": 0.62,
+      "governance_readiness": 0.68
+    },
+    "limits": {
+      "framework_type": "decision framework",
+      "oversimplification_risk": 0.42,
+      "false_precision_risk": 0.72,
+      "context_loss": 0.38,
+      "audience_burden": 0.44,
+      "value_opacity": 0.58
+    },
+    "governance": {
+      "owner": "decision",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "high false precision risk; high distortion risk; status marked review",
+      "recommended_action": "Review distortion risk false precision assumptions context loss audience burden and governance readiness during the next review cycle."
+    }
+  },
+  {
+    "card_id": "framework-limits-item-knowledge-scaling-template",
+    "type": "framework_limits_item_card",
+    "article_slug": "the-limits-of-framework-thinking",
+    "title": "Knowledge scaling template",
+    "subtitle": "knowledge framework",
+    "description": "Reusable scaffold needs context preservation evidence status and retirement rules to avoid spreading stale assumptions",
+    "badges": [
+      "priority: medium",
+      "usefulness: 0.72",
+      "distortion risk: 0.409",
+      "active"
+    ],
+    "metrics": {
+      "usefulness_score": 0.72,
+      "distortion_risk": 0.409,
+      "review_priority_score": 0.344,
+      "clarity": 0.76,
+      "fit": 0.74,
+      "evidence_alignment": 0.72,
+      "assumption_transparency": 0.68,
+      "governance_readiness": 0.7
+    },
+    "limits": {
+      "framework_type": "knowledge framework",
+      "oversimplification_risk": 0.48,
+      "false_precision_risk": 0.3,
+      "context_loss": 0.52,
+      "audience_burden": 0.38,
+      "value_opacity": 0.36
+    },
+    "governance": {
+      "owner": "platform",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "high distortion risk",
+      "recommended_action": "Review distortion risk false precision assumptions context loss audience burden and governance readiness during the next review cycle."
+    }
+  },
+  {
+    "card_id": "framework-limits-item-article-template",
+    "type": "framework_limits_item_card",
+    "article_slug": "the-limits-of-framework-thinking",
+    "title": "Article template",
+    "subtitle": "content framework",
+    "description": "Improves consistency but may become formulaic when used without section judgment",
+    "badges": [
+      "priority: standard",
+      "usefulness: 0.72",
+      "distortion risk: 0.39",
+      "active"
+    ],
+    "metrics": {
+      "usefulness_score": 0.72,
+      "distortion_risk": 0.39,
+      "review_priority_score": 0.335,
+      "clarity": 0.8,
+      "fit": 0.76,
+      "evidence_alignment": 0.68,
+      "assumption_transparency": 0.66,
+      "governance_readiness": 0.7
+    },
+    "limits": {
+      "framework_type": "content framework",
+      "oversimplification_risk": 0.52,
+      "false_precision_risk": 0.26,
+      "context_loss": 0.46,
+      "audience_burden": 0.36,
+      "value_opacity": 0.34
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next framework limits governance cycle."
+    }
+  },
+  {
+    "card_id": "framework-limits-item-systems-explanation-map",
+    "type": "framework_limits_item_card",
+    "article_slug": "the-limits-of-framework-thinking",
+    "title": "Systems explanation map",
+    "subtitle": "systems framework",
+    "description": "Clarifies feedback and dependencies but needs agency responsibility and boundary notes",
+    "badges": [
+      "priority: standard",
+      "usefulness: 0.752",
+      "distortion risk: 0.352",
+      "active"
+    ],
+    "metrics": {
+      "usefulness_score": 0.752,
+      "distortion_risk": 0.352,
+      "review_priority_score": 0.3,
+      "clarity": 0.82,
+      "fit": 0.78,
+      "evidence_alignment": 0.74,
+      "assumption_transparency": 0.7,
+      "governance_readiness": 0.72
+    },
+    "limits": {
+      "framework_type": "systems framework",
+      "oversimplification_risk": 0.34,
+      "false_precision_risk": 0.24,
+      "context_loss": 0.4,
+      "audience_burden": 0.42,
+      "value_opacity": 0.38
+    },
+    "governance": {
+      "owner": "systems",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next framework limits governance cycle."
+    }
+  },
+  {
+    "card_id": "framework-limits-item-public-reasoning-framework",
+    "type": "framework_limits_item_card",
+    "article_slug": "the-limits-of-framework-thinking",
+    "title": "Public reasoning framework",
+    "subtitle": "civic framework",
+    "description": "Supports claims evidence values tradeoffs and accountability when participation limits are explicit",
+    "badges": [
+      "priority: standard",
+      "usefulness: 0.788",
+      "distortion risk: 0.309",
+      "active"
+    ],
+    "metrics": {
+      "usefulness_score": 0.788,
+      "distortion_risk": 0.309,
+      "review_priority_score": 0.261,
+      "clarity": 0.84,
+      "fit": 0.82,
+      "evidence_alignment": 0.78,
+      "assumption_transparency": 0.76,
+      "governance_readiness": 0.74
+    },
+    "limits": {
+      "framework_type": "civic framework",
+      "oversimplification_risk": 0.3,
+      "false_precision_risk": 0.24,
+      "context_loss": 0.34,
+      "audience_burden": 0.4,
+      "value_opacity": 0.28
+    },
+    "governance": {
+      "owner": "public",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next framework limits governance cycle."
+    }
+  }
+]

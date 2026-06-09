@@ -1,0 +1,27 @@
+{
+  "module": "framework_limits_canvas",
+  "version": "1.0.0",
+  "article_slug": "the-limits-of-framework-thinking",
+  "article_title": "The Limits of Framework Thinking",
+  "generated_at": "2026-06-09T06:12:41+00:00",
+  "record_count": 6,
+  "framework_type_counts": {
+    "conceptual model": 1,
+    "decision framework": 1,
+    "knowledge framework": 1,
+    "content framework": 1,
+    "systems framework": 1,
+    "civic framework": 1
+  },
+  "metrics": [
+    "usefulness_score",
+    "distortion_risk",
+    "review_priority_score"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/framework_limits_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/framework_limits_canvas_export.json"
+  }
+}
