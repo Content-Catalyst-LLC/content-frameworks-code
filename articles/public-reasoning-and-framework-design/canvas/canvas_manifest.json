@@ -1,0 +1,56 @@
+{
+  "module": "public_reasoning_canvas",
+  "version": "1.0.0",
+  "article_slug": "public-reasoning-and-framework-design",
+  "article_title": "Public Reasoning and Framework Design",
+  "series": "Content Frameworks",
+  "repository_path": "articles/public-reasoning-and-framework-design/",
+  "entrypoint": "python -m public_reasoning_canvas.cli",
+  "default_input": "data/public_reasoning_items.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/public_reasoning_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/public_reasoning_canvas_export.json"
+  },
+  "metrics": [
+    "quality_score",
+    "legitimacy_risk",
+    "review_priority_score",
+    "review_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "public_reasoning_item_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "public_reasoning_grid"
+    },
+    {
+      "type": "public_reasoning_governance_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": [
+      "weak_claim_clarity",
+      "weak_evidence_visibility",
+      "weak_value_transparency",
+      "weak_tradeoff_clarity",
+      "weak_stakeholder_inclusion",
+      "weak_uncertainty_disclosure",
+      "weak_participation_fit",
+      "weak_accountability",
+      "weak_transparency",
+      "high_legitimacy_risk",
+      "review_priority"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "queue_id": "public-reasoning-review-public-consultation-page",
+    "article_slug": "public-reasoning-and-framework-design",
+    "item": "Public consultation page",
+    "reasoning_type": "participation",
+    "owner": "engagement",
+    "status": "revise",
+    "review_date": "2026-06-08",
+    "review_priority": "high",
+    "quality_score": 0.556,
+    "legitimacy_risk": 0.51,
+    "review_priority_score": 0.477,
+    "governance_reasons": "weak value transparency; weak tradeoff clarity; weak stakeholder inclusion; weak participation fit; weak accountability; weak transparency; high legitimacy risk; review priority threshold reached; status marked revise",
+    "recommended_action": "Revise this public reasoning framework before publication and strengthen evidence visibility values tradeoffs stakeholder inclusion participation fit accountability and transparency."
+  },
+  {
+    "queue_id": "public-reasoning-review-science-uncertainty-brief",
+    "article_slug": "public-reasoning-and-framework-design",
+    "item": "Science uncertainty brief",
+    "reasoning_type": "science communication",
+    "owner": "research",
+    "status": "review",
+    "review_date": "2026-06-08",
+    "review_priority": "medium",
+    "quality_score": 0.704,
+    "legitimacy_risk": 0.35,
+    "review_priority_score": 0.323,
+    "governance_reasons": "status marked review",
+    "recommended_action": "Review legitimacy risk participation promises stakeholder inclusion values tradeoffs and accountability during the next governance cycle."
+  }
+]

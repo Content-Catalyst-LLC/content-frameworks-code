@@ -1,0 +1,7 @@
+item,reasoning_type,description,claim_clarity,evidence_visibility,value_transparency,tradeoff_clarity,stakeholder_inclusion,uncertainty_disclosure,participation_fit,accountability,transparency,owner,status,review_date
+Policy options explainer,policy reasoning,Compares options using evidence values tradeoffs uncertainty and participation limits,0.82,0.78,0.76,0.80,0.72,0.70,0.68,0.74,0.78,policy,active,2026-06-08
+Technology governance brief,technology governance,Explains risks benefits evidence oversight recourse and affected publics,0.78,0.74,0.72,0.76,0.70,0.72,0.66,0.70,0.74,technology,active,2026-06-08
+Public consultation page,participation,Needs clearer explanation of how public feedback will influence decisions,0.68,0.62,0.58,0.56,0.54,0.60,0.42,0.48,0.52,engagement,revise,2026-06-08
+Sustainability tradeoff map,sustainability reasoning,Shows environmental social economic and governance tradeoffs across options,0.80,0.76,0.82,0.84,0.74,0.70,0.68,0.72,0.76,sustainability,active,2026-06-08
+Science uncertainty brief,science communication,Explains evidence confidence uncertainty disagreement and decision relevance,0.76,0.80,0.66,0.68,0.62,0.84,0.60,0.66,0.72,research,review,2026-06-08
+Civic issue map,civic reasoning,Maps public question claims counterclaims values options evidence and review path,0.84,0.76,0.80,0.78,0.76,0.72,0.70,0.74,0.80,editorial,active,2026-06-08

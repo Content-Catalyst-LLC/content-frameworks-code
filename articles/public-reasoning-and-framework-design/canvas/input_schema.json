@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://thecontentcatalyst.net/schemas/public-reasoning-canvas-input.schema.json",
+  "title": "Public Reasoning and Framework Design Catalyst Canvas Input Schema",
+  "description": "Input schema for auditing public reasoning frameworks including claim clarity, evidence visibility, value transparency, tradeoff clarity, stakeholder inclusion, uncertainty disclosure, participation fit, accountability, transparency, ownership, and governance status.",
+  "type": "object",
+  "required": ["module", "article_slug", "items"],
+  "properties": {
+    "module": { "type": "string", "const": "public_reasoning_canvas" },
+    "article_slug": { "type": "string", "const": "public-reasoning-and-framework-design" },
+    "items": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "item",
+          "reasoning_type",
+          "description",
+          "claim_clarity",
+          "evidence_visibility",
+          "value_transparency",
+          "tradeoff_clarity",
+          "stakeholder_inclusion",
+          "uncertainty_disclosure",
+          "participation_fit",
+          "accountability",
+          "transparency",
+          "owner",
+          "status",
+          "review_date"
+        ],
+        "properties": {
+          "item": { "type": "string", "minLength": 2 },
+          "reasoning_type": { "type": "string", "minLength": 2 },
+          "description": { "type": "string", "minLength": 5 },
+          "claim_clarity": { "type": "number", "minimum": 0, "maximum": 1 },
+          "evidence_visibility": { "type": "number", "minimum": 0, "maximum": 1 },
+          "value_transparency": { "type": "number", "minimum": 0, "maximum": 1 },
+          "tradeoff_clarity": { "type": "number", "minimum": 0, "maximum": 1 },
+          "stakeholder_inclusion": { "type": "number", "minimum": 0, "maximum": 1 },
+          "uncertainty_disclosure": { "type": "number", "minimum": 0, "maximum": 1 },
+          "participation_fit": { "type": "number", "minimum": 0, "maximum": 1 },
+          "accountability": { "type": "number", "minimum": 0, "maximum": 1 },
+          "transparency": { "type": "number", "minimum": 0, "maximum": 1 },
+          "owner": { "type": "string", "minLength": 2 },
+          "status": { "type": "string", "enum": ["active", "review", "revise", "archive"] },
+          "review_date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,27 @@
+{
+  "module": "public_reasoning_canvas",
+  "version": "1.0.0",
+  "article_slug": "public-reasoning-and-framework-design",
+  "article_title": "Public Reasoning and Framework Design",
+  "generated_at": "2026-06-09T05:21:14+00:00",
+  "record_count": 6,
+  "reasoning_type_counts": {
+    "participation": 1,
+    "science communication": 1,
+    "technology governance": 1,
+    "sustainability reasoning": 1,
+    "policy reasoning": 1,
+    "civic reasoning": 1
+  },
+  "metrics": [
+    "quality_score",
+    "legitimacy_risk",
+    "review_priority_score"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/public_reasoning_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/public_reasoning_canvas_export.json"
+  }
+}

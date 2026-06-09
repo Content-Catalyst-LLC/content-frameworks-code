@@ -1,0 +1,415 @@
+{
+  "module": "public_reasoning_canvas",
+  "version": "1.0.0",
+  "article_slug": "public-reasoning-and-framework-design",
+  "article_title": "Public Reasoning and Framework Design",
+  "generated_at": "2026-06-09T05:21:14+00:00",
+  "results": [
+    {
+      "item": "Public consultation page",
+      "reasoning_type": "participation",
+      "description": "Needs clearer explanation of how public feedback will influence decisions",
+      "owner": "engagement",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "claim_clarity": 0.68,
+      "evidence_visibility": 0.62,
+      "value_transparency": 0.58,
+      "tradeoff_clarity": 0.56,
+      "stakeholder_inclusion": 0.54,
+      "uncertainty_disclosure": 0.6,
+      "participation_fit": 0.42,
+      "accountability": 0.48,
+      "transparency": 0.52,
+      "quality_score": 0.556,
+      "legitimacy_risk": 0.51,
+      "review_priority_score": 0.477,
+      "review_priority": "high",
+      "governance_reasons": "weak value transparency; weak tradeoff clarity; weak stakeholder inclusion; weak participation fit; weak accountability; weak transparency; high legitimacy risk; review priority threshold reached; status marked revise",
+      "recommended_action": "Revise this public reasoning framework before publication and strengthen evidence visibility values tradeoffs stakeholder inclusion participation fit accountability and transparency."
+    },
+    {
+      "item": "Science uncertainty brief",
+      "reasoning_type": "science communication",
+      "description": "Explains evidence confidence uncertainty disagreement and decision relevance",
+      "owner": "research",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "claim_clarity": 0.76,
+      "evidence_visibility": 0.8,
+      "value_transparency": 0.66,
+      "tradeoff_clarity": 0.68,
+      "stakeholder_inclusion": 0.62,
+      "uncertainty_disclosure": 0.84,
+      "participation_fit": 0.6,
+      "accountability": 0.66,
+      "transparency": 0.72,
+      "quality_score": 0.704,
+      "legitimacy_risk": 0.35,
+      "review_priority_score": 0.323,
+      "review_priority": "medium",
+      "governance_reasons": "status marked review",
+      "recommended_action": "Review legitimacy risk participation promises stakeholder inclusion values tradeoffs and accountability during the next governance cycle."
+    },
+    {
+      "item": "Technology governance brief",
+      "reasoning_type": "technology governance",
+      "description": "Explains risks benefits evidence oversight recourse and affected publics",
+      "owner": "technology",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "claim_clarity": 0.78,
+      "evidence_visibility": 0.74,
+      "value_transparency": 0.72,
+      "tradeoff_clarity": 0.76,
+      "stakeholder_inclusion": 0.7,
+      "uncertainty_disclosure": 0.72,
+      "participation_fit": 0.66,
+      "accountability": 0.7,
+      "transparency": 0.74,
+      "quality_score": 0.724,
+      "legitimacy_risk": 0.3,
+      "review_priority_score": 0.288,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next public reasoning governance cycle."
+    },
+    {
+      "item": "Sustainability tradeoff map",
+      "reasoning_type": "sustainability reasoning",
+      "description": "Shows environmental social economic and governance tradeoffs across options",
+      "owner": "sustainability",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "claim_clarity": 0.8,
+      "evidence_visibility": 0.76,
+      "value_transparency": 0.82,
+      "tradeoff_clarity": 0.84,
+      "stakeholder_inclusion": 0.74,
+      "uncertainty_disclosure": 0.7,
+      "participation_fit": 0.68,
+      "accountability": 0.72,
+      "transparency": 0.76,
+      "quality_score": 0.758,
+      "legitimacy_risk": 0.275,
+      "review_priority_score": 0.259,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next public reasoning governance cycle."
+    },
+    {
+      "item": "Policy options explainer",
+      "reasoning_type": "policy reasoning",
+      "description": "Compares options using evidence values tradeoffs uncertainty and participation limits",
+      "owner": "policy",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "claim_clarity": 0.82,
+      "evidence_visibility": 0.78,
+      "value_transparency": 0.76,
+      "tradeoff_clarity": 0.8,
+      "stakeholder_inclusion": 0.72,
+      "uncertainty_disclosure": 0.7,
+      "participation_fit": 0.68,
+      "accountability": 0.74,
+      "transparency": 0.78,
+      "quality_score": 0.753,
+      "legitimacy_risk": 0.27,
+      "review_priority_score": 0.258,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next public reasoning governance cycle."
+    },
+    {
+      "item": "Civic issue map",
+      "reasoning_type": "civic reasoning",
+      "description": "Maps public question claims counterclaims values options evidence and review path",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "claim_clarity": 0.84,
+      "evidence_visibility": 0.76,
+      "value_transparency": 0.8,
+      "tradeoff_clarity": 0.78,
+      "stakeholder_inclusion": 0.76,
+      "uncertainty_disclosure": 0.72,
+      "participation_fit": 0.7,
+      "accountability": 0.74,
+      "transparency": 0.8,
+      "quality_score": 0.767,
+      "legitimacy_risk": 0.25,
+      "review_priority_score": 0.242,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next public reasoning governance cycle."
+    }
+  ],
+  "governance_queue": [
+    {
+      "queue_id": "public-reasoning-review-public-consultation-page",
+      "article_slug": "public-reasoning-and-framework-design",
+      "item": "Public consultation page",
+      "reasoning_type": "participation",
+      "owner": "engagement",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "quality_score": 0.556,
+      "legitimacy_risk": 0.51,
+      "review_priority_score": 0.477,
+      "governance_reasons": "weak value transparency; weak tradeoff clarity; weak stakeholder inclusion; weak participation fit; weak accountability; weak transparency; high legitimacy risk; review priority threshold reached; status marked revise",
+      "recommended_action": "Revise this public reasoning framework before publication and strengthen evidence visibility values tradeoffs stakeholder inclusion participation fit accountability and transparency."
+    },
+    {
+      "queue_id": "public-reasoning-review-science-uncertainty-brief",
+      "article_slug": "public-reasoning-and-framework-design",
+      "item": "Science uncertainty brief",
+      "reasoning_type": "science communication",
+      "owner": "research",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "quality_score": 0.704,
+      "legitimacy_risk": 0.35,
+      "review_priority_score": 0.323,
+      "governance_reasons": "status marked review",
+      "recommended_action": "Review legitimacy risk participation promises stakeholder inclusion values tradeoffs and accountability during the next governance cycle."
+    }
+  ],
+  "canvas_cards": [
+    {
+      "card_id": "public-reasoning-item-public-consultation-page",
+      "type": "public_reasoning_item_card",
+      "article_slug": "public-reasoning-and-framework-design",
+      "title": "Public consultation page",
+      "subtitle": "participation",
+      "description": "Needs clearer explanation of how public feedback will influence decisions",
+      "badges": [
+        "priority: high",
+        "quality: 0.556",
+        "legitimacy risk: 0.51",
+        "revise"
+      ],
+      "metrics": {
+        "quality_score": 0.556,
+        "legitimacy_risk": 0.51,
+        "review_priority_score": 0.477,
+        "claim_clarity": 0.68,
+        "evidence_visibility": 0.62,
+        "value_transparency": 0.58,
+        "tradeoff_clarity": 0.56,
+        "stakeholder_inclusion": 0.54
+      },
+      "reasoning": {
+        "reasoning_type": "participation",
+        "uncertainty_disclosure": 0.6,
+        "participation_fit": 0.42,
+        "accountability": 0.48,
+        "transparency": 0.52
+      },
+      "governance": {
+        "owner": "engagement",
+        "status": "revise",
+        "review_date": "2026-06-08",
+        "review_priority": "high",
+        "reasons": "weak value transparency; weak tradeoff clarity; weak stakeholder inclusion; weak participation fit; weak accountability; weak transparency; high legitimacy risk; review priority threshold reached; status marked revise",
+        "recommended_action": "Revise this public reasoning framework before publication and strengthen evidence visibility values tradeoffs stakeholder inclusion participation fit accountability and transparency."
+      }
+    },
+    {
+      "card_id": "public-reasoning-item-science-uncertainty-brief",
+      "type": "public_reasoning_item_card",
+      "article_slug": "public-reasoning-and-framework-design",
+      "title": "Science uncertainty brief",
+      "subtitle": "science communication",
+      "description": "Explains evidence confidence uncertainty disagreement and decision relevance",
+      "badges": [
+        "priority: medium",
+        "quality: 0.704",
+        "legitimacy risk: 0.35",
+        "review"
+      ],
+      "metrics": {
+        "quality_score": 0.704,
+        "legitimacy_risk": 0.35,
+        "review_priority_score": 0.323,
+        "claim_clarity": 0.76,
+        "evidence_visibility": 0.8,
+        "value_transparency": 0.66,
+        "tradeoff_clarity": 0.68,
+        "stakeholder_inclusion": 0.62
+      },
+      "reasoning": {
+        "reasoning_type": "science communication",
+        "uncertainty_disclosure": 0.84,
+        "participation_fit": 0.6,
+        "accountability": 0.66,
+        "transparency": 0.72
+      },
+      "governance": {
+        "owner": "research",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "status marked review",
+        "recommended_action": "Review legitimacy risk participation promises stakeholder inclusion values tradeoffs and accountability during the next governance cycle."
+      }
+    },
+    {
+      "card_id": "public-reasoning-item-technology-governance-brief",
+      "type": "public_reasoning_item_card",
+      "article_slug": "public-reasoning-and-framework-design",
+      "title": "Technology governance brief",
+      "subtitle": "technology governance",
+      "description": "Explains risks benefits evidence oversight recourse and affected publics",
+      "badges": [
+        "priority: standard",
+        "quality: 0.724",
+        "legitimacy risk: 0.3",
+        "active"
+      ],
+      "metrics": {
+        "quality_score": 0.724,
+        "legitimacy_risk": 0.3,
+        "review_priority_score": 0.288,
+        "claim_clarity": 0.78,
+        "evidence_visibility": 0.74,
+        "value_transparency": 0.72,
+        "tradeoff_clarity": 0.76,
+        "stakeholder_inclusion": 0.7
+      },
+      "reasoning": {
+        "reasoning_type": "technology governance",
+        "uncertainty_disclosure": 0.72,
+        "participation_fit": 0.66,
+        "accountability": 0.7,
+        "transparency": 0.74
+      },
+      "governance": {
+        "owner": "technology",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next public reasoning governance cycle."
+      }
+    },
+    {
+      "card_id": "public-reasoning-item-sustainability-tradeoff-map",
+      "type": "public_reasoning_item_card",
+      "article_slug": "public-reasoning-and-framework-design",
+      "title": "Sustainability tradeoff map",
+      "subtitle": "sustainability reasoning",
+      "description": "Shows environmental social economic and governance tradeoffs across options",
+      "badges": [
+        "priority: standard",
+        "quality: 0.758",
+        "legitimacy risk: 0.275",
+        "active"
+      ],
+      "metrics": {
+        "quality_score": 0.758,
+        "legitimacy_risk": 0.275,
+        "review_priority_score": 0.259,
+        "claim_clarity": 0.8,
+        "evidence_visibility": 0.76,
+        "value_transparency": 0.82,
+        "tradeoff_clarity": 0.84,
+        "stakeholder_inclusion": 0.74
+      },
+      "reasoning": {
+        "reasoning_type": "sustainability reasoning",
+        "uncertainty_disclosure": 0.7,
+        "participation_fit": 0.68,
+        "accountability": 0.72,
+        "transparency": 0.76
+      },
+      "governance": {
+        "owner": "sustainability",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next public reasoning governance cycle."
+      }
+    },
+    {
+      "card_id": "public-reasoning-item-policy-options-explainer",
+      "type": "public_reasoning_item_card",
+      "article_slug": "public-reasoning-and-framework-design",
+      "title": "Policy options explainer",
+      "subtitle": "policy reasoning",
+      "description": "Compares options using evidence values tradeoffs uncertainty and participation limits",
+      "badges": [
+        "priority: standard",
+        "quality: 0.753",
+        "legitimacy risk: 0.27",
+        "active"
+      ],
+      "metrics": {
+        "quality_score": 0.753,
+        "legitimacy_risk": 0.27,
+        "review_priority_score": 0.258,
+        "claim_clarity": 0.82,
+        "evidence_visibility": 0.78,
+        "value_transparency": 0.76,
+        "tradeoff_clarity": 0.8,
+        "stakeholder_inclusion": 0.72
+      },
+      "reasoning": {
+        "reasoning_type": "policy reasoning",
+        "uncertainty_disclosure": 0.7,
+        "participation_fit": 0.68,
+        "accountability": 0.74,
+        "transparency": 0.78
+      },
+      "governance": {
+        "owner": "policy",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next public reasoning governance cycle."
+      }
+    },
+    {
+      "card_id": "public-reasoning-item-civic-issue-map",
+      "type": "public_reasoning_item_card",
+      "article_slug": "public-reasoning-and-framework-design",
+      "title": "Civic issue map",
+      "subtitle": "civic reasoning",
+      "description": "Maps public question claims counterclaims values options evidence and review path",
+      "badges": [
+        "priority: standard",
+        "quality: 0.767",
+        "legitimacy risk: 0.25",
+        "active"
+      ],
+      "metrics": {
+        "quality_score": 0.767,
+        "legitimacy_risk": 0.25,
+        "review_priority_score": 0.242,
+        "claim_clarity": 0.84,
+        "evidence_visibility": 0.76,
+        "value_transparency": 0.8,
+        "tradeoff_clarity": 0.78,
+        "stakeholder_inclusion": 0.76
+      },
+      "reasoning": {
+        "reasoning_type": "civic reasoning",
+        "uncertainty_disclosure": 0.72,
+        "participation_fit": 0.7,
+        "accountability": 0.74,
+        "transparency": 0.8
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next public reasoning governance cycle."
+      }
+    }
+  ]
+}
