@@ -1,0 +1,54 @@
+{
+  "module": "ansoff_canvas",
+  "version": "1.0.0",
+  "article_slug": "ansoff-matrix-and-the-communication-of-growth-strategy",
+  "article_title": "Ansoff Matrix and the Communication of Growth Strategy",
+  "series": "Content Frameworks",
+  "repository_path": "articles/ansoff-matrix-and-the-communication-of-growth-strategy/",
+  "entrypoint": "python -m ansoff_canvas.cli",
+  "default_input": "data/ansoff_growth_options.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/ansoff_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/ansoff_canvas_export.json"
+  },
+  "metrics": [
+    "readiness_score",
+    "risk_score",
+    "evidence_gap",
+    "growth_quality",
+    "governance_priority",
+    "review_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "ansoff_growth_option_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "growth_matrix"
+    },
+    {
+      "type": "ansoff_governance_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": [
+      "evidence_gap",
+      "unclear_growth_path",
+      "low_feasibility",
+      "low_capability_readiness",
+      "high_uncertainty",
+      "high_diversification_risk",
+      "unsupported_growth_claim"
+    ]
+  }
+}
