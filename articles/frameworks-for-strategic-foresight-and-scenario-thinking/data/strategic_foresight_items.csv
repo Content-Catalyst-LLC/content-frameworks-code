@@ -1,0 +1,7 @@
+item,foresight_type,description,driver_clarity,uncertainty_logic,scenario_logic,assumption_transparency,option_relevance,indicator_coverage,evidence_strength,stakeholder_visibility,importance,uncertainty,owner,status,review_date
+Climate transition scenario set,scenario,Explores policy technology energy and social acceptance futures,0.82,0.78,0.80,0.72,0.76,0.70,0.74,0.68,0.88,0.72,strategy,active,2026-06-08
+AI adoption weak signal log,horizon scanning,Tracks early signals about organizational AI adoption trust and regulation,0.74,0.66,0.60,0.62,0.58,0.54,0.64,0.56,0.80,0.76,research,review,2026-06-08
+Public trust critical uncertainty,driver,Examines whether institutional trust strengthens or declines under technology pressure,0.78,0.84,0.72,0.76,0.70,0.66,0.68,0.72,0.90,0.82,governance,active,2026-06-08
+Scenario workshop output,workshop,Workshop scenarios need clearer indicators options and stakeholder implications,0.64,0.58,0.62,0.50,0.42,0.36,0.54,0.44,0.78,0.70,facilitation,revise,2026-06-08
+Adaptive strategy option map,options,Maps no regret actions hedges bets signposts and triggers across scenarios,0.80,0.76,0.78,0.74,0.86,0.82,0.70,0.66,0.84,0.68,strategy,active,2026-06-08
+Technology governance futures,scenario,Explores regulation infrastructure public trust and adoption pathways for technical systems,0.78,0.76,0.74,0.70,0.72,0.68,0.66,0.70,0.86,0.80,policy,active,2026-06-08

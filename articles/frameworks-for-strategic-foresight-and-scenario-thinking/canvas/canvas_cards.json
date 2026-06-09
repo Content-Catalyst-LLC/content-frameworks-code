@@ -1,0 +1,242 @@
+[
+  {
+    "card_id": "strategic-foresight-item-scenario-workshop-output",
+    "type": "strategic_foresight_item_card",
+    "article_slug": "frameworks-for-strategic-foresight-and-scenario-thinking",
+    "title": "Scenario workshop output",
+    "subtitle": "workshop",
+    "description": "Workshop scenarios need clearer indicators options and stakeholder implications",
+    "badges": [
+      "priority: high",
+      "quality: 0.512",
+      "assumption risk: 0.251",
+      "revise"
+    ],
+    "metrics": {
+      "quality_score": 0.512,
+      "assumption_risk": 0.251,
+      "review_priority_score": 0.476,
+      "driver_clarity": 0.64,
+      "uncertainty_logic": 0.58,
+      "scenario_logic": 0.62,
+      "assumption_transparency": 0.5,
+      "indicator_coverage": 0.36
+    },
+    "foresight": {
+      "foresight_type": "workshop",
+      "option_relevance": 0.42,
+      "evidence_strength": 0.54,
+      "stakeholder_visibility": 0.44,
+      "importance": 0.78,
+      "uncertainty": 0.7
+    },
+    "governance": {
+      "owner": "facilitation",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "reasons": "weak uncertainty logic; weak assumption transparency; weak option relevance; weak indicator coverage; weak evidence strength; weak stakeholder visibility; high assumption risk; review priority threshold reached; status marked revise",
+      "recommended_action": "Revise this foresight item before publication or strategic use and strengthen scenario logic assumptions indicators options evidence and stakeholder visibility."
+    }
+  },
+  {
+    "card_id": "strategic-foresight-item-ai-adoption-weak-signal-log",
+    "type": "strategic_foresight_item_card",
+    "article_slug": "frameworks-for-strategic-foresight-and-scenario-thinking",
+    "title": "AI adoption weak signal log",
+    "subtitle": "horizon scanning",
+    "description": "Tracks early signals about organizational AI adoption trust and regulation",
+    "badges": [
+      "priority: medium",
+      "quality: 0.618",
+      "assumption risk: 0.219",
+      "review"
+    ],
+    "metrics": {
+      "quality_score": 0.618,
+      "assumption_risk": 0.219,
+      "review_priority_score": 0.364,
+      "driver_clarity": 0.74,
+      "uncertainty_logic": 0.66,
+      "scenario_logic": 0.6,
+      "assumption_transparency": 0.62,
+      "indicator_coverage": 0.54
+    },
+    "foresight": {
+      "foresight_type": "horizon scanning",
+      "option_relevance": 0.58,
+      "evidence_strength": 0.64,
+      "stakeholder_visibility": 0.56,
+      "importance": 0.8,
+      "uncertainty": 0.76
+    },
+    "governance": {
+      "owner": "research",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "weak option relevance; weak indicator coverage; weak stakeholder visibility; high assumption risk; status marked review",
+      "recommended_action": "Review assumption risk indicator coverage option relevance and stakeholder implications during the next foresight governance cycle."
+    }
+  },
+  {
+    "card_id": "strategic-foresight-item-public-trust-critical-uncertainty",
+    "type": "strategic_foresight_item_card",
+    "article_slug": "frameworks-for-strategic-foresight-and-scenario-thinking",
+    "title": "Public trust critical uncertainty",
+    "subtitle": "driver",
+    "description": "Examines whether institutional trust strengthens or declines under technology pressure",
+    "badges": [
+      "priority: medium",
+      "quality: 0.733",
+      "assumption risk: 0.236",
+      "active"
+    ],
+    "metrics": {
+      "quality_score": 0.733,
+      "assumption_risk": 0.236,
+      "review_priority_score": 0.284,
+      "driver_clarity": 0.78,
+      "uncertainty_logic": 0.84,
+      "scenario_logic": 0.72,
+      "assumption_transparency": 0.76,
+      "indicator_coverage": 0.66
+    },
+    "foresight": {
+      "foresight_type": "driver",
+      "option_relevance": 0.7,
+      "evidence_strength": 0.68,
+      "stakeholder_visibility": 0.72,
+      "importance": 0.9,
+      "uncertainty": 0.82
+    },
+    "governance": {
+      "owner": "governance",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "high assumption risk",
+      "recommended_action": "Review assumption risk indicator coverage option relevance and stakeholder implications during the next foresight governance cycle."
+    }
+  },
+  {
+    "card_id": "strategic-foresight-item-technology-governance-futures",
+    "type": "strategic_foresight_item_card",
+    "article_slug": "frameworks-for-strategic-foresight-and-scenario-thinking",
+    "title": "Technology governance futures",
+    "subtitle": "scenario",
+    "description": "Explores regulation infrastructure public trust and adoption pathways for technical systems",
+    "badges": [
+      "priority: medium",
+      "quality: 0.718",
+      "assumption risk: 0.234",
+      "active"
+    ],
+    "metrics": {
+      "quality_score": 0.718,
+      "assumption_risk": 0.234,
+      "review_priority_score": 0.278,
+      "driver_clarity": 0.78,
+      "uncertainty_logic": 0.76,
+      "scenario_logic": 0.74,
+      "assumption_transparency": 0.7,
+      "indicator_coverage": 0.68
+    },
+    "foresight": {
+      "foresight_type": "scenario",
+      "option_relevance": 0.72,
+      "evidence_strength": 0.66,
+      "stakeholder_visibility": 0.7,
+      "importance": 0.86,
+      "uncertainty": 0.8
+    },
+    "governance": {
+      "owner": "policy",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "high assumption risk",
+      "recommended_action": "Review assumption risk indicator coverage option relevance and stakeholder implications during the next foresight governance cycle."
+    }
+  },
+  {
+    "card_id": "strategic-foresight-item-climate-transition-scenario-set",
+    "type": "strategic_foresight_item_card",
+    "article_slug": "frameworks-for-strategic-foresight-and-scenario-thinking",
+    "title": "Climate transition scenario set",
+    "subtitle": "scenario",
+    "description": "Explores policy technology energy and social acceptance futures",
+    "badges": [
+      "priority: standard",
+      "quality: 0.75",
+      "assumption risk: 0.165",
+      "active"
+    ],
+    "metrics": {
+      "quality_score": 0.75,
+      "assumption_risk": 0.165,
+      "review_priority_score": 0.245,
+      "driver_clarity": 0.82,
+      "uncertainty_logic": 0.78,
+      "scenario_logic": 0.8,
+      "assumption_transparency": 0.72,
+      "indicator_coverage": 0.7
+    },
+    "foresight": {
+      "foresight_type": "scenario",
+      "option_relevance": 0.76,
+      "evidence_strength": 0.74,
+      "stakeholder_visibility": 0.68,
+      "importance": 0.88,
+      "uncertainty": 0.72
+    },
+    "governance": {
+      "owner": "strategy",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and monitor during the next foresight review cycle."
+    }
+  },
+  {
+    "card_id": "strategic-foresight-item-adaptive-strategy-option-map",
+    "type": "strategic_foresight_item_card",
+    "article_slug": "frameworks-for-strategic-foresight-and-scenario-thinking",
+    "title": "Adaptive strategy option map",
+    "subtitle": "options",
+    "description": "Maps no regret actions hedges bets signposts and triggers across scenarios",
+    "badges": [
+      "priority: standard",
+      "quality: 0.765",
+      "assumption risk: 0.171",
+      "active"
+    ],
+    "metrics": {
+      "quality_score": 0.765,
+      "assumption_risk": 0.171,
+      "review_priority_score": 0.201,
+      "driver_clarity": 0.8,
+      "uncertainty_logic": 0.76,
+      "scenario_logic": 0.78,
+      "assumption_transparency": 0.74,
+      "indicator_coverage": 0.82
+    },
+    "foresight": {
+      "foresight_type": "options",
+      "option_relevance": 0.86,
+      "evidence_strength": 0.7,
+      "stakeholder_visibility": 0.66,
+      "importance": 0.84,
+      "uncertainty": 0.68
+    },
+    "governance": {
+      "owner": "strategy",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and monitor during the next foresight review cycle."
+    }
+  }
+]

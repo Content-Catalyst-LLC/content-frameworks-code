@@ -1,0 +1,26 @@
+{
+  "module": "strategic_foresight_canvas",
+  "version": "1.0.0",
+  "article_slug": "frameworks-for-strategic-foresight-and-scenario-thinking",
+  "article_title": "Frameworks for Strategic Foresight and Scenario Thinking",
+  "generated_at": "2026-06-09T04:48:14+00:00",
+  "record_count": 6,
+  "foresight_type_counts": {
+    "workshop": 1,
+    "horizon scanning": 1,
+    "driver": 1,
+    "scenario": 2,
+    "options": 1
+  },
+  "metrics": [
+    "quality_score",
+    "assumption_risk",
+    "review_priority_score"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/strategic_foresight_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/strategic_foresight_canvas_export.json"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "module": "strategic_foresight_canvas",
+  "version": "1.0.0",
+  "article_slug": "frameworks-for-strategic-foresight-and-scenario-thinking",
+  "article_title": "Frameworks for Strategic Foresight and Scenario Thinking",
+  "series": "Content Frameworks",
+  "repository_path": "articles/frameworks-for-strategic-foresight-and-scenario-thinking/",
+  "entrypoint": "python -m strategic_foresight_canvas.cli",
+  "default_input": "data/strategic_foresight_items.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/strategic_foresight_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/strategic_foresight_canvas_export.json"
+  },
+  "metrics": [
+    "quality_score",
+    "assumption_risk",
+    "review_priority_score",
+    "review_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "strategic_foresight_item_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "scenario_governance_grid"
+    },
+    {
+      "type": "strategic_foresight_governance_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": [
+      "weak_driver_clarity",
+      "weak_uncertainty_logic",
+      "weak_scenario_logic",
+      "weak_assumption_transparency",
+      "weak_option_relevance",
+      "weak_indicator_coverage",
+      "weak_evidence_strength",
+      "weak_stakeholder_visibility",
+      "high_assumption_risk",
+      "review_priority"
+    ]
+  }
+}
