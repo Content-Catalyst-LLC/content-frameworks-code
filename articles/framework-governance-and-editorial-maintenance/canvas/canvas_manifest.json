@@ -1,0 +1,57 @@
+{
+  "module": "framework_governance_canvas",
+  "version": "1.0.0",
+  "article_slug": "framework-governance-and-editorial-maintenance",
+  "article_title": "Framework Governance and Editorial Maintenance",
+  "series": "Content Frameworks",
+  "repository_path": "articles/framework-governance-and-editorial-maintenance/",
+  "entrypoint": "python -m framework_governance_canvas.cli",
+  "default_input": "data/framework_governance_items.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/framework_governance_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/framework_governance_canvas_export.json"
+  },
+  "metrics": [
+    "governance_maturity",
+    "maintenance_risk",
+    "review_priority_score",
+    "review_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "framework_governance_item_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "governance_grid"
+    },
+    {
+      "type": "framework_governance_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": [
+      "weak_ownership_clarity",
+      "weak_review_cycle_strength",
+      "weak_metadata_completeness",
+      "weak_evidence_status",
+      "weak_link_health",
+      "weak_taxonomy_alignment",
+      "weak_platform_readiness",
+      "high_stale_evidence_risk",
+      "high_dependency_complexity",
+      "high_audience_impact",
+      "high_maintenance_risk",
+      "review_priority"
+    ]
+  }
+}

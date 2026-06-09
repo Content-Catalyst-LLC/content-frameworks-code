@@ -1,0 +1,29 @@
+{
+  "module": "framework_governance_canvas",
+  "article_slug": "framework-governance-and-editorial-maintenance",
+  "shared_contract_version": "1.0.0",
+  "required_directories": [
+    "html",
+    "css",
+    "php",
+    "java",
+    "python",
+    "r",
+    "sql",
+    "docs",
+    "data",
+    "outputs",
+    "notebooks",
+    "shared",
+    "canvas"
+  ],
+  "required_canvas_outputs": [
+    "canvas/canvas_manifest.json",
+    "canvas/input_schema.json",
+    "canvas/output_schema.json",
+    "canvas/canvas_cards.json",
+    "canvas/governance_queue.json",
+    "outputs/json/framework_governance_canvas_export.json",
+    "outputs/markdown/governance_queue.md"
+  ]
+}

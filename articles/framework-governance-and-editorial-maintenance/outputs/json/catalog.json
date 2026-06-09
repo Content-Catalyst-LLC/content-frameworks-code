@@ -1,0 +1,27 @@
+{
+  "module": "framework_governance_canvas",
+  "version": "1.0.0",
+  "article_slug": "framework-governance-and-editorial-maintenance",
+  "article_title": "Framework Governance and Editorial Maintenance",
+  "generated_at": "2026-06-09T06:45:45+00:00",
+  "record_count": 6,
+  "item_type_counts": {
+    "template": 1,
+    "evidence system": 1,
+    "article map": 1,
+    "repository": 1,
+    "platform contract": 1,
+    "navigation": 1
+  },
+  "metrics": [
+    "governance_maturity",
+    "maintenance_risk",
+    "review_priority_score"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/framework_governance_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/framework_governance_canvas_export.json"
+  }
+}

@@ -1,0 +1,7 @@
+item,item_type,description,ownership_clarity,review_cycle_strength,metadata_completeness,evidence_status,link_health,taxonomy_alignment,platform_readiness,stale_evidence_risk,dependency_complexity,audience_impact,owner,status,review_date
+Content Frameworks article map,article map,Series map requiring sequence link and planned-article maintenance,0.82,0.76,0.80,0.74,0.82,0.84,0.72,0.24,0.42,0.82,editorial,active,2026-06-09
+Evidence architecture references,evidence system,Claim-source structure requiring source review and status tracking,0.76,0.78,0.74,0.84,0.72,0.70,0.68,0.34,0.46,0.78,research,review,2026-06-09
+Canvas-ready repository scaffold,repository,Code data schema tests outputs docs and governance queue requiring smoke tests,0.80,0.72,0.78,0.70,0.68,0.72,0.86,0.28,0.52,0.70,platform,active,2026-06-09
+Legacy framework template,template,Older template has weak review cycle inconsistent metadata and unclear retirement status,0.44,0.36,0.42,0.48,0.40,0.38,0.34,0.66,0.72,0.62,governance,revise,2026-06-09
+Related article footer navigation,navigation,Footer sequence connects previous article map and next article paths,0.78,0.70,0.76,0.72,0.88,0.82,0.70,0.20,0.38,0.76,editorial,active,2026-06-09
+Repository output contract,platform contract,Shared Canvas contract aligns generated JSON markdown schemas tests and UI cards,0.74,0.72,0.82,0.68,0.72,0.74,0.88,0.26,0.50,0.72,platform,active,2026-06-09
