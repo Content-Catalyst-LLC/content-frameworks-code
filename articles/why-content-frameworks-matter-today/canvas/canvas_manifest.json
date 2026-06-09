@@ -1,0 +1,58 @@
+{
+  "module": "content_framework_value_canvas",
+  "version": "1.0.0",
+  "article_slug": "why-content-frameworks-matter-today",
+  "article_title": "Why Content Frameworks Matter Today",
+  "series": "Content Frameworks",
+  "repository_path": "articles/why-content-frameworks-matter-today/",
+  "entrypoint": "python -m content_framework_value_canvas.cli",
+  "default_input": "data/content_framework_value_items.csv",
+  "input_schema": "canvas/input_schema.json",
+  "output_schema": "canvas/output_schema.json",
+  "generated_outputs": {
+    "audit_table": "outputs/tables/content_framework_value_canvas_audit.csv",
+    "catalog": "outputs/json/catalog.json",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "governance_markdown": "outputs/markdown/governance_queue.md",
+    "full_export": "outputs/json/content_framework_value_canvas_export.json"
+  },
+  "metrics": [
+    "value_score",
+    "framework_risk",
+    "review_priority_score",
+    "review_priority"
+  ],
+  "ui_cards": [
+    {
+      "type": "content_framework_value_item_card",
+      "source": "canvas/canvas_cards.json",
+      "recommended_view": "framework_value_grid"
+    },
+    {
+      "type": "content_framework_value_governance_queue",
+      "source": "canvas/governance_queue.json",
+      "recommended_view": "review_table"
+    }
+  ],
+  "governance": {
+    "owner": "Content Catalyst LLC",
+    "review_cycle": "quarterly",
+    "status_values": ["active", "review", "revise", "archive"],
+    "risk_flags": [
+      "weak_coherence",
+      "weak_reuse_readiness",
+      "weak_evidence_visibility",
+      "weak_audience_pathway_clarity",
+      "weak_governance_maturity",
+      "weak_platform_readiness",
+      "weak_learning_support",
+      "weak_ai_readiness",
+      "high_fragmentation_risk",
+      "weak_context_preservation",
+      "high_maintenance_burden",
+      "high_framework_risk",
+      "review_priority"
+    ]
+  }
+}

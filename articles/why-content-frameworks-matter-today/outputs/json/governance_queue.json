@@ -1,0 +1,32 @@
+[
+  {
+    "queue_id": "content-framework-value-review-legacy-content-cluster",
+    "article_slug": "why-content-frameworks-matter-today",
+    "item": "Legacy content cluster",
+    "framework_type": "topic cluster",
+    "owner": "editorial",
+    "status": "revise",
+    "review_date": "2026-06-09",
+    "review_priority": "high",
+    "value_score": 0.395,
+    "framework_risk": 0.679,
+    "review_priority_score": 0.642,
+    "governance_reasons": "weak coherence; weak reuse readiness; weak evidence visibility; weak audience pathway clarity; weak governance maturity; weak platform readiness; weak learning support; weak AI-readiness; high fragmentation risk; weak context preservation; high maintenance burden; high framework risk; review priority threshold reached; status marked revise",
+    "recommended_action": "Revise this framework before further reuse and strengthen coherence evidence visibility governance metadata platform readiness context preservation and maintenance planning."
+  },
+  {
+    "queue_id": "content-framework-value-review-ai-assisted-workflow-framework",
+    "article_slug": "why-content-frameworks-matter-today",
+    "item": "AI-assisted workflow framework",
+    "framework_type": "platform workflow",
+    "owner": "platform",
+    "status": "review",
+    "review_date": "2026-06-09",
+    "review_priority": "medium",
+    "value_score": 0.79,
+    "framework_risk": 0.294,
+    "review_priority_score": 0.252,
+    "governance_reasons": "status marked review",
+    "recommended_action": "Review framework risk evidence visibility governance maturity fragmentation context preservation and maintenance burden during the next review cycle."
+  }
+]

@@ -1,0 +1,7 @@
+item,framework_type,description,coherence,reuse_readiness,evidence_visibility,audience_pathway_clarity,governance_maturity,platform_readiness,learning_support,ai_readiness,fragmentation_risk,context_preservation,maintenance_burden,owner,status,review_date
+Article map framework,knowledge architecture,Connects articles into a structured series from foundations to governance,0.86,0.78,0.74,0.88,0.76,0.74,0.84,0.70,0.28,0.76,0.36,editorial,active,2026-06-09
+Evidence architecture framework,trust system,Connects claims sources methods confidence limits and review status,0.80,0.74,0.88,0.72,0.82,0.76,0.70,0.72,0.24,0.82,0.40,research,active,2026-06-09
+AI-assisted workflow framework,platform workflow,Uses schemas tests prompts review queues and metadata to govern assisted content production,0.78,0.82,0.76,0.72,0.80,0.86,0.70,0.88,0.34,0.74,0.46,platform,review,2026-06-09
+Legacy content cluster,topic cluster,Older cluster has weak metadata few review dates and unclear relation to the article map,0.46,0.42,0.38,0.44,0.32,0.36,0.48,0.30,0.78,0.42,0.72,editorial,revise,2026-06-09
+Learning pathway scaffold,education framework,Sequences orientation concept comparison method practice and limits for learners,0.84,0.76,0.70,0.88,0.72,0.70,0.90,0.66,0.26,0.78,0.34,education,active,2026-06-09
+Public reasoning framework,civic framework,Connects evidence values uncertainty tradeoffs participation and accountability for public-facing knowledge,0.82,0.70,0.80,0.78,0.76,0.68,0.74,0.64,0.30,0.80,0.38,public,active,2026-06-09

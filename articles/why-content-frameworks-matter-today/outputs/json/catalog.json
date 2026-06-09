@@ -1,0 +1,27 @@
+{
+  "module": "content_framework_value_canvas",
+  "version": "1.0.0",
+  "article_slug": "why-content-frameworks-matter-today",
+  "article_title": "Why Content Frameworks Matter Today",
+  "generated_at": "2026-06-09T06:26:48+00:00",
+  "record_count": 6,
+  "framework_type_counts": {
+    "topic cluster": 1,
+    "civic framework": 1,
+    "education framework": 1,
+    "platform workflow": 1,
+    "knowledge architecture": 1,
+    "trust system": 1
+  },
+  "metrics": [
+    "value_score",
+    "framework_risk",
+    "review_priority_score"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/content_framework_value_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/content_framework_value_canvas_export.json"
+  }
+}

@@ -1,0 +1,248 @@
+[
+  {
+    "card_id": "content-framework-value-item-legacy-content-cluster",
+    "type": "content_framework_value_item_card",
+    "article_slug": "why-content-frameworks-matter-today",
+    "title": "Legacy content cluster",
+    "subtitle": "topic cluster",
+    "description": "Older cluster has weak metadata few review dates and unclear relation to the article map",
+    "badges": [
+      "priority: high",
+      "value: 0.395",
+      "risk: 0.679",
+      "revise"
+    ],
+    "metrics": {
+      "value_score": 0.395,
+      "framework_risk": 0.679,
+      "review_priority_score": 0.642,
+      "coherence": 0.46,
+      "reuse_readiness": 0.42,
+      "evidence_visibility": 0.38,
+      "audience_pathway_clarity": 0.44,
+      "governance_maturity": 0.32,
+      "platform_readiness": 0.36,
+      "learning_support": 0.48,
+      "ai_readiness": 0.3
+    },
+    "risk_profile": {
+      "framework_type": "topic cluster",
+      "fragmentation_risk": 0.78,
+      "context_preservation": 0.42,
+      "maintenance_burden": 0.72
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "revise",
+      "review_date": "2026-06-09",
+      "review_priority": "high",
+      "reasons": "weak coherence; weak reuse readiness; weak evidence visibility; weak audience pathway clarity; weak governance maturity; weak platform readiness; weak learning support; weak AI-readiness; high fragmentation risk; weak context preservation; high maintenance burden; high framework risk; review priority threshold reached; status marked revise",
+      "recommended_action": "Revise this framework before further reuse and strengthen coherence evidence visibility governance metadata platform readiness context preservation and maintenance planning."
+    }
+  },
+  {
+    "card_id": "content-framework-value-item-public-reasoning-framework",
+    "type": "content_framework_value_item_card",
+    "article_slug": "why-content-frameworks-matter-today",
+    "title": "Public reasoning framework",
+    "subtitle": "civic framework",
+    "description": "Connects evidence values uncertainty tradeoffs participation and accountability for public-facing knowledge",
+    "badges": [
+      "priority: standard",
+      "value: 0.74",
+      "risk: 0.261",
+      "active"
+    ],
+    "metrics": {
+      "value_score": 0.74,
+      "framework_risk": 0.261,
+      "review_priority_score": 0.261,
+      "coherence": 0.82,
+      "reuse_readiness": 0.7,
+      "evidence_visibility": 0.8,
+      "audience_pathway_clarity": 0.78,
+      "governance_maturity": 0.76,
+      "platform_readiness": 0.68,
+      "learning_support": 0.74,
+      "ai_readiness": 0.64
+    },
+    "risk_profile": {
+      "framework_type": "civic framework",
+      "fragmentation_risk": 0.3,
+      "context_preservation": 0.8,
+      "maintenance_burden": 0.38
+    },
+    "governance": {
+      "owner": "public",
+      "status": "active",
+      "review_date": "2026-06-09",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next content framework value governance cycle."
+    }
+  },
+  {
+    "card_id": "content-framework-value-item-learning-pathway-scaffold",
+    "type": "content_framework_value_item_card",
+    "article_slug": "why-content-frameworks-matter-today",
+    "title": "Learning pathway scaffold",
+    "subtitle": "education framework",
+    "description": "Sequences orientation concept comparison method practice and limits for learners",
+    "badges": [
+      "priority: standard",
+      "value: 0.77",
+      "risk: 0.28",
+      "active"
+    ],
+    "metrics": {
+      "value_score": 0.77,
+      "framework_risk": 0.28,
+      "review_priority_score": 0.255,
+      "coherence": 0.84,
+      "reuse_readiness": 0.76,
+      "evidence_visibility": 0.7,
+      "audience_pathway_clarity": 0.88,
+      "governance_maturity": 0.72,
+      "platform_readiness": 0.7,
+      "learning_support": 0.9,
+      "ai_readiness": 0.66
+    },
+    "risk_profile": {
+      "framework_type": "education framework",
+      "fragmentation_risk": 0.26,
+      "context_preservation": 0.78,
+      "maintenance_burden": 0.34
+    },
+    "governance": {
+      "owner": "education",
+      "status": "active",
+      "review_date": "2026-06-09",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next content framework value governance cycle."
+    }
+  },
+  {
+    "card_id": "content-framework-value-item-ai-assisted-workflow-framework",
+    "type": "content_framework_value_item_card",
+    "article_slug": "why-content-frameworks-matter-today",
+    "title": "AI-assisted workflow framework",
+    "subtitle": "platform workflow",
+    "description": "Uses schemas tests prompts review queues and metadata to govern assisted content production",
+    "badges": [
+      "priority: medium",
+      "value: 0.79",
+      "risk: 0.294",
+      "review"
+    ],
+    "metrics": {
+      "value_score": 0.79,
+      "framework_risk": 0.294,
+      "review_priority_score": 0.252,
+      "coherence": 0.78,
+      "reuse_readiness": 0.82,
+      "evidence_visibility": 0.76,
+      "audience_pathway_clarity": 0.72,
+      "governance_maturity": 0.8,
+      "platform_readiness": 0.86,
+      "learning_support": 0.7,
+      "ai_readiness": 0.88
+    },
+    "risk_profile": {
+      "framework_type": "platform workflow",
+      "fragmentation_risk": 0.34,
+      "context_preservation": 0.74,
+      "maintenance_burden": 0.46
+    },
+    "governance": {
+      "owner": "platform",
+      "status": "review",
+      "review_date": "2026-06-09",
+      "review_priority": "medium",
+      "reasons": "status marked review",
+      "recommended_action": "Review framework risk evidence visibility governance maturity fragmentation context preservation and maintenance burden during the next review cycle."
+    }
+  },
+  {
+    "card_id": "content-framework-value-item-article-map-framework",
+    "type": "content_framework_value_item_card",
+    "article_slug": "why-content-frameworks-matter-today",
+    "title": "Article map framework",
+    "subtitle": "knowledge architecture",
+    "description": "Connects articles into a structured series from foundations to governance",
+    "badges": [
+      "priority: standard",
+      "value: 0.787",
+      "risk: 0.274",
+      "active"
+    ],
+    "metrics": {
+      "value_score": 0.787,
+      "framework_risk": 0.274,
+      "review_priority_score": 0.243,
+      "coherence": 0.86,
+      "reuse_readiness": 0.78,
+      "evidence_visibility": 0.74,
+      "audience_pathway_clarity": 0.88,
+      "governance_maturity": 0.76,
+      "platform_readiness": 0.74,
+      "learning_support": 0.84,
+      "ai_readiness": 0.7
+    },
+    "risk_profile": {
+      "framework_type": "knowledge architecture",
+      "fragmentation_risk": 0.28,
+      "context_preservation": 0.76,
+      "maintenance_burden": 0.36
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-09",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next content framework value governance cycle."
+    }
+  },
+  {
+    "card_id": "content-framework-value-item-evidence-architecture-framework",
+    "type": "content_framework_value_item_card",
+    "article_slug": "why-content-frameworks-matter-today",
+    "title": "Evidence architecture framework",
+    "subtitle": "trust system",
+    "description": "Connects claims sources methods confidence limits and review status",
+    "badges": [
+      "priority: standard",
+      "value: 0.767",
+      "risk: 0.217",
+      "active"
+    ],
+    "metrics": {
+      "value_score": 0.767,
+      "framework_risk": 0.217,
+      "review_priority_score": 0.225,
+      "coherence": 0.8,
+      "reuse_readiness": 0.74,
+      "evidence_visibility": 0.88,
+      "audience_pathway_clarity": 0.72,
+      "governance_maturity": 0.82,
+      "platform_readiness": 0.76,
+      "learning_support": 0.7,
+      "ai_readiness": 0.72
+    },
+    "risk_profile": {
+      "framework_type": "trust system",
+      "fragmentation_risk": 0.24,
+      "context_preservation": 0.82,
+      "maintenance_burden": 0.4
+    },
+    "governance": {
+      "owner": "research",
+      "status": "active",
+      "review_date": "2026-06-09",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next content framework value governance cycle."
+    }
+  }
+]
