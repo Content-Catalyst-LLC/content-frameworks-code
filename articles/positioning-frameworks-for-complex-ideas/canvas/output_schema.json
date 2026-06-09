@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://thecontentcatalyst.net/schemas/positioning-frameworks-canvas-output.schema.json",
+  "title": "Positioning Frameworks Catalyst Canvas Output Schema",
+  "description": "Output schema for positioning readiness audit results UI cards catalog records and governance queues.",
+  "type": "object",
+  "required": ["module", "article_slug", "generated_at", "results", "governance_queue", "canvas_cards"],
+  "properties": {
+    "module": { "type": "string", "const": "positioning_canvas" },
+    "article_slug": { "type": "string", "const": "positioning-frameworks-for-complex-ideas" },
+    "generated_at": { "type": "string" },
+    "results": { "type": "array" },
+    "governance_queue": { "type": "array" },
+    "canvas_cards": { "type": "array" }
+  },
+  "additionalProperties": true
+}

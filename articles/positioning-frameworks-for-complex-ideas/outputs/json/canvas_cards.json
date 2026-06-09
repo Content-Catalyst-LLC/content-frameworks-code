@@ -1,0 +1,224 @@
+[
+  {
+    "card_id": "positioning-record-content-frameworks",
+    "type": "positioning_framework_card",
+    "article_slug": "positioning-frameworks-for-complex-ideas",
+    "title": "Content frameworks",
+    "subtitle": "knowledge_architecture",
+    "description": "Structured models for organizing explaining linking and maintaining knowledge",
+    "badges": [
+      "priority: standard",
+      "readiness: 0.837",
+      "active"
+    ],
+    "metrics": {
+      "readiness_score": 0.833,
+      "weighted_readiness": 0.837,
+      "evidence_gap": 0.067,
+      "drift_risk": 0.28,
+      "ethical_risk": 0.22
+    },
+    "positioning": {
+      "category_frame": "knowledge_architecture",
+      "audience_pathway": "editorial_pathway",
+      "category_clarity": 0.9,
+      "audience_relevance": 0.86,
+      "differentiation": 0.84,
+      "evidence_strength": 0.8,
+      "boundary_clarity": 0.78
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue"
+    },
+    "recommended_action": "Keep active and review during the next governance cycle."
+  },
+  {
+    "card_id": "positioning-record-systems-thinking",
+    "type": "positioning_framework_card",
+    "article_slug": "positioning-frameworks-for-complex-ideas",
+    "title": "Systems thinking",
+    "subtitle": "analytical_lens",
+    "description": "A reasoning approach for interrelationships feedback and system behavior",
+    "badges": [
+      "priority: standard",
+      "readiness: 0.806",
+      "active"
+    ],
+    "metrics": {
+      "readiness_score": 0.8,
+      "weighted_readiness": 0.806,
+      "evidence_gap": 0.067,
+      "drift_risk": 0.3,
+      "ethical_risk": 0.24
+    },
+    "positioning": {
+      "category_frame": "analytical_lens",
+      "audience_pathway": "learning_pathway",
+      "category_clarity": 0.88,
+      "audience_relevance": 0.84,
+      "differentiation": 0.82,
+      "evidence_strength": 0.78,
+      "boundary_clarity": 0.76
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue"
+    },
+    "recommended_action": "Keep active and review during the next governance cycle."
+  },
+  {
+    "card_id": "positioning-record-catalyst-canvas",
+    "type": "positioning_framework_card",
+    "article_slug": "positioning-frameworks-for-complex-ideas",
+    "title": "Catalyst Canvas",
+    "subtitle": "platform_module",
+    "description": "A platform concept for auditable reusable governance-ready content systems",
+    "badges": [
+      "priority: standard",
+      "readiness: 0.785",
+      "active"
+    ],
+    "metrics": {
+      "readiness_score": 0.783,
+      "weighted_readiness": 0.785,
+      "evidence_gap": 0.06,
+      "drift_risk": 0.46,
+      "ethical_risk": 0.3
+    },
+    "positioning": {
+      "category_frame": "platform_module",
+      "audience_pathway": "technical_pathway",
+      "category_clarity": 0.78,
+      "audience_relevance": 0.82,
+      "differentiation": 0.8,
+      "evidence_strength": 0.74,
+      "boundary_clarity": 0.7
+    },
+    "governance": {
+      "owner": "technical",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "review_priority": "standard",
+      "reasons": "no immediate governance issue"
+    },
+    "recommended_action": "Keep active and review during the next governance cycle."
+  },
+  {
+    "card_id": "positioning-record-ai-governance",
+    "type": "positioning_framework_card",
+    "article_slug": "positioning-frameworks-for-complex-ideas",
+    "title": "AI governance",
+    "subtitle": "governance_framework",
+    "description": "A set of institutional technical legal and ethical oversight practices",
+    "badges": [
+      "priority: medium",
+      "readiness: 0.777",
+      "review"
+    ],
+    "metrics": {
+      "readiness_score": 0.77,
+      "weighted_readiness": 0.777,
+      "evidence_gap": 0.0,
+      "drift_risk": 0.58,
+      "ethical_risk": 0.52
+    },
+    "positioning": {
+      "category_frame": "governance_framework",
+      "audience_pathway": "public_reasoning_pathway",
+      "category_clarity": 0.7,
+      "audience_relevance": 0.88,
+      "differentiation": 0.72,
+      "evidence_strength": 0.82,
+      "boundary_clarity": 0.72
+    },
+    "governance": {
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "ethical risk review; status marked review"
+    },
+    "recommended_action": "Review category clarity evidence support boundary language drift risk or governance readiness."
+  },
+  {
+    "card_id": "positioning-record-resilience",
+    "type": "positioning_framework_card",
+    "article_slug": "positioning-frameworks-for-complex-ideas",
+    "title": "Resilience",
+    "subtitle": "systems_concept",
+    "description": "A capacity for disruption absorption adaptation and continuity",
+    "badges": [
+      "priority: medium",
+      "readiness: 0.749",
+      "review"
+    ],
+    "metrics": {
+      "readiness_score": 0.74,
+      "weighted_readiness": 0.749,
+      "evidence_gap": 0.007,
+      "drift_risk": 0.48,
+      "ethical_risk": 0.34
+    },
+    "positioning": {
+      "category_frame": "systems_concept",
+      "audience_pathway": "governance_pathway",
+      "category_clarity": 0.74,
+      "audience_relevance": 0.86,
+      "differentiation": 0.7,
+      "evidence_strength": 0.76,
+      "boundary_clarity": 0.68
+    },
+    "governance": {
+      "owner": "governance",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "reasons": "status marked review"
+    },
+    "recommended_action": "Review category clarity evidence support boundary language drift risk or governance readiness."
+  },
+  {
+    "card_id": "positioning-record-innovation",
+    "type": "positioning_framework_card",
+    "article_slug": "positioning-frameworks-for-complex-ideas",
+    "title": "Innovation",
+    "subtitle": "overloaded_label",
+    "description": "A broad overloaded idea included to test weak positioning and drift risk",
+    "badges": [
+      "priority: high",
+      "readiness: 0.419",
+      "revise"
+    ],
+    "metrics": {
+      "readiness_score": 0.413,
+      "weighted_readiness": 0.419,
+      "evidence_gap": 0.087,
+      "drift_risk": 0.72,
+      "ethical_risk": 0.48
+    },
+    "positioning": {
+      "category_frame": "overloaded_label",
+      "audience_pathway": "revision_pathway",
+      "category_clarity": 0.42,
+      "audience_relevance": 0.54,
+      "differentiation": 0.38,
+      "evidence_strength": 0.36,
+      "boundary_clarity": 0.34
+    },
+    "governance": {
+      "owner": "editorial",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "reasons": "weak category clarity; weak audience relevance; weak differentiation; weak evidence strength; weak boundary clarity; weak governance readiness; positioning drift risk; status marked revise"
+    },
+    "recommended_action": "Revise positioning before reuse and strengthen category frame evidence boundaries or ethics."
+  }
+]

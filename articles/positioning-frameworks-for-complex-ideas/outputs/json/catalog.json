@@ -1,0 +1,21 @@
+{
+  "module": "positioning_canvas",
+  "version": "1.0.0",
+  "article_slug": "positioning-frameworks-for-complex-ideas",
+  "article_title": "Positioning Frameworks for Complex Ideas",
+  "generated_at": "2026-06-09T00:06:20+00:00",
+  "record_count": 6,
+  "metrics": [
+    "readiness_score",
+    "weighted_readiness",
+    "evidence_gap",
+    "drift_risk",
+    "ethical_risk"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/positioning_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/positioning_canvas_export.json"
+  }
+}

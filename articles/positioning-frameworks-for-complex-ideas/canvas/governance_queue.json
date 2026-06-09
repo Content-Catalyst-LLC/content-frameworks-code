@@ -1,0 +1,50 @@
+[
+  {
+    "queue_id": "positioning-review-innovation",
+    "article_slug": "positioning-frameworks-for-complex-ideas",
+    "idea": "Innovation",
+    "category_frame": "overloaded_label",
+    "audience_pathway": "revision_pathway",
+    "owner": "editorial",
+    "status": "revise",
+    "review_date": "2026-06-08",
+    "review_priority": "high",
+    "evidence_gap": 0.087,
+    "drift_risk": 0.72,
+    "ethical_risk": 0.48,
+    "governance_reasons": "weak category clarity; weak audience relevance; weak differentiation; weak evidence strength; weak boundary clarity; weak governance readiness; positioning drift risk; status marked revise",
+    "recommended_action": "Revise positioning before reuse and strengthen category frame evidence boundaries or ethics."
+  },
+  {
+    "queue_id": "positioning-review-resilience",
+    "article_slug": "positioning-frameworks-for-complex-ideas",
+    "idea": "Resilience",
+    "category_frame": "systems_concept",
+    "audience_pathway": "governance_pathway",
+    "owner": "governance",
+    "status": "review",
+    "review_date": "2026-06-08",
+    "review_priority": "medium",
+    "evidence_gap": 0.007,
+    "drift_risk": 0.48,
+    "ethical_risk": 0.34,
+    "governance_reasons": "status marked review",
+    "recommended_action": "Review category clarity evidence support boundary language drift risk or governance readiness."
+  },
+  {
+    "queue_id": "positioning-review-ai-governance",
+    "article_slug": "positioning-frameworks-for-complex-ideas",
+    "idea": "AI governance",
+    "category_frame": "governance_framework",
+    "audience_pathway": "public_reasoning_pathway",
+    "owner": "governance",
+    "status": "review",
+    "review_date": "2026-06-08",
+    "review_priority": "medium",
+    "evidence_gap": 0.0,
+    "drift_risk": 0.58,
+    "ethical_risk": 0.52,
+    "governance_reasons": "ethical risk review; status marked review",
+    "recommended_action": "Review category clarity evidence support boundary language drift risk or governance readiness."
+  }
+]
