@@ -1,0 +1,27 @@
+{
+  "module": "systems_explanation_canvas",
+  "version": "1.0.0",
+  "article_slug": "systems-explanation-frameworks",
+  "article_title": "Systems Explanation Frameworks",
+  "generated_at": "2026-06-09T05:07:50+00:00",
+  "record_count": 6,
+  "explanation_type_counts": {
+    "policy": 1,
+    "socio technical": 1,
+    "sustainability": 1,
+    "knowledge system": 1,
+    "feedback": 1,
+    "infrastructure": 1
+  },
+  "metrics": [
+    "quality_score",
+    "systems_ambiguity",
+    "review_priority_score"
+  ],
+  "outputs": {
+    "audit_table": "outputs/tables/systems_explanation_canvas_audit.csv",
+    "canvas_cards": "canvas/canvas_cards.json",
+    "governance_queue": "canvas/governance_queue.json",
+    "full_export": "outputs/json/systems_explanation_canvas_export.json"
+  }
+}

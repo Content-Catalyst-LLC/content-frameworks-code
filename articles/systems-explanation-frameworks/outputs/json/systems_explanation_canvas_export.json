@@ -1,0 +1,415 @@
+{
+  "module": "systems_explanation_canvas",
+  "version": "1.0.0",
+  "article_slug": "systems-explanation-frameworks",
+  "article_title": "Systems Explanation Frameworks",
+  "generated_at": "2026-06-09T05:07:50+00:00",
+  "results": [
+    {
+      "item": "Policy failure explanation",
+      "explanation_type": "policy",
+      "description": "Current draft overemphasizes individual compliance and lacks incentive and feedback explanation",
+      "owner": "policy",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "boundary_clarity": 0.56,
+      "actor_coverage": 0.52,
+      "relationship_clarity": 0.48,
+      "feedback_visibility": 0.42,
+      "delay_visibility": 0.4,
+      "stock_flow_clarity": 0.36,
+      "stakeholder_visibility": 0.46,
+      "evidence_strength": 0.5,
+      "leverage_readiness": 0.38,
+      "quality_score": 0.453,
+      "systems_ambiguity": 0.5,
+      "review_priority_score": 0.553,
+      "review_priority": "high",
+      "governance_reasons": "weak boundary clarity; weak actor coverage; weak relationship clarity; weak feedback visibility; weak delay visibility; weak stock-flow clarity; weak stakeholder visibility; weak evidence strength; weak leverage readiness; high systems ambiguity; review priority threshold reached; status marked revise",
+      "recommended_action": "Revise this systems explanation before publication and strengthen boundaries actors relationships feedback delays evidence stakeholder visibility and leverage logic."
+    },
+    {
+      "item": "Technology adoption system",
+      "explanation_type": "socio technical",
+      "description": "Explains user behavior training support trust workflow disruption and feedback after launch",
+      "owner": "technology",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "boundary_clarity": 0.72,
+      "actor_coverage": 0.78,
+      "relationship_clarity": 0.76,
+      "feedback_visibility": 0.74,
+      "delay_visibility": 0.62,
+      "stock_flow_clarity": 0.56,
+      "stakeholder_visibility": 0.7,
+      "evidence_strength": 0.66,
+      "leverage_readiness": 0.64,
+      "quality_score": 0.687,
+      "systems_ambiguity": 0.28,
+      "review_priority_score": 0.319,
+      "review_priority": "medium",
+      "governance_reasons": "weak stock-flow clarity; status marked review",
+      "recommended_action": "Review boundary clarity relationship logic feedback visibility delay visibility evidence and stakeholder implications during the next governance cycle."
+    },
+    {
+      "item": "Sustainability boundary note",
+      "explanation_type": "sustainability",
+      "description": "Explains reporting boundary supplier effects rebound effects and system-wide impact limits",
+      "owner": "sustainability",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "boundary_clarity": 0.82,
+      "actor_coverage": 0.68,
+      "relationship_clarity": 0.74,
+      "feedback_visibility": 0.66,
+      "delay_visibility": 0.64,
+      "stock_flow_clarity": 0.7,
+      "stakeholder_visibility": 0.76,
+      "evidence_strength": 0.72,
+      "leverage_readiness": 0.7,
+      "quality_score": 0.713,
+      "systems_ambiguity": 0.253,
+      "review_priority_score": 0.278,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next systems explanation governance cycle."
+    },
+    {
+      "item": "Content architecture map",
+      "explanation_type": "knowledge system",
+      "description": "Maps articles metadata internal links evidence records and review queues",
+      "owner": "editorial",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "boundary_clarity": 0.84,
+      "actor_coverage": 0.72,
+      "relationship_clarity": 0.8,
+      "feedback_visibility": 0.72,
+      "delay_visibility": 0.66,
+      "stock_flow_clarity": 0.76,
+      "stakeholder_visibility": 0.62,
+      "evidence_strength": 0.74,
+      "leverage_readiness": 0.78,
+      "quality_score": 0.738,
+      "systems_ambiguity": 0.215,
+      "review_priority_score": 0.268,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next systems explanation governance cycle."
+    },
+    {
+      "item": "Public trust feedback loop",
+      "explanation_type": "feedback",
+      "description": "Explains how transparency responsiveness decisions and participation reinforce trust or distrust",
+      "owner": "governance",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "boundary_clarity": 0.78,
+      "actor_coverage": 0.76,
+      "relationship_clarity": 0.82,
+      "feedback_visibility": 0.86,
+      "delay_visibility": 0.7,
+      "stock_flow_clarity": 0.58,
+      "stakeholder_visibility": 0.74,
+      "evidence_strength": 0.7,
+      "leverage_readiness": 0.68,
+      "quality_score": 0.736,
+      "systems_ambiguity": 0.216,
+      "review_priority_score": 0.263,
+      "review_priority": "standard",
+      "governance_reasons": "weak stock-flow clarity",
+      "recommended_action": "Keep active and review during the next systems explanation governance cycle."
+    },
+    {
+      "item": "Infrastructure resilience system",
+      "explanation_type": "infrastructure",
+      "description": "Explains maintenance delays capacity constraints dependency risk and cascading failure pathways",
+      "owner": "infrastructure",
+      "status": "active",
+      "review_date": "2026-06-08",
+      "boundary_clarity": 0.8,
+      "actor_coverage": 0.74,
+      "relationship_clarity": 0.78,
+      "feedback_visibility": 0.76,
+      "delay_visibility": 0.82,
+      "stock_flow_clarity": 0.72,
+      "stakeholder_visibility": 0.68,
+      "evidence_strength": 0.7,
+      "leverage_readiness": 0.74,
+      "quality_score": 0.749,
+      "systems_ambiguity": 0.237,
+      "review_priority_score": 0.251,
+      "review_priority": "standard",
+      "governance_reasons": "no immediate governance issue",
+      "recommended_action": "Keep active and review during the next systems explanation governance cycle."
+    }
+  ],
+  "governance_queue": [
+    {
+      "queue_id": "systems-explanation-review-policy-failure-explanation",
+      "article_slug": "systems-explanation-frameworks",
+      "item": "Policy failure explanation",
+      "explanation_type": "policy",
+      "owner": "policy",
+      "status": "revise",
+      "review_date": "2026-06-08",
+      "review_priority": "high",
+      "quality_score": 0.453,
+      "systems_ambiguity": 0.5,
+      "review_priority_score": 0.553,
+      "governance_reasons": "weak boundary clarity; weak actor coverage; weak relationship clarity; weak feedback visibility; weak delay visibility; weak stock-flow clarity; weak stakeholder visibility; weak evidence strength; weak leverage readiness; high systems ambiguity; review priority threshold reached; status marked revise",
+      "recommended_action": "Revise this systems explanation before publication and strengthen boundaries actors relationships feedback delays evidence stakeholder visibility and leverage logic."
+    },
+    {
+      "queue_id": "systems-explanation-review-technology-adoption-system",
+      "article_slug": "systems-explanation-frameworks",
+      "item": "Technology adoption system",
+      "explanation_type": "socio technical",
+      "owner": "technology",
+      "status": "review",
+      "review_date": "2026-06-08",
+      "review_priority": "medium",
+      "quality_score": 0.687,
+      "systems_ambiguity": 0.28,
+      "review_priority_score": 0.319,
+      "governance_reasons": "weak stock-flow clarity; status marked review",
+      "recommended_action": "Review boundary clarity relationship logic feedback visibility delay visibility evidence and stakeholder implications during the next governance cycle."
+    }
+  ],
+  "canvas_cards": [
+    {
+      "card_id": "systems-explanation-item-policy-failure-explanation",
+      "type": "systems_explanation_item_card",
+      "article_slug": "systems-explanation-frameworks",
+      "title": "Policy failure explanation",
+      "subtitle": "policy",
+      "description": "Current draft overemphasizes individual compliance and lacks incentive and feedback explanation",
+      "badges": [
+        "priority: high",
+        "quality: 0.453",
+        "ambiguity: 0.5",
+        "revise"
+      ],
+      "metrics": {
+        "quality_score": 0.453,
+        "systems_ambiguity": 0.5,
+        "review_priority_score": 0.553,
+        "boundary_clarity": 0.56,
+        "relationship_clarity": 0.48,
+        "feedback_visibility": 0.42,
+        "delay_visibility": 0.4,
+        "leverage_readiness": 0.38
+      },
+      "systems": {
+        "explanation_type": "policy",
+        "actor_coverage": 0.52,
+        "stock_flow_clarity": 0.36,
+        "stakeholder_visibility": 0.46,
+        "evidence_strength": 0.5
+      },
+      "governance": {
+        "owner": "policy",
+        "status": "revise",
+        "review_date": "2026-06-08",
+        "review_priority": "high",
+        "reasons": "weak boundary clarity; weak actor coverage; weak relationship clarity; weak feedback visibility; weak delay visibility; weak stock-flow clarity; weak stakeholder visibility; weak evidence strength; weak leverage readiness; high systems ambiguity; review priority threshold reached; status marked revise",
+        "recommended_action": "Revise this systems explanation before publication and strengthen boundaries actors relationships feedback delays evidence stakeholder visibility and leverage logic."
+      }
+    },
+    {
+      "card_id": "systems-explanation-item-technology-adoption-system",
+      "type": "systems_explanation_item_card",
+      "article_slug": "systems-explanation-frameworks",
+      "title": "Technology adoption system",
+      "subtitle": "socio technical",
+      "description": "Explains user behavior training support trust workflow disruption and feedback after launch",
+      "badges": [
+        "priority: medium",
+        "quality: 0.687",
+        "ambiguity: 0.28",
+        "review"
+      ],
+      "metrics": {
+        "quality_score": 0.687,
+        "systems_ambiguity": 0.28,
+        "review_priority_score": 0.319,
+        "boundary_clarity": 0.72,
+        "relationship_clarity": 0.76,
+        "feedback_visibility": 0.74,
+        "delay_visibility": 0.62,
+        "leverage_readiness": 0.64
+      },
+      "systems": {
+        "explanation_type": "socio technical",
+        "actor_coverage": 0.78,
+        "stock_flow_clarity": 0.56,
+        "stakeholder_visibility": 0.7,
+        "evidence_strength": 0.66
+      },
+      "governance": {
+        "owner": "technology",
+        "status": "review",
+        "review_date": "2026-06-08",
+        "review_priority": "medium",
+        "reasons": "weak stock-flow clarity; status marked review",
+        "recommended_action": "Review boundary clarity relationship logic feedback visibility delay visibility evidence and stakeholder implications during the next governance cycle."
+      }
+    },
+    {
+      "card_id": "systems-explanation-item-sustainability-boundary-note",
+      "type": "systems_explanation_item_card",
+      "article_slug": "systems-explanation-frameworks",
+      "title": "Sustainability boundary note",
+      "subtitle": "sustainability",
+      "description": "Explains reporting boundary supplier effects rebound effects and system-wide impact limits",
+      "badges": [
+        "priority: standard",
+        "quality: 0.713",
+        "ambiguity: 0.253",
+        "active"
+      ],
+      "metrics": {
+        "quality_score": 0.713,
+        "systems_ambiguity": 0.253,
+        "review_priority_score": 0.278,
+        "boundary_clarity": 0.82,
+        "relationship_clarity": 0.74,
+        "feedback_visibility": 0.66,
+        "delay_visibility": 0.64,
+        "leverage_readiness": 0.7
+      },
+      "systems": {
+        "explanation_type": "sustainability",
+        "actor_coverage": 0.68,
+        "stock_flow_clarity": 0.7,
+        "stakeholder_visibility": 0.76,
+        "evidence_strength": 0.72
+      },
+      "governance": {
+        "owner": "sustainability",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next systems explanation governance cycle."
+      }
+    },
+    {
+      "card_id": "systems-explanation-item-content-architecture-map",
+      "type": "systems_explanation_item_card",
+      "article_slug": "systems-explanation-frameworks",
+      "title": "Content architecture map",
+      "subtitle": "knowledge system",
+      "description": "Maps articles metadata internal links evidence records and review queues",
+      "badges": [
+        "priority: standard",
+        "quality: 0.738",
+        "ambiguity: 0.215",
+        "active"
+      ],
+      "metrics": {
+        "quality_score": 0.738,
+        "systems_ambiguity": 0.215,
+        "review_priority_score": 0.268,
+        "boundary_clarity": 0.84,
+        "relationship_clarity": 0.8,
+        "feedback_visibility": 0.72,
+        "delay_visibility": 0.66,
+        "leverage_readiness": 0.78
+      },
+      "systems": {
+        "explanation_type": "knowledge system",
+        "actor_coverage": 0.72,
+        "stock_flow_clarity": 0.76,
+        "stakeholder_visibility": 0.62,
+        "evidence_strength": 0.74
+      },
+      "governance": {
+        "owner": "editorial",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next systems explanation governance cycle."
+      }
+    },
+    {
+      "card_id": "systems-explanation-item-public-trust-feedback-loop",
+      "type": "systems_explanation_item_card",
+      "article_slug": "systems-explanation-frameworks",
+      "title": "Public trust feedback loop",
+      "subtitle": "feedback",
+      "description": "Explains how transparency responsiveness decisions and participation reinforce trust or distrust",
+      "badges": [
+        "priority: standard",
+        "quality: 0.736",
+        "ambiguity: 0.216",
+        "active"
+      ],
+      "metrics": {
+        "quality_score": 0.736,
+        "systems_ambiguity": 0.216,
+        "review_priority_score": 0.263,
+        "boundary_clarity": 0.78,
+        "relationship_clarity": 0.82,
+        "feedback_visibility": 0.86,
+        "delay_visibility": 0.7,
+        "leverage_readiness": 0.68
+      },
+      "systems": {
+        "explanation_type": "feedback",
+        "actor_coverage": 0.76,
+        "stock_flow_clarity": 0.58,
+        "stakeholder_visibility": 0.74,
+        "evidence_strength": 0.7
+      },
+      "governance": {
+        "owner": "governance",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "weak stock-flow clarity",
+        "recommended_action": "Keep active and review during the next systems explanation governance cycle."
+      }
+    },
+    {
+      "card_id": "systems-explanation-item-infrastructure-resilience-system",
+      "type": "systems_explanation_item_card",
+      "article_slug": "systems-explanation-frameworks",
+      "title": "Infrastructure resilience system",
+      "subtitle": "infrastructure",
+      "description": "Explains maintenance delays capacity constraints dependency risk and cascading failure pathways",
+      "badges": [
+        "priority: standard",
+        "quality: 0.749",
+        "ambiguity: 0.237",
+        "active"
+      ],
+      "metrics": {
+        "quality_score": 0.749,
+        "systems_ambiguity": 0.237,
+        "review_priority_score": 0.251,
+        "boundary_clarity": 0.8,
+        "relationship_clarity": 0.78,
+        "feedback_visibility": 0.76,
+        "delay_visibility": 0.82,
+        "leverage_readiness": 0.74
+      },
+      "systems": {
+        "explanation_type": "infrastructure",
+        "actor_coverage": 0.74,
+        "stock_flow_clarity": 0.72,
+        "stakeholder_visibility": 0.68,
+        "evidence_strength": 0.7
+      },
+      "governance": {
+        "owner": "infrastructure",
+        "status": "active",
+        "review_date": "2026-06-08",
+        "review_priority": "standard",
+        "reasons": "no immediate governance issue",
+        "recommended_action": "Keep active and review during the next systems explanation governance cycle."
+      }
+    }
+  ]
+}
